@@ -1,6 +1,9 @@
 ---
 description: Write a complete chapter from an outline (Webnovel format)
 ---
+
+// turbo-all
+
 # Workflow: Write Chapter
 
 > Generic workflow for writing Webnovel chapters

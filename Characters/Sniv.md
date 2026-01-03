@@ -136,15 +136,25 @@ Broken common, learning corporate jargon:
 
 ---
 
-## Current Status (as of Chapter 1)
+## Current Status (as of Chapter 2)
 
 | Attribute | Value |
 |-----------|-------|
-| Level | — (Not yet introduced) |
-| Location | Tutorial Dungeon |
-| Condition | Starving, desperate |
+| Level | 1 |
+| HP | 10/12 (recovering from malnutrition) |
+| Location | Tutorial Dungeon, Floors 1-3 |
+| Condition | Fed, on first assignment |
+| Loyalty | STABLE |
+| Position | Entry-Level Resource Manager |
+
+### Recent Developments (Chapter 2)
+
+- Recruited by Victor as first employee (Employee #1)
+- Received first meal—established initial loyalty
+- Assigned first task: Census of Floors 1-3
+- Loyalty upgraded: UNSTABLE → CONDITIONAL → STABLE
 
 ---
 
-**Version**: 1.0
-**Last Updated**: 2026-01-02
+**Version**: 1.1
+**Last Updated**: 2026-01-03
