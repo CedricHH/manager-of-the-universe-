@@ -1,6 +1,9 @@
 ---
 description: Sync character, world, and outline files based on chapter content
 ---
+
+// turbo-all
+
 # Workflow: Sync From Chapter
 
 > Updates Characters/, World/, Plot_Outline, and Chapter-Outline based on events in a written chapter
