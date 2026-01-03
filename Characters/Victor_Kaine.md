@@ -26,6 +26,8 @@ Victor was a feared interim manager for Fortune 500 companies, specializing in r
 
 He felt no sadistic pleasure in layoffs. He felt no empathy either. People were rows in an Excel spreadsheet. Numbers to be optimized.
 
+*Flashback (Ch 5)*: He vaguely remembers arguing with a colleague named **Sarah** about cutting 200 jobs. She pleaded for the families; he cited the 40 million dollar loss. The memory haunts him in dreams.
+
 ### The Betrayal
 
 Despite his loyalty to profit, he became the scapegoat for an unethical raw materials scandal. The board sacrificed him for their own survival. Victor lost everything: reputation, career, the respect he had earned through decades of ruthless competence.

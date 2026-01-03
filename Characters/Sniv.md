@@ -147,6 +147,12 @@ Broken common, learning corporate jargon:
 | Loyalty | STABLE (94%) |
 | Position | HR Manager / Chief Operations Officer |
 
+### Recent Developments (Chapter 5)
+
+- **Role Assigned**: Inventory Management (Counting jellies).
+- **First Task**: Managed the goblin "shift work" and food rationing.
+- **Organization**: Showed aptitude for counting and hierarchy.
+
 ### Recent Developments (Chapter 6)
 
 - Formally promoted to "Manager" role

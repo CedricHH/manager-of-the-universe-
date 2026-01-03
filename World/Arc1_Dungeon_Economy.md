@@ -76,7 +76,7 @@ Core-7749 has never grown because it keeps dying to heroes.
 
 Instead of spawning monsters to die:
 
-- Monsters become **employees**
+- Monsters become **employees** (e.g., Rats contracted for non-aggression via food bribes - Ch 5)
 - Adventurers become **customers** (pay to leave alive)
 - Death becomes **optional revenue**, not primary income
 
