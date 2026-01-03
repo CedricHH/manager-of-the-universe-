@@ -1,4 +1,4 @@
-# Outline: Chapter 15 - The Roar
+# Outline: Chapter 15 - The Roar [WRITTEN]
 
 **Word Target**: 1,500 - 1,800 words
 **Arc**: 1 (Dungeon)
@@ -70,7 +70,7 @@ The party enters:
 - **Gareth** (Tank, Lv 12)
 - **Lysa** (Healer, Lv 10)
 - **Finn** (Rogue, Lv 11)
-- **Mira** (Mage, Lv 13)
+- **Kaelie** (Mage, Lv 13)
 
 They're cautious. Professional.
 > Gareth: "The kids weren't lying. Goblins. Traps."

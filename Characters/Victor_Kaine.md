@@ -14,6 +14,7 @@
 | **Age** | 42 (at death) |
 | **Origin** | Earth (Modern Era) |
 | **Cause of Death** | Heart attack during video conference |
+| **Current Status** | Negotiating with Asterion (Floor 4) - Ch 15 |
 
 ---
 
@@ -164,6 +165,14 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 | Q2 (11-20) | Market disruption → Guild takeover → Party formation |
 | Q3 (21-30) | War profiteering → Hero confrontation → Political power |
 | Q4 (31-40) | Kingdom acquisition → Divine confrontation → "Too Big to Fail" |
+
+---
+
+## Recent Developments (Chapter 15)
+
+- **Act 1.1 Finale**: Successfully repelled the Silver Lance party using [Managerial Bluff], though they fled due to Asterion's roar.
+- **Crisis**: Asterion's deadline expired. Negotiating face-to-face with the Minotaur on Floor 4.
+- **Strategy**: Attempting to use a "Business Plan" as tribute instead of gold/meat.
 
 ---
 

@@ -64,7 +64,7 @@ Victor analyzed them from his perch in the ventilation shaft.
 
 **The Rogue (Finn)**: Halfling male. Dual daggers. He wasn't walking; he was practically floating over the dry leaves. Level 11.
 
-**The Mage (Elara)**: A human female with a staff topped by a red crystal. Fire mage. Level 13.
+**The Mage (Kaelie)**: A human female with a staff topped by a red crystal. Fire mage. Level 13.
 
 "Silver Lance," Sniv whispered, peeking over Victor's shoulder. "Shiny."
 
@@ -154,17 +154,17 @@ The Silver Lance stopped. Even the bored Mage looked impressed.
 
 He stepped forward. The air grew warmer. The orange pulse synchronized with their heartbeats. It was a masterpiece of magical allure, powered by the Core itself.
 
-"Check it, Elara," Gareth ordered.
+"Check it, Kaelie," Gareth ordered.
 
 The Mage stepped forward. She didn't reach for the sword. Instead, she pulled a monocle from her pouch—a Lens of Identification—and held it up to her eye.
 
 Victor held his breath. This was the moment. If they liked what they saw, they would take it. They would carry it out. And they would tell the world that this dungeon had *Tier 3 loot*.
 
-Elara squinted. Mana swirled around the lens.
+Kaelie squinted. Mana swirled around the lens.
 
 "Well?" Finn asked, bouncing on his heels. "Is it +2? +3? Fire damage?"
 
-Elara lowered the lens. She frowned.
+Kaelie lowered the lens. She frowned.
 
 "It's... garbage," she said.
 
@@ -172,15 +172,15 @@ Victor froze. *What?*
 
 "What do you mean?" Gareth asked.
 
-"It's a sentient weapon," Elara explained, consulting the magical readout only she could see. "Soulbound. It has a 'Loyalty' requirement. If you aren't the original owner, it weighs a ton and screams insults at you."
+"It's a sentient weapon," Kaelie explained, consulting the magical readout only she could see. "Soulbound. It has a 'Loyalty' requirement. If you aren't the original owner, it weighs a ton and screams insults at you."
 
 "Insults?" Finn asked.
 
-"Apparently it has a personality module set to 'Cranky Old Man'," Elara said, disgusted. "And... wait. The enchantment isn't combat-based. It's... cosmetic? 'Glow of Heroism'? It just glows? That's it?"
+"Apparently it has a personality module set to 'Cranky Old Man'," Kaelie said, disgusted. "And... wait. The enchantment isn't combat-based. It's... cosmetic? 'Glow of Heroism'? It just glows? That's it?"
 
 "Useless," Gareth spat. "Can we sell it?"
 
-"Maybe to a collector," Elara shrugged. "But the 'Soulbound' curse means we can't even pick it up without passing a Willpower check. It's a cursed paperweight, Gareth."
+"Maybe to a collector," Kaelie shrugged. "But the 'Soulbound' curse means we can't even pick it up without passing a Willpower check. It's a cursed paperweight, Gareth."
 
 Silence in the chamber.
 
@@ -214,7 +214,7 @@ The entire dungeon lurched. Dust rained from the ceiling. A deep, resonant vibra
 
 "Earthquake?" Gareth yelled, raising his shield.
 
-"No," Elara shouted, her eyes wide. "Mana spike! Massive! Coming from below!"
+"No," Kaelie shouted, her eyes wide. "Mana spike! Massive! Coming from below!"
 
 **BOOM.**
 
@@ -234,7 +234,7 @@ The Silver Lance party froze. Their professional veneer cracked instantly.
 
 "What tier is that?" Finn squeaked.
 
-"Above us," Elara whispered. She was pale. "Way above us. That's... that's a Boss. A real Boss."
+"Above us," Kaelie whispered. She was pale. "Way above us. That's... that's a Boss. A real Boss."
 
 Technically, Asterion was a Mid-Boss, but to a Level 12 party, the distinction was academic.
 
@@ -256,7 +256,7 @@ Gareth didn't answer. He didn't negotiate. He did the only sensible thing a vete
 
 "Scatter!" Finn screamed.
 
-"Disengage!" Elara yelled, throwing a flashbang spell at the Minotaur's feet.
+"Disengage!" Kaelie yelled, throwing a flashbang spell at the Minotaur's feet.
 
 The party turned and sprinted. They didn't check corners. They didn't float. They scrambled, tripping over each other in a desperate dash for the exit.
 

@@ -158,8 +158,8 @@ Formal, measured, slightly archaic:
 | Attribute | Value |
 |-----------|-------|
 | Level | 25 |
-| Location | Tutorial Dungeon Boss Room |
-| Condition | Guarding. Waiting. Empty. |
+| Location | Floor 4 Boss Chamber |
+| Condition | **AWAKE**. Demanding Tribute. Negotiating with Victor (Ch 15). |
 
 ---
 
