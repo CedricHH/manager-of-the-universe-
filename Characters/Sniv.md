@@ -136,23 +136,25 @@ Broken common, learning corporate jargon:
 
 ---
 
-## Current Status (as of Chapter 2)
+## Current Status (as of Chapter 6)
 
 | Attribute | Value |
 |-----------|-------|
-| Level | 1 |
-| HP | 10/12 (recovering from malnutrition) |
-| Location | Tutorial Dungeon, Floors 1-3 |
-| Condition | Fed, on first assignment |
-| Loyalty | STABLE |
-| Position | Entry-Level Resource Manager |
+| Level | 2 |
+| HP | 12/12 (fully recovered) |
+| Location | Tutorial Dungeon, Floor 5 (Boss Chamber) |
+| Condition | Fed, managing operations |
+| Loyalty | STABLE (94%) |
+| Position | HR Manager / Chief Operations Officer |
 
-### Recent Developments (Chapter 2)
+### Recent Developments (Chapter 6)
 
-- Recruited by Victor as first employee (Employee #1)
-- Received first meal—established initial loyalty
-- Assigned first task: Census of Floors 1-3
-- Loyalty upgraded: UNSTABLE → CONDITIONAL → STABLE
+- Formally promoted to "Manager" role
+- Now manages 3 department leads (Food, Guard, Labor)
+- Learning corporate terminology ("Manager", "direct report")
+- Carries clipboard and wears tie as status symbols
+- Reports workforce updates and census data to Victor
+- Instrumental in identifying Floor 3 expansion target
 
 ---
 
