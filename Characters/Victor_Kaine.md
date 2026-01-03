@@ -14,7 +14,7 @@
 | **Age** | 42 (at death) |
 | **Origin** | Earth (Modern Era) |
 | **Cause of Death** | Heart attack during video conference |
-| **Current Status** | Negotiating with Asterion (Floor 4) - Ch 15 |
+| **Current Status** | Consolidating Floor 3; managing 26-goblin workforce - Ch 7 |
 
 ---
 
@@ -113,6 +113,11 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 | INT | 18 | Dangerously high. |
 | CHA | 3 (20) | Base: low. In [Sales Mode]: 20. |
 | LCK | 50 | Passive skill [Too Big to Fail] active. |
+| **Inventory** | | |
+| Health Potion | 1 | (4 spent as bonuses - Ch 2) |
+| Travel Rations | 2 | (1 spent on Sniv - Ch 2) |
+| Dungeon Map | 1 | (Chapter 1) |
+| Prophecy Letter | 1 | (Chapter 1) |
 
 ---
 
@@ -170,11 +175,65 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 
 ---
 
+## Recent Developments (Chapter 1)
+
+- **Awakening**: Resurrected as Restructurer #8940 by the ARMI system in a trial dungeon.
+- **Loot**: Acquired 5 Health Potions, Travel Rations, Map, and a Prophecy Letter from high-value corpse Marcus Valorheart.
+- **Negotiation**: Successfully initiated employment negotiations with a pack of 12-15 goblins, leveraging the corpse of the "Chosen Hero." (Chapter 1)
+- **First Paycheck**: Negotiated a non-aggression pact with the Floor 2 Alpha Rat pack (1 jelly/day). Established formal workforce roles for the 14 goblins (Sanitation, Foraging, Security, Admin). Recovered 12% of core memories. (Chapter 5)
+
+## Recent Developments (Chapter 2)
+
+- **Recruitment**: Leveraged "liquid assets" (Health Potions) to negotiate a contract with a pack of 14 feral goblins.
+- **Strategic Hiring**: Identified Sniv (runt) as an undervalued asset with organizational potential and secured his absolute loyalty.
+- **Industrial Intelligence**: Discovered the presence of a "middle manager" (Asterion, Floor 4 Guardian) through employee feedback.
+- **Memory Recovery**: Reached 24% integration; recalled the intervention of "S." (Sarah) who delivered a USB drive containing proof of the board's complicity.
+
 ## Recent Developments (Chapter 15)
 
-- **Act 1.1 Finale**: Successfully repelled the Silver Lance party using [Managerial Bluff], though they fled due to Asterion's roar.
-- **Crisis**: Asterion's deadline expired. Negotiating face-to-face with the Minotaur on Floor 4.
-- **Strategy**: Attempting to use a "Business Plan" as tribute instead of gold/meat.
+- **Failed Conversion**: Observed the rejection of Tier 1 loot ("The Siren's Song") by a mid-level professional party (The Silver Lance).
+- **Asset Revaluation**: Corrected internal valuation of "Marcus's Sword"; identified it as a cosmetic vanity prop with zero merchant value to professionals.
+- **Direct Negotiation**: Initiated a high-stakes "Pitch Meeting" with Asterion on Floor 3 to prevent immediate liquidation.
+
+## Recent Developments (Chapter 09)
+
+- **Gamification Implementation**: Launched the "Merit Points" system (Employee of the Week / "Shiny") to incentivize productivity and internal discipline. 
+- **Industrial Expansion**: Formalized Floor 2 as the "Agriculture Department" and Floor 3 as "Mining Operations."
+- **Resource Discovery**: Identified a significant Iron Ore Vein on Floor 3, potentially ending the reliance on "Rusty Shiv" equipment.
+- **Historical Audit**: Recovered a warning scroll from the remains of Sir Kael (Silver Dawn). Identified Asterion (Floor 4) as a high-risk entity with a 50-year survival record against professional parties.
+
+## Recent Developments (Chapter 3)
+
+- **Infrastructure**: Established a primary workspace in the boss chamber using salvaged items.
+- **Strategic Audit**: Conducted a full ARMI status review, identifying a critical resource deficit (0 GP).
+- **Crisis Management**: Identified a 4-hour hard deadline for resource acquisition before employee loyalty dissolves.
+- **Intelligence**: Received Sniv's census report; identified Floor 2 slimes as a potential high-value resource.
+
+## Recent Developments (Chapter 4)
+
+- **Industrialization**: Implemented the "Funnel Technique" for efficient slime harvesting, securing a 72-hour food supply.
+- **Resource Management**: Collected 15 Slime Jellies and 3 Acid Sacs; identified slimes as a self-sustaining resource.
+- **Tactical Diplomacy**: Successfully bribed an Alpha Rat and its pack using slime jelly, establishing the "Pest Control through Payroll" strategy.
+- **System Progress**: Earned 16 XP from coordination bonuses; total XP now 16 (Level 1).
+
+## Recent Developments (Chapter 15)
+
+- **Act 1.1 Finale**: Successfully repelled the Silver Lance party using [Managerial Bluff], though they fled due to Asterion's roar. (Chapter 15 - *Note: Archive timeline discrepancy*)
+- **Crisis**: Asterion's deadline expired. Negotiating face-to-face with the Minotaur on Floor 4. (Chapter 15)
+- **Strategy**: Attempting to use a "Business Plan" as tribute instead of gold/meat. (Chapter 15)
+
+## Recent Developments (Chapter 7)
+
+- **Hostile Takeover**: Successfully executed a tactical acquisition of the Floor 3 feral goblin tribe.
+- **Combat Innovation**: Demonstrated the efficiency of chemical force multipliers (acid sacs), resulting in the termination of a Level 6 Alpha with zero allied casualties.
+- **Workforce Expansion**: Integrated 12 new probationary hires, bringing the total workforce to 26 units.
+- **Territory Asset**: Secured the Floor 3 Central Chamber, including a Mushroom Patch and Water Source.
+
+## Recent Developments (Chapter 16)
+
+- **Negotiation**: Successfully recruited Asterion (Floor 4 Guardian) using [Performance Review] and a "Visionary Pitch" about marketing and war.
+- **Asset Acquisition**: Gained a Level 25 Boss Monster as a "General" (Hammer).
+- **Skill Usage**: Used [Performance Review] on a Boss class entity; identified "Boredom" as the critical weakness.
 
 ---
 

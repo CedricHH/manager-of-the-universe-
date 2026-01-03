@@ -1,7 +1,6 @@
 ---
 description: Complete chapter pipeline - write, analyze, fix, sync (all-in-one)
 ---
-
 // turbo-all
 
 # Workflow: Chapter Pipeline
@@ -30,7 +29,7 @@ description: Complete chapter pipeline - write, analyze, fix, sync (all-in-one)
 5. Verify word count
 
 ```powershell
-powershell -Command "(Get-Content 'Story/Chapters/Chapter_XX_[Name].md' | Measure-Object -Word).Words"
+.\Tools\count-words.bat "Story/Chapters/Chapter_XX_[Name].md"
 ```
 
 **Continue only if**: Word count ≥ 1,500
@@ -52,6 +51,7 @@ powershell -Command "(Get-Content 'Story/Chapters/Chapter_XX_[Name].md' | Measur
 3. Generate report: `Story/LECTOR_LOGS/Pending_Report_Chapter_XX.md`
 
 **Decision Point**:
+
 - If PASS (all scores ≥ 7): Skip to Phase 4
 - If REVISE: Continue to Phase 3
 - If REWRITE: Return to Phase 1
@@ -87,7 +87,6 @@ powershell -Command "(Get-Content 'Story/Chapters/Chapter_XX_[Name].md' | Measur
 
 ## PHASE 5: Git Commit
 
-```powershell
 git add "Story/Chapters/Chapter_XX_[Name].md"
 git add "Story/LECTOR_LOGS/"
 git add "Story/Sync_Reports/"
@@ -95,7 +94,6 @@ git add "Characters/"
 git add "World/"
 git commit -m "Chapter XX: written, analyzed, synced"
 git push origin main
-```
 
 ---
 
@@ -103,13 +101,13 @@ git push origin main
 
 After pipeline completion, you will have:
 
-| File | Location |
-|------|----------|
-| Written Chapter | `Story/Chapters/Chapter_XX_[Name].md` |
-| Lector Report | `Story/LECTOR_LOGS/Applied_Report_Chapter_XX.md` |
-| Sync Report | `Story/Sync_Reports/Sync_Chapter_XX.md` |
-| Updated Characters | `Characters/*.md` |
-| Updated World | `World/*.md` (if applicable) |
+| File               | Location                                           |
+| ------------------ | -------------------------------------------------- |
+| Written Chapter    | `Story/Chapters/Chapter_XX_[Name].md`            |
+| Lector Report      | `Story/LECTOR_LOGS/Applied_Report_Chapter_XX.md` |
+| Sync Report        | `Story/Sync_Reports/Sync_Chapter_XX.md`          |
+| Updated Characters | `Characters/*.md`                                |
+| Updated World      | `World/*.md` (if applicable)                     |
 
 ---
 

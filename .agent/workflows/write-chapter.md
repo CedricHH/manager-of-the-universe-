@@ -122,8 +122,7 @@ Save to: `Story/Chapters/Chapter_XX_[Name].md`
 // turbo
 
 ```powershell
-$config = Get-Content "./PROJECT.md" -Raw
-powershell -Command "(Get-Content 'Story/Chapters/Chapter_XX_[Name].md' | Measure-Object -Word).Words"
+.\Tools\count-words.bat "Story/Chapters/Chapter_XX_[Name].md"
 ```
 
 Compare against word target from PROJECT.md.

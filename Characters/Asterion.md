@@ -114,7 +114,7 @@ Victor doesn't care about his moral crisis. This is somehow comforting.
 
 | Character | Relationship |
 |-----------|--------------|
-| **Victor** | Employer. Confusing. Terrifying in ways that have nothing to do with combat. |
+| **Victor** | Employer/General. "A strange little monster." Respects his ambition. |
 | **Sniv** | Colleague? The small one tries too hard. Asterion respects effort. |
 | **Elara** | She reminds him of heroes he killed. This is uncomfortable. |
 | **Dungeon Core** | Former master. Asterion feels... nothing? Is that wrong? |
@@ -153,13 +153,19 @@ Formal, measured, slightly archaic:
 
 ---
 
-## Current Status (as of Chapter 1)
+## Current Status (as of Chapter 16)
 
 | Attribute | Value |
 |-----------|-------|
 | Level | 25 |
 | Location | Floor 4 Boss Chamber |
-| Condition | **AWAKE**. Demanding Tribute. Negotiating with Victor (Ch 15). |
+| Condition | **Recruited** (General/Hammer). Bound by Contract. Boredom cured. |
+
+## Recent Developments (Chapter 16)
+
+- **Recruitment**: Accepted Victor's offer to become a "General" instead of a guard dog.
+- **The Pitch**: Convinced by the promise of "war" and relevant challenges rather than gold.
+- **Role Change**: Agreed to stop killing weak adventurers and instead "break" them for marketing purposes.
 
 ---
 
