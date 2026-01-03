@@ -1,10 +1,39 @@
 # Word Counter für Kapitel
+# Liest Zielwerte aus PROJECT.md
 # Verwendung: .\count-words.ps1 "Pfad\zur\Datei.md"
 
 param(
     [Parameter(Mandatory = $true)]
     [string]$FilePath
 )
+
+# Finde PROJECT.md (im aktuellen Verzeichnis oder parent)
+$projectPath = $null
+$searchPath = Get-Location
+for ($i = 0; $i -lt 5; $i++) {
+    $testPath = Join-Path $searchPath "PROJECT.md"
+    if (Test-Path $testPath) {
+        $projectPath = $testPath
+        break
+    }
+    $searchPath = Split-Path $searchPath -Parent
+}
+
+# Standard-Werte falls PROJECT.md nicht gefunden
+$minWords = 1500
+$maxWords = 1800
+
+# Zielwerte aus PROJECT.md lesen
+if ($projectPath) {
+    $projectContent = Get-Content $projectPath -Raw -Encoding UTF8
+    
+    # Suche nach "Words per Chapter" Zeile: | **Words per Chapter** | 1,500 - 1,800 |
+    if ($projectContent -match '\*\*Words per Chapter\*\*.*?\|\s*([\d,]+)\s*-\s*([\d,]+)') {
+        $minWords = [int]($Matches[1] -replace ',', '')
+        $maxWords = [int]($Matches[2] -replace ',', '')
+        Write-Host "[Config] Ziel aus PROJECT.md: $minWords - $maxWords Woerter" -ForegroundColor DarkGray
+    }
+}
 
 if (-not (Test-Path $FilePath)) {
     Write-Error "Datei nicht gefunden: $FilePath"
@@ -14,47 +43,34 @@ if (-not (Test-Path $FilePath)) {
 # Datei lesen
 $content = Get-Content $FilePath -Raw -Encoding UTF8
 
-# Speichere Original für Debug
-$original = $content
-
-# YAML-Frontmatter am Dateianfang entfernen (---...---)
-# Nur wenn die Datei WIRKLICH mit --- beginnt (YAML-Style)
+# YAML-Frontmatter entfernen
 if ($content.TrimStart() -match '^---\s*\r?\n[\s\S]*?\r?\n---') {
-    # Für echte YAML-Frontmatter
     $content = $content -replace '^\s*---\s*\r?\n[\s\S]*?\r?\n---\s*', ''
 }
 
-# Header-Metadaten entfernen (# Kapitel X: Titel, **POV**: etc.)
+# Zeilen filtern
 $lines = $content -split '\r?\n'
 $filteredLines = @()
-$inConsistencyCheck = $false
+$inMetaSection = $false
 
 foreach ($line in $lines) {
-    # Konsistenz-Check-Abschnitt erkennen und überspringen
-    if ($line -match '^\s*##\s*KONSISTENZ-CHECK') {
-        $inConsistencyCheck = $true
+    # End-Marker (wie "End of Chapter X") überspringen
+    if ($line -match '^\s*\*End of Chapter' -or $line -match '^\s*---\s*$') {
         continue
     }
     
-    if ($inConsistencyCheck) {
-        continue  # Alles nach KONSISTENZ-CHECK überspringen
-    }
-    
-    # Metadaten-Zeilen überspringen
-    if ($line -match '^\s*\*\*POV\*\*:' -or 
-        $line -match '^\s*\*\*Ort\*\*:' -or 
-        $line -match '^\s*\*\*Zeit\*\*:' -or 
-        $line -match '^\s*\*\*Wortanzahl\*\*:') {
+    # Session Summary und danach überspringen
+    if ($line -match '\[ARMI - SESSION SUMMARY\]') {
+        $inMetaSection = $true
         continue
     }
     
-    # "Ende Kapitel" Marker überspringen
-    if ($line -match '^\s*\*Ende Kapitel') {
+    if ($inMetaSection) {
         continue
     }
     
-    # Horizontale Linien (---) überspringen
-    if ($line -match '^\s*---\s*$') {
+    # Word Count / Next Chapter Zeilen überspringen
+    if ($line -match '^\s*\*\*Word Count\*\*:' -or $line -match '^\s*\*\*Next Chapter\*\*:') {
         continue
     }
     
@@ -68,15 +84,12 @@ $content = $content -replace '\*\*', ''              # Bold
 $content = $content -replace '\*', ''                # Italic
 $content = $content -replace '`[^`]+`', ''           # Inline code
 $content = $content -replace '\[([^\]]+)\]\([^\)]+\)', '$1'  # Links
-$content = $content -replace '#+\s*', ''             # Headers (#, ##, etc.)
+$content = $content -replace '#+\s*', ''             # Headers
 $content = $content -replace '\s+', ' '              # Normalize whitespace
 
-# Wörter zählen (split by whitespace, filter empty)
+# Wörter zählen
 $words = $content.Trim() -split '\s+' | Where-Object { $_.Length -gt 0 }
 $wordCount = $words.Count
-
-# Zeichen zählen (ohne Leerzeichen)
-$charCount = ($content -replace '\s', '').Length
 
 # Ausgabe
 Write-Host ""
@@ -84,23 +97,23 @@ Write-Host "=== WORTANZAHL ===" -ForegroundColor Cyan
 Write-Host "Datei: $(Split-Path $FilePath -Leaf)"
 Write-Host ""
 Write-Host "Woerter:   $wordCount" -ForegroundColor Green
-Write-Host "Zeichen:   $charCount (ohne Leerzeichen)"
+Write-Host "Ziel:      $minWords - $maxWords"
 Write-Host ""
 
 # Zielbereich-Check
-if ($wordCount -lt 6000) {
-    $diff = 6000 - $wordCount
-    $percent = [math]::Round(($wordCount / 6000) * 100)
-    Write-Host "[!] Unter Ziel (6.000-10.000)" -ForegroundColor Yellow
-    Write-Host "    Noch ca. $diff Woerter bis Minimum ($percent%)" -ForegroundColor Yellow
+if ($wordCount -lt $minWords) {
+    $diff = $minWords - $wordCount
+    $percent = [math]::Round(($wordCount / $minWords) * 100)
+    Write-Host "[!] Unter Ziel" -ForegroundColor Yellow
+    Write-Host "    Noch $diff Woerter bis Minimum ($percent%)" -ForegroundColor Yellow
 }
-elseif ($wordCount -gt 10000) {
-    $diff = $wordCount - 10000
-    Write-Host "[!] Ueber Ziel (6.000-10.000)" -ForegroundColor Yellow
-    Write-Host "    Ca. $diff Woerter zu viel" -ForegroundColor Yellow
+elseif ($wordCount -gt $maxWords) {
+    $diff = $wordCount - $maxWords
+    Write-Host "[!] Ueber Ziel" -ForegroundColor Yellow
+    Write-Host "    $diff Woerter zu viel" -ForegroundColor Yellow
 }
 else {
-    Write-Host "[OK] Im Zielbereich (6.000-10.000)" -ForegroundColor Green
+    Write-Host "[OK] Im Zielbereich!" -ForegroundColor Green
 }
 
 Write-Host ""
