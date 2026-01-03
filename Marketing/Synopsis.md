@@ -40,7 +40,7 @@ Victor erwacht neben der Leiche des „Auserwählten Helden". In seinen Händen:
 
 Während andere Protagonisten Monster töten, verhandelt Victor **Arbeitsverträge** mit Goblins. Während Helden Bosse besiegen, reicht Victor dem Minotaurus **Kündigungsschreiben aus HR** – und stellt ihn ein.
 
-Willkommen in einer LitRPG-Welt, in der Schulden tödlicher sind als Schwerter, Zinsen schneller töten als Gift, und der wahre Endboss… **die kosmische Bürokratie selbst ist.**
+Willkommen in einer LitRPG-Welt, in der Schulden tödlicher sind als Schwerter, Zinsen schneller töten als Gift, und der wahre Endboss… 
 
 ---
 
@@ -99,7 +99,7 @@ Victor wakes next to the corpse of the "Chosen Hero." In his hands: no sword. Ju
 
 While other protagonists slay monsters, Victor negotiates **employment contracts** with goblins. While heroes defeat bosses, Victor serves the Minotaur **HR termination papers**—and hires him.
 
-Welcome to a LitRPG world where debt is deadlier than swords, interest kills faster than poison, and the true final boss... **is cosmic bureaucracy itself.**
+Welcome to a LitRPG world where debt is deadlier than swords, interest kills faster than poison, and the true final boss...
 
 ---
 
@@ -154,6 +154,7 @@ Goblins become employees. The boss monster becomes middle management. The dungeo
 And this is just the tutorial.
 
 **Features:**
+
 - 🧠 Intelligent MC who wins through economics, not combat
 - 📊 Unique "corporate magic" system (skills like [Hostile Takeover], [Predatory Lending], [Liquidate])
 - 🎭 Dark comedy meets genuine character development
@@ -168,14 +169,17 @@ And this is just the tutorial.
 # 🖼️ Cover Text Suggestions
 
 **Main Title:**
+
 - DE: DER MANAGER DES UNIVERSUMS
 - EN: THE MANAGER OF THE UNIVERSE
 
 **Subtitle Options:**
+
 - DE: „Restrukturierung beginnt."
 - EN: "Restructuring begins."
 
 **Tagline for Cover:**
+
 - DE: „Der Held starb. Der Manager überlebte."
 - EN: "The hero died. The manager survived."
 
