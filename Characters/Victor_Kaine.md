@@ -65,6 +65,18 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **The Fire**: Cartel's hired arsonists accidentally burned their own stall. Victor positioned this as "criminal negligence," turning public opinion and the law against them.
 - **New Assets**: Hired Kael (Warrior) and Mira (Mage) as bodyguards.
 
+### Chapter 41: Open for Business
+- **Market Dominance**: Reopened stall in burnt ruins ("Fire Sale"). Sold out stock in 40 minutes.
+- **B2B Strategy**: Signed "Platinum Supply Retainer" with Vorin Trade Caravans (2,250 GP/month value).
+- **Public Defender**: Kael/Mira publicly defeated Cartel thugs, cementing Victor as the "people's choice."
+- **Revenue**: +1,000 GP Gross / +550 GP Net.
+
+### Chapter 42: The Spire
+- **The Meeting**: Dinner with Guildmaster Groll.
+- **The Trap**: Groll offered a buyout (Director position), which Victor refused.
+- **The Threat**: Groll revealed he knows about the Dungeon/Sniv and threatened to expose Victor to the King (Death Sentence).
+- **Declaration of War**: Victor walked out, initiating "Hostile Takeover Protocols."
+
 ---
 
 ## Psychology & Traits
@@ -81,7 +93,8 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **HP** | 120 | Upgraded from Base 50 |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
-| **Assets** | ~300 GP | Liquid capital growing |
+| **CHA** | 25 | Sales Mode active |
+| **Assets** | ~850 GP | Significant revenue from Ch 41 |
 
 ### Signature Skills
 - **[Performance Review]**: Analyze stats/value.

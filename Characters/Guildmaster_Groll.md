@@ -89,3 +89,16 @@ Groll shows what happens when you **fight** Victor's methods instead of adapting
 - **Public Backlash**: Market opinion shifted against the Cartel due to the "reckless accident."
 - **Investigation**: Facing Merchant Guild criminal inquiry for arson/endangerment.
 
+## Recent Developments (Chapter 41)
+
+- **Failed Intimidation**: Sent thugs to "collect tolls" from Victor's stall; they were defeated by Victor's bodyguards.
+- **Invitation**: Sent a formal dinner invitation to Victor.
+
+## Recent Developments (Chapter 42)
+
+- **The Meeting**: Confronted Victor at the Spire.
+- **The Revealing**: Revealed he knows Victor is a Dungeon Lord (Sniv/Asterion identified).
+- **The Ultimatum**: "Join the Cartel and give up the source, or I tell the King."
+- **Status**: At WAR. Victor refused the offer.
+
+
