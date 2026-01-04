@@ -121,6 +121,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 69 (The Volcano)**: Purchased Floor 5 (Volcanic Biome) for 8,000 GP. Analyzed monster options via ARMI. Hired dragon boss: Ignatia "Iggy" the Ember Tyrant (5,000 GP + 100 GP/month + 20% loot). Capital reserves critical at 2,000 GP. Scenario planning shows 10-week bankruptcy window if Floor 5 fails. **Status**: Floor 5 operational, 3-day stress test scheduled, Malcom monitoring for bankruptcy.
 - **Chapter 70 (The Stress Test)**: Crimson Blades stress-tested Floor 5. Dragon fight successful (3-phase combat, party impressed). Feedback: 9-10/10 scores. Economics: 124 GP/run insufficient. Innovated "Ember Trials" tournament concept: weekly competitive runs, leaderboards, 500 GP prize, spectator tickets, sponsorships. Revenue model: 1,500 GP/week vs 620 GP/week. **Status**: Tournament launching, Floor 5 validated.
 - **Chapter 71 (The Launch)**: Launched first Ember Trials tournament. Day 1 results: 12 parties registered (600 GP entry fees), 23 spectators (1,150 GP). Crimson Blades won inaugural tournament (24:17 time). Total revenue: 1,750 GP, net profit: 1,200 GP. Monthly projection: 4,800 GP sustainable. Intelligence reports: Merchant's Guild, Alchemist's Guild, and Church of Eternal Light all sent observers. Received Church audit invitation (3-day deadline, High Priestess Aurelia). Malcom escalating vendetta, considering "Church option." **Status**: Tournament successful, multi-faction threat escalating, Church audit imminent.
+- **Chapter 72 (The Preparation)**: Prepared for Church audit (750 pages perfect compliance docs). Day 2 Ember Trials: 15 parties, 34 spectators, 2,450 GP revenue, 1,900 GP profit. Silver Lance (Chapter 15 callback) attempted Floor 5, failed at 28% boss HP but reached Phase 3. Aurelia arrived 2 days early invoking "emergency inspection." Victor led her through viewing room (42 spectators = public opinion shield). Flashback triggered: "Worth It" moment Part 1 - assassination in Chicago apartment, final thought "ROI positive" before death. Aurelia reviewing all records overnight. **Status**: Church audit active, weaponized transparency strategy deployed, flashback integration 92%.
 
 ## Psychology & Traits
 
@@ -136,7 +137,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **HP** | 100% | |
 | **MP** | 85% | |
 | **Gold** | ~3,950 GP operational capital (post Floor 5 investment) | Ember Trials +1,200 GP/day |
-| **Status** | Ember Trials Active; Church Audit in 3 days | Multiple hostile factions |
+| **Status** | Church Audit In Progress (Aurelia reviewing records) | Weaponized transparency deployed |
 | **Location** | Dungeon Insolvia Administrative Office | |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
