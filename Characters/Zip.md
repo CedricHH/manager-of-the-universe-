@@ -1,65 +1,41 @@
-# Zip - Character Profile
+# Character Profile: Zip
 
-> **Class**: Trap Specialist
-> **Species**: Kobold
-> **Role**: Head of R&D
+> **Role**: Head of R&D (Trap Specialist)
+> **Race**: Kobold
+> **First Appearance**: Chapter 23
 
 ---
 
-## Basic Information
+## Current Status (as of Chapter 23)
 
 | Attribute | Value |
 |-----------|-------|
-| **Name** | Zip |
 | **Level** | 6 |
-| **Species** | Kobold |
-| **Title** | Head of R&D (Chapter 23) |
-| **Location** | Victor's Dungeon |
-
----
+| **Role** | Head of R&D |
+| **Loyalty** | High (Professional Recognition) |
+| **Location** | Dungeon (R&D Department) |
 
 ## Skills
 
-| Skill | Effect |
-|-------|--------|
-| **Trap Construction** | Can build mechanical and chemical traps |
-| **Mechanical Intuition** | Understands complex mechanisms |
-| **Structural Analysis** | Identifies weak points in structures |
+- **[Trap Construction]**: Can build complex mechanical traps.
+- **[Mechanical Intuition]**: Understands how things work (and break).
+- **[Structural Analysis]**: Can find weak points in dungeon architecture.
+- **Fire Traps**: Specialization in controlled burn radii.
+- **Design Philosophy**: "Zip make hurt for visitors."
 
----
+## Description
 
-## Specialty: Fire Traps
+- **Appearance**: Small, scaly, oversized eyes and hands designed for manipulation.
+- **Personality**: Enthusiastic, cowardly but driven by engineering passion. Speaks in broken Common but thinks in complex systems.
+- **Motivation**: Recognition for his craft; not being eaten.
 
-- Oil channels with controlled burn radius
-- Trip-activated torch drops
-- Directional flame corridors
+## Relationships
 
----
+| Character | Relationship | Status |
+|-----------|--------------|--------|
+| **Victor** | Boss | Respected (Gave him a job/title) |
+| **Sniv** | Superior | Fear/Respect (Sniv found him) |
 
-## Personality
+## History
 
-- Enthusiastic about traps to the point of obsession
-- Cowardly in combat but brave in engineering
-- Speaks broken Common
-- Has questionable ideas (e.g., "goblin launchers")
-
----
-
-## Speech Pattern
-
-> "Zip no fight! Zip build! Zip make traps!"
-> "Fire go where Zip *want* fire go!"
-> "SPROING! Goblin fly at enemy!"
-
----
-
-## Recent Developments (Chapter 23)
-
-- **Discovered**: Found hiding on Floor 2 by Sniv
-- **Recruited**: Hired as Head of R&D by Victor
-- **Skills Assessed**: [Performance Review] rated as HIGH value
-
----
-
-**Version**: 1.0
-**Created**: 2026-01-04
+- **Chapter 23**: Discovered hiding on Floor 2. Recruited by Victor after pitching fire trap designs. Promoted to Head of R&D.

@@ -18,7 +18,7 @@ Gareth, shieldless now, was buying time with his sword. Parrying wasn't possible
 
 Finn had vanished into shadows. Rogue training. He'd be looking for an opening, a moment when Asterion's guard dropped.
 
-Mira was chanting. Fire gathered around her staff in spiraling patterns that hurt to look at. A charged attack, then. High damage, long cast time.
+Kaelie was chanting. Fire gathered around her staff in spiraling patterns that hurt to look at. A charged attack, then. High damage, long cast time.
 
 Lysa, the support, was maintaining a shimmering barrier around the party—damage mitigation, probably. Some kind of defensive ward.
 
@@ -36,7 +36,7 @@ Interesting. The paladin was the party's ace.
 > Current Survival Probability: 12%
 > Note: Probability subject to change based on celestial intervention.
 
-Asterion finished his charge through Gareth's position—the tank had barely dodged—and pivoted toward Mira. The mage was mid-cast, vulnerable, her defensive barriers focused on projected damage rather than physical impact.
+Asterion finished his charge through Gareth's position—the tank had barely dodged—and pivoted toward Kaelie. The mage was mid-cast, vulnerable, her defensive barriers focused on projected damage rather than physical impact.
 
 "COVER HER!" Gareth screamed.
 
@@ -48,7 +48,7 @@ Asterion's tail—Victor had forgotten about the tail—swept backward and caugh
 
 "Three centuries," Asterion rumbled, his voice echoing across the chamber. "Three centuries of adventurers who think they know my blind spots."
 
-He caught Mira's fireball on his forearm. The flames exploded against his hide, blackening fur and searing flesh. Asterion didn't flinch.
+He caught Kaelie's fireball on his forearm. The flames exploded against his hide, blackening fur and searing flesh. Asterion didn't flinch.
 
 "You are not the first mage," he continued, advancing. "You will not be the last."
 
@@ -98,7 +98,7 @@ Now Alara was exposed. No tank. No support. Just a paladin, a downed rogue, an e
 
 "Run," Bron growled, blood dripping from a head wound. "Get Lysa. RUN!"
 
-The retreat was ugly. Finn, limping, grabbed Lysa's unconscious form. Mira provided cover fire—weak, desperate fireballs that Asterion didn't bother to dodge. Gareth crawled toward his sword.
+The retreat was ugly. Finn, limping, grabbed Lysa's unconscious form. Kaelie provided cover fire—weak, desperate fireballs that Asterion didn't bother to dodge. Gareth crawled toward his sword.
 
 Alara didn't run.
 
@@ -150,7 +150,7 @@ Victor nodded toward Lysa, still unconscious in Finn's arms. "Internal bleeding.
 
 "Information." Victor produced the healing potion from his inventory—the only one he had, the one he'd been saving for actual emergencies. "This is a high-grade regenerative. Military-specification. It will stabilize her."
 
-Mira's eyes narrowed. "And the price?"
+Kaelie's eyes narrowed. "And the price?"
 
 "Everything you know about the Adventurer's Guild." Victor's voice was pure boardroom. Pure negotiation. "Structure. Leadership. Pricing. Political affiliations. Contract specifications. Where they recruit. How they train. What they fear."
 

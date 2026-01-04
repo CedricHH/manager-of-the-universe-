@@ -8,7 +8,7 @@ Victor didn't move. Didn't flinch. He held the healing potion in his clawed fing
 
 "I'd prefer she lives," Victor said, his voice perfectly level. "Living customers provide repeat business. But I have costs to consider."
 
-"He's insane," Mira whispered, her staff crackling with the last dregs of her mana. "He's completely insane."
+"He's insane," Kaelie whispered, her staff crackling with the last dregs of her mana. "He's completely insane."
 
 "JUST TELL HIM!" Alara grabbed Gareth's arm, her voice breaking. "She's *dying*, you stubborn—tell him whatever he wants to know!"
 
@@ -40,7 +40,7 @@ Victor stepped aside, clearing the path to the exit.
 
 "You're free to go," he said. "The exit is on Floor One. Mind the traps on Floor Three—we've been renovating."
 
-The Silver Lance moved. Finn lifted Lysa more securely. Bron took point, his hammer ready for anything. Mira stayed in the center, conserving what little mana she had left. Alara supported Gareth, who could barely walk.
+The Silver Lance moved. Finn lifted Lysa more securely. Bron took point, his hammer ready for anything. Kaelie stayed in the center, conserving what little mana she had left. Alara supported Gareth, who could barely walk.
 
 A broken party. A defeated expedition.
 
