@@ -35,9 +35,9 @@ Victor identified him not as a threat, but as a "Distressed Asset" ripe for acqu
 
 - **The Visit**: Touring Insolvia Holdings under the guise of an inspection.
 - **The Deal**: Agreed to grant Victor a "Royal Charter" (Provisional Status) in exchange for 15% of the dungeon's revenue (off the books) and custom enchanted armor.
-- **The Reveal**: Admitted to Victor that the Kingdom is "drowning in debt" due to wars and Church tithes.
-- **Status**: Currently Victor's "Business Partner," though he doesn't know about the Core.
+- **The Standoff (Chapter 61)**: Intervened to stop High Priestess Aurelia from destroying the Dungeon Core. Asserted that the Core is "Crown Property" to protect his new revenue stream.
+- **The Departure**: Left with the signed 15% revenue charter. Expects payment promptly.
 
 ---
 
-**Version**: 2.0 (Updated Ch 60)
+**Version**: 2.1 (Updated Ch 61)

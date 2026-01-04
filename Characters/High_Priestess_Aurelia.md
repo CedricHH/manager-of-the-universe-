@@ -32,13 +32,14 @@ She possesses a "Divine Compass" that can detect high-level magical anomalies—
 
 ---
 
-## Recent Developments (Chapter 60)
+## Recent Developments (Chapter 61)
 
-- **The Inspection**: Challenged Victor's defenses. Summoned a Sun-Construct to "test" the facility.
-- **Humiliation**: Her Construct was neutralized by prismatic slime gel ("The Disco Protocol"), making her look foolish in front of the Prince.
-- **The Discovery**: At the end of Ch 60, her compass detected the World Core (Nova). She is currently standing outside the Core Room, preparing to breach.
-- **Status**: **CRITICAL THREAT**. About to engage.
+- **The Breach**: Destroyed the Core Room door and confirmed Nova is a forbidden World Core.
+- **The Standoff**: Attempted to purge the Core but was stopped by Prince Aldric (Crown Authority).
+- **The Threat**: Warned Victor that the Prince's protection is temporary.
+- **The Mark**: Placed the **[Mark of the Watcher]** on the dungeon entrance and stationed a Paladin to monitor for corruption.
+- **Status**: Active Enemy. Watching from the shadows.
 
 ---
 
-**Version**: 2.0 (Updated Ch 60)
+**Version**: 2.1 (Updated Ch 61)

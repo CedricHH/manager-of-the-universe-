@@ -104,13 +104,14 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Awakening**: Relived first moments in dungeon. Negotiated employment with Sniv while wounded.
 - **Full Integration**: Memory complete (100%). Psychological Efficiency +15%.
 - **Perspective**: Realized he wasn't saved; he was *recruited*.
-## Recent Developments (Chapter 56-59)
+## Recent Developments (Chapter 56-61)
 
 - **Chapter 56 (Class Action)**: Blocked Guild's injunction to close dungeon by organizing adventurers into a "Class Action" lawsuit.
 - **Chapter 57 (Safety Audit)**: Hosted "Crimson Blades" audit team; filmed their vandalism to blackmail Vorne.
 - **Chapter 59 (The Settlement)**: Forced Vorne to sign a Settlement Agreement (6-month safety certificate) using the incriminating footage.
 - **Chapter 60 (The VIP Experience)**: Gave Prince Aldric the "Corporate Tour." Secure a Royal Charter by offering 15% revenue kickbacks. Neutralized Aurelia's Sun-Construct using "Disco Protocol" (Prismatic Slime).
-- **Current Crisis**: Aurelia has detected the Core and is about to breach.
+- **Chapter 61 (The Divine Audit)**: Interceded when Aurelia tried to destroy the Core. Manipulated Prince Aldric into protecting the dungeon by framing the Core as a "Royal Asset" (saving his 15% revenue).
+- **Current Status**: Licensed by the Crown, but marked by the Church. A Paladin is watching the entrance.
 
 ## Psychology & Traits
 
@@ -124,10 +125,10 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 |------|-------|-------|
 | **Class** | Restructurer | Authority Level 2 |
 | **HP** | 100% | |
-| **MP** | 70% (Stress) | |
+| **MP** | 80% (Recovering) | |
 | **Gold** | ~965,000 | |
-| **Status** | Hosting Royal Visit; Core Discovered by Aurelia | |
-| **Location** | Dungeon Lower Levels | |
+| **Status** | Royal Charter (Provisional); Under Church Surveillance | |
+| **Location** | Dungeon Entrance | |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
 | **CHA** | 25 | Sales Mode active |
