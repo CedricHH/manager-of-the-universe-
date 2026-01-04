@@ -398,3 +398,12 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 - **Evidence Collection**: ARMI scanned damage/threats at litigation quality; submitted to Elena Cross for Guild arbitration.
 - **Legal Warfare**: Guild Council meeting scheduled (10 AM next day); protection assigned to Victor's operations.
 - **Market Impact**: Projected 28-34% Cartel market share loss within 2 weeks; 50K+ GP annual revenue impact; 94% escalation probability.
+
+## Recent Developments (Chapter 40)
+
+- **Guild Council Negotiation**: Secured institutional protection and security detail for 12% commission on retail sales + wholesale supply at cost+20%.
+- **Flashback Trigger**: "The whole house burns down" phrase triggered memory of **Project Cobalt** evidence release ("The Decision" to expose the board).
+- **Cartel Crisis**: Alchemist Cartel's hired arsonists accidentally burned their own stall + 2 others; public opinion shifted against them.
+- **Legal Warfare**: Leveraged the fire ("accidental arson") to initiate Guild criminal investigation against the Cartel.
+- **New Employees**: Acquired Kael (Warrior Lv 12) and Mira (Mage Lv 12) as Guild-contracted guards.
+

@@ -66,7 +66,13 @@
 - **Cover Story**: Will pose as kobold assistant to Victor (potion merchant).
 - **Corporate Learning**: Used phrase "growth opportunities" correctly (mimicking Victor's language).
 - **R&D Task**: Assigned to create professional labels for potion merchant cover story.
+- **Market Entry**: Assisted with the first stall day; documented sales and subsequent sabotage. (Chapter 39)
 - **Duration**: 1 week trip to Oakhaven and back.
+
+## Recent Developments (Chapter 40)
+
+- **Fire Witness**: First to spot the market fire; panicked but alerted Victor immediately.
+- **Learning**: Observed Victor's calm reaction to the crisis ("Cartel made a mistake") and began to understand that not all destruction is bad for business.
 
 ## Recent Developments (Chapter 34)
 

@@ -77,4 +77,15 @@ Groll shows what happens when you **fight** Victor's methods instead of adapting
 
 ---
 
-**Version**: 1.0
+**Version**: 1.1
+
+## Recent Developments (Chapter 39)
+
+- **Intimidation**: Cartel thugs destroyed Victor's stall and left threats ("LEAVE WHILE YOU CAN").
+
+## Recent Developments (Chapter 40)
+
+- **Failsafe Failure**: Hired arsonists lost control of the blaze, burning the Cartel's own premium stall along with competitors.
+- **Public Backlash**: Market opinion shifted against the Cartel due to the "reckless accident."
+- **Investigation**: Facing Merchant Guild criminal inquiry for arson/endangerment.
+

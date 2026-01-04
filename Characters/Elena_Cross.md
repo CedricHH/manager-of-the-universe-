@@ -136,3 +136,14 @@ Direct, clinical, information-focused:
 **Version**: 1.0  
 **Last Updated**: 2026-01-04  
 **Status**: Active ally - provisional partnership established
+
+## Recent Developments (Chapter 39)
+
+- **Documentation Receipt**: Received evidence of Cartel sabotage from Victor; praised "litigation quality" scans.
+- **Council Scheduled**: Arranged emergency Council hearing to present Victor's case.
+
+## Recent Developments (Chapter 40)
+
+- **Council Strategy**: Facilitated Victor's negotiation; signaled when to push and when to agree.
+- **Crisis Response**: Mobilized Guild investigation immediately after Cartel stall fire; accepted Victor's narrative of "accidental arson" to weaponize against Cartel.
+
