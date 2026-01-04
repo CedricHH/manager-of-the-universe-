@@ -113,7 +113,8 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 61 (The Divine Audit)**: Interceded when Aurelia tried to destroy the Core. Manipulated Prince Aldric into protecting the dungeon by framing the Core as a "Royal Asset" (saving his 15% revenue).
 - **Chapter 62 (The Compliance Officer)**: Successfully spun the presence of a menacing Paladin (Roland) as a "Royal Security Feature" to bring customers back. Approached by the **Gilded Ledger** (Bank) for potential investment.
 - **Chapter 63 (The Gilded Ledger)**: Secured a 10,000 GP loan from Director Malcom by inventing "Loot Futures" (selling shares of future drops). Avoided giving up equity.
-- **Current Status**: Funded for expansion, but watched by Church and Bank.
+- **Chapter 64 (The Capital Injection)**: Used the loan to unlock Floor 4 ("Jungle of Avarice") and hired Gorg (The Ape King) as the Floor Boss. Discovered that the Bank's loan magic included literal "Financial Parasites" (Gold Mosquitoes) that are eating the dungeon's mana.
+- **Current Status**: Profitable, but infected by the loan.
 
 ## Psychology & Traits
 
@@ -127,10 +128,10 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 |------|-------|-------|
 | **Class** | Restructurer | Authority Level 2 |
 | **HP** | 100% | |
-| **MP** | 90% | |
-| **Gold** | ~965,000 + 10,000 (Liquid Loan) | |
-| **Status** | Expanding (Floor 4); Debtor to the Bank | |
-| **Location** | Dungeon Manager's Office | |
+| **MP** | 85% | |
+| **Gold** | ~965,000 + 10,000 Loan (Invested 5,000 in F4) | |
+| **Status** | Managing Floor 4; Investigating "Financial Parasites" | |
+| **Location** | Floor 4 Observation Deck | |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
 | **CHA** | 25 | Sales Mode active |
