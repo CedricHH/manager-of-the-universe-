@@ -104,7 +104,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Awakening**: Relived first moments in dungeon. Negotiated employment with Sniv while wounded.
 - **Full Integration**: Memory complete (100%). Psychological Efficiency +15%.
 - **Perspective**: Realized he wasn't saved; he was *recruited*.
-## Recent Developments (Chapter 56-61)
+## Recent Developments (Chapter 56-65)
 
 - **Chapter 56 (Class Action)**: Blocked Guild's injunction to close dungeon by organizing adventurers into a "Class Action" lawsuit.
 - **Chapter 57 (Safety Audit)**: Hosted "Crimson Blades" audit team; filmed their vandalism to blackmail Vorne.
@@ -114,7 +114,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 62 (The Compliance Officer)**: Successfully spun the presence of a menacing Paladin (Roland) as a "Royal Security Feature" to bring customers back. Approached by the **Gilded Ledger** (Bank) for potential investment.
 - **Chapter 63 (The Gilded Ledger)**: Secured a 10,000 GP loan from Director Malcom by inventing "Loot Futures" (selling shares of future drops). Avoided giving up equity.
 - **Chapter 64 (The Capital Injection)**: Used the loan to unlock Floor 4 ("Jungle of Avarice") and hired Gorg (The Ape King) as the Floor Boss. Discovered that the Bank's loan magic included literal "Financial Parasites" (Gold Mosquitoes) that are eating the dungeon's mana.
-- **Current Status**: Profitable, but infected by the loan.
+- **Chapter 65 (The Extermination)**: Weaponized Crown Compliance (Roland) against the Bank by filing a complaint for "unlicensed magical constructs." Forced Malcom to negotiate: reduced mosquitoes by 80%, disabled extraction capability, waived 500 GP interest. Discovered dead mosquitoes contain 5 GP mana cores. Started mosquito breeding farm to turn Bank's surveillance into renewable resource. **Status**: Bank war escalated - Malcom declared it "personal."
 
 ## Psychology & Traits
 
@@ -129,13 +129,13 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **Class** | Restructurer | Authority Level 2 |
 | **HP** | 100% | |
 | **MP** | 85% | |
-| **Gold** | ~965,000 + 10,000 Loan (Invested 5,000 in F4) | |
-| **Status** | Managing Floor 4; Investigating "Financial Parasites" | |
-| **Location** | Floor 4 Observation Deck | |
+| **Gold** | ~965,000 + 9,500 Loan Remaining (Invested 5,000 in F4) | 500 GP interest waived |
+| **Status** | Managing Mosquito Farm; Bank War Active | |
+| **Location** | Dungeon Insolvia Administrative Office | |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
 | **CHA** | 25 | Sales Mode active |
-| **Assets** | ~50 GP | Spent 800 GP on defenses (Ch 43) |
+| **Assets** | 72 captured mosquitoes (360 GP value) + Mosquito breeding program | ← NEW (Ch 65) |
 
 ### Signature Skills
 - **[Performance Review]**: Analyze stats/value.
