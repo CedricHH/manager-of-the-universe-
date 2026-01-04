@@ -39,15 +39,18 @@ The reason was in the memory that wouldn't let him go.
 
 **12 Months Ago. Earth.**
 
-The apartment was dark. The power had been cut yesterday. Victor sat by the window, illuminated only by the city lights below.
+The apartment was dark. The power had been cut yesterday—another piece of his life being dismantled by the men who had betrayed him. Victor sat by the window, illuminated only by the city lights below. The skyline looked like a circuit board from up here, all gridded streets and blinking towers. He used to own pieces of that grid. Now he was just a ghost watching from the shadows.
 
 He had watched the video a hundred times.
-He knew the sound of the collapse by heart. The scream of the supervisor.
+He knew the sound of the collapse by heart. The crack of timber. The rush of falling earth. The single, cut-off scream of the supervisor.
+And the silence afterward. The silence was the worst part. The silence of children who no longer made any sound at all.
 
-He had the evidence. The USB drive felt heavy in his pocket, like a stone that could drag him to the bottom of the ocean.
+He had the evidence. The USB drive felt heavy in his pocket, like a stone that could drag him to the bottom of the ocean. He had been carrying it for weeks now. It had become a physical part of him—the weight of 47 deaths condensed into 32 gigabytes of data.
 
 He could delete it.
-If he destroyed the drive, the evidence vanished. The Board would win. The children would be forgotten. But Victor... Victor might survive. He could disappear. Move to a non-extradition country. Start over.
+If he destroyed the drive, the evidence vanished. The Board would win. The children would be forgotten—just another line item in a supply chain audit, a footnote in a quarterly report that no one would ever read. But Victor... Victor might survive. He could disappear. Move to a non-extradition country. Indonesia, maybe. Or Thailand. Start over with a new name and a clean conscience.
+
+*No,* he thought. *Not a clean conscience. Never that.*
 
 He ran the probability simulation:
 **Scenario A: Silence.**
@@ -60,10 +63,15 @@ He ran the probability simulation:
 - Financial Recovery: 0%
 - Justice: 100%
 
+The math was clear. Silence was the profitable choice. Silence was what a manager would do. Silence was what Victor Kaine, "The Chainsaw," would do.
+
+But the video kept playing in his head. The small hand reaching from the rubble.
+
 He wasn't a hero. Heroes were irrational variables who messed up projections. He was a manager. He optimized systems.
 
 And this system... this system was broken.
-It was producing misery at an unacceptable rate.
+It was producing misery at an unacceptable rate. And for the first time in his life, Victor couldn't optimize his way out of the moral equation.
+
 
 His phone buzzed. It was the last bit of battery he had.
 Unknown number.
@@ -140,28 +148,36 @@ As if on cue, a chiming sound echoed through Victor's skull.
 > **Sector:** Main Entrance.
 > **Entities:** 6
 > **Threat Level:** High (Level 10-15 Average)
+> **Recommended Action:** Evacuation
 
 Victor froze.
-He pulled up the visual feed.
-The entrance tunnel. The massive stone doors he had repaired.
-They were being pushed open.
+He pulled up the visual feed, the scrying crystal projecting a ghostly image into his peripheral vision.
+The entrance tunnel. The massive stone doors he had spent three days repairing with goblin labor and stolen mortar.
+They were being pushed open with contemptuous ease.
 
-First came the tank. A man in shining plate armor, shield raised. **The Silver Lance.**
-Then the mage. Robes, staff glowing blue.
-Then a rogue. Leather armor, daggers drawn.
-A ranger with a longbow.
+First came the tank. **Gareth**, leader of the Silver Lance—a man built like a siege engine, encased in shining plate armor that probably cost more than Victor's entire previous salary. His tower shield bore the emblem of a lance piercing a star. Professional. Confident. Dangerous.
+
+Then the mage. **Kaelie.** Robes of deep blue, staff glowing with barely contained arcane energy. Her fingers twitched with the nervous energy of someone who could set the world on fire and was actively considering it.
+
+Then a rogue. **Finn**, the Halfling, leather armor oiled to silence, twin daggers already drawn. He was the one who had spotted Victor's trip wires last time. The one Victor needed to fool twice.
+
+A cleric hung back. **Lysa**, the Elf, her eyes closed, likely sensing the dungeon's magic signature. She would be the early warning system. The one who detected lies.
 
 But there were two more.
-A woman in white robes with a sun symbol on her staff. **Healer.**
-And a massive man with a two-handed hammer, shirtless, covered in tattoos. **Berserker.**
+A woman in white robes with a sun symbol blazing on her staff—**Sister Alara**, Paladin of the Sun. Level 15. Victor's ARMI interface highlighted her threat assessment in angry red. She had [Divine Sense]. She could detect evil. She could detect *him*.
+
+And behind them all, a massive man with a two-handed hammer, shirtless despite the dungeon dampness, covered in tattoos that seemed to writhe in the torchlight. **Bron**, the Berserker. Level 14. He looked like he wrestled bears for breakfast and then ate the bears.
 
 Six of them. A full raid party.
-This wasn't a scouting run. This was an eviction notice.
+This wasn't a scouting run. This was an eviction notice. They had come to clear the dungeon, claim the loot, and move on to the next payday.
 
 > **[ARMI Analysis]**
-> **Party Composition:** Balanced (Tank, Healer, DPS, CC).
+> **Party Composition:** Balanced (Tank, Healer, DPS, CC, Divine Detection).
+> **Combined Level:** 75 (Average: 12.5)
 > **Objective:** Clear and Conquer.
 > **Projected Outcome (Direct Combat):** Total Defeat.
+> **Projected Outcome (Guerrilla Harassment):** Uncertain.
+
 
 Victor looked at Sniv. The goblin was trembling. He could smell the adventurers—the scent of steel and soap.
 

@@ -131,7 +131,7 @@ Victor processed the numbers. Twelve to fifteen units. Basic threat class. But *
 
 Victor looked around. The chamber had one exit. The sounds were coming from that direction.
 
-No weapons. The hero's sword was soulbound—when Victor touched the hilt, the blade shocked him and a notification appeared: *UNAUTHORIZED ACCESS - THEFT PREVENTION ACTIVE.*
+No weapons. The hero's sword was Soulbound—when Victor touched the hilt, the blade shocked him and a notification appeared: *UNAUTHORIZED ACCESS - THEFT PREVENTION ACTIVE.*
 
 No magic. Zero gold reserves meant zero mana.
 
@@ -173,7 +173,7 @@ This wasn't how prey behaved.
 > **[ARMI NOTIFICATION]**
 > Negotiation attempt initiated.
 > Success probability: Calculating...
-> Adjusting for [Risk Assessment] skill passive...
+> Adjusting for [Performance Review] skill passive...
 > Adjusting for situational advantage (corpse = demonstrated power)...
 > Updated probability: 7%
 

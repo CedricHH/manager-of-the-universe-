@@ -18,7 +18,7 @@ The concept of "tactical planning" was somewhat beyond them.
 
 Victor surveyed his assembled strike force. Five goblins total, including himself. They would be facing somewhere between fifteen and twenty hostiles, depending on how many the Alpha had kept as a core fighting force.
 
-*In a straight fight, we lose. Therefore, we don't fight straight.*
+*Direct confrontation is a resource-intensive failure mode. We will opt for a non-linear acquisition strategy.*
 
 ---
 
@@ -139,7 +139,7 @@ No time to aim. No time to think. He threw.
 
 The sac arced through the air, spinning end over end, and struck the Alpha directly in the face. The membrane burst on impact.
 
-The scream that followed was unlike anything Victor had heard before.
+The Alpha's vocalizations shifted from a roar of dominance to a high-frequency acoustic feedback loop of pure sensory overload.
 
 The Alpha's hands clawed at his own face as the acid ate through flesh, dissolving skin and muscle and the soft tissue of an eye. He crashed to the ground, thrashing, the charge completely forgotten.
 
@@ -161,7 +161,7 @@ The eight defenders scattered in every direction, self-preservation overriding a
 
 Victor stood over the dying Alpha, watching the acid finish its work. The goblin had stopped screaming. The acid had reached his brain.
 
-*Weapons beat numbers. Every time.*
+*Force multipliers negate labor-intensive numerical advantages. Efficiency is the ultimate weapon.*
 
 ---
 

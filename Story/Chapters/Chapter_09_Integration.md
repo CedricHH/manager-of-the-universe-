@@ -46,7 +46,9 @@ Sniv stood at Victor's right hand, clipboard ready.
 
 The goblins stared at him. Motivation was not a concept they were familiar with.
 
-"Right now, everyone gets the same. Work hard, work lazy—same food. Same sleep. Same nothing." Victor shook his head. "That's not how successful organizations work."
+"The current resource distribution model is decoupled from individual performance. Work hard, work lazy—the allocation remains static. We are subsidizing inefficiency." Victor shook his head. "That's not how successful organizations work."
+
+The goblins blinked. Several of them looked at Sniv, hoping for a translation, but even the HR Manager looked stumped by 'decoupled.' One guard scratched his head with a blunt claw, his expression a mask of pure, concentrated incomprehension.
 
 He reached into the pile of salvaged adventurer equipment and withdrew something that caught the torchlight.
 
@@ -56,7 +58,7 @@ But oh, how it *gleamed*.
 
 The goblins leaned forward as one. Yellow eyes went wide. Several of them actually drooled.
 
-"This," Victor said, "is a Shiny."
+"This," Victor said, holding the piece of trim as if it were a holy relic, "is an Employee of the Week incentive. Or, as you call it: a Shiny."
 
 "Shiny," Sniv repeated reverently. "Very shiny."
 
@@ -138,7 +140,7 @@ Floor Five remained Command—the Boss Chamber, storage, sleeping quarters for s
 
 It was beginning to look less like a dungeon and more like... an operation.
 
-*Structure creates output. Output creates value. Value creates survival.*
+*Optimal organizational structure minimizes friction, which maximizes output. Increased output generates surplus value. And in this market, surplus value is the only currency of survival.*
 
 Victor was reviewing the day's resource reports—Sniv's scratched tallies, translated into actual numbers—when a commotion echoed from the stairs.
 

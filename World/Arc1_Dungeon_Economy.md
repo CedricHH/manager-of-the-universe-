@@ -77,6 +77,8 @@ Core-7749 has never grown because it keeps dying to heroes.
 Instead of spawning monsters to die:
 
 - Monsters become **employees** (e.g., Rats contracted for non-aggression via food bribes - Ch 5)
+- **Non-Aggression Pacts**: Established with Alpha Rat (Floor 2). Cost: 1 Slime Jelly/day. ROI: Safe passage for foraging teams.
+- **Slime Jelly**: Edible food resource secured via "Funnel Tech" (Ch 5).
 - Adventurers become **customers** (pay to leave alive)
 - Death becomes **optional revenue**, not primary income
 

@@ -116,7 +116,8 @@ It didn't take long.
 
 Two days later, the proximity alarm triggered.
 
-> **[ARMI - PERIMETER ALERT]**
+> **[ARMI]**
+> **PERIMETER ALERT**: Intrusion Detected (Floor 1 Entrance)
 > **Activity**: Intrusion Detected (Floor 1 Entrance)
 > **Entities**: 2
 > **Classification**: Humanoid (Human/Elf)
@@ -209,14 +210,13 @@ They had no idea they were just the marketing budget.
 
 ---
 
-> **[ARMI - SESSION SUMMARY]**
-> Day 11 | Afternoon
-> Deadline: 4 Days Remain
-> Marketing Campaign: SUCCESS
-> First Customers: Jace (Warrior) & Mira (Archer) - Level 1-2 (Estimated)
-> Strategy: "Catch and Release" (Psychological Warfare)
-> Objective: Spread rumors of high-value loot to attract higher-level parties.
-> Status: INITIAL ENGAGEMENT
+> **[ARMI]**
+> Session: Day 11 Afternoon | Status: INITIAL ENGAGEMENT
+> 
+> **Marketing Event: [First Contact]**
+> Target: Jace (W) & Mira (A) | Status: BAITED
+> Strategy: [Catch and Release] (Rumor propagation)
+> ROI Status: PENDING (Rumor mill lead time)
 
 ---
 

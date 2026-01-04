@@ -77,15 +77,13 @@ The familiar blue overlay shimmered into existence, but this time it was distant
 
 Then, a ping.
 
-> **[ANALYSIS COMPLETE]**
-> **Target**: ASTERION (The Eternal Guardian)
-> **Species**: Minotaur (Boss Class)
-> **Level**: 25 (ESTIMATED)
-> **Role**: Dungeon Guardian
-> **HP**: ??? (High)
-> **Current Status**: Underutilized
-> **Primary Stressor**: Lack of Purpose / Boredom
-> **Key Weakness**: Existential Ennui
+> **[ARMI]**
+> Target: Floor Four | Skill: [Performance Review]
+> Cost: 25 SP | Status: APPROVED
+> 
+> **Analysis: ASTERION (The Eternal Guardian)**
+> Species: Minotaur (Boss) | Level: 25 (EST)
+> Status: Underutilized (Existential Ennui)
 
 Victor opened his eyes.
 
@@ -193,15 +191,13 @@ And if it didn't work... well, at least Sniv would be outside when the slaughter
 
 ---
 
-> **[ARMI - SESSION SUMMARY]**
-> Day 4 | Morning
-> Status: DEFCON 2
-> Threat: Asterion (Tribute Deadline: 2 Days)
-> Strategy: "The Entertainment Merger" (Proposed)
-> Insight: Asterion is bored, not hungry.
+> **[ARMI]**
+> Session: Day 4 Morning | Status: DEFCON 2
+> 
+> **Strategy: [The Entertainment Merger]**
+> Insight: Target is bored, not hungry.
 > Action: Operation Market Research (Sniv to Surface)
 > Risk Level: CRITICAL
-> Objective: Attract adventurers to feed the Minotaur's need for conflict.
 
 ---
 

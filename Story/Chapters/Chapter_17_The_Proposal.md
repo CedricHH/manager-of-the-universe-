@@ -1,46 +1,41 @@
 # Chapter 17: The Proposal
 
-The air in the boss chamber tasted of copper and ancient dust, a cocktail of stagnation that coated the back of Victor’s throat. It was the smell of a distressed asset—a property left to rot because the market had moved on.
+The air tasted of copper and ancient dust. A cocktail of stagnation coating the back of Victor's throat.
 
 Victor Kaine sat on a broken pillar, one leg crossed over the other, adjusting the cuffs of his suit. The fabric was torn at the elbow, a casualty of his descent, but he smoothed it with the reverence of a man preparing for a board meeting. In this world of monsters and magic, presentation was the only currency he had left that didn't depreciate.
 
 Opposite him stood the asset in question, Asterion.
 
-The Minotaur was a mountain of muscle and matted fur, standing easily nine feet tall. He didn't loom; he simply existed, occupying space with the undeniable gravity of a singularity. His double-bladed axe rested on the stone floor, the head buried inches deep in the granite, seemingly by its own weight.
+The Minotaur was a mountain of muscle and matted fur, standing easily nine feet tall. His double-bladed axe rested on the stone floor, the head buried inches deep in the granite. His bovine eyes were fixed on the vaulted ceiling, tracing cracks where roots bled through the stone.
 
-He wasn't looking at Victor. His bovine eyes, dark and liquid, were fixed on the vaulted ceiling, tracing the cracks where roots were beginning to bleed through the stone.
+"Tell me your plan," Asterion rumbled, his voice tectonic. "And I'll decide whether to eat you or listen."
 
-"Tell me your plan," Asterion rumbled. The voice was tectonic, vibrating through the soles of Victor's shoes. "And I'll decide whether to eat you or listen."
-
-Victor cleared his throat. He brought up his internal interface, checking his status.
-
+Victor cleared his throat, checking his internal interface.
 > **[ARMI Status Check]**
 > **Heart Rate:** 110 BPM (Elevated)
 > **Cortisol Levels:** High
 > **Charisma Mod:** +2 (Suit Bonus applied, despite damage)
 > **Probability of Survival:** 12% (Rising from 0%)
 
-"Here is the situation," Victor began, his voice steady. He projected it, using the acoustics of the chamber to sound larger than his goblin-sized frame. "This dungeon is a failing business. You are operating at a hundred percent loss. No adventurers. No loot cycle. No purpose. You are the final boss of... nothing."
+"This dungeon is a failing business," Victor began, his voice steady. "You are operating at a hundred percent loss. No adventurers. No loot cycle. No purpose. You are the final boss of... nothing."
 
-Asterion huffed, a sound like steam escaping a pressure valve. Hot air blasted across the room, carrying the scent of musk and old iron.
+Asterion huffed, a sound like steam escaping a pressure valve. "I was placed here by the gods," the Minotaur said, his voice heavy with centuries of rote repetition. "To guard the temple. To test the worthy." He gestured vaguely at the ruins. "The temple is rubble. The gods have been silent for an age. I guard **nothing**."
 
-"I was placed here by the gods," the Minotaur said, his voice heavy with centuries of rote repetition. "To guard the temple. To test the worthy." He gestured vaguely at the ruins around them—shattered pews, a crumbled altar, the skeletal remains of what might have been a choir loft. "The temple is rubble. The gods have been silent for an age. I guard **nothing**."
+"Exactly," Victor said, leaning forward. "You are structurally redundant. In the corporate world, we would typically liquidate the asset. Strip the copper, sell the land, and move on."
 
-"Exactly," Victor said, leaning forward. "You are structurally redundant. In the corporate world, this is the moment where we would typically liquidate the asset. Strip the copper from the walls, sell the land, and move on."
-
-Asterion finally looked at him. The intensity of that gaze felt like physical weight. "You suggest I leave? My bind is to this stone, little goblin-master. I cannot leave."
+Asterion finally looked at him. "You suggest I leave? My bind is to this stone, little goblin-master. I cannot leave."
 
 "I'm not suggesting you leave," Victor corrected. "I'm suggesting you rebrand. Stop guarding. Start **hunting**."
 
 The Minotaur’s brow furrowed. "Hunting?"
 
-"I will bring adventurers to you," Victor promised. "Not the lost strays or the desperate scavengers. Real challengers. People who want to kill you for glory, for unique drops, for the story. I will bring you the 'worthy' test you were built for."
+"I will bring adventurers to you," Victor promised. "Not lost strays. Real challengers. People who want to kill you for glory, for unique drops, for the story. I will bring you the 'worthy' test you were built for."
 
-Asterion shifted. He pulled the axe from the stone with a screech of grinding rock that set Victor's teeth on edge. "And why would they come? The world has forgotten this place."
+Asterion shifted, pulling his axe from the stone with a screech. "And why would they come? The world has forgotten this place."
 
 "Because I will make them remember," Victor said. "I will create a narrative. A lure. Supply and demand, Asterion. Right now, supply is high—you're here, ready to fight. Demand is zero. My job is to manufacture demand."
 
-"And what is the price?" Asterion asked. He leaned on the axe handle, studying Victor with a keen, predator's intelligence. "You do not strike me as a creature of charity. You smell of... calculation."
+"And what is the price?" Asterion asked, studying Victor with a keen, predator's intelligence. "You do not strike me as a creature of charity. You smell of... calculation."
 
 "I get a deterrent," Victor said bluntly. "I can handle the logistics. I can manage the goblins. I can build the traps. But I cannot stop a high-level threat. That’s your job. You protect the integrity of the dungeon from threats that exceed my pay grade. You become the nuclear option."
 
@@ -48,16 +43,15 @@ Asterion shifted. He pulled the axe from the stone with a screech of grinding ro
 
 "The ultimate stick," Victor clarified. "Big weapon. Lots of damage. The thing that keeps the neighbors polite."
 
-Asterion laughed. It was a dry, hacking sound, devoid of humor. "You think I will serve a goblin-master? A weakling who talks because he cannot fight? I could crush you now, Manager. I could paint this room with you and go back to my sleep."
+Asterion laughed, a dry, hacking sound. "You think I will serve a goblin-master? A weakling who talks because he cannot fight? I could crush you now, Manager. I could paint this room with you and go back to my sleep."
 
-"You could," Victor agreed. He didn't flinch. "And then you would return to your silence. You would stand here for another hundred years, watching the dust settle, until your axe rusts to nothing and your name is forgotten. Is that the specific type of hell you're looking for?"
+"You could," Victor agreed, not flinching. "And then you would return to your silence. You would stand here for another hundred years, watching the dust settle, until your axe rusts to nothing and your name is forgotten. Is that the specific type of hell you're looking for?"
 
-The Minotaur went still. The silence stretched, heavy and suffocating. Victor held his breath, forcing his heart rate to remain steady. He was betting everything on the creature’s pride—on the universal fear of irrelevance.
+The Minotaur went still. The silence stretched, heavy and suffocating. Victor held his breath, betting everything on the creature’s pride—on the universal fear of irrelevance.
 
 "Words," Asterion spat, though the anger had lost its edge. "Words are wind. Prove your worth."
 
-He lifted the axe. For a split second, Victor saw his death. The analytics flashed red in his vision.
-
+He lifted the axe. For a split second, Victor saw his death. The analytics flashed red.
 > **[Warning]**
 > **Threat Assessment:** Lethal
 > **Evasion Chance:** 0.0001%
@@ -67,7 +61,6 @@ But the axe didn't fall. Asterion pointed the haft at Victor, a gesture of chall
 "Bring me a worthy opponent within one month," the Minotaur commanded. "Someone who can actually make me sweat. Someone who knows the old forms of combat. Fail, and I burn your little empire to the ground. I will start with your goblins, I will destroy your traps, and I will end with you."
 
 The air between them shimmered, the magic of the dungeon responding to the vow.
-
 > **[ARMI Alert]**
 > **Contract Triggered: [The Guardian's Pact]**
 > **Party A:** Victor Kaine (Manager)
@@ -77,7 +70,7 @@ The air between them shimmered, the magic of the dungeon responding to the vow.
 > **Penalty:** Total liquidation of assets (Death)
 > **Status:** AWAITING CONFIRMATION
 
-Victor stood up. His legs felt like jelly, but he locked his knees. He brushed invisible lint from his lapel.
+Victor stood up, his legs like jelly, but he locked his knees. He brushed invisible lint from his lapel.
 
 "Thirty days," Victor repeated. "A generous timeline. I'll have the quarterly projections ready before then."
 
@@ -87,25 +80,21 @@ Asterion stared at the small, pale appendage. "Human custom? Goblins do not do t
 
 "It's a contract," Victor said, holding his gaze. "A promise. In my world, a handshake is more binding than blood. It’s professional courtesy."
 
-Asterion hesitated. The massive creature seemed confused by the gesture, by the audacity of this small, weak thing demanding equality. Slowly, he reached out. His hand was the size of a shovel, the skin rough like bark, pads calloused from centuries of gripping steel.
+Asterion hesitated. Slowly, he reached out. His hand was the size of a shovel, rough like bark.
 
-He engulfed Victor's hand. He could have crushed the bones to powder with a twitch. Instead, he squeezed—a firm, acknowledging pressure.
+He engulfed Victor's hand. He could have crushed the bones to powder. Instead, he squeezed—a firm, acknowledging pressure.
 
 "One month, Manager," Asterion rumbled. "Do not disappoint me."
 
 ***
 
-The climb back to the fifth floor was a grueling reminder of Victor’s physical limitations.
-
-His new goblin body was wiry and resilient, but the boss chamber was deep—the roots of the world deep. The stairs were cut for giants, each step thigh-high for him. He had to clamber, pull, and pant his way up the spiral.
-
-By the time he reached the upper landing, his lungs were burning, and his expensive suit was soaked with sweat.
+The climb back was brutal—each stair cut for giants, leaving Victor wheezing by the top, suit soaked with sweat.
 
 Sniv was waiting by the archway, practically vibrating with anxiety. The little goblin had chewed his fingernails down to the quick.
 
 "Boss!" Sniv shrieked when he saw Victor emerge. He hopped from foot to foot, ears flapping. "Boss alive! Boss not eaten! Sniv... Sniv thought you were snack! Sniv was preparing speech for new boss!"
 
-"Loyal as ever, Sniv," Victor wheezed, leaning against the cool stone wall to catch his breath. "Cancel the funeral. We’re still in business."
+"Loyal as ever, Sniv," Victor wheezed, leaning against the cool stone wall. "Cancel the funeral. We’re still in business."
 
 Current Status check:
 > **[ARMI]**
@@ -162,10 +151,6 @@ Victor looked at the holographic display floating in his peripheral vision. The 
 Sniv grinned, exposing a row of jagged, yellow teeth. "Sniv likes lying."
 
 "I know," Victor said. "That's why you're middle management."
-
-He closed his eyes for a moment, listening to the drip of water in the distant tunnels. The dungeon was breathing. It was alive, in its own way. And for the first time since he had woken up in this green skin, Victor felt something other than horror or calculation.
-
-He felt ownership.
 
 This was his mess. And he was going to fix it.
 

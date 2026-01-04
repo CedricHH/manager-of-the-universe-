@@ -1,6 +1,6 @@
 # Chapter 15: The Roar
 
-Victor sat on a crate in the entrance hall, watching the sunlight crawl across the stone floor. It was a beautiful morning. Birds were singing in the forest outside. The air smelled of pine and damp earth. It was the kind of morning that made you happy to be alive.
+Victor sat on a crate in the entrance hall, watching the sunlight crawl across the stone. It was a beautiful morning outside—birds singing, air smelling of pine—the kind of day that made you happy to be alive.
 
 Victor hated it.
 
@@ -8,7 +8,7 @@ He checked his mental clock. Day Seven. The final day.
 
 Asterion’s extension—granted with a terrifying lack of negotiation—expired at sundown.
 
-"Resources," Victor muttered, rubbing his temples. He hadn't slept in thirty hours, and the mana fatigue from maintaining the surveillance spells was starting to feel like a migraine.
+"Resources," Victor muttered, rubbing his temples. He hadn't slept in thirty hours; the mana fatigue from surveillance was beginning to feel like a migraine.
 
 Sniv, who was currently organizing a pile of rocks near the entrance (part of the new 'rustic aesthetic' Victor was trying), scrambled over. "Boss needs report?"
 
@@ -26,11 +26,7 @@ All they needed was an audience.
 
 "If no one comes," Victor said, more to himself than the goblin, "we have two choices. We fight a Level 25 Minotaur with sharp sticks, or we run."
 
-"Sniv good at running," the goblin offered helpfully.
-
 "Running means leaving the Core," Victor pointed out. "If we leave the Core, we lose our jobs. And in this economy, 'unemployed dungeon manager' looks terrible on a resume."
-
-Also, he was pretty sure his contract with the Cosmic Council included a clause about 'termination with extreme prejudice' for desertion.
 
 He stood up, pacing the small area he’d cleared of rubble. He felt like a store manager on Black Friday, waiting for the doors to open, praying that the mob would actually show up.
 
@@ -38,11 +34,11 @@ He stood up, pacing the small area he’d cleared of rubble. He felt like a stor
 
 As if on cue, a blue screen flickered into existence in front of his eyes.
 
-> **[ARMI ALERT]**
-> **Perimeter Activity Detected.**
-> **Entities:** 4
-> **Classification:** Adventurer Party (Mid-Level)
-> **Threat Assessment:** High
+> **[ARMI]**
+> **Event**: Perimeter Activity Detected.
+> **Entities**: 4
+> **Classification**: Adventurer Party (Mid-Level)
+> **Threat Assessment**: High
 
 Victor’s heart skipped a beat. He tapped the screen, expanding the feed from the external sensors (actually unsuspecting beetles he’d tagged with mana).
 
@@ -184,7 +180,7 @@ Victor froze. *What?*
 
 Silence in the chamber.
 
-Victor felt his stomach drop. He had forgotten. Marcus was a hero, yes, but he was a *vanity* hero. Of course his sword was useless. It was a prop.
+Victor felt his stomach drop. Error in asset valuation. Marcus was a vanity hero; of course his sword was a cosmetic prop.
 
 "Waste of time," Finn kicked a pebble. "Establishment is a joke. Level 1 goblins and a glow-stick sword. Let's bail."
 

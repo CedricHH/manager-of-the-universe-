@@ -11,6 +11,7 @@ The Alpha's whiskers twitched. It couldn't understand the words, but body langua
 The massive rat turned and padded back into the nest. The pack followed, chittering quietly among themselves. None of them looked back at Victor's team with hunger.
 
 > **[ARMI - NOTIFICATION]**
+> Balance: 0 GP | Transaction: [Territorial Agreement]
 > Territorial Agreement Established
 > Parties: Victor Kaine (Restructurer) / Alpha Rat (Pack Leader)
 > Terms: 1 Slime Jelly per day (maintenance cost)
@@ -74,6 +75,7 @@ Sniv's yellow eyes widened with something approaching religious fervor. "Sniv co
 He scurried off toward the collection bags.
 
 > **[ARMI - ORGANIZATIONAL UPDATE]**
+> Balance: 0 GP | Transaction: [Deployment]
 > Workforce Deployed: 14 units
 > Roles Assigned:
 > - Sanitation: 4 (Chamber maintenance)

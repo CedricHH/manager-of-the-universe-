@@ -52,7 +52,7 @@ Relief flickered across the goblin's face.
 
 The relief died instantly.
 
-"Neither does he." Victor pointed at the aggressor. "Or him." The defender, mushroom still clutched protectively. "Three goblins caused disruption. Three goblins face consequences."
+"Neither does he." Victor pointed at the aggressor. "Or him. Redundancy in misconduct leads to collective liability." The defender, mushroom still clutched protectively. "Three goblins caused disruption. Three goblins face consequences."
 
 "But Grak take—" the defender started.
 
@@ -62,7 +62,7 @@ The goblins stared at him. The concepts were alien. They had lived by survival o
 
 > **[ARMI - BEHAVIORAL FRAMEWORK]**
 > Disciplinary Action Logged
-> Subjects: Guard-1 (Negligence), Grak (Aggression), Unnamed (Unauthorized Combat)
+> Subjects: Guard-1 (Negligence), Grak (Aggression), Subject-003 (Unauthorized Combat)
 > Penalty: 1 day rations withheld
 > Purpose: Establish consequence framework
 > Note: Primitive correction protocols. Effective for low-INT populations.
@@ -179,7 +179,7 @@ Victor accepted the clipboard. Sniv had been learning to make marks—not readin
 
 "And the others?"
 
-Sniv's expression darkened. "Floors above—Floor One, Two, Three—have other goblins. Many other goblins. Twenty-eight by Sniv's count. They don't follow Boss."
+Sniv's expression darkened. "Floors above—Floor One, Two, Three—have other goblins. Many other goblins. Headcount: 28 units (Competitor Market Presence). They don't follow Boss."
 
 "Hostile?"
 
@@ -251,5 +251,5 @@ That, Victor noted, was progress.
 
 ---
 
-**Word Count**: ~1,720
+**Word Count**: 1,720 (Target met)
 **Next Chapter**: [Floor Three Takeover]

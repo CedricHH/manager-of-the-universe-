@@ -26,6 +26,11 @@ Sniv hissed and covered his eyes. "It burns! The sky-fire burns!"
 
 "It's just the sun, Sniv. It provides Vitamin D. You'll adapt."
 
+> **[ARMI]**
+> Event: Ultraviolet Exposure | Target: [Employee: Sniv]
+> Status: ANALYZING
+> Note: Vitamin D synthesis initiated. Asset performance expected to increase by 0.5%.
+
 Victor stopped at the edge of the rubble. Beyond lay the exit—a gap in the stone wide enough for a man, or a goblin, to squeeze through.
 
 "Go," Victor said softly. "You're making history. The first employee of the Kaine Dungeon Corporation to conduct field research."
@@ -184,15 +189,15 @@ He looked at Sniv.
 
 ---
 
-> **[ARMI - SESSION SUMMARY]**
-> Day 4 | Evening
-> Status: DEFCON 3 (Downgraded from 2)
-> Deadline Extended: +7 Days
-> Intelligence: Oakhaven (City) confirmed 5 leagues away.
-> Market Perception: Dungeon = active but low-value.
-> Strategy: "The Teaser" (Use Marcus's sword as bait).
-> Resources: Sir Kael's sword spent (Tribute).
-> Sniv Development: Successful surface recon.
+> **[ARMI]**
+> Session: Day 4 Evening | Status: DEFCON 3
+> 
+> **Market Intelligence: [Oakhaven]**
+> Perception: Ruined Temple | Demand: ZERO (Loot deficit)
+> 
+> **Strategic Action: [Operation: The Teaser]**
+> Resource Allocation: 1x Legendary Sword (Bait)
+> Status: IN PROGRESS
 
 ---
 

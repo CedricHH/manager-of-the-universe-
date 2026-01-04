@@ -1,6 +1,6 @@
 # Chapter 4: The Hunt
 
-The corridor leading to Floor Two smelled like decay and opportunity.
+Victor calculated the rate of decay in the air; it was a leading indicator of untapped market potential on Floor Two.
 
 Victor moved carefully, one hand trailing along the slick stone wall for balance. Behind him, Sniv padded silently on bare feet, followed by three goblins who had been "volunteered" for this expedition by virtue of being the least likely to stab Victor in the back. Their names—if they had names—didn't matter yet. What mattered was that they could follow basic instructions and carry things.
 
@@ -53,11 +53,10 @@ The first kill was messy. One goblin got too close, caught a splash of acid acro
 
 The blob collapsed, quivering once, then going still. In its place: a handful of translucent jelly that glowed faintly in the mushroom light.
 
-> **[ARMI - NOTIFICATION]**
-> Kill Registered: Basic Slime
-> XP Distribution: Party (minimal - non-combatant participation)
-> Loot Generated: Slime Jelly x1
-> Victor Kaine XP: +1 (Coordination bonus)
+> **[ARMI]**
+> Balance: 0 GP | Transaction: [Kill Logging]
+> Cost: 0 GP | Status: APPROVED
+> Target: Basic Slime. XP Distributed.
 
 Victor picked up the jelly. It was cool to the touch, slightly sticky, and smelled like ammonia mixed with something almost sweet.
 
@@ -188,19 +187,19 @@ Victor allowed himself to breathe.
 
 "I think," he said slowly, "we just invented pest control through payroll."
 
+The Alpha rat watched him, tail twitching in rhythmic greed. Deeper in the nest, something large shifted—a sound that didn't come from a rat.
+
 ---
 
 *End of Chapter 4*
 
 ---
 
-> **[ARMI - SESSION SUMMARY]**
-> Balance: 0 GP (assets not liquidated)
-> Assets: 13 Slime Jelly (2 used for bribes), 3 Acid Sacs
-> Employees: 14 goblins (stable), 12 rats (provisional - requires payment)
-> XP Total: 16 (Victor)
-> Food Security: 72 hours (approximately)
-> Status: OPERATIONAL (Resource acquisition successful)
+> **[ARMI]**
+> Balance: 0 GP | Transaction: [Daily Audit]
+> Status: OPERATIONAL
+> Assets: 13 Slime Jelly, 3 Acid Sacs.
+> Staffing: 14 Goblins, 12 Rats (Contractors).
 
 ---
 

@@ -97,6 +97,9 @@ Victor works FOR them... but plans to take them over from within.
 | Location | Description | Economic Role |
 |----------|-------------|---------------|
 | **Tutorial Dungeon** | Victor's first acquisition | HQ / Training facility |
+| - *Floor 1-2* | Secured & Industrialized | Slime harvesting, Water Basin |
+| - *Floor 3* | **ACQUIRED** (Ch 7/9) | Mining (Copper/Iron), Historic Site (Kael) |
+| - *Floor 4-5* | **THREAT: CRITICAL** | Asterion (Landlord / Creditor) |
 | **Oakhaven** | Trading city | Initial market |
 | **The Royal Capital** | Seat of power | Future acquisition target |
 | **The Demon Frontier** | War zone | Arms market |

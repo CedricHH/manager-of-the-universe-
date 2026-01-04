@@ -246,5 +246,19 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 
 ---
 
+## Recent Developments (Chapter 21)
+
+- **Skill Usage**: Activated [Aggressive Negotiations] for the first time—forced the Silver Lance to choose between two unfavorable options.
+- **Tactical Victory**: Successfully delivered the Silver Lance to Asterion as "worthy opponents" without combat.
+- **Contract Fulfillment**: Partially fulfilled the [Guardian's Pact] tribute clause (pending Asterion's verification).
+
+## Recent Developments (Chapter 22)
+
+- **Combat Observation**: Witnessed the full Silver Lance vs. Asterion fight, cataloguing boss combat data.
+- **Strategic Trade**: Spent last Health Potion to acquire Adventurer's Guild intelligence from the retreating party.
+- **Marketing Insight**: Realized survivors spread better rumors than corpses (free advertising for the dungeon).
+
+---
+
 **Version**: 1.1
 **Last Updated**: 2026-01-04

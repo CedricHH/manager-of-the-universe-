@@ -8,11 +8,11 @@ His hands were shaking.
 
 He hadn't noticed until now. Too busy calculating survival probabilities, analyzing goblin psychology, structuring employment contracts. But now, in the silence, his body reminded him that it had been pushed well beyond its operational parameters.
 
-*Physical status: No food since arrival. No water. No sleep. Core temperature dropping. Hands trembling—likely hypoglycemia combined with stress response.*
+*Physical status: No food since arrival. No water. No sleep. Core temperature dropping. Hands trembling—likely unsustainable operational fatigue.*
 
 Victor looked around the chamber with new eyes. Not the tactical assessment of a man about to die, but the analytical gaze of someone taking inventory.
 
-Stone walls, ancient and carved with runes that meant nothing to him but suggested intentional design. Marcus's corpse—though "corpse" was generous now. The goblins had been thorough in their "processing." What remained was bones, scattered armor fragments, and stains Victor chose not to examine closely.
+Stone walls, ancient and carved with runes that meant nothing to him but suggested intentional design. The liquidated asset (Marcus)—though "corpse" was generous now. The goblins had been thorough in their "processing." What remained was bones, scattered armor fragments, and stains Victor chose not to examine closely.
 
 A broken throne at one end of the chamber. Dust. Shadows.
 
@@ -143,7 +143,7 @@ Sniv presented his findings with the gravity of a junior analyst delivering quar
 > **Floor 3**: Goblins (same 28—territory overlap), Spiders (some—web everywhere), Dark (very—hard to see)
 > **Floor 4**: Big Scary (one—NO GO)
 
-Victor processed the intelligence. Twenty-eight additional goblins—potential recruits or threats, depending on how they were approached. Rats meant protein if he could organize hunting parties. Slimes were interesting—in most systems he vaguely remembered, slimes had commercial applications.
+Victor processed the intelligence. Twenty-eight additional goblins—hostile startups or potential acquisitions, depending on how they were approached. Rats meant protein if he could organize hunting parties. Slimes were interesting—in most systems he vaguely remembered, slimes had commercial applications.
 
 And Floor Two had water. That solved one problem he hadn't even consciously catalogued yet.
 

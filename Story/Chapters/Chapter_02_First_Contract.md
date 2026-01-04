@@ -161,7 +161,7 @@ He devoured the ration in seconds.
 > **[ARMI]**
 > Employee Loyalty Updated: Sniv
 > CONDITIONAL → STABLE
-> Note: Minimal investment, maximum return. Efficient management detected.
+> Note: Minimal investment, maximum return. Management Efficiency: TOP-TIER
 
 As Sniv ate, the pack leader wandered back. He spoke casually, as if sharing trivial information:
 

@@ -235,13 +235,14 @@ Victor walked to the edge of the chamber.
 
 ---
 
-> **[ARMI - SESSION SUMMARY]**
-> Day: 12 (Deadline -1)
-> Marketing: SUCCESS (Jace & Mira "converted" to messengers)
-> Intelligence: "Silver Lance" guild/party identified. Captain Thorne identified.
-> Loot: Assorted junk + Jace's Diary (Intel).
-> Status: WAITING (High Tension)
-> Threat: Asterion (Impending Deadline)
+> **[ARMI]**
+> Session: Day 12 (Deadline -1) | Status: HIGH TENSION
+> 
+> **Market Impact: [The Word of Mouth]**
+> Target: Jace & Mira | Status: CONVERTED (Messengers)
+> Intel Acquired: [Silver Lance Guild] / [Captain Thorne]
+> **Strategic Risk: Asterion (Deadline Impending)**
+> Action Requirement: Close sale within 24 hours or suffer liquidation.
 
 ---
 

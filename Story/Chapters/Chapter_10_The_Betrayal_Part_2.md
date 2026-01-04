@@ -180,7 +180,7 @@ The imp's smile widened. **"The Master appreciates directness as well."**
 
 Victor almost laughed.
 
-**"Appreciation does not pay tribute."** The imp's ember-eyes flared brighter, casting dancing shadows across the chamber walls. **"The Master claims territorial rights to Floors One through Four. Your operation exists at his sufferance. This sufferance has a price."**
+**"Appreciation does not pay tribute."** The imp's ember-eyes flared brighter, casting dancing shadows across the chamber walls. **"The Master claims your floor as his own. You stay here only because he allows it. And he does not allow it for free."** The imp's ember-eyes flared brighter, casting dancing shadows across the chamber walls. **"He demands tribute for your presence."**
 
 Victor felt the room go still. Every goblin watching. Every breath held. Even Sniv, who usually couldn't stop fidgeting, stood frozen.
 
@@ -188,7 +188,7 @@ Victor felt the room go still. Every goblin watching. Every breath held. Even Sn
 
 **"Food. Wealth. Or souls."** The imp spread its tiny claws, ticking off options like a banker discussing loan terms. **"Twenty percent of your harvest. Ten percent of any wealth extracted. Or one soul per month, delivered to the stairs of Floor Four."**
 
-*Protection money. Asterion is running a protection racket.*
+*A parasitic equity stake. Asterion isn't just a boss; he's a landlord claiming a percentage of the gross margin.*
 
 Victor's mind raced through the implications. This wasn't the behavior of a mindless beast. This was *organized*. Calculated. The kind of structured extraction that required intelligence, patience, and long-term thinking.
 
