@@ -236,3 +236,10 @@ Broken common, learning corporate jargon:
 - **War Preparation**: Briefed on the "hostile takeover" threat.
 - **Weaponization**: Ordered to feed "Alchemical Waste" to Potion Slimes to turn them acidic.
 - **Leadership**: Placed in charge of the Shield Wall goblin unit under Kael's command.
+
+## Recent Developments (Chapter 52)
+- **HR Surveillance**: Revealed he listens when Victor talks in sleep — "Sniv is HR. Listening is job."
+- **Knowledge**: Knows about "server room" from Victor's sleep-talking; aware of Boss's pre-life trauma.
+- **Concern**: Noticed Victor's "faraway-eyes" during flashback — "like when Boss thinking about killing something, but *sad* killing."
+- **Loyalty Affirmation**: "Sniv never change! Change is bad for employment stability!"
+

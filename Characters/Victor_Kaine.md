@@ -118,7 +118,15 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Strategic Opportunity**: Identified information asymmetry — Victor knows kingdom's real finances.
 - **Timeline Shock**: Royal messenger arrived; Prince arriving in **72 hours** (not 18 days).
 - **Sterling's Play**: Discovered Lord Sterling independently contacting Crown Court (increased comms 300%).
-- **Current Status**: Preparing presentation for Crown Prince's arrival. Objective: "Acquire a prince."
+
+### Chapter 52: The Selfless Act (Part 1) [FLASHBACK]
+- **Flashback Trigger**: Preparing for Crown Prince reminded Victor of last time he took a massive risk.
+- **Project Cobalt Memory**: Recalled sitting in empty corner office, six months after scandal. Forty-seven faces. Children at Congolese mine.
+- **The Math**: Calculated 200 future deaths if he stayed silent vs. ~15% survival if he released evidence.
+- **The Decision**: Made first decision with negative personal ROI — walked to server room to download final evidence.
+- **Server Room**: Six months of secret file copying. Final download interrupted by footsteps.
+- **Sniv Revelation**: Goblin admitted to listening when Victor talks in sleep; knows about "server room."
+- **Current Status**: Flashback continues in Chapter 53. Preparing for Crown Prince arrival.
 
 ---
 
