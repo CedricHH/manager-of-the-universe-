@@ -232,14 +232,9 @@ Broken common, learning corporate jargon:
 **Version**: 1.1
 **Last Updated**: 2026-01-04
 
-## Recent Developments (Chapter 43)
-- **War Preparation**: Briefed on the "hostile takeover" threat.
-- **Weaponization**: Ordered to feed "Alchemical Waste" to Potion Slimes to turn them acidic.
-- **Leadership**: Placed in charge of the Shield Wall goblin unit under Kael's command.
+## Recent Developments (Chapter 56-59)
 
-## Recent Developments (Chapter 52)
-- **HR Surveillance**: Revealed he listens when Victor talks in sleep — "Sniv is HR. Listening is job."
-- **Knowledge**: Knows about "server room" from Victor's sleep-talking; aware of Boss's pre-life trauma.
-- **Concern**: Noticed Victor's "faraway-eyes" during flashback — "like when Boss thinking about killing something, but *sad* killing."
-- **Loyalty Affirmation**: "Sniv never change! Change is bad for employment stability!"
+- **Grassroots Campaign (Ch 56)**: Led the adventurer protest, using terms like "Big Bosses" and "Monopoly."
+- **Union Rep (Ch 57)**: Wore a high-vis vest and faked an injury to stall the Crimson Blades.
+- **Project Sparkle (Ch 59)**: Managed the rapid cleanup of the lobby ('Sparkle Team') before the Royal visit.
 

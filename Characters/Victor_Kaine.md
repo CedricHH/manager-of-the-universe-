@@ -53,64 +53,13 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 
 ---
 
-## Recent Developments (Chapters 38-40)
+## Arc 1.2: Consolidation (Ch 38-50)
 
-### Chapter 38-39: Market Entry
-- **Guild Alliance**: Partnered with Elena Cross (Merchant Guild) to break the Alchemist Cartel monopoly.
-- **Economic Warfare**: Undercut Cartel prices by 65%. Sold 38 potions on Day 1.
-- **Sabotage**: Cartel destroyed his stall. Victor collected litigation-grade evidence instead of retaliating violently.
-
-### Chapter 40: Guild Leverage
-- **Council Negotiation**: Leveraged the sabotage evidence to secure official Guild protection for **12% commission**.
-- **The Fire**: Cartel's hired arsonists accidentally burned their own stall. Victor positioned this as "criminal negligence," turning public opinion and the law against them.
-- **New Assets**: Hired Kael (Warrior) and Mira (Mage) as bodyguards.
-
-### Chapter 41: Open for Business
-- **Market Dominance**: Reopened stall in burnt ruins ("Fire Sale"). Sold out stock in 40 minutes.
-- **B2B Strategy**: Signed "Platinum Supply Retainer" with Vorin Trade Caravans (2,250 GP/month value).
-- **Public Defender**: Kael/Mira publicly defeated Cartel thugs, cementing Victor as the "people's choice."
-- **Revenue**: +1,000 GP Gross / +550 GP Net.
-
-### Chapter 42: The Spire
-- **The Meeting**: Dinner with Guildmaster Groll.
-- **The Trap**: Groll offered a buyout (Director position), which Victor refused.
-- **The Threat**: Groll revealed he knows about the Dungeon/Sniv and threatened to expose Victor to the King (Death Sentence).
-- **Declaration of War**: Victor walked out, initiating "Hostile Takeover Protocols."
-
-### Chapter 43: Hostile Takeover Protocols
-- **Fortress Mode**: Activated lethal dungeon protocols. Spent 800 GP on "Acid Pit" and "Crushing Walls" upgrades.
-- **Team Upgrade**: Revealed Dungeon to Kael/Mira. Signed them to new "Defense Contracts" with 0.5% equity.
-- **Alliance**: Sent leverage letters to Sterling (invoking defense clause) and Elena Cross.
-- **War**: Groll's "Black Talon" mercenaries arrived at the forest edge.
-
-### Chapter 44: Liquidation Event
-- **Defense Strategy**: Successfully repelled 40 mercenaries using environmental hazards (Acid Slimes) and a goblin shield wall.
-- **Cyber-Warfare**: The enemy used "Mana Spikes" to jam the Core. Victor is attempting a "Hostile Takeover" counter-hack on the signal.
-
-### Chapter 45-46: Counter-Offer & Due Diligence
-- **Bureaucratic Overload**: Reverse-hacked Alchemist Cartel's consultant.
-- **Merchant Guild Audit**: Turned "Zoning Violation" threat into recruitment; hired Valerius as double agent.
-
-### Chapter 47-48: The Revenue Stream & The Whale
-- **Entry Fee System**: Implemented "Site Preservation Donation" (5 silver per adventurer). First commercial transactions.
-- **Whale Processing**: Charged Sir Gareth of House Sterling 15 GP (entry + Floor 3 access).
-- **Partnership Expansion**: Proposed "vertical monopoly" of Eastmarch adventurer economy to House Sterling via Gareth as intermediary.
-- **Revenue**: +25 GP from Sterling party + standard adventurer fees.
-- **New Skill**: `[Market Manipulation]` → Level 2.
-
-### Chapter 49: The Response
-- **Deal Closed**: Gareth agreed to carry partnership proposal to Lord Sterling (35/65 revenue split).
-- **Finder's Fee**: Secret 5% commission to Gareth to ensure advocacy.
-- **New Threat Detected**: Adventurer Guild scouts conducting regulatory reconnaissance.
-- **Protocol Initiated**: "Regulatory Warfare" - compliance documentation, counter-surveillance, legal preparation.
-- **Current Status**: Awaiting Lord Sterling's response; preparing for Guild investigation.
-
-### Chapter 50: The Audit [ACT 1.2 FINALE]
-- **Weaponized Transparency**: Invited Guild investigators for official audit; overwhelmed them with documentation.
-- **Inspector Vorne**: Met Aldric Vorne (Level 12, Regulatory Affairs). Found no illegal activity.
-- **Vulnerability Discovered**: Sterling's permits are provisional; Guild can petition Crown to invalidate.
-- **Strategic Pivot**: Identified Crown Prince Aldric as next acquisition target.
-- **Act 1.2 Complete**: External Threats arc closed. Act 1.3 (Defense & Growth) begins.
+- **Market War**: Broke Alchemist Cartel monopoly using "Fire Sale" tactics and slime potions (Ch 38-41).
+- **Hostile Takeover**: Defeated Mercenary assault (Ch 42-44) and counter-hacked the Cartel's consultant (Ch 45).
+- **Audit Defense**: Turned a Merchant Guild investigation into a recruitment drive (hired Valerius) (Ch 46).
+- **Sterling Partnership**: Secured trade deal with House Sterling (Ch 47-49).
+- **Regulatory Win**: Passed Inspector Vorne's initial audit by exploiting a permit loophole (Ch 50).
 
 ### Chapter 51: The Crown Asset [ACT 1.3 START]
 - **Intelligence Gathering**: Briefed team on Crown Prince Aldric — idealistic, naive, believes system works.
@@ -155,7 +104,12 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Awakening**: Relived first moments in dungeon. Negotiated employment with Sniv while wounded.
 - **Full Integration**: Memory complete (100%). Psychological Efficiency +15%.
 - **Perspective**: Realized he wasn't saved; he was *recruited*.
-- **Current Status**: Flashback complete. Victor fully himself. Prince Aldric arrives in 4 hours.
+## Recent Developments (Chapter 56-59)
+
+- **Chapter 56 (Class Action)**: Blocked Guild's injunction to close dungeon by organizing adventurers into a "Class Action" lawsuit.
+- **Chapter 57 (Safety Audit)**: Hosted "Crimson Blades" audit team; filmed their vandalism to blackmail Vorne.
+- **Chapter 59 (The Settlement)**: Forced Vorne to sign a Settlement Agreement (6-month safety certificate) using the incriminating footage.
+- **Chapter 59 (Prince Arrives)**: Welcomed Crown Prince Aldric and High Priestess Aurelia to the prepared lobby.
 
 ---
 

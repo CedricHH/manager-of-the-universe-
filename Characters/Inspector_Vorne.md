@@ -66,7 +66,13 @@ Clipped, professional, bureaucratic:
 - Found no evidence of illegal activity (collusion, detention, tax evasion)
 - Discovered permit vulnerability: Sterling's territorial authority vs Guild's Crown jurisdiction
 - Departed with threat of Crown petition to invalidate permits
-- **Status**: Returning to Guild with findings; likely to file formal petition
+- **Status**: Compromised. Forced to certify Insolvia's safety to hide his own illegal kill order.
+
+## Recent Developments (Chapters 56-59)
+
+- **Injunction Failed**: Attempted to close dungeon legally; blocked by Victor's "Class Action" lawsuit (Ch 56).
+- **Code Red**: Ordered Crimson Blades to "Liquidate" Victor after failing to find violations. This order was recorded (Ch 57).
+- **The Settlement**: Forced to sign a 6-month Safety Compliance Certificate to prevent Victor from releasing the kill-order footage (Ch 59).
 
 ---
 
@@ -75,8 +81,8 @@ Clipped, professional, bureaucratic:
 | Aspect | Status |
 |--------|--------|
 | Initial | Professional investigator vs subject of investigation |
-| Current | Mutual respect but adversarial. Vorne found leverage. |
-| Future | Likely recurring antagonist in Guild Pressure arc |
+| Current | Compromised. Signed settlement under duress. Victor holds blackmail material. |
+| Future | Neutralized as direct threat, likely to avoid Insolvia to protect career. |
 
 ---
 
