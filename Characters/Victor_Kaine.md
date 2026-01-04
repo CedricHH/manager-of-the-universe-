@@ -104,7 +104,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Awakening**: Relived first moments in dungeon. Negotiated employment with Sniv while wounded.
 - **Full Integration**: Memory complete (100%). Psychological Efficiency +15%.
 - **Perspective**: Realized he wasn't saved; he was *recruited*.
-## Recent Developments (Chapter 56-67)
+## Recent Developments (Chapter 56-68)
 
 - **Chapter 56 (Class Action)**: Blocked Guild's injunction to close dungeon by organizing adventurers into a "Class Action" lawsuit.
 - **Chapter 57 (Safety Audit)**: Hosted "Crimson Blades" audit team; filmed their vandalism to blackmail Vorne.
@@ -117,6 +117,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 65 (The Extermination)**: Weaponized Crown Compliance (Roland) against the Bank by filing a complaint for "unlicensed magical constructs." Forced Malcom to negotiate: reduced mosquitoes by 80%, disabled extraction capability, waived 500 GP interest. Discovered dead mosquitoes contain 5 GP mana cores. Started mosquito breeding farm to turn Bank's surveillance into renewable resource. **Status**: Bank war escalated - Malcom declared it "personal."
 - **Chapter 66 (The Auditor)**: Bank sent hostile auditor (Thaddeus Crow) via Clause 89-F. Victor prepared perfect compliance documentation (500-page binder, medieval property law research). Weaponized compliance: zero violations found. Counterattacked by pitching "Loot Futures 2.0" (15,000 GP expansion loan) during the audit. Created bidding war threat (Bank of Sterling competitor). **Status**: Audit survived, second loan pending.
 - **Chapter 67 (The Counteroffer)**: Received competing offers from Gilded Ledger (4.5% APR, control clauses) and Bank of Sterling (4.0% APR, no restrictions). Analyzed concentration risk (Sterling family exposure). Negotiated with Malcom, reducing demands. Introduced third competitor (Merchant's Guild Bank) to create market competition. Received best offer: 3.8% APR, no strings. **Status**: Three-way bidding war active, meeting with Merchant's Guild scheduled.
+- **Chapter 68 (The Partnership)**: Met with Merchant's Guild (Guildmaster Voros Thane). Negotiated comprehensive partnership: 15,000 GP loan at 3.8% APR + exclusive transport rights with tiered fees (6-8%) + armed escorts + performance guarantees. Rejected Malcom and Sterling offers. Secured best financing deal in Oakhaven. **Status**: 15,000 GP capital acquired, Floor 5 development begins, Malcom enraged.
 
 ## Psychology & Traits
 
