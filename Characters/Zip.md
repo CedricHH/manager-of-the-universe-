@@ -39,3 +39,15 @@
 ## History
 
 - **Chapter 23**: Discovered hiding on Floor 2. Recruited by Victor after pitching fire trap designs. Promoted to Head of R&D.
+
+## Recent Developments (Chapter 26)
+
+- **Promotion**: Appointed as **Chief Technology Officer (CTO)**.
+- **Responsibility**: Head of Research & Development (traps, engineering).
+
+## Recent Developments (Chapter 31)
+
+- **Engineering Lead**: Designed extraction system for Floor 3 Mining Expansion (ore carts, rail tracks, support beams, sorting station).
+- **Project Success**: Infrastructure completed in 47h 32m with no structural failures; exceeded Victor's expectations.
+- **Major Discovery**: Found ancient sealed chamber (800+ years old, pre-dungeon origin) during excavation work.
+- **Protocol**: Reported anomaly to Victor immediately without touching the seal (proper safety procedure).

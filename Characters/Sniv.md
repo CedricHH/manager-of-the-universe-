@@ -11,7 +11,7 @@
 | Attribute | Value |
 |-----------|-------|
 | **Name** | Sniv |
-| **Title** | HR Director / "Employee #1" |
+| **Title** | Chief Operating Officer (COO) / "Employee #1" |
 | **Species** | Goblin (evolving to Hobgoblin) |
 | **Age** | Unknown (goblins don't count) |
 | **First Appearance** | Chapter 2 |
@@ -191,6 +191,24 @@ Broken common, learning corporate jargon:
 - **Operational Lead**: Served as the lead for the "Atmospheric Horror" unit during the first adventurer engagement.
 - **Trap Management**: Successfully executed the "Boulder Trap" and managed the synchronization of the Special Effects team.
 - **Employee Morale**: Observed the successful performance of Labor-15 and Guard-1 under "non-lethal" engagement rules.
+
+## Recent Developments (Chapter 24)
+
+- **Spy Team**: Created a "Reconnaissance Unit" of small goblins to watch human roads.
+- **Evolution**: Reached 42% Hobgoblin evolution.
+
+## Recent Developments (Chapter 26)
+
+- **Promotion**: Formally designated as **Chief Operating Officer (COO)** in the organizational chart.
+- **Recruitment**: Assisted in the hiring/contracting of Asterion.
+
+## Recent Developments (Chapter 31)
+
+- **Project Manager**: Assigned as Project Manager for Floor 3 Mining Expansion (48-hour timeline).
+- **Morale Reporting**: Reported employee burnout concerns to Victor; revealed Labor-9 crying from exhaustion.
+- **Policy Advocacy**: Suggested rotating rest days (1 day off per week) for goblin workforce.
+- **Emotional Moment**: Witnessed Victor implementing "vacation" (framed as "scheduled maintenance"); eyes shimmered with gratitude.
+- **Construction Success**: Executed Floor 3 expansion flawlessly—no injuries, no delays, completed 30 minutes early.
 
 ---
 

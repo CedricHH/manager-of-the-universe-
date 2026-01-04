@@ -11,7 +11,7 @@
 | Attribute | Value |
 |-----------|-------|
 | **Name** | Asterion |
-| **Title** | CSO / "Head of Security" |
+| **Title** | Chief Security Officer (CSO) |
 | **Species** | Minotaurus (Boss-class) |
 | **Age** | 247 years |
 | **First Appearance** | Chapter 5 |
@@ -172,6 +172,17 @@ Formal, measured, slightly archaic:
 - **The Guardian's Pact**: Signed a 30-day provisional contract. Terms: Protection in exchange for a "worthy opponent".
 - **The Handshake**: Accepted a human handshake, validating Victor as an equal (or at least, a partner).
 - **Ultimatum**: If Victor fails to deliver a Level 15+ party in 30 days, Asterion will liquidate the dungeon.
+
+## Recent Developments (Chapter 22)
+
+- **The Performance**: Fought the Silver Lance party. Dominated the engagement but adhered to the plan to let them survive for marketing purposes.
+- **Respect**: Gained respect for the Paladin's (Alara) divine power.
+
+## Recent Developments (Chapter 26)
+
+- **Promotion**: Signed a permanent employment contract as **Chief Security Officer (CSO)**.
+- **Benefits**: Negotiated dental coverage and respawn insurance.
+- **Loyalty**: Formally bound to the organization.
 
 ---
 

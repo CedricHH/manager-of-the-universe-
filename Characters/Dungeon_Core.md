@@ -10,7 +10,7 @@
 
 | Attribute | Value |
 |-----------|-------|
-| **Name** | Designation: Core-7749 / "The Tutorial" |
+| **Name** | **Nova** (formerly Core-7749) |
 | **Type** | Dungeon Core (Basic) |
 | **Age** | 312 years |
 | **Status** | Under New Management |
@@ -83,3 +83,34 @@ Including gods.
 ---
 
 **Version**: 1.0
+
+## Recent Developments (Chapter 26)
+
+- **Status**: Identified as "Legacy Infrastructure" in Passive Mode.
+- **Future**: Scheduled for "Awakening" by Victor to improve strategic output.
+
+## Recent Developments (Chapter 27)
+
+- **Awakening**: Status changed from **Passive** to **Active** after 847 years of dormancy.
+- **Personality**: Demonstrated resentment towards previous administrators. Intrigued by Victor's "Business Model".
+- **Contract**: Agreed to an "Equity Partnership" if Victor can increase profit by 50% in the next incursion.
+- **Revelation**: Revealed knowledge of the **Galactic Audit Consortium** and their "Elevated Observation" of Victor.
+
+## Recent Developments (Chapter 29)
+
+- **Revenue Test**: Observed Victor generating 35 GP from a single party without combat.
+- **Target Status**: "Equity Partnership" condition (50% increase) met and exceeded.
+
+## Recent Developments (Chapter 30)
+
+- **Identity**: Chose the name **Nova**.
+- **Role**: Promoted to "Operating Partner" and Equity holder.
+- **Upgrades**: Unlocked Tier 2 Spawning and Advanced Defensive Architecture.
+
+## Recent Developments (Chapter 31)
+
+- **Infrastructure Support**: Provided infrastructure upgrade options (Trap Automation, Monster Spawner, Mining Expansion, Defensive Grid).
+- **Revenue Dashboard**: Actively used by Victor for operational decisions.
+- **Mining Operations**: Supported Floor 3 expansion (47h 32m completion time); detected 7 mana crystals.
+- **Warning System**: Issued caution about ancient pre-dungeon structure (800+ years old, non-standard magical signature).
+- **Cash Position**: Dungeon holdings reduced to 40 GP after 70 GP infrastructure investment.

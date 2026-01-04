@@ -262,3 +262,41 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 
 **Version**: 1.1
 **Last Updated**: 2026-01-04
+
+## Recent Developments (Chapter 26)
+
+- **Organization**: Formalized the Dungeon's management structure (CEO Role).
+- **Hiring**: Promoted Sniv (COO), Zip (CTO), and Asterion (CSO).
+- **Strategy**: Decided to awaken the Dungeon Core to optimize operations (Phase 2).
+
+## Recent Developments (Chapter 27)
+
+- **Core Administrator**: Officially recognized by Core-7749. Paid 100 GP for activation.
+- **The Gamble**: Bet the Core a "Partnership" against a 50% profit increase in the next defense.
+- **Threat Level**: Alerted to "Elevated Observation" by the Galactic Audit Consortium.
+
+## Recent Developments (Chapter 28)
+
+- **Backstory Revealed**: Recalled the specific trauma of "Project Cobalt" (supply chain scandal causing 47 deaths/child labor).
+- **Core Motivation**: Established "No Kills" policy for the Iron Wolves run, driven by refusal to cause more deaths.
+- **Strategy**: Focused on psychological manipulation of the party (Gareth's ego, Mira's intellect).
+
+## Recent Developments (Chapter 29)
+
+- **Business Model**: Successfully implemented the "Pay-to-Play" model. Charged 20 GP entry + 15 GP up-sell.
+- **Revenue**: Generated 35 GP total (155% of baseline average).
+- **Philosophy**: Defined his past crime as "Passive Blindness"—trusting numbers without verifying human cost.
+
+## Recent Developments (Chapter 30)
+
+- **Ownership**: Recognized as **Majority Shareholder** of Insolvia Holdings.
+- **Partnership**: Formalized equity partnership with Nova (the Core).
+- **Consortium Status**: "Performance exceeds projections by 233%".
+
+## Recent Developments (Chapter 31)
+
+- **Infrastructure Investment**: Spent 70 GP on Trap Automation System (30 GP) and Floor 3 Mining Expansion (40 GP).
+- **Revenue Dashboard**: Utilized Nova's new Revenue Tracking Dashboard (unlocked in Ch 30).
+- **Morale Policy**: Implemented rotating rest schedule—4 crews, 6-day rotation, 1 day off per week per goblin.
+- **Character Evolution**: Recognized exploitative labor structure from his Earth past; chose efficiency that "looks like kindness."
+- **Discovery**: Found ancient sealed chamber (800+ years old) beneath Floor 3 during mining expansion; opened it despite warnings.
