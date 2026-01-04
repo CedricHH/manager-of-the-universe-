@@ -180,7 +180,9 @@ The card vibrated violently. A crack appeared in the table.
 > **Objection:** Autonomy requires Senior Partner status.
 > **Counter-Offer:** 35%. One audit per year.
 
-"Twenty percent," Victor countered, his nose beginning to bleed. The mental pressure was like a vice clamping down on his skull. "Twenty percent. And I get access to the **Galactic Exchange** immediately. No waiting period."
+"Twenty percent," Victor countered, his nose beginning to bleed. The mental pressure was like a vice clamping down on his skull. His veins burned hot—the molten gold in his blood reacting violently to the cold void magic of the contract.
+
+"Twenty percent. And I get access to the **Galactic Exchange** immediately. No waiting period."
 
 The card glowed blindingly white. The air in the carriage grew cold.
 

@@ -51,3 +51,4 @@ Vane serves as the gateway to Act 2. He recruits Victor to the Royal Capital to 
 - **Arrival**: Arrived at Dungeon Insolvia in the Imperial Carriage.
 - **Recruitment (Ch 80)**: Offered Victor a position as an Imperial Auditor to handle the northern territories. Hinted at 500k GP budget.
 - **Briefing (Ch 81)**: Briefed Victor on Project Valoria inside the obsidian carriage. Explained the Imperial Mana-Rail and the "Total Audit Atmosphere."
+- **The Departure (Ch 86)**: Witnessed the Spire Garden liquidation. Expressed relief that Victor is leaving Aethelgard. Accepted the tax revenue on the explosion (negotiated down to 20%). Validated Victor's exit strategy back to Oakhaven.
