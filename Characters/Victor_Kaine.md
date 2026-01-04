@@ -105,6 +105,14 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Protocol Initiated**: "Regulatory Warfare" - compliance documentation, counter-surveillance, legal preparation.
 - **Current Status**: Awaiting Lord Sterling's response; preparing for Guild investigation.
 
+### Chapter 50: The Audit [ACT 1.2 FINALE]
+- **Weaponized Transparency**: Invited Guild investigators for official audit; overwhelmed them with documentation.
+- **Inspector Vorne**: Met Aldric Vorne (Level 12, Regulatory Affairs). Found no illegal activity.
+- **Vulnerability Discovered**: Sterling's permits are provisional; Guild can petition Crown to invalidate.
+- **Strategic Pivot**: Identified Crown Prince Aldric as next acquisition target.
+- **Act 1.2 Complete**: External Threats arc closed. Act 1.3 (Defense & Growth) begins.
+- **Current Status**: Preparing to secure Crown support before Guild petition arrives.
+
 ---
 
 ## Psychology & Traits
