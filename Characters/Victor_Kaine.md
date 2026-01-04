@@ -126,7 +126,17 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **The Decision**: Made first decision with negative personal ROI — walked to server room to download final evidence.
 - **Server Room**: Six months of secret file copying. Final download interrupted by footsteps.
 - **Sniv Revelation**: Goblin admitted to listening when Victor talks in sleep; knows about "server room."
-- **Current Status**: Flashback continues in Chapter 53. Preparing for Crown Prince arrival.
+
+### Chapter 53: The Selfless Act (Part 2) [FLASHBACK CONTINUED]
+- **Download Complete**: Progress bar reached 100% as security guard passed by server room door.
+- **Near Miss**: Flashlight swept under door; Victor hidden behind server rack.
+- **Escape Route**: Pre-planned ventilation shaft exit; memorized route to loading dock.
+- **The Drive**: 43-minute night drive to lawyers' office. Folder of 47 faces on passenger seat.
+- **Internal State**: Expected fear or righteousness; felt nothing. "Just math."
+- **15% Survival**: Calculated survival probability; accepted the outcome as optimal reallocation.
+- **Present Day**: Team briefing for Crown Prince. Victor wonders if he'd die for his employees again.
+- **ARMI Warning**: Memory integration 68% complete; avoiding final segments (Delivery, Death).
+- **Current Status**: Flashback continues in Chapter 54. Prince arrives in 68 hours.
 
 ---
 
