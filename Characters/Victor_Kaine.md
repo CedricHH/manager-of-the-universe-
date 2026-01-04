@@ -87,7 +87,17 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Defense Strategy**: Successfully repelled 40 mercenaries using environmental hazards (Acid Slimes) and a goblin shield wall.
 - **Cyber-Warfare**: The enemy used "Mana Spikes" to jam the Core. Victor is attempting a "Hostile Takeover" counter-hack on the signal.
 
+### Chapter 45-46: Counter-Offer & Due Diligence
+- **Bureaucratic Overload**: Reverse-hacked Alchemist Cartel's consultant.
+- **Merchant Guild Audit**: Turned "Zoning Violation" threat into recruitment; hired Valerius as double agent.
 
+### Chapter 47-48: The Revenue Stream & The Whale
+- **Entry Fee System**: Implemented "Site Preservation Donation" (5 silver per adventurer). First commercial transactions.
+- **Whale Processing**: Charged Sir Gareth of House Sterling 15 GP (entry + Floor 3 access).
+- **Partnership Expansion**: Proposed "vertical monopoly" of Eastmarch adventurer economy to House Sterling via Gareth as intermediary.
+- **Revenue**: +25 GP from Sterling party + standard adventurer fees.
+- **New Skill**: `[Market Manipulation]` → Level 2.
+- **Current Status**: Awaiting Lord Sterling's response to partnership proposal.
 
 ---
 

@@ -114,4 +114,22 @@ Sterling becomes a recurring nuisance—always trying to escape his debt, always
 
 **Relationship Status**: Professional partnership (temporary alignment of interests, not trust)
 
-**Version**: 1.0
+## Recent Developments (Chapter 47-48)
+
+**Reconnaissance Mission**:
+- Sent nephew **Sir Gareth** to Insolvia dungeon with 6-person party
+- Purpose: Evaluate Victor's operation and the Dungeon Core (Nova)
+- Result: Gareth paid 15 GP and returned with partnership expansion proposal
+
+**Pending Proposal from Victor**:
+- "Vertical monopoly" of Eastmarch adventurer economy
+- Includes: Training facilities, equipment certification, exclusive dungeon access, loot appraisal services
+- Projected value: 10,000 GP annual revenue stream
+- **Status**: Awaiting Lord Sterling's response
+
+**Family Note**: Gareth is Sterling's nephew, expendable but useful for reconnaissance
+
+---
+
+**Version**: 1.1
+**Last Updated**: 2026-01-04
