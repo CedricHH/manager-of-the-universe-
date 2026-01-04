@@ -96,3 +96,13 @@
 - **Exit Excitement**: After partnership signed, emerged with condensed enthusiasm: "Boss make deal! Many synergies!"
 - **Corporate Learning**: Self-corrected "synergy" to "synergies" when Victor prompted; internalizing business terminology.
 - **Performance Success**: Successfully fulfilled merchant assistant role requirements; demonstrated significant discipline improvement from Chapter 34-35.
+
+## Recent Developments (Chapter 37)
+
+- **Oakhaven Excitement**: First reaction to city: "Big city! Many buildings! Much commerce!" before being reminded to stay in bag.
+- **Discipline Continuation**: Stayed quiet in bag during waypoint location inquiry and Temple Street navigation.
+- **Waypoint Activation**: Remained silent throughout entire Consortium upgrade sequence; demonstrated complete professionalism.
+- **Surveillance Awareness**: Detected professional watcher independently: "Zip detect... someone watching?"
+- **Cover Maintenance**: Understood Victor's "just merchants" instruction; internalized need for continued discretion.
+- **Inn Arrival**: Released at The Silver Standard; immediately excited about city opportunities ("Many opportunities! Much—").
+- **Corporate Enthusiasm**: Natural inclination toward "synergies" shows terminology integration; Victor's training taking effect.

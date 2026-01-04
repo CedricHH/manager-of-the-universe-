@@ -349,7 +349,7 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 
 ## Recent Developments (Chapter 36)
 
-- **Sterling Manor Arrival**: Analyzed estate economics using ARMI - capital rich, cash poor, aging infrastructure, minimal staff, zero innovation investment.
+- **Sterling Manor Arrival**: Analyzed estate economics using ARMI - capital rich, cash poor, aging infrastructure, minimal staff administration, zero innovation investment.
 - **Power Play Observation**: Subjected to 40-minute wait; used time to assess Sterling's financial condition through visible account ledgers and furnishings.
 - **First Meeting - Lord Sterling**: Met competent professional (Level 18-20, mid-40s, military bearing, risk-averse executive type).
 - **Business Negotiation**: Proposed 20% licensing partnership for managed dungeon operations; Sterling countered at 30%, settled at 20% with performance bonus clause.
@@ -359,3 +359,17 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 - **Partnership Signed**: Six-month provisional agreement executed - 20% gross revenue to Sterling, operational autonomy, quarterly reporting, audit rights.
 - **Permits Acquired**: Legitimate operating permits issued with Sterling's territorial endorsement; Merchant Guild licensing expedited.
 - **Competence Display**: Negotiation mastery, contingency planning from Earth lessons, contract preparation, professional courtesy between equals.
+
+## Recent Developments (Chapter 37)
+
+- **Oakhaven Entry**: Entered regional trade hub (12,000+ population); analyzed infrastructure quality (73% - paved roads, sewage, street lighting).
+- **City Assessment**: ARMI classified as "viable commercial ecosystem" with excellent opportunity rating; multiple guild halls, active markets detected.
+- **Waypoint Located**: Found abandoned Consortium office (Temple Street, church district); dormant for century+, automated systems still functional.
+- **Level 2 Upgrade**: Activated black card at waypoint; received Restructurer Level 2 authorization.
+- **Extended ARMI Functions**: Upgraded to 500m environmental scan range (vs 50m), financial projection modeling, contract binding to Level 15 targets, remote dungeon monitoring.
+- **New Skill Unlocked**: [Asset Liquidation] - convert immobilized targets directly to Gold Pieces (instant capital extraction).
+- **Encrypted Files**: Unlocked 2 of 3 files (Operations Manual + Terra-Insolvia Economic History); File 3 requires Level 5.
+- **Consortium Surveillance**: Status report transmitted - location, dungeon performance (+340% baseline), "EXCEEDING EXPECTATIONS" assessment.
+- **90-Day Audit Deadline**: Quarterly Consortium audit scheduled; concrete timeline for infrastructure building before direct oversight.
+- **Professional Surveillance Detected**: Unknown watcher (Level 15-18, stealth-focused) observed waypoint activation; information gathering, not hostile.
+- **Cover Maintained**: Checked into The Silver Standard inn (merchant quarter); maintaining traveling merchant identity with institutional connections.
