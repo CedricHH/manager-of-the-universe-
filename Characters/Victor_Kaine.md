@@ -300,3 +300,14 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 - **Morale Policy**: Implemented rotating rest schedule—4 crews, 6-day rotation, 1 day off per week per goblin.
 - **Character Evolution**: Recognized exploitative labor structure from his Earth past; chose efficiency that "looks like kindness."
 - **Discovery**: Found ancient sealed chamber (800+ years old) beneath Floor 3 during mining expansion; opened it despite warnings.
+
+## Recent Developments (Chapter 32)
+
+- **Vault Breach**: Spent 10 GP to open ancient seal (2,000+ years old, pre-Consortium era).
+- **Major Discovery**: Found Restructurer #1's vault containing skeleton, journal, crystal archive, and sealed containers.
+- **Consortium Revelation**: Learned the truth—Consortium doesn't save worlds, it *harvests* them. Restructurers are sent to "prepare the crop."
+- **Restructurer #1's Warning**: Read final report documenting failed rebellion; #1 tried to expose Consortium and was abandoned to die.
+- **Asset Acquisition**: Catalogued vault contents (50 GP armor salvage, crystal archive, journal, 3 sealed containers).
+- **Black Card**: Found Consortium Priority Asset Transfer Notice—triggered external scan, Consortium is aware Victor found it.
+- **Strategic Decision**: Declared intention for "hostile takeover" of the Galactic Audit Consortium.
+- **Cash Position**: 30 GP remaining after seal breach.

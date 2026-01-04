@@ -180,9 +180,16 @@ Formal, measured, slightly archaic:
 
 ## Recent Developments (Chapter 26)
 
-- **Promotion**: Signed a permanent employment contract as **Chief Security Officer (CSO)**.
-- **Benefits**: Negotiated dental coverage and respawn insurance.
-- **Loyalty**: Formally bound to the organization.
+- **Formal Employment**: Signed 30-day probationary contract as Chief Security Officer (CSO).
+- **Organizational Structure**: Integrated into Victor's management hierarchy with defined role.
+- **Compensation**: 10 GP signing bonus + equity stake in future profits (instead of tribute/death).
+
+## Recent Developments (Chapter 32)
+
+- **Vault Exploration**: Accompanied Victor into ancient sealed chamber as security.
+- **Combat Readiness**: Maintained defensive posture throughout vault exploration.
+- **Philosophical Observation**: Questioned Victor's reaction to Consortium revelation: "You just learned your employers are cosmic parasites, and you're... looting?"
+- **Asset Transport**: Assigned to coordinate with Sniv for careful extraction of vault contents (armor, archive, sealed containers).
 
 ---
 

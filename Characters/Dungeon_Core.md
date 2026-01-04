@@ -114,3 +114,11 @@ Including gods.
 - **Mining Operations**: Supported Floor 3 expansion (47h 32m completion time); detected 7 mana crystals.
 - **Warning System**: Issued caution about ancient pre-dungeon structure (800+ years old, non-standard magical signature).
 - **Cash Position**: Dungeon holdings reduced to 40 GP after 70 GP infrastructure investment.
+
+## Recent Developments (Chapter 32)
+
+- **Vault Uncertainty**: Confirmed vault structure predates Nova's creation by 1,700 years; was built on top of it.
+- **Memory Gaps**: Revealed that prior administrators never documented the vault; Consortium maintenance protocols include "selective deletions."
+- **Existential Crisis**: Upon learning about Consortium harvest operation, questioned own programming: "PERHAPS I WAS DESIGNED NOT TO KNOW THIS."
+- **Structural Analysis**: Unable to analyze pre-Consortium era magic; ancient systems incompatible with current ARMI protocols.
+- **Dungeon Reserves**: 30 GP remaining after Victor spent 10 GP on seal breach.
