@@ -104,7 +104,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Awakening**: Relived first moments in dungeon. Negotiated employment with Sniv while wounded.
 - **Full Integration**: Memory complete (100%). Psychological Efficiency +15%.
 - **Perspective**: Realized he wasn't saved; he was *recruited*.
-## Recent Developments (Chapter 56-69)
+## Recent Developments (Chapter 56-70)
 
 - **Chapter 56 (Class Action)**: Blocked Guild's injunction to close dungeon by organizing adventurers into a "Class Action" lawsuit.
 - **Chapter 57 (Safety Audit)**: Hosted "Crimson Blades" audit team; filmed their vandalism to blackmail Vorne.
@@ -119,6 +119,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 67 (The Counteroffer)**: Received competing offers from Gilded Ledger (4.5% APR, control clauses) and Bank of Sterling (4.0% APR, no restrictions). Analyzed concentration risk (Sterling family exposure). Negotiated with Malcom, reducing demands. Introduced third competitor (Merchant's Guild Bank) to create market competition. Received best offer: 3.8% APR, no strings. **Status**: Three-way bidding war active, meeting with Merchant's Guild scheduled.
 - **Chapter 68 (The Partnership)**: Met with Merchant's Guild (Guildmaster Voros Thane). Negotiated comprehensive partnership: 15,000 GP loan at 3.8% APR + exclusive transport rights with tiered fees (6-8%) + armed escorts + performance guarantees. Rejected Malcom and Sterling offers. Secured best financing deal in Oakhaven. **Status**: 15,000 GP capital acquired, Floor 5 development begins, Malcom enraged.
 - **Chapter 69 (The Volcano)**: Purchased Floor 5 (Volcanic Biome) for 8,000 GP. Analyzed monster options via ARMI. Hired dragon boss: Ignatia "Iggy" the Ember Tyrant (5,000 GP + 100 GP/month + 20% loot). Capital reserves critical at 2,000 GP. Scenario planning shows 10-week bankruptcy window if Floor 5 fails. **Status**: Floor 5 operational, 3-day stress test scheduled, Malcom monitoring for bankruptcy.
+- **Chapter 70 (The Stress Test)**: Crimson Blades stress-tested Floor 5. Dragon fight successful (3-phase combat, party impressed). Feedback: 9-10/10 scores. Economics: 124 GP/run insufficient. Innovated "Ember Trials" tournament concept: weekly competitive runs, leaderboards, 500 GP prize, spectator tickets, sponsorships. Revenue model: 1,500 GP/week vs 620 GP/week. **Status**: Tournament launching, Floor 5 validated.
 
 ## Psychology & Traits
 
