@@ -386,3 +386,15 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 - **Previous Restructurer Mystery**: Discovered another Restructurer arrived 16 years ago, disappeared after 3 months under unknown circumstances.
 - **Threat Assessment**: Cartel will retaliate with legal challenges, sabotage, potentially hired accidents when Victor disrupts pricing.
 - **Strategic Position**: 90 days to Consortium audit, 2 weeks to Guild documentation, economic war imminent with Cartel.
+
+## Recent Developments (Chapter 39)
+
+- **Market Analysis**: ARMI mapped Cartel monopoly (650-700% markup, 87% market control, 82% profit margin, 180K GP annual revenue).
+- **Production Order**: Increased dungeon slime core production 400% via remote ARMI link; 72-hour delivery timeline.
+- **Market Stall Established**: Rented mid-tier stall; priced 65%+ below Cartel (5 GP vs 15 GP health potions).
+- **First Day Results**: Sold 38 potions, 228 GP revenue, 160 GP profit, 4 hours; Cartel lost 70% customers same period.
+- **Cartel Confrontation**: Alchemist Guild rep threatened legal action ("illegal dumping"); Victor countered with documented profit margins.
+- **Professional Sabotage**: Stall destroyed overnight (inventory smashed, signage burned, "LEAVE WHILE YOU CAN" painted); hired thugs confirmed.
+- **Evidence Collection**: ARMI scanned damage/threats at litigation quality; submitted to Elena Cross for Guild arbitration.
+- **Legal Warfare**: Guild Council meeting scheduled (10 AM next day); protection assigned to Victor's operations.
+- **Market Impact**: Projected 28-34% Cartel market share loss within 2 weeks; 50K+ GP annual revenue impact; 94% escalation probability.
