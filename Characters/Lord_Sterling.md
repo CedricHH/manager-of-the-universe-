@@ -77,4 +77,21 @@ Sterling becomes a recurring nuisance—always trying to escape his debt, always
 
 ---
 
+## Recent Developments (Chapter 35)
+
+**Note**: Lord Sterling introduced indirectly through his economic systems before direct appearance.
+
+- **Toll Station System**: Victor encountered Sterling's bridge toll (10 GP merchant rate); identified extractive revenue model.
+- **Business Model Analysis**: Sterling operates dungeon licensing monopoly - all dungeon-sourced goods require permits.
+- **Professional Enforcers**: Two Level 9-10 fighters intercepted Victor for unlicensed slime core sales.
+- **Economic Control**: Sterling controls trade routes, dungeon access, and infrastructure bottlenecks in Oakhaven region.
+- **Victor's Assessment**: Extractive model (rent-seeking), inefficient operations, vulnerable to competitive disruption.
+- **Business Meeting**: Victor negotiated "guest" status using mana crystal demonstration; heading to Sterling Manor.
+- **Current Status**: Victor en route under armed escort for business opportunity discussion (Chapter 36).
+
+**Sterling's Strengths**: Professional enforcement, dungeon monopoly, territorial authority, established infrastructure
+**Sterling's Weaknesses**: Zero innovation, labor-intensive model, inefficient toll systems, extractive vs. productive mindset
+
+---
+
 **Version**: 1.0

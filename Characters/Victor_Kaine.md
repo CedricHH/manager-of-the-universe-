@@ -333,3 +333,16 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 - **Surface Departure**: Left dungeon for first time since resurrection; experienced sunlight, open sky, natural environment.
 - **Oakhaven Expedition**: Departed with Zip toward Consortium waypoint (2.7 days travel northeast) to claim authority upgrade.
 - **Strategic Positioning**: Fully aware of Consortium surveillance risk (87% monitoring probability); proceeding to weaponize compliance.
+
+## Recent Developments (Chapter 35)
+
+- **Surface Travel (Day 1-2)**: Completed first two days of Oakhaven journey; analyzed infrastructure decay and economic misallocation.
+- **Merchant Network**: Established contact with Halric Voss (Merchant Guild Associate, Oakhaven Chapter); potential wholesale buyer for dungeon goods.
+- **Lord Sterling Analysis**: Encountered Sterling's toll station (10 GP merchant rate); identified extractive governance model, protection racket structure, dungeon monopoly system.
+- **Economic Assessment**: Used ARMI to analyze Sterling's vulnerabilities: inefficient checkpoints, rent-seeking behavior, zero innovation, labor-intensive enforcement.
+- **Dungeon Permit Crisis**: Confronted by Sterling's enforcers about unlicensed dungeon goods; lacked required permits (regulatory gap in Nova's documentation).
+- **Tactical Ground Selection**: When followed, chose tactical clearing for confrontation; demonstrated strategic thinking under pressure.
+- **Negotiation Mastery**: Transformed arrest situation into business consultation using mana crystal (100 GP value) + black card flash demonstration.
+- **Sterling Manor Route**: Successfully negotiated "guest" status with armed escort; heading to Lord Sterling for business opportunity discussion.
+- **Current Assets**: 40 GP remaining (after 10 GP toll), premium mana crystals, black Consortium card, merchant credibility established.
+- **Competence Display**: Demonstrated crisis management, bluff technique (truth + misdirection), incentive analysis, tactical social engineering.

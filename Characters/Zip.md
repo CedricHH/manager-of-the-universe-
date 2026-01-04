@@ -78,3 +78,13 @@
 - **Travel Method**: Transported in travel bag (theatrical entry, struggle with silence requirement).
 - **Surface Reaction**: Witnessed open sky for first time; exclaimed "Zip see sky! Sky very big!" before being silenced.
 - **Destination**: 2.7 days travel to Oakhaven as Victor's merchant assistant.
+
+## Recent Developments (Chapter 35)
+
+- **Travel Experience**: Transported in bag for Day 1-2 of Oakhaven journey; complained about bag ergonomics, promised to design better version.
+- **Discipline Progress**: Maintaining mostly-quiet status in bag; occasional observations ("Zip see trees! Very tall!") before being silenced.
+- **Merchant Rest Stop**: Released for meal break at roadside station; stretched, complained about cramping, ate rations.
+- **Corporate Mimicry**: Used phrases "networking" and "synergies" after observing Victor's merchant contact (Halric Voss).
+- **Confrontation Witness**: Present (in bag) during Victor's encounter with Sterling's enforcers; maintained silence during crisis.
+- **Sterling Manor Route**: Traveling with Victor as "quiet assistant" to Lord Sterling's estate under armed escort.
+- **Professional Role**: Successfully maintaining merchant assistant cover despite challenges with silence requirement.
