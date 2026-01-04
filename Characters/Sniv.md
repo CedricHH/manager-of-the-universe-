@@ -217,6 +217,16 @@ Broken common, learning corporate jargon:
 - **Performance Stakes**: Success = equity options discussion; Failure = severance package discussion.
 - **Emotional Response**: "Sniv not fail! Sniv make Boss proud!" (clutching clipboard like life raft).
 
+## Recent Developments (Chapter 34)
+
+- **Operational Authority Confirmed**: Formally delegated full operational control during Victor's absence (1 week maximum).
+- **Iron Wolves Protocol**: Assigned to manage scheduled adventurer party return (4 days); charge 20 GP entry + 15 GP Floor 3 access.
+- **Emotional Revelation**: Verbally expressed loyalty beyond transaction: "Boss is... good Boss... Sniv want Boss safe."
+- **Personal Growth**: Articulated value of Victor's management style vs. previous abuse ("Other bosses hit Sniv. Take Sniv food").
+- **Concern Display**: Asked Victor directly if he would return; received reassurance through investment-protection framing.
+- **Management Validation**: Recognized transformation from starvation survival to operational competence: "Sniv brain work now."
+- **Asterion's Observation**: Minotaur noted Sniv's absolute loyalty: "He would die for you."
+
 ---
 
 **Version**: 1.1

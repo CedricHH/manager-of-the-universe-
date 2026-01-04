@@ -67,3 +67,14 @@
 - **Corporate Learning**: Used phrase "growth opportunities" correctly (mimicking Victor's language).
 - **R&D Task**: Assigned to create professional labels for potion merchant cover story.
 - **Duration**: 1 week trip to Oakhaven and back.
+
+## Recent Developments (Chapter 34)
+
+- **Forgery Assignment**: Tasked with creating professional potion labels (vials: health potions, stamina tonics, antidotes).
+- **Label Production**: Designed "convincing" merchant labels using dungeon-sourced ingredients (slime extract, mushroom concentrates, purified water).
+- **Travel Briefing**: Instructed on city behavior protocols: minimal talking, no stealing shiny items, maintain professional merchant assistant role.
+- **Behavioral Agreement**: Agreed to "performance-based severance" threat if stealing occurs; promised not to steal despite temptation.
+- **Surface Departure**: Left dungeon with Victor via hidden kobold-engineered access shaft; first external mission.
+- **Travel Method**: Transported in travel bag (theatrical entry, struggle with silence requirement).
+- **Surface Reaction**: Witnessed open sky for first time; exclaimed "Zip see sky! Sky very big!" before being silenced.
+- **Destination**: 2.7 days travel to Oakhaven as Victor's merchant assistant.
