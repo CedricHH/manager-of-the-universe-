@@ -2,7 +2,7 @@
 
 ## 1. Overview
 - **Chapter**: 63 - The Gilded Ledger
-- **Word Count**: ~1,500
+- **Word Count**: 1182 [UNDER TARGET]
 - **Status**: [PENDING]
 
 ## 2. Qualitative Analysis
