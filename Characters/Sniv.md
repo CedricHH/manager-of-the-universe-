@@ -136,24 +136,30 @@ Broken common, learning corporate jargon:
 
 ---
 
-## Current Status (as of Chapter 6)
+| **Current Status** | Managing the Merit Points tracker and Mining Team - Ch 9 |
+| **Level** | 1 |
+| **HP** | 12/12 |
+| **Location** | Tutorial Dungeon, Floor 5 (Command) |
+| **Condition** | Developing (Evolution 18%), Loyalty: UNBREAKABLE |
+| **Position** | HR Manager / "Director of Human Resources" |
 
-| Attribute | Value |
-|-----------|-------|
-| Level | 2 |
-| HP | 12/12 (fully recovered) |
-| Location | Tutorial Dungeon, Floor 5 (Boss Chamber) |
-| Condition | Fed, managing operations |
-| Loyalty | STABLE (94%) |
-| Position | HR Manager / Chief Operations Officer |
+### Recent Developments (Chapter 2)
 
-### Recent Developments (Chapter 5)
+- **Recruitment**: Hired by Victor Kaine after being offered a "deal" (food and safety).
+- **First Meal**: Received first full ration without having to fight for it.
+- **First Assignment**: Tasked with conducting a full census of Floors 1-3.
 
-- **Role Assigned**: Inventory Management (Counting jellies).
-- **First Task**: Managed the goblin "shift work" and food rationing.
-- **Organization**: Showed aptitude for counting and hierarchy.
+## Recent Developments (Chapter 3)
 
-### Recent Developments (Chapter 6)
+- **Census Completion**: Successfully completed the audit of Floors 1-3, identifying hostile tribes, resources, and threats.
+- **Reporting**: Delivered the first formal report to the Manager; received a "Satisfactory" performance review.
+- **Operational Risk**: Reported rising hunger levels within the goblin pack, triggering the expedition to Floor 2.
+
+## Recent Developments (Chapter 4)
+
+- **Field Ops**: Successfully led a harvest party to the Fungal Gardens (Floor 2).
+- **Quality Assurance**: Acted as the designated taste-tester for Slime Jelly; survived the experience, cementing loyalty to the "Boss."
+- **Combat Coordination**: Executed the first "Funnel" kill on a Slime under Victor's direction.
 
 - Formally promoted to "Manager" role
 - Now manages 3 department leads (Food, Guard, Labor)
@@ -161,6 +167,30 @@ Broken common, learning corporate jargon:
 - Carries clipboard and wears tie as status symbols
 - Reports workforce updates and census data to Victor
 - Instrumental in identifying Floor 3 expansion target
+
+## Recent Developments (Chapter 7)
+
+- **Diversion Specialist**: Successfully executed a "Di-ver-sion" at the south entrance of the Floor 3 chamber, drawing away half the hostile force.
+- **Onboarding Lead**: Assumed responsibility for the processing and health assessment of 12 new feral hires.
+- **HR Title**: Formally embraced the title of "HR" (Human Resources).
+
+## Recent Developments (Chapter 08)
+
+- **Employee Accounting**: Executed the first comprehensive "Onboarding Census" for the 12 new hires, assigning labor/guard designations.
+- **Loyalty Feedback**: Confirmed absolute trust in the Boss, distinguishing it from the fear shown by feral recruits.
+- **Policy Execution**: Appointed to manage the "Veterans Tier" double-ration distribution.
+
+## Recent Developments (Chapter 09)
+
+- **Data Management**: Implemented the "Merit Point" spreadsheet on stone, tracking productivity and behavioral metrics for all 26 units.
+- **Physical Evolution**: Reached 18% evolution toward Hobgoblin status; observed significant increases in height and cognitive clarity due to managed nutrition.
+- **Strategic Exploration**: Accompanied the Manager to Floor 3 to investigate the Silver Dawn remains and the iron vein.
+
+## Recent Developments (Chapter 14)
+
+- **Operational Lead**: Served as the lead for the "Atmospheric Horror" unit during the first adventurer engagement.
+- **Trap Management**: Successfully executed the "Boulder Trap" and managed the synchronization of the Special Effects team.
+- **Employee Morale**: Observed the successful performance of Labor-15 and Guard-1 under "non-lethal" engagement rules.
 
 ---
 

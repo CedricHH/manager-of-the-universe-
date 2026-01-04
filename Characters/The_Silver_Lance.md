@@ -1,7 +1,7 @@
 # The Silver Lance - Adventurer Party
 
 > **Type**: Adventurer Party (Rank: Steel/Mid-Level)
-> **Status**: Active (Fled Dungeon)
+> **Status**: Active (Invading Floor 1 - Chapter 19)
 > **Introduced**: Chapter 15
 
 ---
@@ -14,6 +14,8 @@
 | **Lysa** | Elf | Cleric (Healer) | 10 | Senses mana/magic. |
 | **Finn** | Halfling | Rogue (Scout) | 11 | trap disarming, stealth. |
 | **Kaelie** | Human | Fire Mage (DPS) | 13 | Identify spells, high burst damage. |
+| **Bron** | Human (North) | Berserker (DPS) | 14 | Heavy DPS, rage mechanics. New Recruit (Ch 19). |
+| **Sister Alara** | Human | Paladin (Tank/Healer) | 15 | Evaluation, Smite, high defense. New Recruit (Ch 19). |
 
 ---
 

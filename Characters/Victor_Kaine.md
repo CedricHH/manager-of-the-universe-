@@ -13,7 +13,7 @@
 | **Title** | "The Chainsaw" / Restructurer #8940 |
 | **Age** | 42 (at death) |
 | **Origin** | Earth (Modern Era) |
-| **Cause of Death** | Heart attack during video conference |
+| **Cause of Death** | Assassination (Covered up as Heart Attack) |
 | **Current Status** | Consolidating Floor 3; managing 26-goblin workforce - Ch 7 |
 
 ---
@@ -36,13 +36,11 @@ This cemented his worldview: **Loyalty is weakness. Only control guarantees secu
 
 ### The Aftermath (Hidden Depth)
 
-After the betrayal, Victor was a man without purpose. No company would hire "The Chainsaw" now—he was toxic. For six months, he existed in a luxury apartment, drinking expensive whiskey and calculating the exact monetary value of his wasted potential.
+After the betrayal, Victor was a man without purpose. No company would hire "The Chainsaw" now—he was toxic. For six months, he existed in a luxury apartment, drinking expensive whiskey.
 
-Then he discovered something.
-
-The scandal that destroyed him? It was real. The raw materials—conflict minerals from a war zone. Children had died in those mines. His optimizations had increased production quotas, which had increased the body count.
-
-He had never asked where the materials came from. It wasn't in the spreadsheet.
+**Project Cobalt**: The scandal that destroyed him involved conflict minerals from the Congo. Victor discovered that his "Supply Chain Optimization Directive" had led to forced labor and a mine collapse.
+- **Casualties**: 47 dead. 12 children.
+- **Victor's Role**: He didn't know, but he signed the orders. He was the "Gun," not the shooter. But he felt the weight of the bullet.
 
 ### The One Selfless Act
 
@@ -56,17 +54,13 @@ Then he went to the company headquarters. Not to confront anyone. To retrieve th
 
 He made it to the server room. He copied the data.
 
-The security guard who found him was a 23-year-old kid working his way through college. Victor could have incapacitated him easily. Instead, he raised his hands. "Just let me walk out with this drive. Please."
-
-The kid called for backup. In the chaos, Victor suffered a massive heart attack—stress, years of 80-hour weeks, too much caffeine and too little sleep finally catching up.
-
-His last thought, as he collapsed holding the hard drive, was strange. Not annoyance at an "unproductive exit." Something quieter.
+The security guard didn't find him. A man in a black SUV did.
+Victor was shot outside the server farm after handing the drive to Sarah.
+He didn't feel pain. He felt... completion.
 
 *Worth it.*
 
-He died in a corporate hallway, clutching evidence that would eventually lead to three executives' imprisonment and $2.3 billion in reparations.
-
-No one knew he was the source. The journalists protected him. His obituary mentioned only the scandal that destroyed his career, not the redemption that followed.
+He died in the rain. The official report said "Heart Attack." The bullet hole was lost in the cremation order paid for by the company.
 
 ### Why the System Chose Him
 
@@ -235,7 +229,22 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 - **Asset Acquisition**: Gained a Level 25 Boss Monster as a "General" (Hammer).
 - **Skill Usage**: Used [Performance Review] on a Boss class entity; identified "Boredom" as the critical weakness.
 
+## Recent Developments (Chapter 17)
+
+- **Contract Activation**: Signed `[The Guardian's Pact]` with Asterion (30-day deadline).
+- **New Strategy**: Initiated "Operation Headhunt" (Marketing Campaign) to draw high-level adventurers.
+- **Resource Audit**: Confirmed total liquid assets = 3 Copper Coins.
+- **Character Moment**: First feeling of genuine "Ownership" of the dungeon ("This is my mess").
+
 ---
 
-**Version**: 1.0
-**Last Updated**: 2026-01-02
+## Recent Developments (Chapter 18)
+
+- **Backstory Confirmation**: Recalled the "Project Cobalt" disaster (47 deaths). Confirmed this guilt is what drives his moral shift in the dungeon.
+- **Policy Shift**: Implemented "Less Lethal" traps (Mud pits, Logs) to avoid unnecessary kills.
+- **Rationalization**: "Dead adventurers don't talk. Injured ones spread rumors." (Marketing > Murder).
+
+---
+
+**Version**: 1.1
+**Last Updated**: 2026-01-04

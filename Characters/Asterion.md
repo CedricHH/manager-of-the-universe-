@@ -159,13 +159,19 @@ Formal, measured, slightly archaic:
 |-----------|-------|
 | Level | 25 |
 | Location | Floor 4 Boss Chamber |
-| Condition | **Recruited** (General/Hammer). Bound by Contract. Boredom cured. |
+| Condition | **Contracted** (Provisional Ally). Bound by [The Guardian's Pact]. |
 
 ## Recent Developments (Chapter 16)
 
 - **Recruitment**: Accepted Victor's offer to become a "General" instead of a guard dog.
 - **The Pitch**: Convinced by the promise of "war" and relevant challenges rather than gold.
 - **Role Change**: Agreed to stop killing weak adventurers and instead "break" them for marketing purposes.
+
+## Recent Developments (Chapter 17)
+
+- **The Guardian's Pact**: Signed a 30-day provisional contract. Terms: Protection in exchange for a "worthy opponent".
+- **The Handshake**: Accepted a human handshake, validating Victor as an equal (or at least, a partner).
+- **Ultimatum**: If Victor fails to deliver a Level 15+ party in 30 days, Asterion will liquidate the dungeon.
 
 ---
 
