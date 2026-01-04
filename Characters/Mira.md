@@ -25,3 +25,15 @@ Ex-adventurer hired by the Merchant Guild. Specializes in truth-sensing and envi
 - **Hiring**: Assigned to Victor's detail by Guild contract.
 - **Action**: Used detection magic to analyze the market fire (confirmed likely arson).
 - **Insight**: Recognized Victor's intelligence and ruthlessness immediately.
+
+## Recent Developments (Chapter 41)
+- **Combat**: Used *Shockwave* to disable Cartel thugs non-lethally.
+
+## Recent Developments (Chapter 42)
+- **Insight**: Realized the meeting at the Spire was a trap/screening.
+
+## Recent Developments (Chapter 43)
+- **The Reveal**: Entered the Dungeon. Recognized the mana density immediately.
+- **New Contract**: Accepted the "Equity" deal (0.5% share).
+- **Role**: Drafting "leverage letters" to Sterling and Elena Cross.
+

@@ -77,6 +77,13 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **The Threat**: Groll revealed he knows about the Dungeon/Sniv and threatened to expose Victor to the King (Death Sentence).
 - **Declaration of War**: Victor walked out, initiating "Hostile Takeover Protocols."
 
+### Chapter 43: Hostile Takeover Protocols
+- **Fortress Mode**: Activated lethal dungeon protocols. Spent 800 GP on "Acid Pit" and "Crushing Walls" upgrades.
+- **Team Upgrade**: Revealed Dungeon to Kael/Mira. Signed them to new "Defense Contracts" with 0.5% equity.
+- **Alliance**: Sent leverage letters to Sterling (invoking defense clause) and Elena Cross.
+- **War**: Groll's "Black Talon" mercenaries arrived at the forest edge.
+
+
 ---
 
 ## Psychology & Traits
@@ -94,7 +101,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
 | **CHA** | 25 | Sales Mode active |
-| **Assets** | ~850 GP | Significant revenue from Ch 41 |
+| **Assets** | ~50 GP | Spent 800 GP on defenses (Ch 43) |
 
 ### Signature Skills
 - **[Performance Review]**: Analyze stats/value.

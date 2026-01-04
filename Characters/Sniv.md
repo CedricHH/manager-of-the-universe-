@@ -230,4 +230,9 @@ Broken common, learning corporate jargon:
 ---
 
 **Version**: 1.1
-**Last Updated**: 2026-01-03
+**Last Updated**: 2026-01-04
+
+## Recent Developments (Chapter 43)
+- **War Preparation**: Briefed on the "hostile takeover" threat.
+- **Weaponization**: Ordered to feed "Alchemical Waste" to Potion Slimes to turn them acidic.
+- **Leadership**: Placed in charge of the Shield Wall goblin unit under Kael's command.
