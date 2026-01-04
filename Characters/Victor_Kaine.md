@@ -111,7 +111,14 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Vulnerability Discovered**: Sterling's permits are provisional; Guild can petition Crown to invalidate.
 - **Strategic Pivot**: Identified Crown Prince Aldric as next acquisition target.
 - **Act 1.2 Complete**: External Threats arc closed. Act 1.3 (Defense & Growth) begins.
-- **Current Status**: Preparing to secure Crown support before Guild petition arrives.
+
+### Chapter 51: The Crown Asset [ACT 1.3 START]
+- **Intelligence Gathering**: Briefed team on Crown Prince Aldric — idealistic, naive, believes system works.
+- **Kingdom Intel**: Learned kingdom is secretly bleeding gold; King hides fiscal crisis from Prince.
+- **Strategic Opportunity**: Identified information asymmetry — Victor knows kingdom's real finances.
+- **Timeline Shock**: Royal messenger arrived; Prince arriving in **72 hours** (not 18 days).
+- **Sterling's Play**: Discovered Lord Sterling independently contacting Crown Court (increased comms 300%).
+- **Current Status**: Preparing presentation for Crown Prince's arrival. Objective: "Acquire a prince."
 
 ---
 

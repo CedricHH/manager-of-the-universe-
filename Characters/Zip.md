@@ -112,3 +112,11 @@
 - **Cover Maintenance**: Understood Victor's "just merchants" instruction; internalized need for continued discretion.
 - **Inn Arrival**: Released at The Silver Standard; immediately excited about city opportunities ("Many opportunities! Much—").
 - **Corporate Enthusiasm**: Natural inclination toward "synergies" shows terminology integration; Victor's training taking effect.
+
+## Recent Developments (Chapter 51)
+
+- **Scout Commander**: Fulfilled role as Insolvia Holdings' scout commander; first to detect royal messenger at forest edge.
+- **Critical Alert**: Reported Crown seal messenger directly to Victor — "Not Guild — *Crown* seal!"
+- **Observation**: Correctly identified messenger details (fancy horse, lions banner, Crown seal).
+- **Loyalty Offer**: Suggested making messenger "go away" (rejected by Victor for diplomatic approach).
+
