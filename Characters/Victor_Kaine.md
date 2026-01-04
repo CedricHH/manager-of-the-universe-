@@ -104,7 +104,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Awakening**: Relived first moments in dungeon. Negotiated employment with Sniv while wounded.
 - **Full Integration**: Memory complete (100%). Psychological Efficiency +15%.
 - **Perspective**: Realized he wasn't saved; he was *recruited*.
-## Recent Developments (Chapter 56-70)
+## Recent Developments (Chapter 68-71)
 
 - **Chapter 56 (Class Action)**: Blocked Guild's injunction to close dungeon by organizing adventurers into a "Class Action" lawsuit.
 - **Chapter 57 (Safety Audit)**: Hosted "Crimson Blades" audit team; filmed their vandalism to blackmail Vorne.
@@ -120,6 +120,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 68 (The Partnership)**: Met with Merchant's Guild (Guildmaster Voros Thane). Negotiated comprehensive partnership: 15,000 GP loan at 3.8% APR + exclusive transport rights with tiered fees (6-8%) + armed escorts + performance guarantees. Rejected Malcom and Sterling offers. Secured best financing deal in Oakhaven. **Status**: 15,000 GP capital acquired, Floor 5 development begins, Malcom enraged.
 - **Chapter 69 (The Volcano)**: Purchased Floor 5 (Volcanic Biome) for 8,000 GP. Analyzed monster options via ARMI. Hired dragon boss: Ignatia "Iggy" the Ember Tyrant (5,000 GP + 100 GP/month + 20% loot). Capital reserves critical at 2,000 GP. Scenario planning shows 10-week bankruptcy window if Floor 5 fails. **Status**: Floor 5 operational, 3-day stress test scheduled, Malcom monitoring for bankruptcy.
 - **Chapter 70 (The Stress Test)**: Crimson Blades stress-tested Floor 5. Dragon fight successful (3-phase combat, party impressed). Feedback: 9-10/10 scores. Economics: 124 GP/run insufficient. Innovated "Ember Trials" tournament concept: weekly competitive runs, leaderboards, 500 GP prize, spectator tickets, sponsorships. Revenue model: 1,500 GP/week vs 620 GP/week. **Status**: Tournament launching, Floor 5 validated.
+- **Chapter 71 (The Launch)**: Launched first Ember Trials tournament. Day 1 results: 12 parties registered (600 GP entry fees), 23 spectators (1,150 GP). Crimson Blades won inaugural tournament (24:17 time). Total revenue: 1,750 GP, net profit: 1,200 GP. Monthly projection: 4,800 GP sustainable. Intelligence reports: Merchant's Guild, Alchemist's Guild, and Church of Eternal Light all sent observers. Received Church audit invitation (3-day deadline, High Priestess Aurelia). Malcom escalating vendetta, considering "Church option." **Status**: Tournament successful, multi-faction threat escalating, Church audit imminent.
 
 ## Psychology & Traits
 
@@ -134,8 +135,8 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **Class** | Restructurer | Authority Level 2 |
 | **HP** | 100% | |
 | **MP** | 85% | |
-| **Gold** | ~965,000 + 9,500 Loan Remaining (Invested 5,000 in F4) | 500 GP interest waived |
-| **Status** | Managing Mosquito Farm; Bank War Active | |
+| **Gold** | ~3,950 GP operational capital (post Floor 5 investment) | Ember Trials +1,200 GP/day |
+| **Status** | Ember Trials Active; Church Audit in 3 days | Multiple hostile factions |
 | **Location** | Dungeon Insolvia Administrative Office | |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
