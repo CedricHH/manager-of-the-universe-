@@ -311,3 +311,14 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 - **Black Card**: Found Consortium Priority Asset Transfer Notice—triggered external scan, Consortium is aware Victor found it.
 - **Strategic Decision**: Declared intention for "hostile takeover" of the Galactic Audit Consortium.
 - **Cash Position**: 30 GP remaining after seal breach.
+
+## Recent Developments (Chapter 33)
+
+- **Archive Analysis**: Activated crystal archive; read 847 log entries from Restructurer #1's career.
+- **Timeline Discovery**: Final Processing was scheduled 1,500 years ago but delayed due to #1 hiding activation codes.
+- **True Mission**: Realized Consortium sent him to "finish what #1 refused"—complete the harvest.
+- **Clearance Limitation**: Current Restructurer Level 1; needs Level 5 to access encrypted files.
+- **Black Card Purpose**: Confirmed as Authority Upgrade Token (+1 level); must be claimed at Oakhaven waypoint.
+- **Strategic Decision**: Chose to claim card and let Consortium think he's complying while planning betrayal.
+- **Delegation**: Left Sniv (operations), Asterion (security), Nova (infrastructure) in charge; taking Zip to Oakhaven.
+- **Cover Story**: Traveling as potion merchant with kobold assistant.

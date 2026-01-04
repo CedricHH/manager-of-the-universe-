@@ -59,3 +59,11 @@
 - **Discovery**: Found empty pedestals suggesting four items were removed by someone else (recent activity).
 - **Safety Protocol**: Suggested bringing more goblins before entering; overruled by Victor.
 - **Chamber Sealing**: Assigned to seal vault entrance after contents extracted; no one enters without Victor's authorization.
+
+## Recent Developments (Chapter 33)
+
+- **Oakhaven Expedition**: Selected by Victor for city travel (criteria: small, quiet, expendable, urban-capable).
+- **Cover Story**: Will pose as kobold assistant to Victor (potion merchant).
+- **Corporate Learning**: Used phrase "growth opportunities" correctly (mimicking Victor's language).
+- **R&D Task**: Assigned to create professional labels for potion merchant cover story.
+- **Duration**: 1 week trip to Oakhaven and back.

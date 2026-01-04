@@ -210,6 +210,13 @@ Broken common, learning corporate jargon:
 - **Emotional Moment**: Witnessed Victor implementing "vacation" (framed as "scheduled maintenance"); eyes shimmered with gratitude.
 - **Construction Success**: Executed Floor 3 expansion flawlessly—no injuries, no delays, completed 30 minutes early.
 
+## Recent Developments (Chapter 33)
+
+- **Management Test**: Given full operational authority while Victor travels to Oakhaven (1 week duration).
+- **Responsibility**: Managing 26 goblins, daily operations, and Floor 1-3 activities without Victor's oversight.
+- **Performance Stakes**: Success = equity options discussion; Failure = severance package discussion.
+- **Emotional Response**: "Sniv not fail! Sniv make Boss proud!" (clutching clipboard like life raft).
+
 ---
 
 **Version**: 1.1
