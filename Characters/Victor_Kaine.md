@@ -97,7 +97,13 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Partnership Expansion**: Proposed "vertical monopoly" of Eastmarch adventurer economy to House Sterling via Gareth as intermediary.
 - **Revenue**: +25 GP from Sterling party + standard adventurer fees.
 - **New Skill**: `[Market Manipulation]` → Level 2.
-- **Current Status**: Awaiting Lord Sterling's response to partnership proposal.
+
+### Chapter 49: The Response
+- **Deal Closed**: Gareth agreed to carry partnership proposal to Lord Sterling (35/65 revenue split).
+- **Finder's Fee**: Secret 5% commission to Gareth to ensure advocacy.
+- **New Threat Detected**: Adventurer Guild scouts conducting regulatory reconnaissance.
+- **Protocol Initiated**: "Regulatory Warfare" - compliance documentation, counter-surveillance, legal preparation.
+- **Current Status**: Awaiting Lord Sterling's response; preparing for Guild investigation.
 
 ---
 

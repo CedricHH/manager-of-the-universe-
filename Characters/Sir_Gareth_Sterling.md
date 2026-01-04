@@ -95,6 +95,17 @@ Pompous, haughty, increasingly desperate when cornered:
 
 ---
 
-**Version**: 1.0
+## Recent Developments (Chapter 49)
+
+### Chapter 49: The Response
+- **Finder's Fee Accepted**: Agreed to secret 5% commission on Sterling's cut
+- **Contract Received**: Carrying Sterling Vertical Integration Agreement (35/65 split) to Lord Reginald
+- **Handshake**: Formally concluded negotiation with Victor
+- **Motivation Shift**: From "revenge" to "personal profit + reputation rehabilitation"
+- **Current Status**: En route to Sterling Manor with partnership proposal
+
+---
+
+**Version**: 1.1
 **Created**: Chapter 48
 **Last Updated**: 2026-01-04
