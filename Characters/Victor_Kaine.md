@@ -109,9 +109,8 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 56 (Class Action)**: Blocked Guild's injunction to close dungeon by organizing adventurers into a "Class Action" lawsuit.
 - **Chapter 57 (Safety Audit)**: Hosted "Crimson Blades" audit team; filmed their vandalism to blackmail Vorne.
 - **Chapter 59 (The Settlement)**: Forced Vorne to sign a Settlement Agreement (6-month safety certificate) using the incriminating footage.
-- **Chapter 59 (Prince Arrives)**: Welcomed Crown Prince Aldric and High Priestess Aurelia to the prepared lobby.
-
----
+- **Chapter 60 (The VIP Experience)**: Gave Prince Aldric the "Corporate Tour." Secure a Royal Charter by offering 15% revenue kickbacks. Neutralized Aurelia's Sun-Construct using "Disco Protocol" (Prismatic Slime).
+- **Current Crisis**: Aurelia has detected the Core and is about to breach.
 
 ## Psychology & Traits
 
@@ -124,7 +123,11 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | Stat | Value | Notes |
 |------|-------|-------|
 | **Class** | Restructurer | Authority Level 2 |
-| **HP** | 120 | Upgraded from Base 50 |
+| **HP** | 100% | |
+| **MP** | 70% (Stress) | |
+| **Gold** | ~965,000 | |
+| **Status** | Hosting Royal Visit; Core Discovered by Aurelia | |
+| **Location** | Dungeon Lower Levels | |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
 | **CHA** | 25 | Sales Mode active |

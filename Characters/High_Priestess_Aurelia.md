@@ -1,8 +1,9 @@
-# High Priestess Aurelia - The Church Antagonist
+# High Priestess Aurelia - The Inquisitor
 
-> **Role**: Recurring Antagonist
-> **Class**: Cleric (High Rank)
-> **Arc**: Introduced Arc 2, Chapter 260
+> **Role**: Primary Antagonist (Arc 2)
+> **Class**: High Cleric (Level 35+)
+> **Affiliation**: Church of Eternal Light
+> **Arc**: Introduced Arc 1.3, Chapter 59
 
 ---
 
@@ -11,54 +12,33 @@
 | Attribute | Value |
 |-----------|-------|
 | **Name** | Aurelia Solhaven |
-| **Title** | High Priestess of the Church of Eternal Light |
-| **Age** | 52 |
-| **Gender** | Female |
-| **First Appearance** | Chapter 260 |
+| **Title** | High Priestess / Inquisitor |
+| **Level** | ~35 (Estimate) / Can summon Sun-Constructs |
+| **Abilities** | Holy Light, Divine Detection, Smite |
+| **Goal** | Purge corruption; expose the Dungeon Core |
 
 ---
 
-## The Church's Face
+## Character Overview
 
-Aurelia is what Elara was supposed to become:
-- True believer (on the surface)
-- Perfect public image
-- Completely ruthless beneath
+Aurelia is a zealot who believes the Dungeon is an "Abomination." Unlike Vorne (who wanted a bribe) or Aldric (who wants tax revenue), Aurelia cannot be bought. She is a true believer.
 
-She knows the Church is corrupt. She doesn't care. Power is power.
+She possesses a "Divine Compass" that can detect high-level magical anomalies—specifically World Cores.
 
----
-
-## Why She Hates Victor
-
-Victor threatens the Church's monopoly on hope:
-- His "Prosperity Doctrine" (work hard, get rewards) competes with faith
-- He employs former Church members
-- Elara (her former subordinate) works for him
-
-It's personal AND economic.
+### Key Traits
+- **Fanatical**: "You monetize suffering."
+- **Perceptive**: Smelled "death" and "greed" immediately.
+- **Powerful**: Summoned a Sun-Construct that required Victor's "Disco Protocol" to neutralize.
 
 ---
 
-## Arc
+## Recent Developments (Chapter 60)
 
-- Arc 2: First confrontation; Church investigates Victor
-- Arc 3: Church allies with Kingdom against Victor
-- Arc 4: Church collapses; Aurelia becomes desperate
-- Final: Either dies or has a redemption moment?
-
----
-
-## Speech Pattern
-
-Silky, threatening, pious:
-
-> "The Light sees all, Manager. Even the darkness in your ledgers."
-
-> "You think gold matters? Souls are the true currency."
-
-> "Elara was our failure. You collected our trash. How fitting."
+- **The Inspection**: Challenged Victor's defenses. Summoned a Sun-Construct to "test" the facility.
+- **Humiliation**: Her Construct was neutralized by prismatic slime gel ("The Disco Protocol"), making her look foolish in front of the Prince.
+- **The Discovery**: At the end of Ch 60, her compass detected the World Core (Nova). She is currently standing outside the Core Room, preparing to breach.
+- **Status**: **CRITICAL THREAT**. About to engage.
 
 ---
 
-**Version**: 1.0
+**Version**: 2.0 (Updated Ch 60)

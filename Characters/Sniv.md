@@ -237,4 +237,5 @@ Broken common, learning corporate jargon:
 - **Grassroots Campaign (Ch 56)**: Led the adventurer protest, using terms like "Big Bosses" and "Monopoly."
 - **Union Rep (Ch 57)**: Wore a high-vis vest and faked an injury to stall the Crimson Blades.
 - **Project Sparkle (Ch 59)**: Managed the rapid cleanup of the lobby ('Sparkle Team') before the Royal visit.
+- **Disco Protocol (Ch 60)**: Operated the slime-gel deployment lever to neutralize Aurelia's Sun-Construct. Wore a maid outfit for the Prince.
 

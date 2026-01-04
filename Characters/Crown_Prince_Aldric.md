@@ -1,8 +1,8 @@
-# Crown Prince Aldric Valdris - The Naive Auditor
+# Crown Prince Aldric Valdris - The Naive Asset
 
-> **Role**: Recurring Character (Arc 3)
-> **Class**: Noble (Administrator Training)
-> **Arc**: Introduced Arc 3, Chapter 301
+> **Role**: Royal VIP / "Silent Partner"
+> **Class**: Aristocrat (Level 5)
+> **Arc**: Introduced Arc 1.3, Chapter 59
 
 ---
 
@@ -12,65 +12,32 @@
 |-----------|-------|
 | **Name** | Aldric Valdris II |
 | **Title** | Crown Prince of Valdris |
-| **Age** | 27 |
-| **Gender** | Male |
-| **First Appearance** | Chapter 301 |
+| **Age** | 22 |
+| **Status** | Touring Insolvia |
+| **Affiliation** | The Crown (Secretly broke) |
 
 ---
 
-## The King's Son
+## Character Overview
 
-Aldric is Princess Seraphina's older brother.
+Aldric is the charming, bored, and secretly desperate face of the Kingdom. He presents as a fop, but he is painfully aware that the Kingdom's treasury is empty. He is not looking for justice; he is looking for **revenue**.
 
-Where she was ignored, he was groomed. Where she was forgotten, he was treasured.
+Victor identified him not as a threat, but as a "Distressed Asset" ripe for acquisition.
 
-He believes in his kingdom. He believes in nobility. He believes Victor is a criminal.
-
-He's wrong about everything.
-
----
-
-## The Mission
-
-King Aldric IV sends his son to "investigate" Victor. Secretly, the King hopes Aldric will find a way to pay the debts.
-
-Aldric thinks he's exposing a villain.
-He's actually discovering his father sold everything—including his sister.
+### Key Traits
+- **Fiscally Desperate**: Will ignore "heresy" if the price is right.
+- **Bored**: Loves entertainment (the "Dancing Wolves").
+- **Corruptible**: Accepted a 15% kickback scheme within 10 minutes of meeting Victor.
 
 ---
 
-## Character Arc
+## Recent Developments (Chapter 60)
 
-### Phase 1: Arrogant (Ch 301-340)
-- Arrives with entourage
-- Treats Victor as criminal
-- Half his staff defects within weeks
-
-### Phase 2: Confused (Ch 341-400)
-- Victor's methods WORK
-- People are better off
-- Where's the crime?
-
-### Phase 3: Broken (Ch 401-450)
-- Discovers truth about kingdom's debts
-- Learns his sister was sold
-- Realizes his father is the real villain
-
-### Phase 4: ??? (Ch 451+)
-- Ally? Enemy? Rebel?
-- May lead resistance OR join Victor
+- **The Visit**: Touring Insolvia Holdings under the guise of an inspection.
+- **The Deal**: Agreed to grant Victor a "Royal Charter" (Provisional Status) in exchange for 15% of the dungeon's revenue (off the books) and custom enchanted armor.
+- **The Reveal**: Admitted to Victor that the Kingdom is "drowning in debt" due to wars and Church tithes.
+- **Status**: Currently Victor's "Business Partner," though he doesn't know about the Core.
 
 ---
 
-## Relationship with Seraphina
-
-He didn't know she was sold until he met her in Victor's court.
-
-She won't speak to him. He doesn't understand why.
-
-> "Sera, I came to save you!"
-> "You came a year late. And you didn't even notice I was gone."
-
----
-
-**Version**: 1.0
+**Version**: 2.0 (Updated Ch 60)
