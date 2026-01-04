@@ -107,6 +107,7 @@ Victor doesn't care about his moral crisis. This is somehow comforting.
 | **Charge** | Devastating rush attack (+300% damage on first hit) |
 | **Last Stand** | Below 10% HP: Damage doubled, cannot be stunned |
 | **Contract Bound** | Victor's contract prevents betrayal (and provides dental) |
+| **Corporate Shield** | Creates a barrier that absorbs damage by consuming Gold (10 GP/hit) |
 
 ---
 
@@ -212,4 +213,14 @@ Whether that reason (profit) is better is a question Asterion doesn't ask. Yet.
 ---
 
 **Version**: 1.0
-**Last Updated**: 2026-01-02
+**Last Updated**: 2026-01-04
+
+## Recent Developments (Chapter 43)
+- **War Council**: Briefed on Groll's threat.
+- **Upgrades**: Received "Budget Unlock" to upgrade dungeon traps.
+- **Role**: CEO of Defense.
+
+## Recent Developments (Chapter 44)
+- **The Duel**: Defeated the Black Talon Captain (Level 18) in single combat.
+- **New Skill**: Revealed **[Corporate Shield]** (Gold-to-Defense conversion).
+- **Crisis**: Witnessed the "Mana Spike" hacking attempt on the Core found himself weakened by the frequency jamming.

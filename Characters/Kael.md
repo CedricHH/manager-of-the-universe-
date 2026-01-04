@@ -38,3 +38,8 @@ Ex-adventurer hired by the Merchant Guild to protect Victor's operations. Profes
 - **New Contract**: Accepted "Hazard Pay + 0.5% Equity" to defend the dungeon.
 - **New Role**: Appointed "Field Commander" of the dungeon's goblin forces.
 
+## Recent Developments (Chapter 44)
+- **Field Command**: Successfully led the goblin shield wall against superior numbers. Used grease traps to neutralize enemy charge.
+- **Combat**: Defended the "integrity of the formation" against the Black Talon captain.
+
+
