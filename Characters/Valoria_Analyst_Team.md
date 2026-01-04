@@ -30,5 +30,5 @@
 
 ## Recent Developments (Chapter 82)
 
-- **Recruitment**: Selected by Victor to manage the Valoria data-dump.
-- **The Discovery**: Uncovered the Onyx Syndicate's Clause 44-B (The Southern Contingency), revealing the debt-trap that protects the Governor.
+- **The Discovery (Ch 82)**: Uncovered the Onyx Syndicate's Clause 44-B.
+- **The Short-Sell (Ch 83)**: Acted as "financial conduits" for Victor's market strike. Mina drafted the risk advisory; Silas executed the "ghost-node" leak. They have transitioned from fearful survivors to exhilarated participants in Victor's "Audit-Warfare." **Status**: Loyalty solidified through shared high-stakes liability; exhausted but productive.

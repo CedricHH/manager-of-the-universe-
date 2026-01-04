@@ -131,8 +131,8 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 
 - **Chapter 79 (The Severance Package)**: Executed "Involuntary Merger" of the Alchemist and Mercenary Guilds. Forced Groll and Kael into middle-management roles as heads of operational subsidiaries. Weaponized the "Urban Development Trust" of 812 to charge the Cathedral of Light 5,000 GP/month in rent. Triggered total quest-freeze at the Hub to force compliance. **Status**: Regional dominance achieved; transition to Act 2 (The City) in progress.
 
-- **Chapter 81 (The Imperial Onboarding)**: Traveled to Aethelgard; accepted Project Valoria.
-- **Chapter 82 (The Resource Allocation)**: Established base of operations in a high-tier office at the Bureau. Recruited analysts **Mina** and **Silas**. Rejected a buyout offer from **Senior Partner Hestia**. Discovered the "Too Big To Fail" suicide pact involving the **Onyx Syndicate** and the Northern Free Cities. **Status**: Preparing for a hostile takeover of a foreign banking syndicate.
+- **Chapter 82 (The Resource Allocation)**: Established base of operations in Aethelgard. Recruited analysts Mina and Silas. Discovered the "Too Big To Fail" suicide pact involving the Onyx Syndicate.
+- **Chapter 83 (The Pre-Deployment Strike)**: Executed a strategic leak regarding Valoria's yields, triggering a market crash for Onyx Syndicate bonds. Leveraged 300,000 GP of the Imperial budget to "short-sell" the Syndicate. Received a high-stakes invitation from Senior Partner Hestia to a "Welcome Social" involving the target (Governor Malphas). **Status**: Preparing for a social ambush; weaponizing the audit.
 
 ## Psychology & Traits
 

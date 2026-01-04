@@ -42,5 +42,5 @@
 
 ## Recent Developments (Chapter 82)
 
-- **The Warning**: Interrupted Victor’s first day at the Bureau. Labeled his analysts as "cast-offs" and warned him that Valoria is a "poisoned asset."
-- **The Offer**: Offered to transfer Victor to the Naval Shipyards in exchange for his data. Victor declined.
+- **The Office Visit (Ch 82)**: Interrupted Victor’s first day. Warned him about Valoria and offered a buyout. Victor declined.
+- **The Ambush (Ch 83)**: Following Victor's short-sell of the Onyx Syndicate, she issued a gilded "Welcome Social" invitation. She has brought Governor Malphas to the Capital, setting the stage for a public confrontation. **Status**: Preparing the "Spire Gardens" environment for Victor's audit.
