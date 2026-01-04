@@ -122,6 +122,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 84 (The Spire Garden Ambush)**: Attended the High Auditor’s Social. Weaponized the market crash to audit Council members out loud. Presented Malphas with a "Restructuring Term Sheet." Successfully identified "Clause 44-B" (the scorched-earth suicide pact) not as a threat, but as another form of asset liquidation.
 - **Chapter 85 (The Decompression Protocol)**: Malphas triggered the explosion. Victor executed a "Hostile Takeover" of the exploding asset (100 GP), then used `[Asset Liquidation]` to convert the mana-volatility into currency. **Yield**: +45,000 GP. Malphas arrested. Hestia delivered a "Black Envelope" from the Galactic Audit Consortium. **Status**: 12% Gold Toxicity; Quest `[The Macro-Management]` received.
 - **Chapter 86 (The Black Envelope)**: Opened the recruitment offer. Negotiated with the Consortium AI to reduce the franchise fee from 50% to **25%** and secure "Independent Contractor" status. Unlocked `[Galactic Exchange]`. **Mission**: Generate **1,000,000 GP** in 30 days or face liquidation. **Status**: Return journey to Oakhaven initiated.
+- **Chapter 87 (The Exit Strategy)**: **ACT 1.5 FINALE**. Attempted to leave Aethelgard; Vane blocked 15% of funds as a "fee." Victor activated "Remote Management" protocol. Mina/Silas (North Branch) successfully used bureaucratic roadblocks to release the funds (+6,780 GP). Encountered Barnaby ('The Leech') blocking the highway with a scalper wagon. **Current Objective**: Liquidate the obstruction.
 
 ## Psychology & Traits
 
@@ -136,9 +137,9 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **Class** | Independent Contractor (Consultant) | Authority Level 2.5 |
 | **HP** | 100% | |
 | **MP** | 85% | |
-| **Gold** | 57,450 GP (+45,000 GP Yield) | 100% Insolvia Integrated Extraction Equity |
-| **Status** | Landlord of the Cathedral of Light | Hub Management Phase |
-| **Location** | Spire Gardens (Aethelgard) |
+| **Gold** | 64,230 GP | +6,780 GP (Fee Recovery) |
+| **Status** | CEO, Kaine Consulting | En route to Oakhaven |
+| **Location** | Imperial Highway (Blocked) | The Gilded Caravan |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
 | **CHA** | 25 | Sales Mode active |
