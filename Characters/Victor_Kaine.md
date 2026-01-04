@@ -373,3 +373,16 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 - **90-Day Audit Deadline**: Quarterly Consortium audit scheduled; concrete timeline for infrastructure building before direct oversight.
 - **Professional Surveillance Detected**: Unknown watcher (Level 15-18, stealth-focused) observed waypoint activation; information gathering, not hostile.
 - **Cover Maintained**: Checked into The Silver Standard inn (merchant quarter); maintaining traveling merchant identity with institutional connections.
+
+## Recent Developments (Chapter 38)
+
+- **Watcher Revealed**: Elena Cross, Merchant Guild Senior Inspector (Level 17); professional investigator assessing market impact of new entrants.
+- **Guild Alliance**: Formed partnership with Merchant Guild; provisional membership granted pending documentation (2-week deadline).
+- **Economic Warfare Assignment**: Guild contracted Victor to wage price war against Alchemist Cartel monopoly using dungeon-sourced supply.
+- **Cartel Intelligence**: Alchemist Cartel controls potion trade, inflates prices, has Church/nobility/Adventurer Guild connections, plays dirty.
+- **Guild Benefits**: Trade routes, regulatory protection, legal cover for "operational optimizations" beyond traditional guidelines.
+- **Documentation Required**: Must provide revenue reports, casualty metrics, efficiency comparisons within 2 weeks for full membership.
+- **Power Structure Mapped**: Merchant Guild (allied), Sterling (partnered), Alchemist Cartel (enemy), Church (unknown-suspect), Adventurer Guild (unknown-influenced).
+- **Previous Restructurer Mystery**: Discovered another Restructurer arrived 16 years ago, disappeared after 3 months under unknown circumstances.
+- **Threat Assessment**: Cartel will retaliate with legal challenges, sabotage, potentially hired accidents when Victor disrupts pricing.
+- **Strategic Position**: 90 days to Consortium audit, 2 weeks to Guild documentation, economic war imminent with Cartel.
