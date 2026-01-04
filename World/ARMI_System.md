@@ -88,6 +88,18 @@ Unlike typical blue fantasy screens, ARMI resembles:
 | **Supply Chain Optimization** | Floating portal-shredder: items → raw materials |
 | **Micro-Management** | Remote control minion limbs for precision tasks |
 | **Tax Evasion** | Invisibility (only while non-aggressive) |
+| **Corporeal Bypass** | Phase through walls | Costs 100 GP/meter |
+
+### Department D: Global Market (The Galactic Exchange)
+
+> **Unlocked**: Chapter 86 (Consultant Tier)
+
+| Feature | Description | Cost |
+|---------|-------------|------|
+| **Cross-Listing** | List local assets on the galactic market | 5% Listing Fee |
+| **Short Selling** | Bet against a target's success | Payout depends on failure magnitude |
+| **Foreign Investment** | Buy shares in other worlds' heroes/villains | Passive income (or loss) |
+| **Contractor Store** | Buy items not native to the planet | 300% Markup + Shipping |
 
 ---
 

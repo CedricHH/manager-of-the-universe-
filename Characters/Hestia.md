@@ -44,4 +44,6 @@
 
 - **The Office Visit (Ch 82)**: Interrupted Victor’s first day. Warned him about Valoria and offered a buyout. Victor declined.
 - **The Ambush (Ch 83)**: Following Victor's short-sell of the Onyx Syndicate, she issued a gilded "Welcome Social" invitation. She has brought Governor Malphas to the Capital, setting the stage for a public confrontation.
-- **The Social Host (Ch 84)**: Hosted the "Spire Gardens" social. Watched with fascinated interest as Victor dismantled the High Council’s confidence and confronted the Duke. **Status**: Observing the "Audit-Warfare" with proprietary amusement.
+- **The Social Host (Ch 84)**: Hosted the "Spire Gardens" social. Watched with fascinated interest as Victor dismantled the High Council’s confidence.
+- **The Delivery (Ch 85)**: Handed Victor the "Black Envelope" (Recruitment Offer) moments before the mine exploded.
+- **The Candidate (Ch 86)**: Confirmed that Victor survived the liquidation and accepted the offer. She is now technically his "peer" in the Consortium hierarchy, though wildly senior in rank. **Status**: Monitoring his 30-day "Million Gold" trial.
