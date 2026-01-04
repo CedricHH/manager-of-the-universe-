@@ -67,7 +67,7 @@ She follows Victor's rules because they're **rules**, and rules are easy.
 | Character | Relationship |
 |-----------|--------------|
 | **Victor** | Fascinating. He's like her but with math instead of knives. |
-| **Elara** | Keeps trying to "save" Vex. Vex finds this adorable. |
+| **Lyra** | Keeps trying to "save" Vex. Vex finds this adorable. |
 | **Sniv** | Best friend? He's weird too. Compatible weird. |
 | **Asterion** | Respects his efficiency. Compares kill counts. |
 | **Seraphina** | Watches her like a cat watches a bird. Makes Seraphina nervous. |

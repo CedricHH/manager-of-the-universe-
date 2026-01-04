@@ -74,7 +74,7 @@ She sees Victor's rise as a **game**. Can they break historical records? Can the
 |-----------|--------------|
 | **Victor** | Intellectual equal in her field. Delightful. |
 | **Thessa** | Mutual respect. R&D and Finance work well together. |
-| **Elara** | "You're bad at budgeting." (Elara finds this insulting) |
+| **Lyra** | "You're bad at budgeting." (Lyra finds this insulting) |
 | **Sniv** | Trained him in basic accounting. Proud of his progress. |
 
 ---

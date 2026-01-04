@@ -99,7 +99,8 @@ He carries a clipboard (can't read, but it feels important).
 |-----------|--------------|
 | **Victor** | Worships him. Would die for him. Would kill for him. |
 | **Asterion** | Nervous around him. Too big. Might step on Sniv. |
-| **Elara** | Confused. She's nice to him. This is suspicious. |
+| **Lyra** | Confused. She's nice to him. This is suspicious. |
+| **Elara** | Boss's new partner. She smells like the Church. Sniv stays away. |
 | **Other Goblins** | They are resources. They are not Sniv. They are expendable. |
 
 ---
@@ -237,5 +238,14 @@ Broken common, learning corporate jargon:
 - **Grassroots Campaign (Ch 56)**: Led the adventurer protest, using terms like "Big Bosses" and "Monopoly."
 - **Union Rep (Ch 57)**: Wore a high-vis vest and faked an injury to stall the Crimson Blades.
 - **Project Sparkle (Ch 59)**: Managed the rapid cleanup of the lobby ('Sparkle Team') before the Royal visit.
-- **Disco Protocol (Ch 60)**: Operated the slime-gel deployment lever to neutralize Aurelia's Sun-Construct. Wore a maid outfit for the Prince.
+## Recent Developments (Chapter 80)
+
+- **Promotion**: Formally promoted to **Regional Executive Manager** of Dungeon Insolvia.
+- **Succession**: Inherited the 400-page SOP manual and full operational authority over Oakhaven subsidiaries.
+- **Status**: GOVERNING. In charge of the dungeon while Victor is in the Capital.
+
+| **Current Status** | Regional Executive Manager |
+| **Level** | 52 (Executive Class) |
+| **Loyalty** | PATHOLOGICAL |
+| **Condition** | Wearing high-level spectacles and custom vest. |
 

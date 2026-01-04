@@ -33,12 +33,12 @@
 
 ### Major Guilds
 
-| Guild | Leader | Monopoly | Victor's Target |
+| Guild | Leader | Monopoly | Victor's Status |
 |-------|--------|----------|-----------------|
-| **Alchemist Guild** | Guildmaster Groll | Potion production | First acquisition |
+| **Alchemist Guild** | Groll (Subsidiary Head) | Potion production | **ACQUIRED** (Ch 79) |
 | **Merchant Guild** | Council of Five | Trade licenses | Infiltration |
-| **Mercenary Guild** | Captain Voss | Combat contracts | Hostile takeover |
-| **Adventurer Guild** | Guildmaster Helena | Dungeon access | Disruption |
+| **Mercenary Guild** | Kael (Subsidiary Head) | Combat contracts | **ACQUIRED** (Ch 79) |
+| **Adventurer Guild** | victor Kaine (Landlord) | Dungeon access | **CONTROLLED** (Ch 79) |
 | **Craftsmen Union** | Master Aldwin | Manufacturing | Partnership |
 
 ### Guild Economics
@@ -77,9 +77,9 @@ The Church operates as a religious corporation:
 - **Indulgences**: Pay to remove sins
 - **Loans**: Church-affiliated lenders at 40% interest
 
-### Why Elara Fell
+### Why Lyra Fell
 
-The Church only helps those who can PAY. Elara's family couldn't.
+The Church only helps those who can PAY. Lyra's family couldn't.
 
 ---
 
@@ -142,13 +142,13 @@ Phase 3: Buy bankrupt guilds → Monopoly transfers
 
 ### Groll's Tower (Alchemist HQ)
 - Potion monopoly center
-- Falls to Victor Ch 200
-- Becomes "Kaine Pharmaceuticals"
+- **Status**: Seized Ch 79
+- **Current Use**: "Insolvia Integrated Logistics" R&D Department
 
 ### Temple of Eternal Light
 - Aurelia's power base
-- Elara's former home
-- Target for later arcs
+- **Status**: Under eviction threat (Ch 79)
+- **Current Use**: Victor Kaine is the official Landlord
 
 ### The Counting House (Merchant Guild Bank)
 - City's financial center
@@ -178,7 +178,7 @@ Phase 3: Buy bankrupt guilds → Monopoly transfers
 
 1. **Guild Resistance**: Established powers fight back
 2. **Church Opposition**: Religious authority vs economic power
-3. **Elara's Capture**: The moral cost of Victor's methods
+3. **Lyra's Capture**: The moral cost of Victor's methods
 4. **Party Formation**: Managing diverse personalities
 5. **Kingdom Notice**: Success attracts royal attention
 

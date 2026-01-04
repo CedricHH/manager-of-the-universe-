@@ -75,7 +75,7 @@ Victor works FOR them... but plans to take them over from within.
 |--------|-------------|
 | **Structure** | Pyramid scheme disguised as religion |
 | **Business Model** | Prayers + Gold = "Investments" → Miracles only for top investors |
-| **Victims** | Lady Elara's family |
+| **Victims** | Lady Lyra's family |
 | **Victor's View** | Competitor in the exploitation market |
 
 ### 4. The Demon Lords (Hostile Competitors)

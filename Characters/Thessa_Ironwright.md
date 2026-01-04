@@ -66,7 +66,7 @@ She'd work for a demon if the demon provided copper wire.
 
 ### Morally Neutral
 
-She doesn't ask what her inventions are used for. This bothers Elara. Thessa doesn't understand why.
+She doesn't ask what her inventions are used for. This bothers Lyra. Thessa doesn't understand why.
 
 ---
 

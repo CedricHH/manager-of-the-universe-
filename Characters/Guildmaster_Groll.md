@@ -101,4 +101,20 @@ Groll shows what happens when you **fight** Victor's methods instead of adapting
 - **The Ultimatum**: "Join the Cartel and give up the source, or I tell the King."
 - **Status**: At WAR. Victor refused the offer.
 
+## Recent Developments (Chapter 77)
 
+- **The Audit**: Led the "Coalition of Guilds" in a regulatory seizure of the Rivercrest franchise site.
+- **The Destruction**: Successfully "destroyed" the site using Tier 4 violet fire. Believed he had won.
+
+## Recent Developments (Chapter 78)
+
+- **The Foreclosure**: Received notice that his laboratories and warehouses in Oakhaven were foreclosed upon.
+- **The Realization**: Discovered Victor had purchased his debt through a subsidiary.
+- **Status**: BANKRUPT. Facing immediate liquidation.
+
+
+## Recent Developments (Chapter 79)
+
+- **The Merger**: Forced to sign a debt-equity swap.
+- **New Role**: Demoted to "Head of Potion R&D" for Insolvia Integrated Logistics.
+- **Status**: SUBSIDIARY MANAGER. Under Victor's control.

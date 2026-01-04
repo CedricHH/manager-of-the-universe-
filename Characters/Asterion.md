@@ -117,7 +117,8 @@ Victor doesn't care about his moral crisis. This is somehow comforting.
 |-----------|--------------|
 | **Victor** | Employer/General. "A strange little monster." Respects his ambition. |
 | **Sniv** | Colleague? The small one tries too hard. Asterion respects effort. |
-| **Elara** | She reminds him of heroes he killed. This is uncomfortable. |
+| **Lyra** | She reminds him of heroes he killed. This is uncomfortable. |
+| **Elara** | A professional holding a mirror to Victor's madness. He respects her distance. |
 | **Dungeon Core** | Former master. Asterion feels... nothing? Is that wrong? |
 
 ---
@@ -215,12 +216,14 @@ Whether that reason (profit) is better is a question Asterion doesn't ask. Yet.
 **Version**: 1.0
 **Last Updated**: 2026-01-04
 
-## Recent Developments (Chapter 43)
-- **War Council**: Briefed on Groll's threat.
-- **Upgrades**: Received "Budget Unlock" to upgrade dungeon traps.
-- **Role**: CEO of Defense.
+## Recent Developments (Chapter 80)
 
-## Recent Developments (Chapter 44)
-- **The Duel**: Defeated the Black Talon Captain (Level 18) in single combat.
-- **New Skill**: Revealed **[Corporate Shield]** (Gold-to-Defense conversion).
-- **Crisis**: Witnessed the "Mana Spike" hacking attempt on the Core found himself weakened by the frequency jamming.
+- **Promotion**: Formally promoted to **Chief Security Officer (CSO)** with a regional mandate.
+- **Mandate**: Responsible for training the next generation of boss-class entities for franchise expansion.
+- **Departure Beat**: Shared a moment of mutual respect with Victor before his departure to the Capital. 
+- **Status**: COMMANDING. Overseeing security for the Oakhaven-Dungeon corridor.
+
+| **Current Status** | Chief Security Officer (CSO) |
+| **Level** | 32 (General Class) |
+| **HP** | 100% |
+| **Condition** | Wearing silver CSO badge and polished vest. |

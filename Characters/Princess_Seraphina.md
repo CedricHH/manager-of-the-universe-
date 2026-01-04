@@ -127,7 +127,7 @@ No one in the palace ever treated her as anything but decoration. Victor treats 
 | Character | Relationship |
 |-----------|--------------|
 | **Victor** | "Owner." Terrifying. Fair. The first person to see her as capable. |
-| **Elara** | Sympathizes; sees parallels (both trapped women) |
+| **Lyra** | Sympathizes; sees parallels (both trapped women) |
 | **Sniv** | Confusing. He calls her "Princess Asset." Strangely comforting. |
 | **Her Family** | Abandoned her. She owes them nothing. |
 

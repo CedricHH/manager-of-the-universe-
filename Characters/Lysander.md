@@ -84,8 +84,8 @@ Lysander joins because he has nowhere else to go. His faith is shattered. Victor
 
 ## Role in Story
 
-Lysander is Elara's mirror:
-- Elara was broken before meeting Victor
+Lysander is Lyra's mirror:
+- Lyra was broken before meeting Victor
 - Lysander is broken BY meeting Victor
 - Both search for meaning in Victor's amoral empire
 
