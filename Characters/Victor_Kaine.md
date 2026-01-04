@@ -111,7 +111,8 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 59 (The Settlement)**: Forced Vorne to sign a Settlement Agreement (6-month safety certificate) using the incriminating footage.
 - **Chapter 60 (The VIP Experience)**: Gave Prince Aldric the "Corporate Tour." Secure a Royal Charter by offering 15% revenue kickbacks. Neutralized Aurelia's Sun-Construct using "Disco Protocol" (Prismatic Slime).
 - **Chapter 61 (The Divine Audit)**: Interceded when Aurelia tried to destroy the Core. Manipulated Prince Aldric into protecting the dungeon by framing the Core as a "Royal Asset" (saving his 15% revenue).
-- **Current Status**: Licensed by the Crown, but marked by the Church. A Paladin is watching the entrance.
+- **Chapter 62 (The Compliance Officer)**: Successfully spun the presence of a menacing Paladin (Roland) as a "Royal Security Feature" to bring customers back. Approached by the **Gilded Ledger** (Bank) for potential investment.
+- **Current Status**: Licensed, Watched, and potentially Leveraged.
 
 ## Psychology & Traits
 
