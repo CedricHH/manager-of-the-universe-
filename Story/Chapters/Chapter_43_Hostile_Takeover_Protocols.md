@@ -26,27 +26,47 @@ Victor stepped inside. Kael and Mira hesitated.
 
 "This," Kael murmured, touching the stonework. "This isn't a mine. The mana density..."
 
-"It's a Dungeon," Mira whispered. She looked at Victor's back with a mix of horror and professional awe. "He's not a merchant. He's a Dungeon Lord."
+"This is a Dungeon," Mira whispered. She looked at Victor's back with a mix of horror and professional awe. "He's not a merchant. He's a Dungeon Lord."
 
-Victor paused. He turned to face them.
+Victor paused. He turned to face them. The ambient mana of the tunnel illuminated his face, casting sharp shadows.
 
 "I am an Asset Manager," he corrected. "This facility is my primary asset. And right now, it is under threat of hostile acquisition."
 
 He held their gaze.
 
-"You have two choices. One: I pay out your contracts now, with a 20% severance bonus, and you walk away. Two: You sign an amended contract for 'Critical Infrastructure Defense'. Triple hazard pay. 0.5% equity vesting over three years."
+"You have two choices. One: I pay out your contracts now, with a 20% severance bonus, and you walk away. You claim ignorance. You live."
 
-Kael looked at the tunnel, then at Victor.
+Kael looked at the tunnel deeper in. "And the second choice?"
 
-"Triple?"
+"Two: You sign an amended contract for 'Critical Infrastructure Defense'. Triple hazard pay. 0.5% equity vesting over three years." Victor tapped his document case. "You become shareholders in this operation."
+
+Kael hesitated. He looked at the stonework, then at Victor. "Victor... you know what the Kingdom says about Dungeon Lords. We're taught you're monsters. That you feed on humans."
+
+"Do I look like I'm feeding?" Victor asked.
+
+"No. But you're enemies of humanity. By law."
+
+"The Alchemist Guild poisons half the city with diluted potions to keep prices high," Victor countered, his voice steady. "The Merchant Guild ruins families who don't pay protection fees. The King taxes farmers into starvation to fund border wars."
+
+Victor stepped closer.
+
+"They are the 'heroes', Kael. I am just a business owner who refuses to be regulated by hypocrites. I don't feed on humans. I feed on inefficiency. I provide a service. My dungeon provides goods. And I treat my employees better than any Guildmaster in Oakhaven."
+
+Mira looked at her staff, then at the tunnel. "He has a point, Kael. The Guild pays us in copper and treats us like arrow-fodder. Victor pays in gold and offers equity."
+
+"It's treason," Kael muttered. But his hand hadn't left his sword.
+
+"It's a paradigm shift," Victor said. "History is written by the winners. And winners are just the ones with the best budget management."
+
+Kael smirked. A slow, dangerous smile. He adjusted his sword belt. "And triple hazard pay?"
 
 "And full dental," Victor added. "If we survive."
 
-Kael smirked. He adjusted his sword belt. "I never liked the Alchemist Guild anyway. Their potions taste like piss."
+"I never liked the Alchemist Guild anyway. Their potions taste like piss." Kael stepped forward. "I'm in."
 
-Mira sighed, but she stepped into the tunnel. "0.5% equity of a Dungeon could make me richer than a Baroness. I'm in. But if I die, I'm haunting you."
+Mira sighed, but she stepped into the tunnel beside him. "0.5% equity of a Dungeon could make me richer than a Baroness. I'm in. But if I die, I'm haunting you."
 
-"Noted," Victor said. " HR will process the paperwork later. Move."
+"Noted," Victor said. "HR will process the paperwork later. Move."
 
 ***
 
