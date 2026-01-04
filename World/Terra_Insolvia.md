@@ -130,6 +130,8 @@ See [ARMI_System.md](file:///g:/Meine%20Ablage/EBOOKS/Der%20Manager%20des%20Univ
 | Dungeon collapse | Loot prices fall (supply dump) |
 | War | Everything inflates |
 | Plague | Potion monopoly opportunity |
+| **Liquidity Event** | Sudden asset devaluation; triggers margin calls | ← NEW (Ch 83) |
+| **Clause 44-B** | Strategic Asset Denial; scorched-earth protocol linked to mana-stabilizers | ← NEW (Ch 84) |
 
 ---
 

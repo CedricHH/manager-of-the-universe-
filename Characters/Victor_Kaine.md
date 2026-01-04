@@ -14,7 +14,7 @@
 | **Age** | 42 (at death) |
 | **Origin** | Earth (Modern Era) |
 | **Cause of Death** | Assassination (Covered up as Heart Attack) |
-| **Current Status** | In Oakhaven (Act 1.2); Waging economic war on Alchemist Cartel |
+| **Current Status** | At the Spire Gardens (Aethelgard); Confronting Governor Malphas |
 
 ---
 
@@ -132,7 +132,8 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 79 (The Severance Package)**: Executed "Involuntary Merger" of the Alchemist and Mercenary Guilds. Forced Groll and Kael into middle-management roles as heads of operational subsidiaries. Weaponized the "Urban Development Trust" of 812 to charge the Cathedral of Light 5,000 GP/month in rent. Triggered total quest-freeze at the Hub to force compliance. **Status**: Regional dominance achieved; transition to Act 2 (The City) in progress.
 
 - **Chapter 82 (The Resource Allocation)**: Established base of operations in Aethelgard. Recruited analysts Mina and Silas. Discovered the "Too Big To Fail" suicide pact involving the Onyx Syndicate.
-- **Chapter 83 (The Pre-Deployment Strike)**: Executed a strategic leak regarding Valoria's yields, triggering a market crash for Onyx Syndicate bonds. Leveraged 300,000 GP of the Imperial budget to "short-sell" the Syndicate. Received a high-stakes invitation from Senior Partner Hestia to a "Welcome Social" involving the target (Governor Malphas). **Status**: Preparing for a social ambush; weaponizing the audit.
+- **Chapter 83 (The Pre-Deployment Strike)**: Executed a strategic leak regarding Valoria's yields, triggering a market crash for Onyx Syndicate bonds. Leveraged 300,000 GP of the Imperial budget to "short-sell" the Syndicate. Received a high-stakes invitation from Senior Partner Hestia to a "Welcome Social" involving the target (Governor Malphas).
+- **Chapter 84 (The Spire Garden Ambush)**: Attended the High Auditor’s Social. Weaponized the market crash to audit Council members out loud. Presented Malphas with a "Restructuring Term Sheet." Successfully identified "Clause 44-B" (the scorched-earth suicide pact) not as a threat, but as another form of asset liquidation. **Status**: Preparing for "Controlled Decompression."
 
 ## Psychology & Traits
 
@@ -149,7 +150,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **MP** | 85% | |
 | **Gold** | 12,450 GP (85,000 GP deployed) | 100% Oakhaven Lab Equity |
 | **Status** | Landlord of the Cathedral of Light | Hub Management Phase |
-| **Location** | Dungeon Insolvia Administrative Office | |
+| **Location** | Spire Gardens (Aethelgard) |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
 | **CHA** | 25 | Sales Mode active |

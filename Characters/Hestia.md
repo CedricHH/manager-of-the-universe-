@@ -43,4 +43,5 @@
 ## Recent Developments (Chapter 82)
 
 - **The Office Visit (Ch 82)**: Interrupted Victor’s first day. Warned him about Valoria and offered a buyout. Victor declined.
-- **The Ambush (Ch 83)**: Following Victor's short-sell of the Onyx Syndicate, she issued a gilded "Welcome Social" invitation. She has brought Governor Malphas to the Capital, setting the stage for a public confrontation. **Status**: Preparing the "Spire Gardens" environment for Victor's audit.
+- **The Ambush (Ch 83)**: Following Victor's short-sell of the Onyx Syndicate, she issued a gilded "Welcome Social" invitation. She has brought Governor Malphas to the Capital, setting the stage for a public confrontation.
+- **The Social Host (Ch 84)**: Hosted the "Spire Gardens" social. Watched with fascinated interest as Victor dismantled the High Council’s confidence and confronted the Duke. **Status**: Observing the "Audit-Warfare" with proprietary amusement.
