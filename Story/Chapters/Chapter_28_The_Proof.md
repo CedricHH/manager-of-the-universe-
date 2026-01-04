@@ -1,4 +1,4 @@
-# Chapter 28: The Proof (Part 1)
+# Chapter 28: The Proof
 
 The alert came at dawn.
 
