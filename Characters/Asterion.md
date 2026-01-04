@@ -163,64 +163,18 @@ Formal, measured, slightly archaic:
 | Location | Floor 4 Boss Chamber |
 | Condition | **Contracted** (Provisional Ally). Bound by [The Guardian's Pact]. |
 
-## Recent Developments (Chapter 16)
+## Arc 1 History: The Security Chief
 
-- **Recruitment**: Accepted Victor's offer to become a "General" instead of a guard dog.
-- **The Pitch**: Convinced by the promise of "war" and relevant challenges rather than gold.
-- **Role Change**: Agreed to stop killing weak adventurers and instead "break" them for marketing purposes.
+- **Recruitment (Ch 16-17)**: Accepted Victor's offer to become a "General." Signed [The Guardian's Pact].
+- **The Performance (Ch 22)**: Fought Silver Lance to a standstill (non-lethal).
+- **Formal Employment (Ch 26)**: Signed contract as **Chief Security Officer (CSO)**. 10 GP signing bonus.
+- **The Vault (Ch 32)**: Protected Victor during the discovery of the Consortium's truth.
+- **The First Test (Ch 34)**: Managed security during Victor's absence. Maintained non-lethal protocols.
 
-## Recent Developments (Chapter 17)
+## Recent Developments (Chapter 80+)
 
-- **The Guardian's Pact**: Signed a 30-day provisional contract. Terms: Protection in exchange for a "worthy opponent".
-- **The Handshake**: Accepted a human handshake, validating Victor as an equal (or at least, a partner).
-- **Ultimatum**: If Victor fails to deliver a Level 15+ party in 30 days, Asterion will liquidate the dungeon.
-
-## Recent Developments (Chapter 22)
-
-- **The Performance**: Fought the Silver Lance party. Dominated the engagement but adhered to the plan to let them survive for marketing purposes.
-- **Respect**: Gained respect for the Paladin's (Alara) divine power.
-
-## Recent Developments (Chapter 26)
-
-- **Formal Employment**: Signed 30-day probationary contract as Chief Security Officer (CSO).
-- **Organizational Structure**: Integrated into Victor's management hierarchy with defined role.
-- **Compensation**: 10 GP signing bonus + equity stake in future profits (instead of tribute/death).
-
-## Recent Developments (Chapter 32)
-
-- **Vault Exploration**: Accompanied Victor into ancient sealed chamber as security.
-- **Combat Readiness**: Maintained defensive posture throughout vault exploration.
-- **Philosophical Observation**: Questioned Victor's reaction to Consortium revelation: "You just learned your employers are cosmic parasites, and you're... looting?"
-- **Asset Transport**: Assigned to coordinate with Sniv for careful extraction of vault contents (armor, archive, sealed containers).
-
-## Recent Developments (Chapter 34)
-
-- **Security Authority**: Formally delegated primary security responsibility during Victor's 1-week absence.
-- **Contingency Planning**: Briefed on Iron Wolves scheduled return (4 days); instructed to maintain standard non-lethal protocols.
-- **Strategic Awareness**: Questioned Victor on response protocols for unexpected high-level threats during absence.
-- **Philosophical Insight**: Observed Sniv's loyalty to Victor; noted "He would die for you" and questioned if that's Victor's intent.
-- **Character Observation**: Witnessed Victor's complex emotional response to Sniv's devotion; recognized moral discomfort.
-- **Dungeon Guardian Role**: Maintaining Floor 4 patrols and overall security coordination with Nova's infrastructure monitoring.
-- **Trust Dynamics**: Confirmed understanding that dungeon survival depends on Victor's return.
-
----
-
-**Philosophical Note**:
-
-Asterion represents what happens when a being exists only for function. Victor offers him something the Dungeon Core never did: a *reason* beyond killing.
-
-Whether that reason (profit) is better is a question Asterion doesn't ask. Yet.
-
----
-
-**Version**: 1.0
-**Last Updated**: 2026-01-04
-
-## Recent Developments (Chapter 80)
-
-- **Promotion**: Formally promoted to **Chief Security Officer (CSO)** with a regional mandate.
-- **Mandate**: Responsible for training the next generation of boss-class entities for franchise expansion.
-- **Departure Beat**: Shared a moment of mutual respect with Victor before his departure to the Capital. 
+- **Chapter 80 (The Automation Protocol)**: **PROMOTION**. Formally promoted to **Chief Security Officer (CSO)** for the entire Oakhaven Region.
+- **Mandate**: Responsible for training the next generation of boss-class entities.
 - **Status**: COMMANDING. Overseeing security for the Oakhaven-Dungeon corridor.
 
 | **Current Status** | Chief Security Officer (CSO) |

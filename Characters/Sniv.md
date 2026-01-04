@@ -137,107 +137,18 @@ Broken common, learning corporate jargon:
 
 ---
 
-| **Current Status** | Managing the Merit Points tracker and Mining Team - Ch 9 |
-| **Level** | 1 |
-| **HP** | 12/12 |
-| **Location** | Tutorial Dungeon, Floor 5 (Command) |
-| **Condition** | Developing (Evolution 18%), Loyalty: UNBREAKABLE |
-| **Position** | HR Manager / "Director of Human Resources" |
 
-### Recent Developments (Chapter 2)
+## Arc 1 History: From Runt to Manager
 
-- **Recruitment**: Hired by Victor Kaine after being offered a "deal" (food and safety).
-- **First Meal**: Received first full ration without having to fight for it.
-- **First Assignment**: Tasked with conducting a full census of Floors 1-3.
+- **Survival (Ch 2-4)**: Recruited as "Employee #1". Saved from starvation. Led first goblin census and Fungal Garden harvest.
+- **The First Promotion (Ch 8-14)**: Organized the first "Onboarding Census" for feral recruits. Promoted to "Manager". Executed trap diversion strategy against first adventurers.
+- **Corporate Evolution (Ch 24-34)**: Evolved into Hobgoblin (Stage 2). Designated **COO**. Managing 26 goblins and daily operations. Demonstrated comprehensive loyalty during Victor's first absence.
+- **The Union Rep (Ch 56-59)**: Played key role in the "Class Action" lawsuit protest. Managed "Project Sparkle" cleanup for Royal visit.
 
-## Recent Developments (Chapter 3)
+## Recent Developments (Chapter 80+)
 
-- **Census Completion**: Successfully completed the audit of Floors 1-3, identifying hostile tribes, resources, and threats.
-- **Reporting**: Delivered the first formal report to the Manager; received a "Satisfactory" performance review.
-- **Operational Risk**: Reported rising hunger levels within the goblin pack, triggering the expedition to Floor 2.
-
-## Recent Developments (Chapter 4)
-
-- **Field Ops**: Successfully led a harvest party to the Fungal Gardens (Floor 2).
-- **Quality Assurance**: Acted as the designated taste-tester for Slime Jelly; survived the experience, cementing loyalty to the "Boss."
-- **Combat Coordination**: Executed the first "Funnel" kill on a Slime under Victor's direction.
-
-- Formally promoted to "Manager" role
-- Now manages 3 department leads (Food, Guard, Labor)
-- Learning corporate terminology ("Manager", "direct report")
-- Carries clipboard and wears tie as status symbols
-- Reports workforce updates and census data to Victor
-- Instrumental in identifying Floor 3 expansion target
-
-## Recent Developments (Chapter 7)
-
-- **Diversion Specialist**: Successfully executed a "Di-ver-sion" at the south entrance of the Floor 3 chamber, drawing away half the hostile force.
-- **Onboarding Lead**: Assumed responsibility for the processing and health assessment of 12 new feral hires.
-- **HR Title**: Formally embraced the title of "HR" (Human Resources).
-
-## Recent Developments (Chapter 08)
-
-- **Employee Accounting**: Executed the first comprehensive "Onboarding Census" for the 12 new hires, assigning labor/guard designations.
-- **Loyalty Feedback**: Confirmed absolute trust in the Boss, distinguishing it from the fear shown by feral recruits.
-- **Policy Execution**: Appointed to manage the "Veterans Tier" double-ration distribution.
-
-## Recent Developments (Chapter 09)
-
-- **Data Management**: Implemented the "Merit Point" spreadsheet on stone, tracking productivity and behavioral metrics for all 26 units.
-- **Physical Evolution**: Reached 18% evolution toward Hobgoblin status; observed significant increases in height and cognitive clarity due to managed nutrition.
-- **Strategic Exploration**: Accompanied the Manager to Floor 3 to investigate the Silver Dawn remains and the iron vein.
-
-## Recent Developments (Chapter 14)
-
-- **Operational Lead**: Served as the lead for the "Atmospheric Horror" unit during the first adventurer engagement.
-- **Trap Management**: Successfully executed the "Boulder Trap" and managed the synchronization of the Special Effects team.
-- **Employee Morale**: Observed the successful performance of Labor-15 and Guard-1 under "non-lethal" engagement rules.
-
-## Recent Developments (Chapter 24)
-
-- **Spy Team**: Created a "Reconnaissance Unit" of small goblins to watch human roads.
-- **Evolution**: Reached 42% Hobgoblin evolution.
-
-## Recent Developments (Chapter 26)
-
-- **Promotion**: Formally designated as **Chief Operating Officer (COO)** in the organizational chart.
-- **Recruitment**: Assisted in the hiring/contracting of Asterion.
-
-## Recent Developments (Chapter 31)
-
-- **Project Manager**: Assigned as Project Manager for Floor 3 Mining Expansion (48-hour timeline).
-- **Morale Reporting**: Reported employee burnout concerns to Victor; revealed Labor-9 crying from exhaustion.
-- **Policy Advocacy**: Suggested rotating rest days (1 day off per week) for goblin workforce.
-- **Emotional Moment**: Witnessed Victor implementing "vacation" (framed as "scheduled maintenance"); eyes shimmered with gratitude.
-- **Construction Success**: Executed Floor 3 expansion flawlessly—no injuries, no delays, completed 30 minutes early.
-
-## Recent Developments (Chapter 33)
-
-- **Management Test**: Given full operational authority while Victor travels to Oakhaven (1 week duration).
-- **Responsibility**: Managing 26 goblins, daily operations, and Floor 1-3 activities without Victor's oversight.
-- **Performance Stakes**: Success = equity options discussion; Failure = severance package discussion.
-- **Emotional Response**: "Sniv not fail! Sniv make Boss proud!" (clutching clipboard like life raft).
-
-## Recent Developments (Chapter 34)
-
-- **Operational Authority Confirmed**: Formally delegated full operational control during Victor's absence (1 week maximum).
-- **Iron Wolves Protocol**: Assigned to manage scheduled adventurer party return (4 days); charge 20 GP entry + 15 GP Floor 3 access.
-- **Emotional Revelation**: Verbally expressed loyalty beyond transaction: "Boss is... good Boss... Sniv want Boss safe."
-- **Personal Growth**: Articulated value of Victor's management style vs. previous abuse ("Other bosses hit Sniv. Take Sniv food").
-- **Concern Display**: Asked Victor directly if he would return; received reassurance through investment-protection framing.
-- **Management Validation**: Recognized transformation from starvation survival to operational competence: "Sniv brain work now."
-- **Asterion's Observation**: Minotaur noted Sniv's absolute loyalty: "He would die for you."
-
----
-
-**Version**: 1.1
-**Last Updated**: 2026-01-04
-
-## Recent Developments (Chapter 56-59)
-
-- **Grassroots Campaign (Ch 56)**: Led the adventurer protest, using terms like "Big Bosses" and "Monopoly."
-- **Union Rep (Ch 57)**: Wore a high-vis vest and faked an injury to stall the Crimson Blades.
-- **Project Sparkle (Ch 59)**: Managed the rapid cleanup of the lobby ('Sparkle Team') before the Royal visit.
+- **Chapter 80 (The Automation Protocol)**: **MAJOR PROMOTION**. Promoted to **Regional Executive Manager** of Dungeon Insolvia. Inherited the SOP Manual.
+- **Status Update**: FULL AUTONOMY. Currently managing Oakhaven operations while Victor is deployed in Aethelgard.
 ## Recent Developments (Chapter 80)
 
 - **Promotion**: Formally promoted to **Regional Executive Manager** of Dungeon Insolvia.
