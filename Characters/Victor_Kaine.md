@@ -346,3 +346,16 @@ The question the story subtly asks: Will he ever choose "worth it" again?
 - **Sterling Manor Route**: Successfully negotiated "guest" status with armed escort; heading to Lord Sterling for business opportunity discussion.
 - **Current Assets**: 40 GP remaining (after 10 GP toll), premium mana crystals, black Consortium card, merchant credibility established.
 - **Competence Display**: Demonstrated crisis management, bluff technique (truth + misdirection), incentive analysis, tactical social engineering.
+
+## Recent Developments (Chapter 36)
+
+- **Sterling Manor Arrival**: Analyzed estate economics using ARMI - capital rich, cash poor, aging infrastructure, minimal staff, zero innovation investment.
+- **Power Play Observation**: Subjected to 40-minute wait; used time to assess Sterling's financial condition through visible account ledgers and furnishings.
+- **First Meeting - Lord Sterling**: Met competent professional (Level 18-20, mid-40s, military bearing, risk-averse executive type).
+- **Business Negotiation**: Proposed 20% licensing partnership for managed dungeon operations; Sterling countered at 30%, settled at 20% with performance bonus clause.
+- **Black Card Reveal**: Strategic deployment of Consortium card = Sterling recognized institutional backing beyond regional merchant level.
+- **Dungeon Incident Crisis**: Three missing adventurer parties from Victor's dungeon triggered Sterling's suspicion mid-negotiation.
+- **Dead-Man Switch Deployment**: Revealed 72-hour failsafe contingency - dungeon seals/collapses if Victor doesn't return; prevents hostile takeover.
+- **Partnership Signed**: Six-month provisional agreement executed - 20% gross revenue to Sterling, operational autonomy, quarterly reporting, audit rights.
+- **Permits Acquired**: Legitimate operating permits issued with Sterling's territorial endorsement; Merchant Guild licensing expedited.
+- **Competence Display**: Negotiation mastery, contingency planning from Earth lessons, contract preparation, professional courtesy between equals.

@@ -88,3 +88,11 @@
 - **Confrontation Witness**: Present (in bag) during Victor's encounter with Sterling's enforcers; maintained silence during crisis.
 - **Sterling Manor Route**: Traveling with Victor as "quiet assistant" to Lord Sterling's estate under armed escort.
 - **Professional Role**: Successfully maintaining merchant assistant cover despite challenges with silence requirement.
+
+## Recent Developments (Chapter 36)
+
+- **Discipline Mastery**: Maintained complete silence in bag throughout entire Sterling Manor negotiation (40-minute wait + business meeting).
+- **Professionalism**: Zero interruptions during critical business negotiation, zero premature reveals compromising merchant cover.
+- **Exit Excitement**: After partnership signed, emerged with condensed enthusiasm: "Boss make deal! Many synergies!"
+- **Corporate Learning**: Self-corrected "synergy" to "synergies" when Victor prompted; internalizing business terminology.
+- **Performance Success**: Successfully fulfilled merchant assistant role requirements; demonstrated significant discipline improvement from Chapter 34-35.

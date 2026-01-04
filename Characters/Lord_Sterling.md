@@ -89,9 +89,29 @@ Sterling becomes a recurring nuisance—always trying to escape his debt, always
 - **Business Meeting**: Victor negotiated "guest" status using mana crystal demonstration; heading to Sterling Manor.
 - **Current Status**: Victor en route under armed escort for business opportunity discussion (Chapter 36).
 
-**Sterling's Strengths**: Professional enforcement, dungeon monopoly, territorial authority, established infrastructure
+**Sterling's Strengths**: Professional enforcement, dungeon monopoly, territorial authority, established infrastructure  
 **Sterling's Weaknesses**: Zero innovation, labor-intensive model, inefficient toll systems, extractive vs. productive mindset
 
----
+## Recent Developments (Chapter 36)
+
+**Direct Introduction**: First face-to-face meeting with Victor at Sterling Manor.
+
+- **Character Revealed**: Mid-40s, military bearing, professional executive (Level 18-20), risk-averse but competent, speaks like businessman not pompous noble.
+- **Dialogue Style**: "Flattery wastes both our time" - establishes no-nonsense professionalism immediately.
+- **Business Acumen**: Professional contract review, methodical negotiation, calculated counter-offers (15% → 30% → 25% → 20% with performance clause).
+- **Crisis Response**: Dungeon incident (three missing parties) triggered during negotiation; immediately assessed Victor as potential threat.
+- **Threat Assessment**: Drew sword when Victor admitted dungeon ownership; backed down when presented with dead-man switch contingency.
+- **Strategic Decision**: Signed six-month provisional partnership (20% gross revenue, operational autonomy, quarterly reporting, audit rights).
+- **Permits Issued**: Provided legitimate Oakhaven operating permits with territorial endorsement; expedited Merchant Guild licensing.
+- **Professional Courtesy**: Shook hands with Victor as equals after contract signing; recognizes mutual benefit.
+- **Character Consistency**: Made smart, not caricature noble; understands business value vs. immediate extraction.
+
+**Partnership Terms**:
+- **Revenue Share**: 20% gross to Sterling, 80% to Victor
+- **Duration**: 6 months provisional with renewal option
+- **Oversight**: Quarterly reports + 48-hour notice audits
+- **Dead-Man Switch**: Victor's 72-hour failsafe remains active initially
+
+**Relationship Status**: Professional partnership (temporary alignment of interests, not trust)
 
 **Version**: 1.0
