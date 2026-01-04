@@ -122,7 +122,8 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 84 (The Spire Garden Ambush)**: Attended the High Auditor’s Social. Weaponized the market crash to audit Council members out loud. Presented Malphas with a "Restructuring Term Sheet." Successfully identified "Clause 44-B" (the scorched-earth suicide pact) not as a threat, but as another form of asset liquidation.
 - **Chapter 85 (The Decompression Protocol)**: Malphas triggered the explosion. Victor executed a "Hostile Takeover" of the exploding asset (100 GP), then used `[Asset Liquidation]` to convert the mana-volatility into currency. **Yield**: +45,000 GP. Malphas arrested. Hestia delivered a "Black Envelope" from the Galactic Audit Consortium. **Status**: 12% Gold Toxicity; Quest `[The Macro-Management]` received.
 - **Chapter 86 (The Black Envelope)**: Opened the recruitment offer. Negotiated with the Consortium AI to reduce the franchise fee from 50% to **25%** and secure "Independent Contractor" status. Unlocked `[Galactic Exchange]`. **Mission**: Generate **1,000,000 GP** in 30 days or face liquidation. **Status**: Return journey to Oakhaven initiated.
-- **Chapter 87 (The Exit Strategy)**: **ACT 1.5 FINALE**. Attempted to leave Aethelgard; Vane blocked 15% of funds as a "fee." Victor activated "Remote Management" protocol. Mina/Silas (North Branch) successfully used bureaucratic roadblocks to release the funds (+6,780 GP). Encountered Barnaby ('The Leech') blocking the highway with a scalper wagon. **Current Objective**: Liquidate the obstruction.
+- **Chapter 87 (The Exit Strategy)**: **ACT 1.5 FINALE**. Attempted to leave Aethelgard; Vane blocked 15% of funds as a "fee." Victor activated "Remote Management" protocol. Mina/Silas (North Branch) successfully used bureaucratic roadblocks to release the funds (+6,780 GP). Encountered Barnaby ('The Leech') blocking the highway.
+- **Chapter 88 (The Return Investment)**: Liquidated Barnaby's blockade by snapping his wagon axle. Acquired **The Gilded Caravan** (Mobile Dimension Wagon) and hired Barnaby (2% commission). Accessed **Galactic Exchange** for the first time. Discovered arbitrage opportunity: Buying Miracles for Mana.
 
 ## Psychology & Traits
 
@@ -139,11 +140,10 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **MP** | 85% | |
 | **Gold** | 64,230 GP | +6,780 GP (Fee Recovery) |
 | **Status** | CEO, Kaine Consulting | En route to Oakhaven |
-| **Location** | Imperial Highway (Blocked) | The Gilded Caravan |
+| **Location** | The Gilded Caravan (En route to Oakhaven) | Southbound |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
-| **CHA** | 25 | Sales Mode active |
-| **Assets** | 72 captured mosquitoes (360 GP value) + Mosquito breeding program | ← NEW (Ch 65) |
+| **Assets** | The Gilded Caravan (Rank B Mobile Base) | Barnaby (Employee) |
 | **Contract** | **Galactic Audit Consortium** (Independent Consultant) | 25% Fee. Target: 1,000,000 GP in 30 Days. |
 
 ### Signature Skills
