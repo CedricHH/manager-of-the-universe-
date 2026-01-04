@@ -105,14 +105,16 @@ Clay pots shattered on the floor in front of the goblin line. Oil—slippery, vi
 
 The charging mercenaries hit the slick surface. Momentum turned into comedy. Feet went out from under them. Heavy armor slammed into stone. The charge disintegrated into a pile of sliding, flailing bodies.
 
-The goblin line held. Spears darted out—jab, retract, jab, retract. Ruthless efficiency.
+The goblin line held. It wasn't just a wall; it was a grinder. Spears darted out from the gaps between the tower shields—jab, retract, jab, retract. Ruthless efficiency drilled into them by Kael over sleepless nights.
+
+There was no bloodlust in their eyes, only the terrifying focus of employees fearing a bad performance review.
 
 > **[ARMI - COMBAT METRICS]**
 > Enemy Casualty Rate: 15% (Incapacitated)
 > Goblin Casualty Rate: 0%
 > Formation Integrity: 95%
 
-"Hold the line!" Kael bellowed, catching a mercenary's sword on his shield and riposting with a clean thrust to the shoulder. "They are billing by the hour! We are fighting for equity!"
+"Hold the line!" Kael bellowed, catching a mercenary's sword on his shield. The impact rang like a bell, but he didn't budge. He riposted with a clean thrust to the shoulder, disabling the attacker's sword arm. "They are billing by the hour! We are fighting for equity! Do not yield a single inch of corporate property!"
 
 Voros scrambled to his feet, enraged. He kicked a goblin shield, shattering the wood, and backhanded the creature aside.
 
