@@ -133,7 +133,8 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 
 - **Chapter 82 (The Resource Allocation)**: Established base of operations in Aethelgard. Recruited analysts Mina and Silas. Discovered the "Too Big To Fail" suicide pact involving the Onyx Syndicate.
 - **Chapter 83 (The Pre-Deployment Strike)**: Executed a strategic leak regarding Valoria's yields, triggering a market crash for Onyx Syndicate bonds. Leveraged 300,000 GP of the Imperial budget to "short-sell" the Syndicate. Received a high-stakes invitation from Senior Partner Hestia to a "Welcome Social" involving the target (Governor Malphas).
-- **Chapter 84 (The Spire Garden Ambush)**: Attended the High Auditor’s Social. Weaponized the market crash to audit Council members out loud. Presented Malphas with a "Restructuring Term Sheet." Successfully identified "Clause 44-B" (the scorched-earth suicide pact) not as a threat, but as another form of asset liquidation. **Status**: Preparing for "Controlled Decompression."
+- **Chapter 84 (The Spire Garden Ambush)**: Attended the High Auditor’s Social. Weaponized the market crash to audit Council members out loud. Presented Malphas with a "Restructuring Term Sheet." Successfully identified "Clause 44-B" (the scorched-earth suicide pact) not as a threat, but as another form of asset liquidation.
+- **Chapter 85 (The Decompression Protocol)**: Malphas triggered the explosion. Victor executed a "Hostile Takeover" of the exploding asset (100 GP), then used `[Asset Liquidation]` to convert the mana-volatility into currency. **Yield**: +45,000 GP. Malphas arrested. Hestia delivered a "Black Envelope" from the Galactic Audit Consortium. **Status**: 12% Gold Toxicity; Quest `[The Macro-Management]` received.
 
 ## Psychology & Traits
 
@@ -148,7 +149,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **Class** | Restructurer | Authority Level 2 |
 | **HP** | 100% | |
 | **MP** | 85% | |
-| **Gold** | 12,450 GP (85,000 GP deployed) | 100% Oakhaven Lab Equity |
+| **Gold** | 57,450 GP (+45,000 GP Yield) | 100% Insolvia Integrated Extraction Equity |
 | **Status** | Landlord of the Cathedral of Light | Hub Management Phase |
 | **Location** | Spire Gardens (Aethelgard) |
 | **INT** | 22 | Increased capacity |
