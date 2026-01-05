@@ -124,6 +124,7 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Chapter 86 (The Black Envelope)**: Opened the recruitment offer. Negotiated with the Consortium AI to reduce the franchise fee from 50% to **25%** and secure "Independent Contractor" status. Unlocked `[Galactic Exchange]`. **Mission**: Generate **1,000,000 GP** in 30 days or face liquidation. **Status**: Return journey to Oakhaven initiated.
 - **Chapter 87 (The Exit Strategy)**: **ACT 1.5 FINALE**. Attempted to leave Aethelgard; Vane blocked 15% of funds as a "fee." Victor activated "Remote Management" protocol. Mina/Silas (North Branch) successfully used bureaucratic roadblocks to release the funds (+6,780 GP). Encountered Barnaby ('The Leech') blocking the highway.
 - **Chapter 88 (The Return Investment)**: Liquidated Barnaby's blockade by snapping his wagon axle. Acquired **The Gilded Caravan** (Mobile Dimension Wagon) and hired Barnaby (2% commission). Accessed **Galactic Exchange** for the first time. Discovered arbitrage opportunity: Buying Miracles for Mana.
+- **Chapter 89 (The Arbitrage)**: Executed first Galactic Exchange transaction—purchased [Blessing: Fertile Soil] from "The Broken King" (World 44-Z) for 2,500 GP (ROI: 2,900%). Discovered Exchange limitations: Reputation Tier system (Weekly limit: 25,000 GP; requires 10 transactions to unlock Tier 2). Received warning from ADMINISTRATOR_HESTIA: "Every transaction leaves a mana trace." Listed [Miracle: Rain] for 45,000 GP (anonymous). Strategic pivot: Must build shell companies and diversify sales to avoid Church detection. **Ambushed**: Coordinated bandit attack (30+ hostiles) on Imperial Highway—intelligence suggests someone knows his 30-day deadline. **Status**: In combat.
 
 ## Psychology & Traits
 
@@ -138,13 +139,14 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 | **Class** | Independent Contractor (Consultant) | Authority Level 2.5 |
 | **HP** | 100% | |
 | **MP** | 85% | |
-| **Gold** | 64,230 GP | +6,780 GP (Fee Recovery) |
+| **Gold** | 61,730 GP | -2,500 GP (Galactic Exchange Purchase) |
 | **Status** | CEO, Kaine Consulting | En route to Oakhaven |
-| **Location** | The Gilded Caravan (En route to Oakhaven) | Southbound |
+| **Location** | The Gilded Caravan (Imperial Highway) | Under Attack |
 | **INT** | 22 | Increased capacity |
 | **CHA** | 25 | Sales Mode active |
 | **Assets** | The Gilded Caravan (Rank B Mobile Base) | Barnaby (Employee) |
 | **Contract** | **Galactic Audit Consortium** (Independent Consultant) | 25% Fee. Target: 1,000,000 GP in 30 Days. |
+| **Exchange** | **Reputation Tier: Unverified** | Limit: 25,000 GP/week; 1/10 transactions complete |
 
 ### Signature Skills
 - **[Performance Review]**: Analyze stats/value.

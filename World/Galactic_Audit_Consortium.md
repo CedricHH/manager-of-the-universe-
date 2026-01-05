@@ -28,5 +28,73 @@ The **Galactic Audit Consortium** is the entity responsible for the distribution
 
 ---
 
-**Version**: 1.0
-**Last Updated**: 2026-01-04
+## The Galactic Exchange
+
+**First Full Access**: Chapter 89
+
+### Overview
+
+The **Galactic Exchange** is an inter-dimensional marketplace operated by the Consortium. It connects gods, demons, cosmic entities, and Restructurers across infinite worlds, allowing them to trade resources, miracles, souls, and other cosmic commodities.
+
+### Interface
+
+- **Access Method**: Obsidian Consortium Contract Card (holographic projection)
+- **Signal Strength**: Varies by location (14% on Terra-Insolvia highways)
+- **Format**: Scrolling ticker + listing database + chat system
+
+### Commodity Types
+
+| Category | Examples | Pricing Currencies |
+|----------|----------|-------------------|
+| **Divine Assets** | Miracles (Rain, Harvest), Blessings, Wards | GP, Faith Points, Soul Fragments |
+| **Cosmic Resources** | Planetary Cores, Mana Wells, Prayer Futures | Planetary Cores, Cosmic Shards |
+| **Enforcement** | Curses, Contracts, Divine Wrath | GP, Sworn Oaths |
+| **Information** | Prophecies, Scrying, Fate Threads | GP, Future Favors |
+
+### Reputation System
+
+**Purpose**: Prevents market manipulation by new users.
+
+| Tier | Status | Weekly Purchase Limit | Requirements |
+|------|--------|----------------------|--------------|
+| **Unverified** | Entry Level | 25,000 GP/week | 0 transactions |
+| **Tier 1** | Basic Contractor | 100,000 GP/week | 10 verified transactions |
+| **Tier 2** | Established Trader | ??? | ??? + Shell Entity Access |
+
+**Victor's Status (Ch 89)**: Unverified (1/10 transactions complete)
+
+### Transaction Features
+
+1. **Mana Lock Escrow**: Smart contract holding payment until delivery confirmed
+2. **Dimensional Vault Storage**: Items stored at dimensional nodes, retrievable at Waypoints
+3. **Seller Anonymity Options**: Public / Anonymous / Shell Entity (Tier 2+)
+4. **Verification Runes**: Built-in authenticity checking for divine/magical items
+
+### Security & Tracking
+
+**CRITICAL DISCOVERY (Ch 89)**: Every transaction leaves a **mana signature**.
+
+- Transactions can be traced back to the buyer/seller
+- Flooding local markets triggers "destabilizing trade" alerts
+- Affected parties (e.g., Church monopolies) can track signature back to source
+- Consortium monitors for trades that "crash markets"
+
+**Hestia's Warning**: "If you crash a local market, the affected parties will notice. And they have your signature now."
+
+### Arbitrage Potential
+
+Victor identified massive price disparities:
+
+| Item | Purchase Price (Other Worlds) | Terra-Insolvia Market Rate | ROI |
+|------|------------------------------|---------------------------|-----|
+| [Miracle: Rain] | 5,000 GP | 50,000-120,000 GP | 900-2,300% |
+| [Blessing: Fertile Soil] | 2,500 GP | 75,000 GP | 2,900% |
+| [Ward: Plague Protection] | 8,000 GP | 120,000 GP | 1,400% |
+
+**Root Cause**: Information asymmetry. Entities across worlds don't price-compare or arbitrage.
+
+---
+
+**Version**: 2.0
+**Last Updated**: 2026-01-05 (Chapter 89)
+
