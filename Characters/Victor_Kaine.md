@@ -134,21 +134,21 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **Buried Humanity**: Driven by the guilt of Project Cobalt (Ch 40 flashback), he refuses "wasteful" deaths but claims it's just efficiency.
 - **Methods**: Contracts, leverage, economic pressure, information asymmetry. Never fights fair.
 
-## Combat Stats (Level 2)
+## Combat Stats (Level 14)
 
 | Stat | Value | Notes |
 |------|-------|-------|
-| **Class** | **Asset Manager (Level 14)** | Consortium Independent Operator |
+| **Class** | **Asset Manager (Level 14)** | Consortium **REGIONAL OPERATOR** ← NEW (Ch 101) |
 | **HP** | 100% | |
 | **MP** | 92% | Increased via Exchange mastery |
-| **Net Worth** | **1,022,000 GP** | **Consortium Goal: FULFILLED (102.2%)** |
-| **Status** | **Independent Tycoon** | Probation LIFTED; Permanent Residency APPROVED |
+| **Net Worth** | **~975,200 GP** | Post-Day 1 launch (+ 200 GP revenue) ← Ch 104 |
+| **Status** | **Regional Operator** | Tier 4 mission offered (BROKEN CROWN, 2-week decision) ← Ch 103 |
 | **Location** | Oakhaven (Core Chamber) | Established base of operations |
 | **INT** | 26 | Master-tier strategic planning |
 | **CHA** | 28 | Institutional negotiation mastery |
 | **Level** | **14** (↑ from 11) | Progression via trade, negotiation, survival |
-| **Assets** | Profitable Dungeon (Nova partnership) | Gilded Caravan, 10 Shell Companies, 42-soldier force |
-| **Contract** | **Galactic Audit Consortium: FULFILLED** | 1.022M GP in 23 days (Record: Previous 67 days) |
+| **Assets** | Profitable Dungeon + **Slime Farm** (OPERATIONAL) ← NEW | Gilded Caravan, 10 Shell Companies, 42-soldier force, Apothecary (opened Ch 104) |
+| **Contract** | **Galactic Audit Consortium: FULFILLED** | Arc 1: 1.022M GP in 23 days / Arc 2: 10M GP target |
 | **Exchange** | **Reputation Tier: 1 (Verified Merchant)** | Limit: 100k GP/week; Shell company network operational |
 | **Partnerships** | **4 Major Institutions** | Church (15% brokerage), Merchant Guild (Voros), Crown Prince (Aldric), Dungeon Core (Nova) |
 
@@ -178,11 +178,23 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 
 ---
 
+## Arc 2: Market Expansion (Chapters 101+)
+
+**Chapter 101 - The Expansion Plan (ARC 2 START - REWRITTEN)**: Received new Consortium tier: **REGIONAL OPERATOR** with 10,000,000 GP target (no deadline). Unlocked new skills: [Institutional Analysis], [Market Penetration Protocol]. Identified **Merchant Guild licensing monopoly** (Guild Master **Lysander Corvus**, 38-year veteran, 15% transaction fees = 520k GP/year rent-seeking). Discovered **Crown Territory loophole**: Dungeon Commerce Act exempts dungeon entrances from City Guild licensing. Invested 45,000 GP total (30k GP Insolvia Apothecary storefront + 15k GP slime farm expansion to 4,000 cores/week). Negotiated with Nova (2.5% storefront revenue + Floor 6 priority). **Strategy**: Bypass Guild licensing entirely via dungeon entrance shop, create political constituency (adventurers save 15% = voters against Guild regulations). Assigned tasks: Sniv (train 10 goblin shopkeepers), Asterion (hire 12 guards), Marcus (scale potion production). **ALERT**: Detected unknown Restructurer-class mana signature in Market Quarter (68% probability of second Consortium agent). Quest received: [Market Intelligence]. **Net Worth after investment**: 977,000 GP. **Status**: Preparing for dual conflict (Merchant Guild legal war + Restructurer identification).
+
+**Chapter 102 - The Recruitment**: Tracked mystery Restructurer (Kira) to alchemical supply shop; she revealed awareness of surveillance. Hired first alchemist defector: **Marcus Thiel** (Level 8, 150 GP/month = 3x Guild wages, 1% profit share). Offered 233% profit margin vs. Guild's -200% at competitive pricing. Observed Sniv's Customer Service Academy training 10 goblins (graduation: 4 days). Conducted security audit with Asterion: 12 guards hired, apothecary 90% fortified, slime farm 87% complete (first harvest in 2 days). **CRITICAL**: Received encrypted message from **Restructurer #418 (Kira, Designation: Liaison)**—Consortium evaluator requesting meeting at Broken Barrel Inn (noon, next day). Kira knows Victor's ID and nickname ("Chainsaw"). Quest updated: [Market Intelligence] → CRITICAL PHASE. Risk: Liaison-class Restructurers have termination authority. Accepted meeting. **Status**: Preparing for dual evaluation (Kira + Groll).
+
+**Chapter 103 - The Liaison**: Met **Restructurer #418 (Kira, Designation: Liaison)** at Broken Barrel Inn. **Consortium Structure Revealed**: Learned full tier system (Tier 1: 73% failure, Tier 2: 46%, Tier 3: 12%, Tier 4: classified). Kira = former record-holder (67 days to 1M GP; Victor beat her at 23 days). **Tier 4 Mission Offered**: **BROKEN CROWN** (Planet: Terra-Solvaris, 5-way civil war, 12M GP Consortium investment at risk, 6-month stabilization deadline). Previous attempts: 4 Restructurers dead, 3 psychologically broken (57% fatality rate). **Reward**: Skip Tier 2 entirely, instant Tier 3 promotion + full Consortium support + dimensional market access. **Team Composition**: Victor (Lead), Kira (Liaison), 2 unknown operatives. **Success Criteria**: Stabilize government, recover 12M GP investment, install Consortium-friendly regime. **Failure Penalty**: Team termination. **Decision Window**: 2 weeks. **Kira's Warning**: Lysander will discover unlicensed apothecary in 3 days (timeline acceleration required). **Victor's Decision**: Deferred BROKEN CROWN choice to finish Guild War first. Data crystal retained for review. **Status**: Dual concurrent crises (Guild licensing war + Tier 4 decision).
+
+---
+
 ### Signature Skills (Updated)
 - **[Performance Review]**: Analyze stats/value/institutional weaknesses
 - **[Aggressive Negotiations]**: Psychic pressure/paralysis (enhanced via Church/Executor negotiations)
 - **[Asset Liquidation]**: Convert immobilized targets to Gold
 - **[Contract Binding]**: Magical enforcement of terms
-- **NEW: [Market Arbitrage]**: Exploit price inefficiencies across dimensional markets
-- **NEW: [Precedent Defense]**: Legal warfare via case law analysis
-- **NEW: [Institutional Navigation]**: Manipulate bureaucratic systems (Church, Consortium, Empire)
+- **[Market Arbitrage]**: Exploit price inefficiencies across dimensional markets
+- **[Precedent Defense]**: Legal warfare via case law analysis
+- **[Institutional Navigation]**: Manipulate bureaucratic systems (Church, Consortium, Empire)
+- **NEW: [Institutional Analysis]**: Deep-dive analysis of organizational structures and weaknesses ← (Ch 101)
+- **NEW: [Market Penetration Protocol]**: Systematic market disruption and monopoly breaking ← (Ch 101)
