@@ -258,8 +258,26 @@ Lysander represents institutional power through **legal/regulatory** control:
 - **Lysander's Assumption**: Victor operates like traditional merchant (dependent on external supply chains)
 - **Strategic Error**: Doesn't account for dungeon production infrastructure (Victor achieving vertical integration via internal reagent synthesis)
 
-### Next Move (Projected Ch 108):
-Monitor Victor's Westhold procurement mission; prepare secondary pressure (guild member boycott enforcement).
+**Chapter 108**: **Phase 3 Defeat—Vertical Integration Complete**:
+- **Intelligence Report**: Victor's apothecary operational despite total embargo; sales resumed 4 PM Day 4
+- **Discovery**: Victor achieved internal production (dungeon-synthesized reagents, 96% efficacy) + external procurement (Westhold suppliers, non-Guild)
+- **Guild Impact**: 40% sales decline for Guild-licensed vendors; customer preference for Insolvia despite color differences
+- **Strategic Recognition**: "He's not operating like a merchant. He's operating like a manufacturer."
+- **Council Assessment**: All three phases failed (Legal→Political→Economic warfare all countered within one week)
+- **Economic Projection**: Continued fighting = 40% revenue loss (2 weeks), member bankruptcies (4 weeks), charter dissolution (6 weeks)
+- **Victor's Negotiation Offer Received** (via Valerius):
+  - Guild integration into "Oakhaven Commerce Authority"
+  - Terms: 15%→5% fees (18-month phased reduction), charter restructuring, 36-month transition
+  - Lysander = Director of Regulatory Compliance (advisory role, retained authority)
+  - Member protection: No forced departures, pension obligations honored
+  - Alternative: 6-week bankruptcy→liquidation→Victor acquires assets at pennies
+- **Lysander's Realization**: "We're middlemen to a system that no longer requires middlemen"
+- **Decision**: Negotiate terms vs continue war with every weapon failed
+- **Council Vote**: Authorized negotiation approach
+- **Timeline**: 48 hours to respond to Victor's integration proposal
+
+### Next Move (Projected Ch 109):
+Meet Victor for negotiation; discuss integration terms; attempt to salvage Guild member protections and institutional knowledge value.
 
 ---
 
