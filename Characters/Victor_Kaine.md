@@ -202,3 +202,5 @@ The Galactic Audit Consortium chose him not just for his ruthlessness, but for t
 - **[Institutional Navigation]**: Manipulate bureaucratic systems (Church, Consortium, Empire)
 - **NEW: [Institutional Analysis]**: Deep-dive analysis of organizational structures and weaknesses ← (Ch 101)
 - **NEW: [Market Penetration Protocol]**: Systematic market disruption and monopoly breaking ← (Ch 101)
+
+**Chapter 106 - The Council**: **12-Hour Coalition** (midnight-10 AM): Team mobilization (Sniv: 487 testimonials, Marcus: economic analysis proving 2x city tax revenue, Asterion: 200+ adventurers). **Public Demonstration**: 340 adventurers Market Quarter (organic political movement, Captain Thorne speech). **Emergency Council Hearing**: Lysander (institutional stability), Victor (foundational law + economic data + voter pressure). **Vote**: 4-3 victory (motion FAILED). Vex + Dren flipped, Sterling swing vote. **Lysander Warning**: "Phase 3 in 48h" = extra-legal methods (legal/political exhausted). ARMI: 94% escalation, unknown tactics. **BROKEN CROWN**: 9 days. **Status**: Political victory; Phase 3 threat imminent.
