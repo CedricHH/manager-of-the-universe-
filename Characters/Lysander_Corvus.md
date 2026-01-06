@@ -232,20 +232,38 @@ Lysander represents institutional power through **legal/regulatory** control:
 
 ---
 
-## Current Status (as of Chapter 104)
+## Current Status (as of Chapter 107)
 
 | Attribute | Value |
 |-----------|-------|
 | **Location** | Merchant Guild Hall, Oakhaven |
-| **Threat Level** | HIGH (legal/political power) |
-| **Relationship with Victor** | Enemy (unlicensed merchant) |
-| **Immediate Action** | Guild Inspector assessment ordered |
-| **Next Move** | Formal licensing demand (Ch 105 likely) |
-| **Revenue Threat** | 15% Guild fees unpaid on Victor's 200 GP Day 1 sales = 30 GP loss |
+| **Threat Level** | VERY HIGH (supply chain control) |
+| **Relationship with Victor** | Active economic warfare |
+| **Current Phase** | Phase 3: Supply Chain Sabotage |
+| **Status** | Escalated to total embargo after political defeat |
+
+### Recent Developments (Chapters 105-107):
+
+**Chapter 105**: Phase 2 escalation (political warfare). Emergency Guild Council convened after Greymark's failed inspection. Accelerated Council hearing timeline from 3 days → 12 hours. Three-part strategy: City Council petition, vendor coalition, Crown petition. "Unlicensed Commerce Prohibition Act" drafted.
+
+**Chapter 106**: Council hearing defeat. Victor's "Economic Stimulus Proposal" demonstrates 15% savings → 30% increased spending → higher city tax revenue (Laffer Curve). Public support (340 adventurers) sways vote. Result: 4-3 against motion (Vex, Dren, Sterling vote NO). **Political route closed.** Warning to Victor: "Phase 3 in 48 hours" (extra-legal methods).
+
+**Chapter 107**: **Phase 3 initiated—Supply Chain Blacklist**:
+- Coordinated refusal of service: All 7 major reagent suppliers blacklist Victor (100% coordination, 38 years relationships weaponized)
+- Emergency Guild Assembly called (first in 11 years)
+- Agenda: "Coordinated Response to Unlicensed Dungeon Commerce"  
+- **Vote Result**: 47 yes, 3 abstain, 2 no → Total economic embargo approved
+- **Scope Expansion**: Reagents, metals, equipment, food supplies—comprehensive infrastructure cutoff
+- **Strategy**: Economic siege to force Victor's bankruptcy or Guild membership within 2 weeks
+- **Lysander's Assumption**: Victor operates like traditional merchant (dependent on external supply chains)
+- **Strategic Error**: Doesn't account for dungeon production infrastructure (Victor achieving vertical integration via internal reagent synthesis)
+
+### Next Move (Projected Ch 108):
+Monitor Victor's Westhold procurement mission; prepare secondary pressure (guild member boycott enforcement).
 
 ---
 
-**Version**: 1.0  
-**Status**: Active Antagonist (Arc 2, Trade War)  
+**Version**: 1.1  
+**Status**: Active Antagonist (Arc 2, Phase 3)  
 **Importance**: MAJOR (Primary Arc 2 conflict driver)  
-**Differentiation**: Legal/political conflict (vs. Arc 1's economic/production conflict)
+**Differentiation**: Supply chain warfare (Phase 3) after legal (Phase 1) and political (Phase 2) failures

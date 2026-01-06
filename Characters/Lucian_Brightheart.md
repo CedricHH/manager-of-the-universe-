@@ -1,4 +1,4 @@
-# Lysander Brightheart - The True Hero
+# Lucian Brightheart - The True Hero
 
 > **Role**: Foil / Reluctant Ally
 > **Class**: Paladin-Knight (Blessed)
@@ -10,7 +10,7 @@
 
 | Attribute | Value |
 |-----------|-------|
-| **Name** | Lysander Brightheart |
+| **Name** | Lucian Brightheart |
 | **Title** | The Chosen One / "Sword of Prophecy" |
 | **Age** | 24 |
 | **Gender** | Male |
@@ -20,7 +20,7 @@
 
 ## Origin
 
-Lysander is everything Victor was *supposed* to fight:
+Lucian is everything Victor was *supposed* to fight:
 - Genuinely heroic
 - Blessed by the gods
 - Loved by the people
@@ -34,7 +34,7 @@ Then he met Victor.
 
 ## The Confrontation (Ch 451-510)
 
-Lysander rallies the people against "The Manager." He expects:
+Lucian rallies the people against "The Manager." He expects:
 - Epic battle
 - Moral clarity
 - Triumphant victory
@@ -46,17 +46,17 @@ What he gets:
 
 ### The Breaking Point
 
-> Lysander: "You exploit the helpless!"
+> Lucian: "You exploit the helpless!"
 > Victor: "I employ them. With contracts. What did the Kingdom give them?"
-> Lysander: "The Kingdom protects—"
+> Lucian: "The Kingdom protects—"
 > Victor: "Name one thing."
-> Lysander: "..."
+> Lucian: "..."
 
 ---
 
 ## The Recruitment
 
-Victor doesn't defeat Lysander through debt or force.
+Victor doesn't defeat Lucian through debt or force.
 
 He defeats him through **truth**.
 
@@ -64,7 +64,7 @@ The Kingdom was corrupt. The Church was a pyramid scheme. The nobles were parasi
 
 Victor is *better* than what came before. Not good—but *better*.
 
-Lysander joins because he has nowhere else to go. His faith is shattered. Victor offers pragmatic purpose.
+Lucian joins because he has nowhere else to go. His faith is shattered. Victor offers pragmatic purpose.
 
 ---
 
@@ -84,9 +84,9 @@ Lysander joins because he has nowhere else to go. His faith is shattered. Victor
 
 ## Role in Story
 
-Lysander is Lyra's mirror:
+Lucian is Lyra's mirror:
 - Lyra was broken before meeting Victor
-- Lysander is broken BY meeting Victor
+- Lucian is broken BY meeting Victor
 - Both search for meaning in Victor's amoral empire
 
 He also serves as Victor's **conscience** (not that Victor listens).
@@ -107,4 +107,4 @@ Earnest, increasingly bitter:
 
 ---
 
-**Version**: 1.0
+**Version**: 1.1 (Renamed from Lysander to avoid conflict)
