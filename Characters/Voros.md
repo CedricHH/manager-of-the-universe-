@@ -1,28 +1,29 @@
-# Captain Voros - Black Talon Mercenary
+# Captain Voros - Black Talon (Neutralized)
 
-> **Role**: Antagonist (Minor)
-> **Class**: Warrior / Commander (Level 18)
-> **Status**: Neutralized (Chapter 44)
+> **Rolle**: Mercenary Captain (Defeated)  
+> **Klasse/Spezies**: Warrior (Level 18)  
+> **Archetyp**: Der gescheiterte Profi  
+> **Status**: Komatös/Neutralisiert (Kapitel 44)
 
 ---
 
-## Basic Information
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
+| Attribut | Wert |
+|----------|------|
 | **Name** | Voros |
-| **Title** | Captain of the Black Talons |
-| **Employer** | Alchemist Guild (Groll) |
-| **Level** | 18 |
-| **Status** | Incapacitated / Brain-Dead |
+| **Position** | Captain of Black Talons |
+| **Status** | Brain-Dead / Comatose (Mana Spikes Backlash) |
+| **Erstauftritt** | Kapitel 44 |
 
-## Role & Personality
+---
 
-Leader of Groll's "wetwork" team. Ruthless, professional, and arrogant. He underestimated the dungeon's organization.
+## Hintergrund
 
-## Recent Developments (Chapter 44)
+Led assault on Dungeon for Groll. Defeated by Asterion. Attempted suicide sabotage (Mana Spikes), fried his own brain. Currently non-functional.
 
-- **Assault**: Led 40 mercenaries into Victor's dungeon.
-- **Defeat**: Defeated by Asterion in single combat.
-- **Sabotage**: Revealed his true mission was to plant "Mana Spikes" to jam the Core.
-- **Fate**: Crushed the crystal to trigger the jammer, likely frying his own brain in the process as the signal backlash hit. Status: Unconscious/Comatose.
+---
+
+**Version**: 1.0  
+**Wichtigkeit**: EPISODISCH  
+**Kategorie**: Antagonist (Defeated)

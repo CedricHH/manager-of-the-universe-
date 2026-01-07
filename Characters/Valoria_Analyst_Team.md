@@ -1,34 +1,18 @@
-# Valoria Analyst Team - Victor's Support Units
+# Valoria Analyst Team - Team Overview
 
-> **Role**: Administrative Support Staff (Act 2)
-> **Archetype**: The Specialized Tools / The Corporate Survivors
-
----
-
-## Member Profiles
-
-### 1. Mina (Junior Analyst)
-- **Specialization**: Data Transcription / Pedantry
-- **Background**: Flagged for "excessive pedantry" during grain audits. Challenged a Senior Partner's math.
-- **Personality**: Cynical, hyper-accurate, and seemingly immune to sleep deprivation. 
-- **Skill**: **[Zero-Tolerance Verification]** - Can spot a single-digit discrepancy in a 1,000-page ledger within seconds.
-
-### 2. Silas (Risk Lead)
-- **Specialization**: Risk Assessment / Clerical Theory
-- **Background**: Formerly of the Gilded Ledger. Terminated for "negativity" after predicting a sub-prime loan bubble.
-- **Personality**: Nervous, anxious, but brilliant at identifying hidden liabilities and "worst-case scenarios."
-- **Skill**: **[Pessimistic Projection]** - Accurately forecasts the catastrophic failure points of complex financial structures.
+> **Rolle**: Administrative Support Team  
+> **Members**: Mina, Silas  
+> **Status**: Active  
 
 ---
 
-## Relations
+## Übersicht
 
-- **Victor Kaine**: They see him as a terrifying but refreshingly logical manager. He "bought" them from the cast-off pool because he saw their flaws as specialized features. 
-- **Senior Partner Hestia**: They are both terrified of her, as she was the one who oversaw their initial "failure" labels.
+Team Profile für Mina (Junior Analyst) und Silas (Risk Lead).
+Details siehe individuelle Files: `Mina.md`, `Silas.md`.
 
 ---
 
-## Recent Developments (Chapter 82)
-
-- **The Discovery (Ch 82)**: Uncovered the Onyx Syndicate's Clause 44-B.
-- **The Short-Sell (Ch 83)**: Acted as "financial conduits" for Victor's market strike. Mina drafted the risk advisory; Silas executed the "ghost-node" leak. They have transitioned from fearful survivors to exhilarated participants in Victor's "Audit-Warfare." **Status**: Loyalty solidified through shared high-stakes liability; exhausted but productive.
+**Version**: 1.0  
+**Wichtigkeit**: INFO  
+**Kategorie**: Team Overview

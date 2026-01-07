@@ -1,121 +1,91 @@
-# Kade "The Earless" - Security Contractor
+# Kade - Söldner-Hauptmann
 
-> **Role**: Head of Security (Kaine Consulting)
-> **Class**: Sellsword (Level 14)
-> **Archetype**: The Pragmatic Mercenary / Reluctant Loyalist
-
----
-
-## Basic Information
-
-| Attribute | Value |
-|-----------|-------|
-| **Name** | Kade (surname unknown) |
-| **Title** | "The Earless" / Head of Security |
-| **Company** | Kade's Company (42 sellswords) |
-| **First Appearance** | Chapter 90 |
-| **Current Employer** | Victor Kaine (Kaine Consulting, LLC) |
+> **Rolle**: Security Force Commander  
+> **Klasse/Spezies**: Warrior/Sellsword (Level 14)  
+> **Archetyp**: Der gekaufte Loyalist / Professional Soldier  
+> **Status**: Aktiv (Contract Override → Victor's Security Force)
 
 ---
 
-## Appearance
+## Basis-Informationen
 
-- **Age**: Mid-30s
-- **Distinctive Feature**: Missing left ear (combat injury)
-- **Teeth**: Several missing (poor dental care—now has benefits)
-- **Armor**: Blackwood leather (ex-Imperial scout issue)
-- **Build**: Lean, scarred, professional combatant
-
----
-
-## Background
-
-### Military Service
-- **Former Role**: Imperial scout (discharged dishonorably)
-- **Reason**: Unknown (Victor calculated 87% probability of dishonorable discharge based on equipment retention)
-- **Skills Retained**: Tactical spacing, crossfire positioning, escape route planning
-
-### Mercenary Career
-- Formed sellsword company after discharge
-- 42 soldiers (average Level 12)
-- Reputation: Competent but morally flexible
-- **Fatal Mistake**: Accepted a magically-binding contract with a suicide clause from Merchant Vex
+| Attribut | Wert |
+|----------|------|
+| **Vollständiger Name** | Kade |
+| **Titel/Spitzname** | Captain, Kade's Company |
+| **Klasse/Spezies** | Warrior/Sellsword |
+| **Level** | 14 |
+| **Alter** | ~35 |
+| **Position** | Security Force Commander |
+| **Erstauftritt** | Kapitel 90 |
+| **Aktueller Status** | Active Security Commander (30k GP lump sum contract) |
+| **Standort** | Oakhaven (assigned to Victor) |
 
 ---
 
-## Chapter 90: The Contract Transfer
+## Hintergrund
 
-### The Ambush
-- **Mission**: Capture Victor Kaine alive for 25,000 GP bounty (hired by Merchant Vex)
-- **Contract Type**: Magically binding with suicide clause (mana-core burns out if mission fails)
-- **Target**: Victor Kaine (en route to Oakhaven)
+Kade führte 42-Soldier Sellsword Company. Hired von **Merchant Vex** (Church of Eternal Light proxy) to ambush Victor on Imperial Highway.
 
-### The Negotiation
-- Victor offered 30,000 GP to hire Kade instead of fighting
-- Kade refused (contract binding prevented betrayal)
-- Victor exploited **Transfer Clause** (Section F, Subsection 9)
-- Used [Contract Override Token] (5,000 GP, purchased from Galactic Exchange)
-- Contract forcibly transferred from Vex to Victor
+Victor purchased [Contract Override Token] (5k GP) vom Galactic Exchange und forcibly transferred Kade's binding Contract.
 
-### The Result
-- **New Employer**: Victor Kaine
-- **New Mission**: Security Detail (The Gilded Caravan)
-- **Compensation**: 30,000 GP lump sum + 100 GP/month per soldier
-- **Duration**: 6 months (renewable)
-- **Benefits**: Dental coverage (first time in his career)
-
-### Emotional Impact
-> "For the first time in three months, he could breathe without calculating his remaining hours."
-
-The binding sigil remains on his chest, but the pressure—the burning threat of mana-core failure—is gone.
+**Result**: 42-soldier Security Force acquired.
 
 ---
 
-## Psychology
+## Psychologie & Persönlichkeit
 
-- **Pragmatic**: "Business is business" (accepts contracts based on payment, not morality)
-- **Tired**: Three months under a suicide-clause contract wore him down
-- **Loyal (Conditional)**: Will honor contracts if terms are clear and fair
-- **Underestimated Victor**: "You can't just negotiate your way out of an ambush."
-- **Learning**: Beginning to understand that Victor plays by different rules
+### Kern-Eigenschaften
 
----
+- **Professional Soldier**: Follows Contract, nicht Loyalty
+- **Pragmatic**: Accepts Contract Transfer ohne Complaint
+- **Competent Commander**: Leads 42 soldiers effectively
+- **Not Ideological**: Fights für Payment, nicht Cause
 
-## Relationships
+### Motivation
 
-### Victor Kaine
-- **Status**: Employer (through contract transfer)
-- **Respect Level**: High (Victor saved his life by removing suicide clause)
-- **Confusion Level**: Also high ("Did we just get hired by the guy we were supposed to kidnap?")
-- **First Assignment**: Confront Merchant Vex (former employer)
-
-### Merchant Vex
-- **Status**: Former employer (hostile)
-- **Resentment**: Moderate (Vex used a suicide clause—poor management)
-- **Current Stance**: Willing to confront if Victor orders it
+Contract Fulfillment. Payment. Survival.
 
 ---
 
-## Combat Stats
+## Beziehungen
 
-| Stat | Value | Notes |
-|------|-------|-------|
-| **Level** | 14 | Mid-tier combatant |
-| **Class** | Sellsword | Tactical specialist |
-| **Soldiers** | 42 (Average Level 12) | Mixed combat roles |
-| **Equipment** | Imperial surplus | Blackwood leather, standard weapons |
-| **Morale** | 78% (Confused but Satisfied) | Dental benefits helped |
+| Character | Beziehung | Status |
+|-----------|-----------|--------|
+| **Victor Kaine** | Contract Holder | Professional Relationship |
+| **Merchant Vex** | Ex-Employer | Contract voided |
+| **42 Soldiers** | Command | Active Leadership |
 
 ---
 
-## Current Status (Chapter 90)
+## Rolle
 
-- **Location**: Aboard The Gilded Caravan
-- **Mission**: Protect Victor; confront Merchant Vex
-- **Contract**: 6-month term, renewable
-- **Monthly Cost**: 4,200 GP (Victor's security budget)
+- **Funktion**: Security Force Commander
+- **Kompetenzen**: Military Tactics, Soldier Management, Security Operations
+- **Verantwortung**: 42-Soldier Force Management
 
 ---
 
-**Version**: 1.0
-**Last Updated**: 2026-01-05 (Chapter 90)
+## Kapitel-Geschichte (Kompakt)
+
+**Kapitel 90 - The Liquidation**: Ambushed Victor auf Imperial Highway (42 sellswords, Level 12-14); Employer: Merchant Vex (Church Proxy); Victor purchased [Contract Override Token] (5k GP); forcibly transferred Contract; acquired 42-soldier Security Force (30k GP lump sum)
+
+**Current**: Active Security Operations, assigned to protect Victor's Assets
+
+---
+
+## Aktueller Status (Stand: Kapitel 109)
+
+| Attribut | Wert |
+|----------|------|
+| **Standort** | Oakhaven / Mobile Deployment |
+| **Beziehung zu Victor** | Contract-bound Security Commander |
+| **Bedrohungslevel** | NIEDRIG (Contract-bound) |
+| **Force Size** | 42 Soldiers (Level 12-14) |
+
+---
+
+**Letzte Aktualisierung**: Kapitel 109 (Arc 2)  
+**Version**: 2.0  
+**Wichtigkeit**: NEBEN (Security Asset)  
+**Kategorie**: Verbündeter (Contractual)

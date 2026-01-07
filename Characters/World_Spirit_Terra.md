@@ -1,78 +1,28 @@
-# The World Spirit - Terra Awakened
+# World Spirit Terra - The Planet [ZUKUNFT]
 
-> **Role**: Major Arc 5 Ally
-> **Class**: Planetary Consciousness
-> **Arc**: Introduced Arc 5, Chapter 810
-
----
-
-## Basic Information
-
-| Attribute | Value |
-|-----------|-------|
-| **Name** | Terra-Insolvia (the planet itself) |
-| **Title** | The Sleeping World / Mother Terra |
-| **Species** | Planetary Spirit |
-| **Age** | 4.2 billion years |
-| **Gender** | Female (traditional association) |
-| **First Appearance** | Chapter 810 |
+> **Rolle**: Planetary Ally (Draft)  
+> **Klasse/Spezies**: Planetary Consciousness  
+> **Archetyp**: Die erwachte Welt  
+> **Status**: Konzept (Arc 5)
 
 ---
 
-## The Awakening
+## Basis-Informationen
 
-Planets have spirits. Most sleep eternally.
-
-Victor's economic activity—the sheer VOLUME of mana/gold circulation—woke Terra-Insolvia.
-
-She's confused. Curious. NEW to consciousness.
-
----
-
-## Why She Matters
-
-Terra-Insolvia realizes: Without Victor, she would have been "liquidated" by the Consortium.
-
-An unprofitable world. Scheduled for resource extraction.
-
-**Victor made her valuable.** Victor saved her existence.
+| Attribut | Wert |
+|----------|------|
+| **Name** | Terra-Insolvia |
+| **Titel** | Mother Terra |
+| **Geplanter Auftritt** | Arc 5 (Kapitel 810) |
 
 ---
 
-## The Alliance
+## Hintergrund (Konzept)
 
-Terra offers Victor something unprecedented:
-
-Access to planetary mana. Direct connection to the world's core.
-
-In exchange: Victor protects her from the Consortium.
-
-> "You gave me purpose. You made me WORTH EXISTING.
-> I will be your... what is the word? Asset? Ally? Friend?"
-> "Partner. Equal shareholding."
-> "...I like that better."
+Woke up due to Victor's massive mana transactions. Victor "saved" her from Consortium Harvest. Offers Planetary Mana in exchange for protection.
 
 ---
 
-## Role
-
-Terra represents:
-- Victor's accidental positive impact
-- Planetary-scale resources
-- The moral question: Did he save her? Or exploit her?
-
----
-
-## Speech Pattern
-
-Young, curious, vast:
-
-> "I have existed for four billion years. I have been AWAKE for three. This is... strange."
-
-> "There are beings beneath my skin. Millions. They move and build and die. Is that... normal?"
-
-> "The Auditors wish to harvest me. You wish to develop me. Both use me. But you ASK first."
-
----
-
-**Version**: 1.0
+**Version**: 1.0 (Draft)  
+**Wichtigkeit**: EPISODISCH  
+**Kategorie**: Verbündeter (Future)

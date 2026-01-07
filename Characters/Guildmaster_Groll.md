@@ -1,120 +1,120 @@
-# Guildmaster Mordecai Groll - The Old Guard
+# Guildmaster Mordecai Groll - Ehemaliger Antagonist
 
-> **Role**: Antagonist (Arc 2)
-> **Class**: Alchemist (Master)
-> **Arc**: Introduced Arc 2, Chapter 105
-
----
-
-## Basic Information
-
-| Attribute | Value |
-|-----------|-------|
-| **Name** | Mordecai Groll |
-| **Title** | Guildmaster, Oakhaven Alchemist Guild |
-| **Age** | 67 |
-| **First Appearance** | Chapter 105 |
+> **Rolle**: Ehemaliger Antagonist (Arc 1), jetzt Subdued Employee  
+> **Klasse/Spezies**: Alchemist (Master, Level 16-18)  
+> **Archetyp**: Der gefallene Monopolist / Broken Pride  
+> **Status**: Subdued (Forced Subsidiary Manager, Arc 1 Defeat)
 
 ---
 
-## Backstory
+## Basis-Informationen
 
-Groll built his guild from nothing. 45 years of work, bribes, and ruthlessness made him the sole supplier of potions in Oakhaven.
-
-His prices are extortionate. His quality is mediocre. His monopoly is unbreakable.
-
-Until Victor arrived.
+| Attribut | Wert |
+|----------|------|
+| **Vollständiger Name** | Mordecai Groll |
+| **Titel/Spitzname** | Guildmaster (ehemals), "Head of Potion R&D" (current) |
+| **Klasse/Spezies** | Alchemist (Master) |
+| **Level** | 16-18 (geschätzt) |
+| **Alter** | 67 |
+| **Position** | Head of Potion R&D, Insolvia Integrated Logistics (gezwungen) |
+| **Erstauftritt** | Kapitel 39 (indirekt), Kapitel 42 (direkt) |
+| **Aktueller Status** | BANKRUPT, Subsidiary Manager under Victor's Control |
+| **Standort** | Oakhaven (Alchemist Guild, jetzt Victor's Asset) |
 
 ---
 
-## Psychology
+## Hintergrund
 
-### The Irony
+Groll baute seine Guild von nichts. **45 Jahre** Arbeit, Bestechungen, Rücksichtslosigkeit machten ihn zum alleinigen Potion-Supplier in Oakhaven.
 
-Groll is **everything Victor could have been** if Victor had stayed small.
-- Built monopoly through exploitation
-- Crushed competitors without mercy  
-- Hoards wealth, reinvests nothing
-- Believes his empire is permanent
+Seine Preise: extortionate. Seine Qualität: mediocre. Sein Monopoly: schien unbreakable.
 
-His fatal flaw: He can't imagine someone better at his own game.
+Bis Victor arrived.
+
+---
+
+## Psychologie & Persönlichkeit
+
+### Die Ironie
+
+Groll ist **everything Victor could have been** falls Victor small geblieben wäre:
+- Built Monopoly through Exploitation
+- Crushed Competitors ohne Mercy
+- Hoards Wealth, reinvestiert nothing
+- Believes sein Empire ist permanent
+
+**Fatal Flaw**: Kann sich nicht vorstellen, dass jemand besser an seinem eigenen Spiel ist.
 
 ### Pride Over Survival
 
-When Victor offers to buy the guild, Groll refuses.
+Als Victor offered, die Guild zu kaufen, Groll refused:
 
 > "I built this! FORTY-FIVE YEARS! You're nothing but a dungeon rat!"
 
-He'd rather burn than bend.
+Er würde lieber brennen als beugen.
 
 ---
 
-## The Confrontation
+## Beziehungen
 
-Victor doesn't fight Groll. He **out-competes** him:
-- Cheaper potions
-- Better quality
-- Exposed tax fraud
-- Guild members defect
-
-By Chapter 200, Groll owns a bankrupt shell.
-
-Victor buys it for 1 gold. Groll is not offered a position.
+| Character | Beziehung | Status |
+|-----------|-----------|--------|
+| **Victor Kaine** | Defeated Rival → Erzwungener Boss | Subdued; managed by Victor |
+| **Alchemist Guild Members** | Ehemaliges Empire | Defektiert zu Victor |
 
 ---
 
-## Fate
+## Kapitel-Geschichte (Kompakt)
 
-Groll dies in obscurity (Chapter 240), bitter and broke.
+**Kapitel 39 - Intimidation**: Cartel Thugs destroyed Victor's Stall; Threats left
 
-**Victor's comment**: "He protected his pride instead of his assets. Inefficient."
+**Kapitel 40 - Failsafe Failure**: Hired Arsonists lost Control; burned Cartel's own Premium Stall; Public Backlash; Merchant Guild Criminal Inquiry
+
+**Kapitel 41 - Failed Intimidation**: Sent Thugs to "collect tolls"; defeated by Victor's Bodyguards; sent formal Dinner Invitation
+
+**Kapitel 42 - The Meeting**: Confronted Victor am Spire
+- Revealed: Knows Victor = Dungeon Lord (identified Sniv/Asterion)
+- **Ultimatum**: "Join Cartel und give up Source, or I tell the King"
+- Victor **refused** → **WAR**
+
+**Kapitel 77 - The Audit**: Led "Coalition of Guilds" in regulatory Seizure von Rivercrest Franchise Site; destroyed Site using Tier 4 Violet Fire; believed he won
+
+**Kapitel 78 - The Foreclosure**: Received Notice—Laboratories und Warehouses **foreclosed**; discovered Victor purchased Debt through Subsidiary; **STATUS: BANKRUPT**
+
+**Kapitel 79 - The Merger (Arc 1 Defeat)**: Forced Debt-Equity Swap; demoted zu "Head of Potion R&D" für Insolvia Integrated Logistics; **STATUS: SUBSIDIARY MANAGER** under Victor's Control
 
 ---
 
-## Thematic Purpose
+## Aktueller Status (Stand: Kapitel 109)
 
-Groll shows what happens when you **fight** Victor's methods instead of adapting. He also mirrors Victor's former self—a monopolist who believes power is permanent.
+| Attribut | Wert |
+|----------|------|
+| **Standort** | Oakhaven (Alchemist Guild, jetzt Victor's Subsidiary) |
+| **Beziehung zu Victor** | Erzwungener Employee (Subsidiary Manager) |
+| **Bedrohungslevel** | NIEDRIG (Defeated, Controlled) |
+| **Position** | Head of Potion R&D (Demotion) |
 
 ---
 
-**Version**: 1.1
+## Thematische Bedeutung
 
-## Recent Developments (Chapter 39)
+Groll zeigt was passiert when you **fight** Victor's Methods statt adapt. Er mirrors auch Victor's former self—ein Monopolist who believes Power ist permanent.
 
-- **Intimidation**: Cartel thugs destroyed Victor's stall and left threats ("LEAVE WHILE YOU CAN").
+**The Lesson**: Pride over Assets = Inefficient.
 
-## Recent Developments (Chapter 40)
+---
 
-- **Failsafe Failure**: Hired arsonists lost control of the blaze, burning the Cartel's own premium stall along with competitors.
-- **Public Backlash**: Market opinion shifted against the Cartel due to the "reckless accident."
-- **Investigation**: Facing Merchant Guild criminal inquiry for arson/endangerment.
+## Zitate
 
-## Recent Developments (Chapter 41)
+### Kapitel 42:
+> "I built this! FORTY-FIVE YEARS! You're nothing but a dungeon rat!"
 
-- **Failed Intimidation**: Sent thugs to "collect tolls" from Victor's stall; they were defeated by Victor's bodyguards.
-- **Invitation**: Sent a formal dinner invitation to Victor.
+### Kapitel 78:
+> "You... you bought my DEBT?!"
 
-## Recent Developments (Chapter 42)
+---
 
-- **The Meeting**: Confronted Victor at the Spire.
-- **The Revealing**: Revealed he knows Victor is a Dungeon Lord (Sniv/Asterion identified).
-- **The Ultimatum**: "Join the Cartel and give up the source, or I tell the King."
-- **Status**: At WAR. Victor refused the offer.
-
-## Recent Developments (Chapter 77)
-
-- **The Audit**: Led the "Coalition of Guilds" in a regulatory seizure of the Rivercrest franchise site.
-- **The Destruction**: Successfully "destroyed" the site using Tier 4 violet fire. Believed he had won.
-
-## Recent Developments (Chapter 78)
-
-- **The Foreclosure**: Received notice that his laboratories and warehouses in Oakhaven were foreclosed upon.
-- **The Realization**: Discovered Victor had purchased his debt through a subsidiary.
-- **Status**: BANKRUPT. Facing immediate liquidation.
-
-
-## Recent Developments (Chapter 79)
-
-- **The Merger**: Forced to sign a debt-equity swap.
-- **New Role**: Demoted to "Head of Potion R&D" for Insolvia Integrated Logistics.
-- **Status**: SUBSIDIARY MANAGER. Under Victor's control.
+**Letzte Aktualisierung**: Kapitel 109 (Arc 2)  
+**Version**: 2.0  
+**Wichtigkeit**: NEBEN (Defeated Arc 1 Antagonist)  
+**Kategorie**: Antagonist (Defeated) → Erzwungener Employee

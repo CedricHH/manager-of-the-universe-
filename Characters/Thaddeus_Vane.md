@@ -1,54 +1,48 @@
-# Thaddeus Vane - The Imperial Auditor
+# Thaddeus Vane - Bureau Senior Partner
 
-> **Role**: Recruitment Officer / Senior Partner (Act 2)
-> **Class**: Imperial Auditor (Level ???)
-> **Archetype**: The Clockwork Bureaucrat / Victor's Future Rival
+> **Rolle**: Bureau of Imperial Audit Senior Partner  
+> **Klasse/Spezies**: Imperial Auditor (Level 28+)  
+> **Archetyp**: Der kalte Bureaucrat  
+> **Status**: Aktiv (Arc 1, Victor's Recruiter)
 
 ---
 
-## Basic Information
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
+| Attribut | Wert |
+|----------|------|
 | **Name** | Thaddeus Vane |
 | **Title** | Senior Partner, Bureau of Imperial Audit |
-| **Age** | Appears 50s |
-| **First Appearance** | Chapter 80 |
+| **Level** | 28+ |
+| **Affiliation** | Galactic Audit Consortium (indirekt) |
+| **Erstauftritt** | Kapitel 80 |
 
 ---
 
-## Psychology
+## Psychologie
 
-- **Clinical Efficiency**: Vane does not value gold or power for personal gain; he values the *integrity of the system*.
-- **Victor’s Mirror**: Like Victor, he sees the world in spreadsheets. Unlike Victor, he has the backing of an entire Empire.
-- **Unflappable**: He is notoriously difficult to rattle. His only emotional reaction is a slight thinning of the lips.
-
----
-
-## Appearance
-
-- **Attire**: High-quality grey wool suits. Monocle that glows with analytical mana.
-- **Equipment**: A seamless dragon-leather briefcase with biometric locks.
-- **Transport**: A carriage of obsidian and silver pulled by skeletal, non-breathing horses.
+- **Cold Grey**: Im Gegensatz zu Hestia's "velvet hammer"—Vane ist pure Kälte
+- **Professional**: Treats Recruitment as Business Transaction
+- **Risk-Averse**: Conservative Approach to Asset Management
 
 ---
 
-## Relations
+## Kapitel-Geschichte (Kompakt)
 
-- **Victor Kaine**: Sees him as a "high-potential asset." Vane is the one who recognized the brilliance in the Rivercrest insurance arbitrage.
-- **The Emperor**: His direct superior. Vane is the Emperor's "Chainsaw."
+**Kapitel 80 - The Automation Protocol**: Recruited Victor für "Project Valoria" im Norden
 
----
+**Kapitel 81-85**: Valoria Arc—Victor executed Bond Short-Sell; Malphas Mine Explosion; Victor liquidated exploding Asset (45k GP)
 
-## Plot Role
-
-Vane serves as the gateway to Act 2. He recruits Victor to the Royal Capital to handle "Distressed Assets"—starting with the Iron North.
+**Kapitel 87 - The Exit Strategy**: Attempted block 15% Funds als "Fee"; Victor activated "Remote Management" Protocol; funds released via bureaucratic Roadblocks (Mina/Silas)
 
 ---
 
-## Recent Developments (Chapter 80)
+## Relationship with Victor
 
-- **Arrival**: Arrived at Dungeon Insolvia in the Imperial Carriage.
-- **Recruitment (Ch 80)**: Offered Victor a position as an Imperial Auditor to handle the northern territories. Hinted at 500k GP budget.
-- **Briefing (Ch 81)**: Briefed Victor on Project Valoria inside the obsidian carriage. Explained the Imperial Mana-Rail and the "Total Audit Atmosphere."
-- **The Departure (Ch 86)**: Witnessed the Spire Garden liquidation. Expressed relief that Victor is leaving Aethelgard. Accepted the tax revenue on the explosion (negotiated down to 20%). Validated Victor's exit strategy back to Oakhaven.
+**Hestia vs. Vane**: Hestia helps navigate, Vane enforces cold Rules. Both Consortium, different Approaches.
+
+---
+
+**Version**: 2.0  
+**Wichtigkeit**: NEBEN  
+**Kategorie**: Neutral (Consortium Senior Partner)

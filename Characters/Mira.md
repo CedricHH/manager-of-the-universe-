@@ -1,39 +1,29 @@
-# Mira - Victor's Guard
+# Mira - Security Specialist
 
-> **Role**: Security / Detection Specialist
-> **Class**: Mage (Level 12)
-> **Arc**: Introduced Arc 1, Chapter 40
+> **Rolle**: Detection Specialist / Security  
+> **Klasse/Spezies**: Detecting Mage (Level 12)  
+> **Archetyp**: Der menschliche Detektor  
+> **Status**: Aktiv (Employee)
 
 ---
 
-## Basic Information
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
+| Attribut | Wert |
+|----------|------|
 | **Name** | Mira |
-| **Title** | Security Detail |
-| **Species** | Human |
+| **Position** | Security Detail (Detection Specialist) |
 | **Level** | 12 |
-| **Specialty** | Detection Magic, Threat Assessment |
+| **Erstauftritt** | Kapitel 40 |
 
-## Role & Personality
+---
 
-Ex-adventurer hired by the Merchant Guild. Specializes in truth-sensing and environmental scans. She quickly realized Victor's "coincidence" comment about the fire was a calculated statement.
+## Hintergrund
 
-## Recent Developments (Chapter 40)
+Ex-Adventurer. Specializes in Truth-Sensing und Environmental Scans. Confirmed Victor's "arson coincidence". Hired with "Equity Deal" (0.5%).
 
-- **Hiring**: Assigned to Victor's detail by Guild contract.
-- **Action**: Used detection magic to analyze the market fire (confirmed likely arson).
-- **Insight**: Recognized Victor's intelligence and ruthlessness immediately.
+---
 
-## Recent Developments (Chapter 41)
-- **Combat**: Used *Shockwave* to disable Cartel thugs non-lethally.
-
-## Recent Developments (Chapter 42)
-- **Insight**: Realized the meeting at the Spire was a trap/screening.
-
-## Recent Developments (Chapter 43)
-- **The Reveal**: Entered the Dungeon. Recognized the mana density immediately.
-- **New Contract**: Accepted the "Equity" deal (0.5% share).
-- **Role**: Drafting "leverage letters" to Sterling and Elena Cross.
-
+**Version**: 1.0  
+**Wichtigkeit**: NEBEN (Security)  
+**Kategorie**: Verbündeter (Employee)

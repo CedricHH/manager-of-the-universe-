@@ -1,122 +1,137 @@
-# Character Profile: Zip
+# Zip - Chief Technology Officer
 
-> **Role**: Head of R&D (Trap Specialist)
-> **Race**: Kobold
-> **First Appearance**: Chapter 23
+> **Rolle**: CTO, Head of R&D (Trap Specialist)  
+> **Klasse/Spezies**: Kobold (Level 8-10)  
+> **Archetyp**: Der Enthusiast-Engineer / Corporate-wannabe  
+> **Status**: Aktiv (CTO, R&D Department)
 
 ---
 
-## Current Status (as of Chapter 23)
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
-| **Level** | 6 |
-| **Role** | Head of R&D |
-| **Loyalty** | High (Professional Recognition) |
-| **Location** | Dungeon (R&D Department) |
+| Attribut | Wert |
+|----------|------|
+| **Vollständiger Name** | Zip |
+| **Titel/Spitzname** | CTO, Head of R&D |
+| **Klasse/Spezies** | Kobold |
+| **Level** | 8-10 (geschätzt) |
+| **Alter** | Unbekannt |
+| **Position** | Chief Technology Officer (CTO) |
+| **Erstauftritt** | Kapitel 23 |
+| **Aktueller Status** | Active R&D Lead, Scout Commander |
+| **Standort** | Dungeon Insolvia (R&D Department) |
 
-## Skills
+---
 
-- **[Trap Construction]**: Can build complex mechanical traps.
-- **[Mechanical Intuition]**: Understands how things work (and break).
-- **[Structural Analysis]**: Can find weak points in dungeon architecture.
-- **Fire Traps**: Specialization in controlled burn radii.
-- **Design Philosophy**: "Zip make hurt for visitors."
+## Hintergrund
 
-## Description
+Zip wurde auf Floor 2 versteckt gefunden. Rekrutiert von Victor nach pitching Fire Trap Designs. Befördert zu Head of R&D (Ch 23), dann CTO (Ch 26).
 
-- **Appearance**: Small, scaly, oversized eyes and hands designed for manipulation.
-- **Personality**: Enthusiastic, cowardly but driven by engineering passion. Speaks in broken Common but thinks in complex systems.
-- **Motivation**: Recognition for his craft; not being eaten.
+**Charakteristik**: Enthusiastischer, feiger aber engineering-passionate Kobold. Spricht in gebrochenem Common, denkt aber in komplexen Systemen.
 
-## Relationships
+---
 
-| Character | Relationship | Status |
-|-----------|--------------|--------|
-| **Victor** | Boss | Respected (Gave him a job/title) |
-| **Sniv** | Superior | Fear/Respect (Sniv found him) |
+## Psychologie & Persönlichkeit
 
-## History
+### Kern-Eigenschaften
 
-- **Chapter 23**: Discovered hiding on Floor 2. Recruited by Victor after pitching fire trap designs. Promoted to Head of R&D.
+- **Engineering Passion**: "Zip make hurt for visitors!" (Trap Philosophy)
+- **Corporate Mimic**: Lernt Business-Terminology von Victor ("synergies", "growth opportunities")
+- **Enthusiastisch**: Kann Silence kaum aufrechterhalten; explodiert bei Excitement
+- **Professionalitäts-Struggle**: Versucht professionell zu sein; scheitert bei "shiny things"
 
-## Recent Developments (Chapter 26)
+### Motivation
 
-- **Promotion**: Appointed as **Chief Technology Officer (CTO)**.
-- **Responsibility**: Head of Research & Development (traps, engineering).
+Recognition für sein Craft. Nicht gefressen werden. "Many synergies" machen.
 
-## Recent Developments (Chapter 31)
+---
 
-- **Engineering Lead**: Designed extraction system for Floor 3 Mining Expansion (ore carts, rail tracks, support beams, sorting station).
-- **Project Success**: Infrastructure completed in 47h 32m with no structural failures; exceeded Victor's expectations.
-- **Major Discovery**: Found ancient sealed chamber (800+ years old, pre-dungeon origin) during excavation work.
-- **Protocol**: Reported anomaly to Victor immediately without touching the seal (proper safety procedure).
+## Beziehungen
 
-## Recent Developments (Chapter 32)
+| Character | Beziehung | Status |
+|-----------|-----------|--------|
+| **Victor Kaine** | Boss | Respektiert (gab ihm Job/Title) |
+| **Sniv** | Superior | Fear/Respect (Sniv fand ihn) |
+| **Asterion** | Kollege | Professional Distance |
 
-- **Vault Descent**: Accompanied Victor and Asterion into ancient sealed chamber.
-- **Architectural Analysis**: Identified sophisticated "civilization work" - precision construction that predates dungeon entirely.
-- **Discovery**: Found empty pedestals suggesting four items were removed by someone else (recent activity).
-- **Safety Protocol**: Suggested bringing more goblins before entering; overruled by Victor.
-- **Chamber Sealing**: Assigned to seal vault entrance after contents extracted; no one enters without Victor's authorization.
+---
 
-## Recent Developments (Chapter 33)
+## Fähigkeiten
 
-- **Oakhaven Expedition**: Selected by Victor for city travel (criteria: small, quiet, expendable, urban-capable).
-- **Cover Story**: Will pose as kobold assistant to Victor (potion merchant).
-- **Corporate Learning**: Used phrase "growth opportunities" correctly (mimicking Victor's language).
-- **R&D Task**: Assigned to create professional labels for potion merchant cover story.
-- **Market Entry**: Assisted with the first stall day; documented sales and subsequent sabotage. (Chapter 39)
-- **Duration**: 1 week trip to Oakhaven and back.
+| Fähigkeit | Beschreibung |
+|-----------|--------------|
+| **[Trap Construction]** | Kann komplexe mechanical Traps bauen |
+| **[Mechanical Intuition]** | Versteht wie Dinge funktionieren (und brechen) |
+| **[Structural Analysis]** | Kann weak Points in Dungeon Architecture finden |
+| **[Fire Traps]** | Specialization in controlled Burn Radii |
+| **[Engineering Design]** | Ore Carts, Rail Tracks, Sorting Stations |
 
-## Recent Developments (Chapter 40)
+---
 
-- **Fire Witness**: First to spot the market fire; panicked but alerted Victor immediately.
-- **Learning**: Observed Victor's calm reaction to the crisis ("Cartel made a mistake") and began to understand that not all destruction is bad for business.
+## Rolle
 
-## Recent Developments (Chapter 34)
+- **Funktion**: CTO, R&D Lead, Trap Design, Infrastructure Engineering
+- **Kompetenzen**: Mechanical Systems, Trap Construction, Safety Protocols
+- **Verantwortung**: R&D Department, Mining Infrastructure, Scout Command
 
-- **Forgery Assignment**: Tasked with creating professional potion labels (vials: health potions, stamina tonics, antidotes).
-- **Label Production**: Designed "convincing" merchant labels using dungeon-sourced ingredients (slime extract, mushroom concentrates, purified water).
-- **Travel Briefing**: Instructed on city behavior protocols: minimal talking, no stealing shiny items, maintain professional merchant assistant role.
-- **Behavioral Agreement**: Agreed to "performance-based severance" threat if stealing occurs; promised not to steal despite temptation.
-- **Surface Departure**: Left dungeon with Victor via hidden kobold-engineered access shaft; first external mission.
-- **Travel Method**: Transported in travel bag (theatrical entry, struggle with silence requirement).
-- **Surface Reaction**: Witnessed open sky for first time; exclaimed "Zip see sky! Sky very big!" before being silenced.
-- **Destination**: 2.7 days travel to Oakhaven as Victor's merchant assistant.
+---
 
-## Recent Developments (Chapter 35)
+## Kapitel-Geschichte (Kompakt)
 
-- **Travel Experience**: Transported in bag for Day 1-2 of Oakhaven journey; complained about bag ergonomics, promised to design better version.
-- **Discipline Progress**: Maintaining mostly-quiet status in bag; occasional observations ("Zip see trees! Very tall!") before being silenced.
-- **Merchant Rest Stop**: Released for meal break at roadside station; stretched, complained about cramping, ate rations.
-- **Corporate Mimicry**: Used phrases "networking" and "synergies" after observing Victor's merchant contact (Halric Voss).
-- **Confrontation Witness**: Present (in bag) during Victor's encounter with Sterling's enforcers; maintained silence during crisis.
-- **Sterling Manor Route**: Traveling with Victor as "quiet assistant" to Lord Sterling's estate under armed escort.
-- **Professional Role**: Successfully maintaining merchant assistant cover despite challenges with silence requirement.
+**Kapitel 23**: Entdeckt hiding on Floor 2; recruited nach Fire Trap Pitch; promoted zu Head of R&D
 
-## Recent Developments (Chapter 36)
+**Kapitel 26**: Appointed **Chief Technology Officer (CTO)**
 
-- **Discipline Mastery**: Maintained complete silence in bag throughout entire Sterling Manor negotiation (40-minute wait + business meeting).
-- **Professionalism**: Zero interruptions during critical business negotiation, zero premature reveals compromising merchant cover.
-- **Exit Excitement**: After partnership signed, emerged with condensed enthusiasm: "Boss make deal! Many synergies!"
-- **Corporate Learning**: Self-corrected "synergy" to "synergies" when Victor prompted; internalizing business terminology.
-- **Performance Success**: Successfully fulfilled merchant assistant role requirements; demonstrated significant discipline improvement from Chapter 34-35.
+**Kapitel 31**: Engineering Lead für Floor 3 Mining Expansion—designed Extraction System (Ore Carts, Rails, Support Beams); Projekt erfolgreich (47h 32m); found ancient sealed Chamber (800+ Jahre alt)
 
-## Recent Developments (Chapter 37)
+**Kapitel 32**: Begleitete Victor in Vault; identified "civilization work"; suggested Safety Protocol (ignored)
 
-- **Oakhaven Excitement**: First reaction to city: "Big city! Many buildings! Much commerce!" before being reminded to stay in bag.
-- **Discipline Continuation**: Stayed quiet in bag during waypoint location inquiry and Temple Street navigation.
-- **Waypoint Activation**: Remained silent throughout entire Consortium upgrade sequence; demonstrated complete professionalism.
-- **Surveillance Awareness**: Detected professional watcher independently: "Zip detect... someone watching?"
-- **Cover Maintenance**: Understood Victor's "just merchants" instruction; internalized need for continued discretion.
-- **Inn Arrival**: Released at The Silver Standard; immediately excited about city opportunities ("Many opportunities! Much—").
-- **Corporate Enthusiasm**: Natural inclination toward "synergies" shows terminology integration; Victor's training taking effect.
+**Kapitel 33-37**: Oakhaven Expedition—posed als Kobold Assistant; maintained Silence in Bag (struggle); Corporate Learning ("synergies"); witnessed Sterling Negotiation
 
-## Recent Developments (Chapter 51)
+**Kapitel 40**: Fire Witness—spotted Market Fire; alerted Victor immediately
 
-- **Scout Commander**: Fulfilled role as Insolvia Holdings' scout commander; first to detect royal messenger at forest edge.
-- **Critical Alert**: Reported Crown seal messenger directly to Victor — "Not Guild — *Crown* seal!"
-- **Observation**: Correctly identified messenger details (fancy horse, lions banner, Crown seal).
-- **Loyalty Offer**: Suggested making messenger "go away" (rejected by Victor for diplomatic approach).
+**Kapitel 51**: **Scout Commander**—detected Royal Messenger first; reported Crown Seal directly to Victor
 
+---
+
+## Aktueller Status (Stand: Kapitel 109)
+
+| Attribut | Wert |
+|----------|------|
+| **Standort** | Dungeon Insolvia (R&D Department) |
+| **Beziehung zu Victor** | Loyal Employee (CTO) |
+| **Bedrohungslevel** | NIEDRIG (Loyal, Cowardly) |
+| **Current Projects** | R&D Operations, Trap Maintenance |
+
+---
+
+## Speech Pattern
+
+Gebrochenes Common, Corporate-Wannabe:
+
+> "Zip make hurt for visitors!"
+
+> "Boss make deal! Many synergies!"
+
+> "Zip see sky! Sky very big!" *(Surface First Reaction)*
+
+> "Zip detect... someone watching?" *(Surveillance Awareness)*
+
+> "Not Guild — *Crown* seal!" *(Critical Alert)*
+
+---
+
+## Erscheinung
+
+- **Größe**: Small (Kobold-Standard)
+- **Haut**: Scaly
+- **Augen**: Oversized
+- **Hände**: Designed for Manipulation
+- **Tools**: Trägt Engineering Tools constantly
+
+---
+
+**Letzte Aktualisierung**: Kapitel 109 (Arc 2)  
+**Version**: 2.0  
+**Wichtigkeit**: NEBEN (R&D Lead)  
+**Kategorie**: Verbündeter (Employee, CTO)

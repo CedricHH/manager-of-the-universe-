@@ -1,9 +1,9 @@
 # Barnaby - Logistics-Leiter
 
-> **Rolle**: Leiter der Logistik, Kaine Consulting  
-> **Klasse/Spezies**: Händler (Level 12) / Schmuggler  
-> **Archetyp**: Der unzuverlässige Problemlöser  
-> **Status**: Aktiv (Vertraglich gebunden, 2% Provision)
+> **Rolle**: Leiter der Logistik, Kaine Consulting
+> **Klasse/Spezies**: Händler (Level 12) / Schmuggler
+> **Archetyp**: Der unzuverlässige Problemlöser
+> **Status**: Aktiv (Vertraglich gebunden)
 
 ---
 
@@ -29,9 +29,9 @@ Barnaby war ein wandernder Wegelagerer und Schmuggler, der die Imperial Highway 
 
 ### Übernahme durch Victor
 
-In Kapitel 87 versuchte Barnaby, Victor auf der Rückreise von Aethelgard abzuzocken. Victor reagierte mit einer "feindlichen Übernahme"—brach die Wagenachse von Barnabys Karavan und zwang ihn in einen Arbeitsvertrag.
+In Kapitel 87 versuchte Barnaby, Victor auf der Rückreise von Aethelgard abzuzocken. Victor reagierte mit einer "feindlichen Übernahme"—brach die Wagenachse von Barnabys Karavan und zwang ihn in einen Arbeitsvertrag. 
 
-**Hauptwert**: Kennt jeden Schmuggelweg, Schwarzmarkt und Hehler im Norden.
+Barnabys Hauptwert: Er kennt jeden Schmuggelweg, Schwarzmarkt und Hehler im Norden.
 
 ---
 
@@ -39,9 +39,9 @@ In Kapitel 87 versuchte Barnaby, Victor auf der Rückreise von Aethelgard abzuzo
 
 ### Kern-Eigenschaften
 
-- **Opportunist**: Würde seine eigene Mutter für Profit verkaufen, dann zum Schnäppchenpreis zurückkaufen
-- **Überlebenskünstler**: Hat jahrzehntelang durch Täuschung und Ausnutzung überlebt
-- **Feige**: Gibt sofort auf, wenn überlegen konfrontiert
+- **Opportunist**: Würde seine eigene Mutter für Profit verkaufen, dann zum Schnäppchenpreis zurückkaufen.
+- **Überlebenskünstler**: Hat jahrzehntelang durch Täuschung und Ausnutzung überlebt.
+- **Feige**: Gibt sofort auf, wenn überlegen konfrontiert.
 
 ### Motivation
 
@@ -64,7 +64,7 @@ Geld. Nur Geld. Loyalität existiert nur solange der Profit fließt.
 
 ---
 
-## Rolle
+## Rolle im Team
 
 - **Funktion**: Logistik-Koordinator für schwierige/illegale Transporte
 - **Kompetenzen**: Schmuggelrouten, Schwarzmarkt-Kontakte, Verhandlungen
@@ -73,6 +73,8 @@ Geld. Nur Geld. Loyalität existiert nur solange der Profit fließt.
 ---
 
 ## Kapitel-Geschichte
+
+### Arc 1: Der Blutegel der Highway (Kapitel 87-88)
 
 **Kapitel 87 - The Exit Strategy**: Blockierte die Imperial Highway mit einer gefälschten Lawine. Forderte 500 GP "Rettungsgebühr" von Reisenden.
 
@@ -92,6 +94,6 @@ Geld. Nur Geld. Loyalität existiert nur solange der Profit fließt.
 ---
 
 **Letzte Aktualisierung**: Kapitel 109 (Arc 2)  
-**Version**: 3.0  
+**Version**: 2.0  
 **Wichtigkeit**: NEBEN  
 **Kategorie**: Verbündeter (gezwungenermaßen)

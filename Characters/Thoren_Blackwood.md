@@ -1,29 +1,28 @@
-# Thoren Blackwood - Guild Councilor
+# Thoren Blackwood - Guild Senior Councilor
 
-> **Role**: Merchant Guild Leader / Strategic Ally
-> **Class**: Merchant Prince
-> **Arc**: Introduced Arc 1, Chapter 40
+> **Rolle**: Merchant Guild Leader  
+> **Klasse/Spezies**: Merchant Prince (Level 22)  
+> **Archetyp**: Das Alte Geld (Pragmatisch)  
+> **Status**: Aktiv (Partner)
 
 ---
 
-## Basic Information
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
+| Attribut | Wert |
+|----------|------|
 | **Name** | Thoren Blackwood |
-| **Title** | Senior Councilor, Oakhaven Merchant Guild |
-| **Species** | Human |
-| **Level** | 22 (Merchant) |
-| **Affiliation** | Merchant Guild (Council) |
+| **Position** | Senior Councilor, Oakhaven Merchant Guild |
+| **Erstauftritt** | Kapitel 40 |
 
-## Role & Personality
+---
 
-Heavyset, authoritative, and pragmatic. Represents the "Old Money" of Oakhaven but, unlike Groll, he respects competence and profit over tradition. He sees the Alchemist Cartel as a liability due to their stagnation and successfully negotiates the partnership with Victor.
+## Hintergrund
 
-> "Monopolies always think they're untouchable. Then someone with evidence shows up, and the whole house burns down."
+Pragmatic Leader. Approved Victor's 12% Partnership deal. Respects competence. Investigated Cartel after Market Fire.
 
-## Recent Developments (Chapter 40)
+---
 
-- **Negotiation**: Led the Council meeting with Victor Kaine.
-- **Decision**: Approved Guild protection for Victor in exchange for 12% commission and preferential supply.
-- **Action**: Mobilized Guild resources to investigate the Cartel after the market fire.
+**Version**: 1.0  
+**Wichtigkeit**: NEBEN  
+**Kategorie**: Verbündeter (Partner)

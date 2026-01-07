@@ -1,28 +1,28 @@
-# Silas - Branch Manager (North)
+# Silas - Risk Manager
 
-> **Role**: Risk Management Lead, Kaine Consulting (Aethelgard Branch)
-> **Class**: Risk Analyst (Level 4)
-> **Archetype**: The Catastrophizer
+> **Rolle**: Risk Manager, Aethelgard Branch  
+> **Klasse/Spezies**: Risk Analyst (Level 4)  
+> **Archetyp**: Der professionelle Pessimist  
+> **Status**: Aktiv (Employee)
 
 ---
 
-## Basic Information
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
+| Attribut | Wert |
+|----------|------|
 | **Name** | Silas |
-| **Title** | Branch Manager / Risk Lead |
-| **Origin** | The Gilded Ledger (Fired) |
-| **Status** | Employed by Kaine Consulting |
-| **Location** | Aethelgard Office 304 |
+| **Position** | Risk Management Lead |
+| **Erstauftritt** | Kapitel 82 |
 
-## Psychology
+---
 
-- **Core Trait**: Professional Pessimism. Can find the disaster scenario in a cup of tea.
-- **Utility**: Predicts liability risks before they happen.
-- **Growth**: Learning to use his anxiety to terrify opponents (e.g., explaining Gold Toxicity risks).
+## Hintergrund
 
-## Developments
+Hired from "Rejects" pool (fired for predicting loan bubble). Weaponizes Anxiety ("Gold Toxicity risks"). Promoted to Branch Manager alongside Mina (Ch 87).
 
-- **Chapter 82**: Hired by Victor. Was previously fired for predicting a loan bubble.
-- **Chapter 87**: Successfully bluffed Imperial agents by exaggerating the volatility of office furniture. Promoted to Branch Manager.
+---
+
+**Version**: 1.0  
+**Wichtigkeit**: NEBEN  
+**Kategorie**: Verbündeter (Employee)

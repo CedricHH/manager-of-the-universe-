@@ -1,28 +1,28 @@
 # Mina - Branch Manager (North)
 
-> **Role**: Administrative Lead, Kaine Consulting (Aethelgard Branch)
-> **Class**: Bureau Analyst (Level 4)
-> **Archetype**: Weaponized Pedant
+> **Rolle**: Branch Manager Aethelgard  
+> **Klasse/Spezies**: Bureau Analyst (Level 4)  
+> **Archetyp**: Die waffenisierte Bürokratin  
+> **Status**: Aktiv (Employee)
 
 ---
 
-## Basic Information
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
+| Attribut | Wert |
+|----------|------|
 | **Name** | Mina |
-| **Title** | Branch Manager / Senior Analyst |
-| **Origin** | Aethelgard Bureau of Imperial Audit |
-| **Status** | Employed by Kaine Consulting |
-| **Location** | Aethelgard Office 304 |
+| **Position** | Branch Manager, Kaine Consulting North |
+| **Erstauftritt** | Kapitel 82 |
 
-## Psychology
+---
 
-- **Core Trait**: Weaponized Pedantry. Uses regulations as a shield and a sword.
-- **Loyalty**: Pragmatic. Victor proved that competence pays better than the Empire.
-- **Style**: Deadpan, fearless in the face of authority, loves a good form-filing.
+## Hintergrund
 
-## Developments
+Hired from "Rejects" pool. Uses "Weaponized Pedantry". Defended office using Regulation 894-C (Ch 87).
 
-- **Chapter 82**: Hired by Victor from the "Rejects" pool.
-- **Chapter 87**: Defended the office against Asset Recovery agents using Regulation 894-C. Promoted to Branch Manager of Kaine Consulting North. Note: "Bureaucracy is a weapon."
+---
+
+**Version**: 1.0  
+**Wichtigkeit**: NEBEN  
+**Kategorie**: Verbündeter (Employee)

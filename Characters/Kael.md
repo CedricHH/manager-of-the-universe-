@@ -1,45 +1,29 @@
-# Kael - Victor's Guard
+# Kael - Security Commander
 
-> **Role**: Security / Employee
-> **Class**: Warrior (Level 12)
-> **Arc**: Introduced Arc 1, Chapter 40
+> **Rolle**: Field Commander (Goblin Forces)  
+> **Klasse/Spezies**: Warrior (Level 12)  
+> **Archetyp**: Der paranoide Profi  
+> **Status**: Aktiv (Employee)
 
 ---
 
-## Basic Information
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
+| Attribut | Wert |
+|----------|------|
 | **Name** | Kael |
-| **Title** | Security Detail |
-| **Species** | Human |
+| **Position** | Field Commander, Goblin Forces |
 | **Level** | 12 |
-| **Equipment** | Longsword, Chainmail |
+| **Erstauftritt** | Kapitel 40 |
 
-## Role & Personality
+---
 
-Ex-adventurer hired by the Merchant Guild to protect Victor's operations. Professional, somewhat paranoid (a good trait for a guard), and respects Victor's command style.
+## Hintergrund
 
-## Recent Developments (Chapter 40)
+Ex-Adventurer, hired by Guild. Defected to Victor after learning truth (Ch 43). Now commands Goblin Forces with "Hazard Pay + 0.5% Equity".
 
-- **Hiring**: Assigned to Victor's detail by Guild contract.
-- **Action**: Secured the perimeter during the market fire; established watch rotation at The Silver Standard.
-- **Observation**: Noted the "coincidence" of the fire immediately following the contract signing.
+---
 
-## Recent Developments (Chapter 41)
-- **Defended the Stall**: Publicly defeated Cartel thugs.
-- **Loyalty**: Impressed by Victor's "hostile takeover" rhetoric.
-
-## Recent Developments (Chapter 42)
-- **Escalation**: Accompanied Victor to the Spire. Learned that Groll threatened war.
-
-## Recent Developments (Chapter 43)
-- **The Reveal**: Victor brought him to the Dungeon. Learned Victor is a Dungeon Lord.
-- **New Contract**: Accepted "Hazard Pay + 0.5% Equity" to defend the dungeon.
-- **New Role**: Appointed "Field Commander" of the dungeon's goblin forces.
-
-## Recent Developments (Chapter 44)
-- **Field Command**: Successfully led the goblin shield wall against superior numbers. Used grease traps to neutralize enemy charge.
-- **Combat**: Defended the "integrity of the formation" against the Black Talon captain.
-
-
+**Version**: 1.0  
+**Wichtigkeit**: NEBEN (Security)  
+**Kategorie**: Verbündeter (Employee)

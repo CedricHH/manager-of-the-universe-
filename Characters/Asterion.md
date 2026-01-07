@@ -1,183 +1,218 @@
-# Asterion - The Minotaur Security Chief
+# Asterion - Chief Security Officer
 
-> **Role**: Chief Security Officer (CSO)
-> **Species**: Minotaurus
-> **Arc**: Introduced Arc 1, Chapter 5-7
-
----
-
-## Basic Information
-
-| Attribute | Value |
-|-----------|-------|
-| **Name** | Asterion |
-| **Title** | Chief Security Officer (CSO) |
-| **Species** | Minotaurus (Boss-class) |
-| **Age** | 247 years |
-| **First Appearance** | Chapter 5 |
+> **Rolle**: Chief Security Officer (CSO), Victors General  
+> **Klasse/Spezies**: Minotaurus (Boss-Class, Level 32)  
+> **Archetyp**: Der existenziell traumatisierte Krieger  
+> **Status**: Aktiv (CSO, Oakhaven Region)
 
 ---
 
-## Origin Story
+## Basis-Informationen
 
-### 247 Years of Service
-
-Asterion was created by the Dungeon Core to guard the boss chamber. For 247 years, he did exactly that.
-
-He killed 1,847 adventurers. He died 12 times (respawning each time—dungeon mechanics). He never left the boss room. He never questioned his purpose.
-
-He received:
-- No pay
-- No vacation days
-- No performance reviews
-- No explanation of why he existed
-
-He was furniture. Deadly furniture, but furniture.
-
-### The Realization
-
-Victor's [Aggressive Negotiations] didn't defeat Asterion through pain. It defeated him through *analysis*.
-
-Victor pointed out:
-- 247 years of service, zero advancement
-- No retirement plan
-- No benefits
-- Other dungeon bosses had larger treasure rooms
-- His kill/death ratio was above average, yet no recognition
-
-For the first time in his existence, Asterion experienced something worse than a hero's sword: **the knowledge that he was undervalued**.
-
-### The Breakdown
-
-Asterion's psyche crumbled not from violence, but from PowerPoint slides.
-
-Victor presented a comparison chart. Asterion saw his worth quantified—and found lacking. The existential horror of being a replaceable asset destroyed him more thoroughly than any legendary weapon.
-
-He surrendered not to Victor's strength, but to his *spreadsheet*.
+| Attribut | Wert |
+|----------|------|
+| **Vollständiger Name** | Asterion |
+| **Titel/Spitzname** | CSO, The Compliance Tool (sein Axt-Name) |
+| **Klasse/Spezies** | Minotaurus (Boss-Class) |
+| **Level** | 32 (General Class) |
+| **Alter** | 247 Jahre |
+| **Position** | Chief Security Officer (CSO) |
+| **Erstauftritt** | Kapitel 5 |
+| **Aktueller Status** | Regional Security Chief, Oakhaven |
+| **Standort** | Floor 4 Boss Chamber / Oakhaven |
 
 ---
 
-## Psychology
+## Hintergrund
 
-### Core Traits
+### 247 Jahre Dienst
 
-- **Existential Crisis (Ongoing)**: Why does he exist? What is purpose? Victor says "profit." Is that enough?
-- **Desperate for Structure**: Without the Dungeon Core's commands, he's lost. Victor provides new orders. This is... acceptable.
-- **Hidden Intellect**: 247 years of watching adventurers taught him tactics. He's smarter than he appears.
-- **Quiet Dignity**: Despite his trauma, he maintains formal speech and professional demeanor.
+Asterion wurde vom Dungeon Core erschaffen, um die Boss-Kammer zu bewachen. 247 Jahre lang tat er genau das.
 
-### The Tragedy
+Er tötete 1.847 Abenteurer. Er starb 12 Mal (Respawn jedes Mal—Dungeon-Mechanik). Er verließ nie den Boss-Raum. Er hinterfragte nie seinen Zweck.
 
-Asterion is not evil. He never chose to kill adventurers—it was his function. Now free from the Core, he doesn't know how to feel about his 1,847 kills.
+Er erhielt:
+- Keine Bezahlung
+- Keine Urlaubstage
+- Keine Performance Reviews
+- Keine Erklärung, warum er existierte
 
-Victor doesn't care about his moral crisis. This is somehow comforting.
+Er war Mobiliar. Tödliches Mobiliar, aber Mobiliar.
 
----
+### Die Erkenntnis
 
-## Combat Stats
+Victors [Aggressive Negotiations] besiegte Asterion nicht durch Schmerz. Es besiegte ihn durch *Analyse*.
 
-| Stat | Value | Notes |
-|------|-------|-------|
-| Level | 25 | Boss-class baseline |
-| HP | 5,000 | Regenerates in home dungeon |
-| STR | 45 | Can crush armor with bare hands |
-| AGI | 15 | Slow but powerful |
-| INT | 12 | Higher than expected |
-| Special | Labyrinth Sense | Always knows layout of any dungeon |
+Victor zeigte auf:
+- 247 Jahre Dienst, null Beförderung
+- Kein Rentenplan
+- Keine Benefits
+- Andere Dungeon-Bosse hatten größere Schatzkammern
+- Seine Kill/Death-Ratio war überdurchschnittlich, dennoch keine Anerkennung
 
----
+Zum ersten Mal in seiner Existenz erlebte Asterion etwas Schlimmeres als das Schwert eines Helden: **das Wissen, dass er unterbewertet war**.
 
-## Equipment
+### Der Zusammenbruch
 
-| Item | Description |
-|------|-------------|
-| **The Compliance Tool** | Massive double-headed greataxe. Named by Victor. Asterion secretly hates the name. |
-| **Reading Glasses** | Comically small for his face. Used to review contracts. |
-| **Security Badge** | Victor issued it. Asterion wears it with pride. |
-| **Formal Vest** | Attempts to look professional. Mostly fails due to fur. |
+Asterions Psyche brach nicht durch Gewalt, sondern durch PowerPoint-Folien.
+
+Victor präsentierte ein Vergleichsdiagramm. Asterion sah seinen Wert quantifiziert—und fand ihn mangelhaft. Der existenzielle Horror, ein ersetzbarer Asset zu sein, zerstörte ihn gründlicher als jede legendäre Waffe.
+
+Er kapitulierte nicht vor Victors Stärke, sondern vor seiner *Tabellenkalkulation*.
 
 ---
 
-## Skills
+## Psychologie & Persönlichkeit
 
-| Skill | Effect |
-|-------|--------|
-| **Labyrinth Mastery** | Perfect navigation in any dungeon-like structure |
-| **Boss Presence** | Intimidation aura; weaker creatures flee |
-| **Charge** | Devastating rush attack (+300% damage on first hit) |
-| **Last Stand** | Below 10% HP: Damage doubled, cannot be stunned |
-| **Contract Bound** | Victor's contract prevents betrayal (and provides dental) |
-| **Corporate Shield** | Creates a barrier that absorbs damage by consuming Gold (10 GP/hit) |
+### Kern-Eigenschaften
 
----
+- **Existenzielle Krise (Ongoing)**: Warum existiert er? Was ist sein Zweck? Victor sagt "Profit". Ist das genug?
+- **Verzweifelt nach Struktur**: Ohne die Befehle des Dungeon Core ist er verloren. Victor gibt neue Orders. Das ist... akzeptabel.
+- **Versteckter Intellekt**: 247 Jahre Beobachtung von Abenteurern lehrte ihn Taktiken. Er ist klüger als er aussieht.
+- **Stille Würde**: Trotz seines Traumas behält er formelle Sprache und professionelle Haltung.
 
-## Relationships
+### Motivation
 
-| Character | Relationship |
-|-----------|--------------|
-| **Victor** | Employer/General. "A strange little monster." Respects his ambition. |
-| **Sniv** | Colleague? The small one tries too hard. Asterion respects effort. |
-| **Lyra** | She reminds him of heroes he killed. This is uncomfortable. |
-| **Elara** | A professional holding a mirror to Victor's madness. He respects her distance. |
-| **Dungeon Core** | Former master. Asterion feels... nothing? Is that wrong? |
+Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert sich nicht um seine moralische Krise. Das ist irgendwie tröstlich.
+
+### Verhaltensweise
+
+- Formell, abgemessen, leicht archaisch
+- Befolgt Befehle präzise
+- Versucht, "professionell" in Anzug und Brille auszusehen (meist erfolglos wegen Fell)
 
 ---
 
-## Arc Development
+## Beziehungen
 
-### Arc 1: The Boss Becomes Employee
-- Defeated by capitalism, not combat
-- Joins Victor's party as security
-- Learning to exist outside boss room
-
-### Arc 2: Security Director
-- Manages dungeon defenses
-- Trains goblin security forces
-- Confronts memories of adventurers he killed
-
-### Arc 3: ???
-- Potential redemption arc?
-- May meet family of someone he killed?
+| Character | Beziehung | Status |
+|-----------|-----------|--------|
+| **Victor Kaine** | Arbeitgeber / General | Respektiert seine Ambition; "ein seltsames kleines Monster" |
+| **Sniv** | Kollege (COO) | Respektiert Anstrengung; vorsichtig um ihn herum |
+| **Nova (Dungeon Core)** | Ehemaliger Meister | Fühlt... nichts? Ist das falsch? |
+| **Lyra** | Unbehagen | Sie erinnert ihn an Helden, die er tötete |
 
 ---
 
-## Speech Pattern
+## Kampf-Stats & Fähigkeiten
 
-Formal, measured, slightly archaic:
+| Stat | Wert | Notizen |
+|------|------|---------|
+| **Level** | 32 | General Class |
+| **HP** | 5.500 | Regeneriert im Heim-Dungeon |
+| **STR** | 48 | Kann Rüstung mit bloßen Händen zerquetschen |
+| **AGI** | 16 | Langsam aber mächtig |
+| **INT** | 14 | Höher als erwartet |
+| **Special** | Labyrinth Sense | Kennt immer Layout jedes Dungeons |
 
-> "I have reviewed the proposal. The terms are... acceptable."
+### Bekannte Fähigkeiten
 
+| Fähigkeit | Effekt |
+|-----------|--------|
+| **[Labyrinth Mastery]** | Perfekte Navigation in jeder dungeon-artigen Struktur |
+| **[Boss Presence]** | Einschüchterungs-Aura; schwächere Kreaturen fliehen |
+| **[Charge]** | Verheerender Sturmangriff (+300% Schaden beim ersten Treffer) |
+| **[Last Stand]** | Unter 10% HP: Schaden verdoppelt, kann nicht betäubt werden |
+| **[Contract Bound]** | Victors Vertrag verhindert Verrat (und bietet Zahnversicherung) |
+| **[Corporate Shield]** | Erstellt Barriere, die Schaden absorbiert durch Gold-Konsum (10 GP/Treffer) |
+
+---
+
+## Ausrüstung
+
+| Item | Beschreibung |
+|------|--------------|
+| **The Compliance Tool** | Massive doppelköpfige Greataxt. Von Victor benannt. Asterion hasst den Namen heimlich. |
+| **Lesebrille** | Komisch klein für sein Gesicht. Benutzt für Vertrags-Reviews. |
+| **Security Badge** | Von Victor ausgestellt. Asterion trägt es mit Stolz. |
+| **Formelle Weste** | Versucht professionell auszusehen. Scheitert meist wegen Fell. |
+
+---
+
+## Rolle im Team
+
+- **Funktion**: Chief Security Officer, Verteidigungskoordinator
+- **Kompetenzen**: Kampf, Taktik, Dungeon-Navigation, Security-Management
+- **Verantwortung**: Sicherheit für Oakhaven-Dungeon-Korridor, Training der nächsten Generation Boss-Klasse-Entitäten
+
+---
+
+## Kapitel-Geschichte
+
+### Arc 1: Der Boss wird Employee (Kapitel 5-80)
+
+**Rekrutierung (Ch 16-17)**
+- Akzeptierte Victors Angebot, "General" zu werden
+- Unterschrieb [The Guardian's Pact]
+
+**Die Performance (Ch 22)**
+- Kämpfte Silver Lance zu einem Stillstand (nicht-tödlich)
+
+**Formelle Anstellung (Ch 26)**
+- Unterschrieb Vertrag als **Chief Security Officer (CSO)**
+- 10 GP Signing Bonus
+
+**The Vault (Ch 32)**
+- Schützte Victor während der Entdeckung der Konsortiums-Wahrheit
+
+**Der erste Test (Ch 34)**
+- Managed Security während Victors Abwesenheit
+- Bewahrte nicht-tödliche Protokolle
+
+**Der Automation Protocol (Ch 80)**
+- **PROMOTION**: Formell befördert zu **Chief Security Officer (CSO)** für gesamte Oakhaven Region
+- Mandat: Verantwortlich für Training der nächsten Generation Boss-Klasse-Entitäten
+
+### Arc 2: Regional Security Chief (Kapitel 101-109)
+
+**Kapitel 101 - The Expansion Plan**
+- Zugewiesen: Hire 12 Guards für Insolvia Apotheke
+
+**Kapitel 102 - The Recruitment**
+- Security Audit: 12 Guards hired, Apotheke 90% fortifiziert
+
+**Kapitel 106 - The Council**
+- Koordinierte 200+ Adventurer Public Demonstration (Market Quarter)
+
+**Kapitel 107 - The Sabotage**
+- Marcus + Asterion: Westhold-Expedition (140 miles, 4-Tage-Rundreise)
+- Emergency Procurement: 2.500 GP (7-Tage-Versorgung)
+
+**Kapitel 108 - The Substitution**
+- Zurückgekehrt rechtzeitig mit Westhold-Versorgung
+- Non-Guild-Suppliers sicherten ongoing Trade
+
+---
+
+## Aktueller Status (Stand: Kapitel 109)
+
+| Attribut | Wert |
+|----------|------|
+| **Standort** | Oakhaven (Security Operations) |
+| **Beziehung zu Victor** | Loyal; besorgt über BROKEN CROWN-Risiko |
+| **Bedrohungslevel** | NIEDRIG (vertraglich gebunden) |
+| **Nächster Critical Path** | Managing Security falls Victor BROKEN CROWN akzeptiert |
+| **Managed Assets** | 12 Guard Force, Floor 4 Defense, Security Protocols |
+
+---
+
+## Zitate
+
+### Kapitel 16:
 > "In 247 years, no adventurer asked my name. You are the first to offer a contract instead of a sword. This is... novel."
 
+### Kapitel 22:
+> "I have reviewed the proposal. The terms are... acceptable."
+
+### Kapitel 26:
 > "The small green one calls this 'synergy.' I do not understand the word, but I understand we are stronger together."
 
+### Kapitel 80:
 > "You wish me to... not kill the intruders? This is inefficient. But the contract specifies non-lethal options. I will comply."
 
 ---
 
-## Current Status (as of Chapter 16)
-
-| Attribute | Value |
-|-----------|-------|
-| Level | 25 |
-| Location | Floor 4 Boss Chamber |
-| Condition | **Contracted** (Provisional Ally). Bound by [The Guardian's Pact]. |
-
-## Arc 1 History: The Security Chief
-
-- **Recruitment (Ch 16-17)**: Accepted Victor's offer to become a "General." Signed [The Guardian's Pact].
-- **The Performance (Ch 22)**: Fought Silver Lance to a standstill (non-lethal).
-- **Formal Employment (Ch 26)**: Signed contract as **Chief Security Officer (CSO)**. 10 GP signing bonus.
-- **The Vault (Ch 32)**: Protected Victor during the discovery of the Consortium's truth.
-- **The First Test (Ch 34)**: Managed security during Victor's absence. Maintained non-lethal protocols.
-
-## Recent Developments (Chapter 80+)
-
-- **Chapter 80 (The Automation Protocol)**: **PROMOTION**. Formally promoted to **Chief Security Officer (CSO)** for the entire Oakhaven Region.
-- **Mandate**: Responsible for training the next generation of boss-class entities.
-- **Status**: COMMANDING. Overseeing security for the Oakhaven-Dungeon corridor.
-
-| **Current Status** | Chief Security Officer (CSO) |
-| **Level** | 32 (General Class) |
-| **HP** | 100% |
-| **Condition** | Wearing silver CSO badge and polished vest. |
+**Letzte Aktualisierung**: Kapitel 109 (Arc 2)  
+**Version**: 3.0  
+**Wichtigkeit**: HAUPT (Core Team)  
+**Kategorie**: Verbündeter (CSO)

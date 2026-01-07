@@ -1,43 +1,28 @@
-# Valerius - The Corporate Compliance Officer
+# Valerius - Compliance Officer
 
-> **Role**: Head of Compliance / Legal Proxy
-> **Organization**: Insolvia Holdings (formerly Merchant Guild)
-> **First Appearance**: Chapter 46
-> **Recruitment**: Chapter 46 (Hired via blackmail/opportunity)
+> **Rolle**: Head of Compliance  
+> **Klasse/Spezies**: Compliance Auditor (Level 8)  
+> **Archetyp**: Der bürokratische Zauberer  
+> **Status**: Aktiv (Employee)
 
 ---
 
-## Basic Information
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
+| Attribut | Wert |
+|----------|------|
 | **Name** | Valerius |
-| **Role** | Auditor / Legal Shield |
-| **Level** | 8 (Merchant Class) |
-| **Specialization** | Forensic Accounting, Loophole Exploitation |
-| **Loyalty** | to the Paycheck & Survival |
+| **Position** | Head of Compliance, Insolvia Holdings |
+| **Erstauftritt** | Kapitel 46 |
 
 ---
 
-## Role in Story
+## Hintergrund
 
-Valerius is Victor's interface with the legal world. He handles the paperwork that makes Victor's aggressive strategies "technically legal." He is terrified of the monsters but loves the efficiency.
-
-### Key Contributions
-
-- **Chapter 56**: Drafted the "Class Action" waivers and managed the petition drive.
-- **Chapter 57**: Captured the "Safety Audit" footage used to blackmail the Guild.
-- **Chapter 59**: Managed the "Certificate of Compliance" paperwork.
+Recruited via Blackmail/Opportunity. Drafted "Class Action" waivers (Ch 56) & "Safety Audit" blackmail material (Ch 57). Makes Victor's aggression "technically legal".
 
 ---
 
-## Psychology
-
-- **Terrified but Efficient**: He flinches when goblins walk by, but he will argue with a Judge if the forms are wrong.
-- **Bureaucratic Wizard**: Can find a Clause in any contract.
-- **Victor's Mirror**: Represents the "System" working *for* Victor instead of against him.
-
----
-
-**Version**: 1.0
-**Created**: Chapter 59 Sync
+**Version**: 1.0  
+**Wichtigkeit**: NEBEN  
+**Kategorie**: Verbündeter (Employee)

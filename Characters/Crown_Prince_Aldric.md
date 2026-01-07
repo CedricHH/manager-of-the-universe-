@@ -1,43 +1,40 @@
-# Crown Prince Aldric Valdris - The Naive Asset
+# Crown Prince Aldric - Royal Charter
 
-> **Role**: Royal VIP / "Silent Partner"
-> **Class**: Aristocrat (Level 5)
-> **Arc**: Introduced Arc 1.3, Chapter 59
-
----
-
-## Basic Information
-
-| Attribute | Value |
-|-----------|-------|
-| **Name** | Aldric Valdris II |
-| **Title** | Crown Prince of Valdris |
-| **Age** | 22 |
-| **Status** | Touring Insolvia |
-| **Affiliation** | The Crown (Secretly broke) |
+> **Rolle**: Crown Prince, Royal Charter Grantor  
+> **Klasse/Spezies**: Noble/Paladin (Level 20)  
+> **Archetyp**: Der idealistische Prinz  
+> **Status**: Aktiv (Arc 1 Partner)
 
 ---
 
-## Character Overview
+## Basis-Informationen
 
-Aldric is the charming, bored, and secretly desperate face of the Kingdom. He presents as a fop, but he is painfully aware that the Kingdom's treasury is empty. He is not looking for justice; he is looking for **revenue**.
-
-Victor identified him not as a threat, but as a "Distressed Asset" ripe for acquisition.
-
-### Key Traits
-- **Fiscally Desperate**: Will ignore "heresy" if the price is right.
-- **Bored**: Loves entertainment (the "Dancing Wolves").
-- **Corruptible**: Accepted a 15% kickback scheme within 10 minutes of meeting Victor.
-
----
-
-## Recent Developments (Chapter 60)
-
-- **The Visit**: Touring Insolvia Holdings under the guise of an inspection.
-- **The Deal**: Agreed to grant Victor a "Royal Charter" (Provisional Status) in exchange for 15% of the dungeon's revenue (off the books) and custom enchanted armor.
-- **The Standoff (Chapter 61)**: Intervened to stop High Priestess Aurelia from destroying the Dungeon Core. Asserted that the Core is "Crown Property" to protect his new revenue stream.
-- **The Departure**: Left with the signed 15% revenue charter. Expects payment promptly.
+| Attribut | Wert |
+|----------|------|
+| **Name** | Crown Prince Aldric |
+| **Title** | Crown Prince |
+| **Level** | 20 |
+| **Affiliation** | Kingdom Royal Family |
+| **Erstauftritt** | Kapitel 51 |
 
 ---
 
-**Version**: 2.1 (Updated Ch 61)
+## Psychologie
+
+- **Idealistic**: Glaubt das System funktioniert
+- **Naive**: Weiß nicht, dass Kingdom fiscal Crisis hat
+- **Well-Intentioned**: Genuinely wants to help Kingdom
+
+---
+
+## Kapitel-Geschichte (Kompakt)
+
+**Kapitel 51 - The Crown Asset**: Victor identified: Idealistic, naive, believes System works; Kingdom Intel revealed: secretly bleeding Gold; King hides Fiscal Crisis from Prince
+
+**Kapitel 60-61 - The Royal Visit**: Secured **Royal Charter** from Prince Aldric (**15% Kickback**); High Priestess Aurelia neutralized initial Audit; protected Core
+
+---
+
+**Version**: 2.0  
+**Wichtigkeit**: NEBEN  
+**Kategorie**: Verbündeter (Royal Charter)

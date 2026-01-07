@@ -1,73 +1,123 @@
-# Sniv - Goblin HR Manager
+# Sniv - Chief Operating Officer
 
-> **Role**: Head of Human Resources
-> **Species**: Goblin → Hobgoblin (evolves)
-> **Arc**: Introduced Arc 1, Chapter 2
-
----
-
-## Basic Information
-
-| Attribute | Value |
-|-----------|-------|
-| **Name** | Sniv |
-| **Title** | Chief Operating Officer (COO) / "Employee #1" |
-| **Species** | Goblin (evolving to Hobgoblin) |
-| **Age** | Unknown (goblins don't count) |
-| **First Appearance** | Chapter 2 |
+> **Rolle**: COO, Employee #1, Victor Kainesrechte Hand  
+> **Klasse/Spezies**: Hobgoblin (Level 52, Executive Class)  
+> **Archetyp**: Der fanatisch loyale Diener  
+> **Status**: Aktiv (Regional Executive Manager, Dungeon Insolvia)
 
 ---
 
-## Origin Story
+## Basis-Informationen
 
-### Life Before Victor
-
-Sniv was the lowest goblin in his pack—too weak to fight, too ugly to mate, too small to carry loot. His only value was as bait or a distraction during ambushes.
-
-He had never eaten a full meal. He had never slept without fear of being eaten by his own kind.
-
-When Victor appeared, Sniv was three days from starvation.
-
-### The Contract
-
-Victor offered what no one had ever offered: **a deal**.
-
-Food. Safety. In exchange for service.
-
-Sniv didn't understand the words "employment contract" or "probationary period." But he understood the rations Victor laid out. He understood the promise that no one would hit him if he performed well.
-
-He signed. (He made an X. He couldn't write.)
-
-### The Transformation
-
-Under Victor's "management," Sniv discovered he had talents:
-- He could count (rare for goblins)
-- He could remember faces and grudges
-- He understood hierarchies instinctively
-- He was absolutely, pathologically loyal to whoever fed him
-
-Victor recognized these as **HR competencies**.
+| Attribut | Wert |
+|----------|------|
+| **Vollständiger Name** | Sniv |
+| **Titel/Spitzname** | Employee #1, COO |
+| **Klasse/Spezies** | Hobgoblin (ehemals Goblin) |
+| **Level** | 52 (Executive Class) |
+| **Alter** | Unbekannt (Goblins zählen nicht) |
+| **Position** | Chief Operating Officer (COO) |
+| **Erstauftritt** | Kapitel 2 |
+| **Aktueller Status** | Regional Executive Manager, Oakhaven Operations |
+| **Standort** | Dungeon Insolvia (Oakhaven) |
 
 ---
 
-## Psychology
+## Hintergrund
 
-### Core Traits
+### Leben vor Victor
 
-- **Fanatical Loyalty**: Victor saved him. Victor feeds him. Victor is GOD.
-- **Eager to Please**: Will do anything to avoid being "downsized"
-- **Learning**: Mimics Victor's corporate speak (often wrong, always funny)
-- **Hidden Cruelty**: Treats lesser creatures as he was once treated—unless Victor forbids it
+Sniv war der niedrigste Goblin in seinem Rudel—zu schwach zum Kämpfen, zu hässlich zum Paaren, zu klein zum Lootschleppen. Sein einziger Wert: Köder oder Ablenkung bei Hinterhalten.
 
-### The Comedy
+Er hatte nie eine volle Mahlzeit gegessen. Er hatte nie ohne Angst geschlafen, von seinen eigenen Artgenossen gefressen zu werden.
 
-Sniv takes corporate jargon literally:
-- "Fire him" = sets person on fire
-- "Cut costs" = attacks expenses with knife
-- "Hostile takeover" = immediately violent
+Als Victor erschien, war Sniv drei Tage vom Verhungern entfernt.
 
-He wears a tie (doesn't know why, Victor wears one).
-He carries a clipboard (can't read, but it feels important).
+### Der Vertrag
+
+Victor bot, was niemand jemals geboten hatte: **einen Deal**.
+
+Essen. Sicherheit. Im Austausch für Service.
+
+Sniv verstand die Worte "Arbeitsvertrag" oder "Probezeit" nicht. Aber er verstand die Rationen, die Victor auslegte. Er verstand das Versprechen, dass niemand ihn schlagen würde, wenn er gut arbeitete.
+
+Er unterschrieb. (Er machte ein X. Er konnte nicht schreiben.)
+
+### Die Transformation
+
+Unter Victors "Management" entdeckte Sniv, dass er Talente hatte:
+- Er konnte zählen (selten für Goblins)
+- Er konnte sich Gesichter und Rachegefühle merken
+- Er verstand Hierarchien instinktiv
+- Er war absolut, pathologisch loyal zu dem, der ihn fütterte
+
+Victor erkannte diese als **HR-Kompetenzen**.
+
+---
+
+## Psychologie & Persönlichkeit
+
+### Kern-Eigenschaften
+
+- **Fanatische Loyalität**: Victor rettete ihn. Victor füttert ihn. Victor ist GOTT.
+- **Eifrig zu gefallen**: Würde alles tun, um nicht "downsized" zu werden
+- **Lernend**: Imitiert Victors Corporate Speak (oft falsch, immer lustig)
+- **Versteckte Grausamkeit**: Behandelt niedere Kreaturen so, wie er einst behandelt wurde—es sei denn, Victor verbietet es
+
+### Motivation
+
+Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
+
+### Verhaltensweise
+
+- **Corporate Jargon**: Nimmt Business-Sprache wörtlich
+  - "Fire him" = Person anzünden
+  - "Cut costs" = Ausgaben mit Messer angreifen
+  - "Hostile takeover" = sofort gewalttätig
+- **Kleidung**: Trägt Krawatte (weiß nicht warum, Victor trägt eine)
+- **Accessoire**: Trägt Clipboard (kann nicht lesen, fühlt sich aber wichtig an)
+
+---
+
+## Beziehungen
+
+| Character | Beziehung | Status |
+|-----------|-----------|--------|
+| **Victor Kaine** | Boss / Gott | Würde für ihn sterben, würde für ihn töten |
+| **Asterion** | Kollege / CSO | Nervös um ihn herum (zu groß, könnte versehentlich auf Sniv treten) |
+| **Nova (Dungeon Core)** | Arbeitgeber (technisch) | Respektvolle Koexistenz |
+| **Andere Goblins** | Ressourcen | Sie sind nicht Sniv. Sie sind ersetzbar. |
+
+---
+
+## Kampf-Stats & Fähigkeiten
+
+| Stat | Wert | Notizen |
+|------|------|---------|
+| **Level** | 52 | Executive Class |
+| **HP** | Hoch (für Goblin-Standards) | Hobgoblin-Evolution |
+| **STR** | Mittel | Größer als Goblin, kleiner als Menschen |
+| **INT** | 18 | Überraschend hoch; HR-Kompetenzen |
+| **CHA** | 14 | Kann andere Goblins einschüchtern |
+| **Loyalität** | PATHOLOGISCH | Kann Victor nicht verraten (psychischer Schaden bei Unloyal-Gedanken) |
+
+### Bekannte Fähigkeiten
+
+| Fähigkeit | Effekt |
+|-----------|--------|
+| **[Loyal to a Fault]** | Kann Victor nicht verraten; nimmt psychischen Schaden bei Disloyal-Gedanken |
+| **[Paper Pusher]** | +50% Effizienz beim Organisieren von Dokumenten |
+| **[Performance Review (Basic)]** | Kann Goblin-Level-Kreaturen bewerten |
+| **[Corporate Intimidation]** | Erschreckt Untergebene mit Phrasen wie "Restructuring" |
+| **[Customer Service Academy]** | Kann Goblins in Kundenservice trainieren (Ch 104) |
+
+---
+
+## Rolle im Team
+
+- **Funktion**: Chief Operating Officer, Tagesgeschäft-Manager
+- **Kompetenzen**: HR, Operations, Goblin-Management, Organisation
+- **Verantwortung**: Oakhaven Dungeon Operations während Victors Abwesenheit
 
 ---
 
@@ -75,61 +125,102 @@ He carries a clipboard (can't read, but it feels important).
 
 | Stage | Level | Trigger | Changes |
 |-------|-------|---------|---------|
-| Goblin | 1-10 | - | Small, weak, pathetic |
-| Hobgoblin | 11-25 | First successful "firing" | Larger, orange skin, can read |
-| Goblin Manager | 26-50 | Manages 100+ employees | Suit grows naturally, tie becomes part of body |
-| Goblin Executive | 51+ | ??? | Unknown, rumored to grow briefcase |
+| **Goblin** | 1-10 | - | Klein, schwach, erbärmlich |
+| **Hobgoblin** | 11-25 | Erste erfolgreiche "Entlassung" | Größer, orange Haut, kann lesen |
+| **Goblin Manager** | 26-50 | Managed 100+ Mitarbeiter | Anzug wächst natürlich, Krawatte wird Teil des Körpers |
+| **Goblin Executive** | 51+ | Regional Authority | Trägt Brille und maßgeschneiderte Weste |
+
+**Aktuell**: Goblin Executive (Level 52)
 
 ---
 
-## Skills
+## Kapitel-Geschichte
 
-| Skill | Effect |
-|-------|--------|
-| **Loyal to a Fault** | Cannot betray Victor; takes psychic damage from disloyalty thoughts |
-| **Paper Pusher** | +50% efficiency when organizing documents |
-| **Performance Review (Basic)** | Can assess goblin-level creatures |
-| **Intimidation (Corporate)** | Scares underlings with phrases like "restructuring" |
+### Arc 1: Vom Runt zum Manager (Kapitel 2-80)
+
+**Survival (Ch 2-4)**
+- Rekrutiert als "Employee #1"
+- Von Verhungern gerettet
+- Führte erste Goblin-Volkszählung durch
+- Fungal Garden Ernte
+
+**Die erste Beförderung (Ch 8-14)**
+- Organisierte erste "Onboarding Census" für wilde Rekruten
+- Befördert zu "Manager"
+- Führte Trap-Diversion-Strategie gegen erste Abenteurer aus
+
+**Corporate Evolution (Ch 24-34)**
+- Evolvierte zu Hobgoblin (Stage 2)
+- Designiert als **COO**
+- Managed 26 Goblins und tägliche Operationen
+- Demonstrierte umfassende Loyalität während Victors erster Abwesenheit
+
+**The Union Rep (Ch 56-59)**
+- Spielte Schlüsselrolle in "Class Action"-Klage-Protest
+- Managed "Project Sparkle"-Cleanup für Royal Visit
+
+**Der Automation Protocol (Ch 80)**
+- **MAJOR PROMOTION**: Befördert zu **Regional Executive Manager** von Dungeon Insolvia
+- Erbte das SOP Manual (400 Seiten)
+- Volle Autonomie über Oakhaven Operations
+
+### Arc 2: Regional Executive (Kapitel 101-109)
+
+**Kapitel 101 - The Expansion Plan**
+- Zugewiesen: Trainiere 10 Goblin-Shopkeeper für Insolvia Apotheke
+- Entwickelte "Customer Service Academy"-Curriculum
+
+**Kapitel 102 - The Recruitment**
+- Customer Service Academy: 10 Goblins in Training (Graduation in 4 Tagen)
+
+**Kapitel 104 - The Harvest**
+- Deployete 10 trainierte Goblin-Shopkeeper für Apotheke-Launch
+- Launch-Success: SOLD OUT in 5 Stunden
+
+**Kapitel 106 - The Council**
+- 12-Hour Coalition: Organisierte 487 Adventure-Testimonials
+- Koordinierte Public Demonstration (340 Adventurers)
+
+**Kapitel 109 - The Negotiation**
+- **Emotionale Reaktion**: Opposes BROKEN CROWN Mission ("Boss stays!")
+- Zeigt erstmals Besorgnis für Victors Sicherheit
 
 ---
 
-## Relationships
+## Aktueller Status (Stand: Kapitel 109)
 
-| Character | Relationship |
-|-----------|--------------|
-| **Victor** | Worships him. Would die for him. Would kill for him. |
-| **Asterion** | Nervous around him. Too big. Might step on Sniv. |
-| **Lyra** | Confused. She's nice to him. This is suspicious. |
-| **Elara** | Boss's new partner. She smells like the Church. Sniv stays away. |
-| **Other Goblins** | They are resources. They are not Sniv. They are expendable. |
+| Attribut | Wert |
+|----------|------|
+| **Standort** | Dungeon Insolvia (Operations Center) |
+| **Beziehung zu Victor** | Fanatisch loyal; besorgt über BROKEN CROWN |
+| **Bedrohungslevel** | NIEDRIG (zu loyal für Verrat) |
+| **Nächster Critical Path** | Managing Oakhaven falls Victor BROKEN CROWN akzeptiert |
+| **Managed Assets** | 10 Goblin Shopkeepers, Dungeon Operations, SOP Manual |
 
 ---
 
-## Arc Development
+## Zitate
 
-### Arc 1: The First Employee
-- Recruited by Victor
-- Learns basic counting and organization
-- Evolves to Hobgoblin after first successful "restructuring"
+### Kapitel 2:
+> "Sniv work for Boss. Boss give food. Sniv happy!"
 
-### Arc 2: HR Department
-- Manages growing workforce
-- Establishes goblin labor practices
-- Attempts to form union (Victor crushes it, Sniv is confused but accepts)
+### Kapitel 24:
+> "Boss! Boss! New meat—I mean, *candidates* for position!"
 
-### Arc 3+: ???
-- Potential for major character development
-- May discover limits of loyalty?
+### Kapitel 56:
+> "Sniv has completed performance reviews. Three need terminating. Sniv can do terminating?"
+
+### Kapitel 104:
+> "Customer service! Smile! No bite customers unless Boss say!"
+
+### Kapitel 109:
+> "Boss stays! Boss no go dangerous place!"
 
 ---
 
 ## Speech Pattern
 
-Broken common, learning corporate jargon:
-
-> "Boss! Boss! New meat—I mean, *candidates* for position!"
-
-> "Sniv has completed performance reviews. Three need terminating. Sniv can do terminating?"
+Gebrochenes Common, lernt Corporate Jargon:
 
 > "What is '401k'? Is it weapon? Sniv wants 401k!"
 
@@ -137,26 +228,7 @@ Broken common, learning corporate jargon:
 
 ---
 
-
-## Arc 1 History: From Runt to Manager
-
-- **Survival (Ch 2-4)**: Recruited as "Employee #1". Saved from starvation. Led first goblin census and Fungal Garden harvest.
-- **The First Promotion (Ch 8-14)**: Organized the first "Onboarding Census" for feral recruits. Promoted to "Manager". Executed trap diversion strategy against first adventurers.
-- **Corporate Evolution (Ch 24-34)**: Evolved into Hobgoblin (Stage 2). Designated **COO**. Managing 26 goblins and daily operations. Demonstrated comprehensive loyalty during Victor's first absence.
-- **The Union Rep (Ch 56-59)**: Played key role in the "Class Action" lawsuit protest. Managed "Project Sparkle" cleanup for Royal visit.
-
-## Recent Developments (Chapter 80+)
-
-- **Chapter 80 (The Automation Protocol)**: **MAJOR PROMOTION**. Promoted to **Regional Executive Manager** of Dungeon Insolvia. Inherited the SOP Manual.
-- **Status Update**: FULL AUTONOMY. Currently managing Oakhaven operations while Victor is deployed in Aethelgard.
-## Recent Developments (Chapter 80)
-
-- **Promotion**: Formally promoted to **Regional Executive Manager** of Dungeon Insolvia.
-- **Succession**: Inherited the 400-page SOP manual and full operational authority over Oakhaven subsidiaries.
-- **Status**: GOVERNING. In charge of the dungeon while Victor is in the Capital.
-
-| **Current Status** | Regional Executive Manager |
-| **Level** | 52 (Executive Class) |
-| **Loyalty** | PATHOLOGICAL |
-| **Condition** | Wearing high-level spectacles and custom vest. |
-
+**Letzte Aktualisierung**: Kapitel 109 (Arc 2)  
+**Version**: 3.0  
+**Wichtigkeit**: HAUPT (Core Team)  
+**Kategorie**: Verbündeter (Employee #1)

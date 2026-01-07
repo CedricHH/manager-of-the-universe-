@@ -1,25 +1,28 @@
 # Maris Vex - Guild Councilor
 
-> **Role**: Councilor / Skeptic
-> **Class**: Trade Administrator
-> **Arc**: Introduced Arc 1, Chapter 40
+> **Rolle**: Guild Councilor / Skeptic  
+> **Klasse/Spezies**: Administrator  
+> **Archetyp**: Die Skeptikerin  
+> **Status**: Aktiv
 
 ---
 
-## Basic Information
+## Basis-Informationen
 
-| Attribute | Value |
-|-----------|-------|
+| Attribut | Wert |
+|----------|------|
 | **Name** | Maris Vex |
-| **Title** | Councilor, Oakhaven Merchant Guild |
-| **Species** | Human |
-| **Personality** | Sharp, skeptical, numbers-driven |
+| **Position** | Councilor, Oakhaven Merchant Guild |
+| **Erstauftritt** | Kapitel 40 |
 
-## Role & Personality
+---
 
-Thin, sharp-featured, and focused on logistics. She questioned Victor's ability to supply volume and pushed for a higher commission (15%) before settling for 12%.
+## Hintergrund
 
-## Recent Developments (Chapter 40)
+Sharp, numbers-driven. Questioned Victor's margins. Voted for partnership after seeing cost breakdown.
 
-- **Negotiation**: Challenged Victor on supply chain sustainability and profit margins.
-- **Agreement**: Voted in favor of the partnership after seeing the sustainable cost breakdown (2 GP cost vs 5 GP retail).
+---
+
+**Version**: 1.0  
+**Wichtigkeit**: EPISODISCH  
+**Kategorie**: Neutral

@@ -1,101 +1,200 @@
-# Senior Partner Hestia - The Radiant Liquidator
+# Hestia - Senior Partner & Mentorin
 
-> **Role**: Rival Senior Partner (Act 2)
-> **Class**: Imperial Auditor (Level ???)
-> **Archetype**: The Velvet Hammer / Predatory Competitor
-
----
-
-## Basic Information
-
-| Attribute | Value |
-|-----------|-------|
-| **Name** | Hestia |
-| **Title** | Senior Partner, Bureau of Imperial Audit |
-| **Specialization** | Naval Shipyards / Public Services |
-| **First Appearance** | Chapter 82 |
+> **Rolle**: Consortium-Liaison, Mentor für Victor  
+> **Klasse/Spezies**: Imperial Auditor (Level unbekannt, vermutlich 25+)  
+> **Archetyp**: The Velvet Hammer / Predatory Competitor → Insider Ally  
+> **Status**: Aktiv (Consortium Senior Partner)
 
 ---
 
-## Psychology
+## Basis-Informationen
 
-- **The Velvet Hammer**: Unlike Vane’s cold grey, Hestia is warm, smiling, and "helpful"—until she finds an opening to liquidate your assets and absorb your territory.
-- **territorial**: She sees Victor as an intruder in the Bureau’s ecosystem and is determined to "neutralize" him before he can disrupt the Senior Partner balance.
-- **High Liquidation Rate**: She has the highest record in the Bureau for turning failing assets into immediate Imperial cash, often at the cost of the local population.
-
----
-
-## Appearance
-
-- **Attire**: Iridescent white silk suits. 
-- **Scent**: Expensive jasmine and ozone.
-- **Key Feature**: Startling metallic silver eyes that seem to "scan" people for vulnerabilities.
-
----
-
-## Relations
-
-- **Victor Kaine**: Sees him as an "acquisition" to be either absorbed or eliminated. Offered him a 10% finders fee to drop Project Valoria.
-- **Thaddeus Vane**: Polite but cold rivalry. They disagree on "recruitment" methods.
+| Attribut | Wert |
+|----------|------|
+| **Vollständiger Name** | Hestia |
+| **Titel/Spitzname** | Senior Partner, Bureau of Imperial Audit / "The Radiant Liquidator" |
+| **Klasse/Spezies** | Imperial Auditor |
+| **Level** | Unbekannt (geschätzt 25+) |
+| **Alter** | Unbekannt |
+| **Position** | Senior Partner, Galaktisches Audit-Konsortium |
+| **Erstauftritt** | Kapitel 82 |
+| **Aktueller Status** | Mentor/Ally für Victor |
+| **Standort** | Aethelgard (Capital), mobile Deployment |
 
 ---
 
-## Recent Developments (Chapter 82)
+## Hintergrund
 
-- **The Office Visit (Ch 82)**: Interrupted Victor’s first day. Warned him about Valoria and offered a buyout. Victor declined.
-- **The Ambush (Ch 83)**: Following Victor's short-sell of the Onyx Syndicate, she issued a gilded "Welcome Social" invitation. She has brought Governor Malphas to the Capital, setting the stage for a public confrontation.
-- **The Social Host (Ch 84)**: Hosted the "Spire Gardens" social. Watched with fascinated interest as Victor dismantled the High Council’s confidence.
-- **The Delivery (Ch 85)**: Handed Victor the "Black Envelope" (Recruitment Offer) moments before the mine exploded.
-- **The Candidate (Ch 86)**: Confirmed that Victor survived the liquidation and accepted the offer. She is now technically his "peer" in the Consortium hierarchy, though wildly senior in rank. **Status**: Monitoring his 30-day "Million Gold" trial.
-- **The Mentor (Ch 89)**: Sent advisory message via Galactic Exchange after Victor's first arbitrage transaction. Warned: "Every transaction leaves a mana trace"—advised diversification, shell entities, and timed releases to avoid Church retaliation. Tone: Professorial, not threatening. **Implication**: Teaching Victor loopholes while monitoring for "destabilizing trades."
+### Specialization: Naval Shipyards & Public Services
 
----
+Hestia ist eine Senior Partner im Bureau of Imperial Audit mit der höchsten Liquidationsrate im gesamten Bureau—sie verwandelt scheiternde Assets in sofortiges Imperial-Cash, oft auf Kosten der lokalen Bevölkerung.
 
-## Arc 1: Consortium Goal (Chapters 90-100)
+### Rekrutierungs-Philosophie
 
-**Role Evolution**: From **Predatory Rival** → **Insider Ally/Mentor**
-
-### Key Contributions:
-
-**Chapter 93 - Shell Company Intelligence**: Warned Victor of accelerated G.A.C. audit timeline after Tier 1 unlock. Advised immediate compliance preparation.
-
-**Chapter 94 - Inquisitor Intel**: Provided advance warning of Inquisitor-General Matthias deployment. Strategic tip: "Church sees you as threat to miracle monopoly."
-
-**Chapter 97-98 - Audit Support**: 
-- Briefed Victor on Executor Veyra's background (former Inquisitor, 83% termination rate)
-- Provided precedent case access (Victor analyzed 47 cases)
-- Explained probation vs. termination distinction
-- Advised voluntary surveillance strategy
-
-**Chapter 99 - Customs Warning**: Alerted Victor to Imperial Customs inquiry ("anomalous trade volume"). Warned of arrest warrant risk.
-
-**Chapter 100 - Final Update**: Delivered Consortium contract fulfillment notification. Conveyed Oversight Committee 4-1 approval vote and probation lift.
+Im Gegensatz zu Thaddeus Vanes kalter grauer Annäherung ist Hestia warm, lächelnd und "hilfreich"—bis sie eine Öffnung findet, um deine Assets zu liquidieren und dein Territorium zu absorbieren.
 
 ---
 
-## Relationship with Victor (Updated)
+## Psychologie & Persönlichkeit
 
-**Status**: **Mentor/Ally** (with professional distance)
+### Kern-Eigenschaften
 
-**Why the shift?**
+- **The Velvet Hammer**: Freundlich im Ton, tödlich in Execution
+- **Territorial**: Sah Victor ursprünglich als Eindringling im Bureau-Ecosystem; wollte ihn "neutralisieren"
+- **Hohe Liquidationsrate**: Rekord-Holder für Asset-Konversion zu Imperial Cash
+- **Respekt für Kompetenz**: Victors 23-Tage-Erfolg änderte ihre Meinung—er validierte ihre Rekrutierungs-Entscheidung
+
+### Motivation
+
+**Anfangs (Ch 82-85)**: Territory protection, Victor absorbieren oder eliminieren  
+**Aktuell (Ch 86+)**: Victors Erfolg = Ihre erfolgreiche Rekrutierung = Ihr Reputation-Boost im Konsortium
+
+### Verhaltensweise
+
+- Schmierig ("hilfsbereit") bis zur Strike
+- Professionell distanziert
+- Gibt Insider-Tips in Graubereichen
+- Operiert in **Loopholes**, nicht Rules
+
+---
+
+## Beziehungen
+
+| Character | Beziehung | Status |
+|-----------|-----------|--------|
+| **Victor Kaine** | Rekrutiert → Mentor | Von Rival zu Ally; stolz auf seinen Rekord |
+| **Thaddeus Vane** | Kollege (Senior Partner) | Höfliche aber kalte Rivalität; Recruitmentmethoden-Disagreement |
+| **Executor Veyra** | Konsortiums-Hierarchie | Hestia = Niedrigere Ebene; Veyra = Enforcer-Klasse |
+
+---
+
+## Erscheinung
+
+- **Kleidung**: Iridescent white silk suits
+- **Duft**: Teures Jasmin und Ozone
+- **Besonderes Merkmal**: Startling metallische Silber-Augen, die Personen nach Vulnerabilitäten "scannen"
+
+---
+
+## Strategische Einschätzung
+
+### Stärken
+
+1. **Konsortium-Insider-Wissen**: Kennt alle Loopholes und Grey Areas
+2. **High-Level Connections**: Senior Partner Status
+3. **Liquidations-Expertise**: Kann Assets schnell monetarisieren
+4. **Informationsnetzwerk**: Warnte Victor vor G.A.C. Audits, Customs, Inquisitor-Deployments
+
+### Schwächen
+
+1. **Territoriale Jealousy**: Könnte in Konflikt geraten, falls Victor ihr Portfolio bedroht
+2. **Konsortiumsloyalität**: Wird Konsortium-Interessen über Victor stellen
+3. **Begrenzte Enforcement-Authority**: Kann nicht terminieren (im Gegensatz zu Veyra)
+
+### Bedrohungslevel
+
+**NIEDRIG** (aktuell aligned) - Aber könnte zu MEDIUM werden, falls Victors Expansion ihr Territory bedroht
+
+---
+
+## Rolle im Team
+
+- **Funktion**: Konsortium-Insider, Informant, Mentor
+- **Kompetenzen**: Loophole-Navigation, Policy-Intelligence, Political Strategy
+- **Verantwortung**: Keine direkte; bietet Advisory auf freiwilliger Basis
+
+---
+
+## Kapitel-Geschichte
+
+### Arc 1: Von Predator zu Mentor (Kapitel 82-100)
+
+**Kapitel 82 - The Office Visit**
+- Unterbrach Victors ersten Tag in Aethelgard
+- Warnte vor Project Valoria
+- **Angebot**: 10% Finder's Fee um Valoria fallenzulassen
+- Victor declined
+
+**Kapitel 83 - The Ambush**
+- Issued gilt "Welcome Social"-Einladung
+- Brachte Governor Malphas zur Hauptstadt (Public Confrontation Setup)
+
+**Kapitel 84 - The Social Host**
+- Hostete "Spire Gardens"-Social
+- Beobachtete fasziniert, wie Victor High Council demontierte
+
+**Kapitel 85 - The Delivery**
+- Übergab Victor das "Black Envelope" (Recruitment Offer) Momente vor Minen-Explosion
+- **Status Shift**: Von Rival zu potenziellem Ally
+
+**Kapitel 86 - The Candidate**
+- Bestätigte, dass Victor Liquidation überlebte und Offer akzeptierte
+- Jetzt technisch Victors "Peer" im Konsortium (wildly senior in rank)
+- Monitored sein 30-Tage-"Million Gold"-Trial
+
+**Kapitel 89 - The Mentor**
+- Sandte Advisory Message via Galactic Exchange nach Victors erster Arbitrage-Transaktion
+- **Warnung**: "Every transaction leaves a mana trace"
+- Advised: Diversifikation, Shell Entities, timed releases (Church-Retaliation vermeiden)
+- **Ton**: Professorial, nicht bedrohlich
+
+**Kapitel 93 - Shell Company Intelligence**
+- Warnte Victor vor beschleunigtem G.A.C. Audit-Timeline nach Tier 1 Unlock
+- Advised immediate Compliance-Preparation
+
+**Kapitel 94 - Inquisitor Intel**
+- Provided advance warning: Inquisitor-General Matthias Deployment
+- **Strategic Tip**: "Church sees you as threat to miracle monopoly"
+
+**Kapitel 97-98 - Audit Support**
+- Briefed Victor on Executor Veyra Background (former Inquisitor, 83% termination rate)
+- Provided Precedent Case Access (Victor analyzed 47 cases)
+- Explained Probation vs. Termination Distinction
+- Advised Voluntary Surveillance Strategy
+
+**Kapitel 99 - Customs Warning**
+- Alerted Victor: Imperial Customs Inquiry ("anomalous trade volume")
+- Warnte vor Arrest Warrant Risk
+
+**Kapitel 100 - Final Update (Arc 1 Finale)**
+- Delivered Consortium Contract Fulfillment Notification
+- Conveyed Oversight Committee 4-1 Approval Vote
+- Probation Lift bestätigt
+- **Key Quote**: "Congratulations. You're the fastest Restructurer to complete 1M GP goal in Consortium history. Previous record: 67 days. Your time: 23 days."
+
+---
+
+## Aktueller Status (Stand: Kapitel 109)
+
+| Attribut | Wert |
+|----------|------|
+| **Standort** | Aethelgard (vermutlich) |
+| **Beziehung zu Victor** | Mentor/Ally (professional distance) |
+| **Bedrohungslevel** | NIEDRIG (aligned interests) |
+| **Nächster Critical Path** | Monitoring Victor's Arc 2 Expansion |
+| **Rolle** | Konsortium-Insider, Advisory Support |
+
+---
+
+## Relationship Evolution
+
+**Why the Shift?** (Von Predator → Mentor)
+
 1. Victor accepted Consortium offer (now peers, not rivals)
 2. Victor's success reflects well on Hestia's recruitment judgment
-3. Hestia genuinely respects competence - Victor's 23-day record validates her assessment
+3. Hestia genuinely respects competence—Victor's 23-day record validates her assessment
 
-**Key Quote (Ch 100)**:
-> "Congratulations. You're the fastest Restructurer to complete 1M GP goal in Consortium history. Previous record: 67 days. Your time: 23 days."
-
-**Tone Change**: From *"I'll absorb your territory"* → *"You're proving I was right to recruit you"*
+**Tone Change**: Von *"I'll absorb your territory"* → *"You're proving I was right to recruit you"*
 
 ---
 
 ## Contrast: Hestia vs. Executor Veyra
 
-| Aspect | Hestia | Veyra |
+| Aspekt | Hestia | Veyra |
 |--------|--------|-------|
 | **Authority** | Low-level auditor | Executor-class enforcer |
 | **Approach** | Insider tips, gray-area guidance | Rigid policy enforcement |
-| **Motivation** | Wants Victor to succeed (validates her recruitment) | Wants Victor to comply (or terminate) |
+| **Motivation** | Wants Victor to succeed (validates recruitment) | Wants Victor to comply (or terminate) |
 | **Relationship** | Mentor/ally | Professional monitor |
 
 Hestia operates in **loopholes**. Veyra enforces **rules**. Victor needs both.
@@ -105,13 +204,31 @@ Hestia operates in **loopholes**. Veyra enforces **rules**. Victor needs both.
 ## Arc 2 Implications
 
 **Potential Roles**:
-- Continued mentorship (Consortium insider knowledge)
-- Conflict of interest (if Victor's expansion threatens Hestia's portfolio)
-- Political ally (if Victor's success elevates Hestia's Consortium standing)
+- Continued mentorship (Konsortium-Insider-Knowledge)
+- Conflict of Interest (falls Victors Expansion Hestias Portfolio bedroht)
+- Political Ally (falls Victors Erfolg Hestias Konsortium-Stellung eleviert)
 
-**Unresolved Question**: Does Hestia's support have limits? What happens if Victor's growth competes with her assets?
+**Unresolved Question**: Hat Hestias Support Limits? Was passiert, falls Victors Growth mit ihren Assets konkurriert?
 
 ---
 
-**Last Updated**: Arc 1 Complete (Chapter 100)
-**Current Status**: Consortium ally; monitoring Victor's Arc 2 expansion
+## Zitate
+
+### Kapitel 82:
+> "Victor Kaine. Welcome to Aethelgard. I'm here to offer you... an opportunity."
+
+### Kapitel 85:
+> "Congratulations on surviving. Here's your recruitment offer." *(hands Black Envelope)*
+
+### Kapitel 89:
+> "Every transaction leaves a mana trace. Diversify. Use shell entities. Time your releases. The Church has long memories."
+
+### Kapitel 100:
+> "Congratulations. You're the fastest Restructurer to complete 1M GP goal in Consortium history. Previous record: 67 days. Your time: 23 days."
+
+---
+
+**Letzte Aktualisierung**: Kapitel 109 (Arc 2)  
+**Version**: 3.0  
+**Wichtigkeit**: HAUPT (Konsortium-Subplot)  
+**Kategorie**: Verbündeter (Mentor, Konsortium-Insider)
