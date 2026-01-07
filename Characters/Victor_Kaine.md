@@ -290,6 +290,20 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Deployment**: Dimensional gate to Solvaris - 4-minute transit, landing zone: Solvara ruins (neutral territory)
 - **STATUS**: Team functional, insertion imminent, war zone entry confirmed
 
+**Kapitel 112 - Arrival** [WRITTEN ✅]
+- **Terra-Solvaris Landing**: Dimensional transit complete (4 minutes). Arrived Solvara ruins (former capital, war zone)
+- **Immediate Environment**: Artillery fire 3mi, civilian bodies uncollected, 98.5% economic collapse (840k GP→12k GP), 800k dead/displaced
+- **Civilian Cost Realized**: Victor sees Expected Value failure in human terms - bodies, destroyed infrastructure, refugee camps burned
+- **Warlord Patrol Contact**: Captain Torin Vex (Lv12) intercepts team. Victor negotiates safe passage vs combat. First successful "bullet negotiation."
+- **Journey Through Ruins**: Environmental storytelling - hospital bombed, school fortified, 3 faction checkpoints visible (stalemate), Warlords besieged
+- **Ironhold Bunker Complex**: Dravik's fortress (180 soldiers, 40 mages, 47-day supply stockpile). Central Bank visible beyond walls.
+- **General Kael Dravik Introduction** (Lv21 Tactician/Commander): Former Royal Guard (22 years), executed 3 previous Consortium teams
+- **Dravik's Position**: "I'm only faction keeping Consortium investment safe. Everyone else would lose it within 6 months."
+- **Victor's Coalition Proposal**: Leverage 16.7M GP - hire mercenaries, buy trade routes, fund allies. "Build coalition, not fortress."
+- **Revolutionary Offensive**: Tribune Cassian Vex attacks (812 infantry, 42 mages) during negotiation. Deliberate timing (prevent Consortium-Dravik alliance).
+- **Forced Commitment**: Victor agrees to help defend fortress. No retreat options. "Fight or die."
+- **STATUS**: Combat imminent, Revolutionary siege active, 4-month clock: 119 days 23h remaining
+
 ---
 
 ## Aktueller Status (Stand: Kapitel 110)
