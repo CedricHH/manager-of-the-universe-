@@ -6,7 +6,7 @@ Dimensional transit felt like reality ending—no up, no down, only mana current
 
 Resh stood unaffected, third Tier 4 transit, amber eyes tracking energy flows most humans couldn't perceive.
 
-Mira analyzed even mid-journey, fingers moving through data projections only she could see in the chaos.
+Sera analyzed even mid-journey, fingers moving through data projections only she could see in the chaos.
 
 Then: solidification.
 
@@ -24,7 +24,7 @@ ARMI alert flashed: **Mana density 340% baseline. Environmental hazard: Magic vo
 
 Resh deployed barrier immediately—Tier 5 rated, shimmering translucent dome, thirty-meter radius coverage. "Landing zone secured. Scanning for immediate threats."
 
-Mira activated scrying focus—long-range magical sensors sweeping surroundings. "Fifty-plus civilians in ruins, scavenging. They've seen us. Scattering." Pause. "Warlord patrol, four hundred meters east. Twelve soldiers. Professional formation. Approaching."
+Sera activated scrying focus—long-range magical sensors sweeping surroundings. "Fifty-plus civilians in ruins, scavenging. They've seen us. Scattering." Pause. "Warlord patrol, four hundred meters east. Twelve soldiers. Professional formation. Approaching."
 
 Victor activated ARMI economic scan. Data overlay appeared—trade routes (broken), supply lines (contested), resource distribution (catastrophic). Pre-war Solvara: 1.2 million population, 840,000 GP annual GDP. Current readings: ~400,000 population remaining, GDP: 12,000 GP.
 
@@ -80,7 +80,7 @@ Silence. Artillery barrage intensified—different direction. Revolutionary offe
 
 Torin's decision showed in his posture. "I'll escort you to Forward Operating Base. General Dravik decides your fate. Resist, and we kill you. Comply, and maybe you live."
 
-Mira whispered: "Thirty percent trap probability. Seventy percent Dravik wants intelligence before deciding. Survivable odds."
+Sera whispered: "Thirty percent trap probability. Seventy percent Dravik wants intelligence before deciding. Survivable odds."
 
 Resh: "I can fight our way out. Your call."
 
@@ -102,7 +102,7 @@ ARMI economic scan confirmed previous readings. Pre-war prosperity visible in ar
 
 Victor internalized it. *This is what failure looks like. If I fail, two-point-four billion see this. Expected value calculation: two hundred fifty-two million lives saved. Now I understand what that means.*
 
-Mira gathered intelligence continuously—photographing checkpoint positions, noting patrol patterns, mapping supply routes. Whispered: "Warlords control Central Bank and two-hundred-meter security perimeter. Beyond that: contested. They can't project power. Not occupying—besieged."
+Sera gathered intelligence continuously—photographing checkpoint positions, noting patrol patterns, mapping supply routes. Whispered: "Warlords control Central Bank and two-hundred-meter security perimeter. Beyond that: contested. They can't project power. Not occupying—besieged."
 
 Resh's tactical assessment: "Three checkpoints surrounding this sector. Warlords trapped. Hiding behind vault walls with stolen gold, waiting."
 
@@ -126,7 +126,7 @@ Torin to gate guards: "Consortium agents. General's interrogation. Category Oran
 
 Gates opened.
 
-Victor, Resh, Mira entered Dravik's stronghold.
+Victor, Resh, Sera entered Dravik's stronghold.
 
 ---
 
@@ -178,7 +178,7 @@ To Victor: "Your team combat capable?"
 
 "Then fight or die. Revolutionaries breach fortress, they execute everyone inside. **Including** Consortium arbitrators."
 
-Mira's scrying activated: "Confirmed. Eight hundred twelve Revolutionary infantry. Forty-two combat mages. Tribune Cassian Vex leading personally. This isn't probe—full offensive."
+Sera's scrying activated: "Confirmed. Eight hundred twelve Revolutionary infantry. Forty-two combat mages. Tribune Cassian Vex leading personally. This isn't probe—full offensive."
 
 Victor analyzed Revolutionary timing. Deliberate. Consortium arrival spooked them—worried about Bank alliance forming. Attacking **now** prevented negotiation.
 
@@ -197,7 +197,7 @@ Artillery barrage hit outer walls. Shields absorbed impact. Ground shook. Dust f
 
 Resh drew twin blades. "Defensive perimeter, Level 21 tactical commander, eight hundred hostiles incoming. Better than Oakhaven already."
 
-Mira: "Coordinating intelligence—Revolutionary mage positions, formation weak points."
+Sera: "Coordinating intelligence—Revolutionary mage positions, formation weak points."
 
 Victor: "Resource allocation. Make this siege unprofitable for Cassian Vex."
 
@@ -211,3 +211,4 @@ Artillery roared. The siege began.
 > **[REVOLUTIONARY OFFENSIVE: ACTIVE]**  
 > **[FORTRESS DEFENSE: COMMITTED]**  
 > **[4-MONTH COUNTDOWN: 119 DAYS, 23 HOURS REMAINING]**
+

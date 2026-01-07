@@ -1,4 +1,4 @@
-# Mira Ashveil - Intelligence Officer
+# Sera Ashveil - Intelligence Officer
 
 > **Rolle**: Team Member (BROKEN CROWN Mission)
 > **Klasse/Spezies**: Intelligence Officer (Half-Elf) - Level 16
@@ -11,7 +11,7 @@
 
 | Attribut | Wert |
 |----------|------|
-| **Vollständiger Name** | Mira Ashveil |
+| **Vollständiger Name** | Sera Ashveil |
 | **Titel/Spitzname** | N/A |
 | **Klasse/Spezies** | Intelligence Officer (Half-Elf) |
 | **Level** | 16 |
@@ -138,7 +138,3 @@ Mission success through information superiority.
 **Version**: 1.0
 **Wichtigkeit**: SEKUNDÄR (Team Member)
 **Kategorie**: Verbündete
-
----
-
-> **Note**: Not to be confused with Mira (Oakhaven Security Specialist, Level 12, different character).

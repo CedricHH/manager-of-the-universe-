@@ -16,7 +16,7 @@ Here, ammunition was *ammunition*—and it was currently reducing Ironhold's def
 
 Resh moved before Victor finished processing. The draconic combat specialist vaulted over the command balcony railing—three-story drop, landed in a combat roll, kept moving. Twin blades appeared in his hands.
 
-"Resh!" Mira shouted. "Northern breach, Sector 7!"
+"Resh!" Sera shouted. "Northern breach, Sector 7!"
 
 "Saw it." Resh's voice came through ARMI link, calm as quarterly projection. "Engaging."
 
@@ -62,7 +62,7 @@ Dravik stared at the display. Then at Victor. "You've done this before."
 
 Another assault wave forming. More sophisticated this time—heavy shields at front, mages in support positions. Learning.
 
-"They're adapting," Mira reported through tactical link. "Tribune Vex is coordinating personally. Level 17 Battle Mage. His barrier technique counters our concentrated fire."
+"They're adapting," Sera reported through tactical link. "Tribune Vex is coordinating personally. Level 17 Battle Mage. His barrier technique counters our concentrated fire."
 
 Victor processed. Counter-strategy required.
 
@@ -102,7 +102,7 @@ Victor almost smiled. Even ARMI treated warfare as financial analysis.
 
 ---
 
-Tribune Cassian Vex appeared in the holographic display—real-time scrying feed from Mira's surveillance network.
+Tribune Cassian Vex appeared in the holographic display—real-time scrying feed from Sera's surveillance network.
 
 Level 17. Battle Mage classification. Forty-three years old, former Revolutionary Army general staff, defected during the coup eighteen months ago. Personal kill count: classified. Reputation: *"The Peoples' Hammer."*
 
@@ -112,9 +112,9 @@ He stood behind the assault lines directing traffic. Barrier shimmering around h
 
 Dravik nodded slowly. "We've tried. His barrier has deflected every assassination attempt. Level 17 Battle Mage protection isn't theoretical—it's *absolute*."
 
-"Nothing is absolute." Victor turned to Mira's feed. "What's the vulnerability?"
+"Nothing is absolute." Victor turned to Sera's feed. "What's the vulnerability?"
 
-Mira's voice came through link: "Barrier requires concentration. Continuous, focused attention. It fails if he loses focus for more than 3 seconds."
+Sera's voice came through link: "Barrier requires concentration. Continuous, focused attention. It fails if he loses focus for more than 3 seconds."
 
 "How do we break focus?"
 
@@ -226,3 +226,4 @@ Dravik exhaled slowly. "They're mobilizing everything. Full Revolutionary Army i
 > **[IRONHOLD: DAMAGED BUT OPERATIONAL]**
 > **[REVOLUTIONARY ULTIMATUM: 72 HOURS]**
 > **[MISSION CLOCK: 118 DAYS, 19 HOURS REMAINING]**
+

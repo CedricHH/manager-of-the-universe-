@@ -67,7 +67,7 @@ The irony wasn't lost.
 
 She placed the data crystal on his desk.
 
-"Team dossiers. Combat Specialist Resh Valthor—Draconic Blademaster, Level 18, survived three Tier 4 missions. Intelligence Officer Mira Ashveil—Half-elf Strategic Analyst, Level 16, political network mapping specialist." Kira met his eyes. "They're competent. But they need strategic leadership. You."
+"Team dossiers. Combat Specialist Resh Valthor—Draconic Blademaster, Level 18, survived three Tier 4 missions. Intelligence Officer Sera Ashveil—Half-elf Strategic Analyst, Level 16, political network mapping specialist." Kira met his eyes. "They're competent. But they need strategic leadership. You."
 
 Victor examined the crystal. Two professionals. Experienced. Proven survivors.
 
@@ -359,3 +359,4 @@ Victor Kaine closed the window shutters.
 Local war complete. Cosmic war next.
 
 Time to prove a Restructurer could restructure the Restructurers.
+

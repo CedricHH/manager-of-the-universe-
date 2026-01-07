@@ -279,7 +279,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Cosmic Scale Revealed**: 47 active missions, 432 Restructurers, 12 star systems - Victor sees Consortium's true infrastructure
 - **Team Dynamics Established**:
   - **Resh Valthor** (Combat Specialist, Lv18, Draconic): "Don't die stupid." Survived 3 Tier 4 missions. Combat/security role.
-  - **Mira Ashveil** (Intelligence Officer, Lv16, Half-elf): Analyst, reviewed Victor's Oakhaven operations (87 pressure points identified). Intelligence/mapping role.
+  - **Sera Ashveil** (Intelligence Officer, Lv16, Half-elf): Analyst, reviewed Victor's Oakhaven operations (87 pressure points identified). Intelligence/mapping role.
   - **Victor**: Strategy/execution. Resh: "Fighters get Restructurers killed." Complementary skillsets confirmed.
 - **Terra-Solvaris Intel**: 5-faction breakdown received (Legitimists 15%, Revolutionaries 25%, Theocrats 20%, Merchants 30%, Warlords 10%+Bank)
 - **Central Bank**: 16.7M GP held by General Kael Dravik (Warlord), contested no-man's-land (former capital Solvara)
@@ -360,3 +360,4 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 **Version**: 3.0  
 **Wichtigkeit**: HAUPT (Protagonist)  
 **Kategorie**: Protagonist
+

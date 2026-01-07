@@ -52,7 +52,7 @@ War room. Central hologram displayed Terra-Solvaris—entire planet rotating slo
 
 He assessed Victor in two seconds. "You're the twenty-three-day record holder. Impressive." Pause. "Don't die stupid."
 
-**Mira Ashveil** sat at intelligence workstation reviewing data streams. Half-elf, 5'7", silver hair tied back, eyes tracking three holographic displays simultaneously. Intelligence Officer. Level 16.
+**Sera Ashveil** sat at intelligence workstation reviewing data streams. Half-elf, 5'7", silver hair tied back, eyes tracking three holographic displays simultaneously. Intelligence Officer. Level 16.
 
 She spoke without looking up. "I've reviewed your Oakhaven operations. Eighty-seven distinct pressure points exploited across three institutions in sixteen weeks. Guild Master Lysander—thirty-eight-year veteran—capitulated via economic siege, zero casualties. Efficiency profile matches Tier 4 predictive models." She glanced at Victor. "You don't fight. Good. Fighters get Restructurers killed."
 
@@ -61,7 +61,7 @@ Resh grunted agreement. "Fighters try solving political problems with swords. Fa
 Victor absorbed the dynamic forming.
 
 Resh: Combat/security. Kept them breathing.  
-Mira: Intelligence/analysis. Mapped the battlefield.  
+Sera: Intelligence/analysis. Mapped the battlefield.  
 Victor: Strategy/execution. Exploited the maps.  
 Kira: Oversight. Ensured Consortium compliance.
 
@@ -109,7 +109,7 @@ Victor stared at the pulsing red marker. Central Bank. Formerly Solvara, old cap
 
 "Functional government capable of repaying debt," Kira replied. "We don't care which faction wins. Monarchy, democracy, theocracy, oligarchy—irrelevant. Stability plus capital recovery equals success."
 
-Mira spoke up. "Optimal strategy: Back Merchant Coalition. They're transactional, economically motivated, already control majority infrastructure. Install them, recover capital, stabilize via economic dependency. Standard Consortium playbook."
+Sera spoke up. "Optimal strategy: Back Merchant Coalition. They're transactional, economically motivated, already control majority infrastructure. Install them, recover capital, stabilize via economic dependency. Standard Consortium playbook."
 
 Resh shook his head. "Merchants have no military. Dravik won't negotiate—he's a soldier, not a businessman. Theocrats won't accept secular rule. Revolutionaries will execute merchants as class enemies. 'Optimal' assumes rationality. War doesn't work that way."
 
@@ -145,9 +145,9 @@ Victor received: Formal attire (political meetings, Consortium insignia subtle),
 
 Resh: Tier 4 combat loadout already worn. Enchanted blades (anti-magic properties), barrier generator (rated Tier 5 assault), tactical armor (self-repair).
 
-Mira: Intelligence kit appeared—scrying focus (long-range surveillance), encryption suite (quantum-grade), forty-seven false identity credentials.
+Sera: Intelligence kit appeared—scrying focus (long-range surveillance), encryption suite (quantum-grade), forty-seven false identity credentials.
 
-"Insertion plan," Kira displayed dimensional coordinates. "Landing zone: Solvara ruins, near Central Bank, neutral territory. Cover story: Independent arbitrators. Consortium backing undisclosed initially. First contact: Merchant Coalition—Mira's assessment suggests highest negotiation probability."
+"Insertion plan," Kira displayed dimensional coordinates. "Landing zone: Solvara ruins, near Central Bank, neutral territory. Cover story: Independent arbitrators. Consortium backing undisclosed initially. First contact: Merchant Coalition—Sera's assessment suggests highest negotiation probability."
 
 "Timeline?" Victor asked.
 
@@ -181,9 +181,9 @@ Kira observed. "You built infrastructure that doesn't need you. Rare for Restruc
 
 Dimensional gate activated—reality tearing open, Terra-Solvaris coordinates locked. Four-minute transit time.
 
-Mira handed Victor a dossier. "Merchant Coalition Executive Council profiles. Seven members. Memorize during transit. We meet them first."
+Sera handed Victor a dossier. "Merchant Coalition Executive Council profiles. Seven members. Memorize during transit. We meet them first."
 
-Resh positioned near gate entrance. "I secure landing zone. Mira second. You last. War zone protocol: Stay close, follow orders, don't be heroic."
+Resh positioned near gate entrance. "I secure landing zone. Sera second. You last. War zone protocol: Stay close, follow orders, don't be heroic."
 
 Kira's final instruction: "Four months. Thirteen-point-three-six million gold minimum. Two-point-four billion lives. Don't waste them."
 
@@ -209,3 +209,4 @@ War waiting.
 > **[TERRA-SOLVARIS - ARRIVAL IMMINENT]**  
 > **[SURVIVAL PROBABILITY: 43%]**  
 > **[FOUR-MONTH COUNTDOWN: INITIATED]**
+
