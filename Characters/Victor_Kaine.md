@@ -304,22 +304,36 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Forced Commitment**: Victor agrees to help defend fortress. No retreat options. "Fight or die."
 - **STATUS**: Combat imminent, Revolutionary siege active, 4-month clock: 119 days 23h remaining
 
+**Kapitel 113 - The Siege Protocol** [WRITTEN ✅]
+- **First Combat Experience**: Victor proves value through tactical resource management, not fighting
+- **Mage Rotation Optimization**: Changed 60-40 to 70-30 rotation → 40% output increase, 15% casualty reduction
+- **Resh Combat Showcase**: Tier 4 capability demonstrated (12-second captain defeat, anti-magic aura breach assault)
+- **Synchronized Assault**: Coordinated artillery + Resh infiltration + cavalry charge to break Tribune Vex's barrier
+- **Tribune Cassian Vex**: Wounded (not killed), forced retreat. Revolutionary offensive collapsed.
+- **Battle Result**: Ironhold DEFENDED. Revolutionary: 412 casualties. Warlord: 47 dead, 123 wounded.
+- **Dravik Loyalty Shift**: +23 points. "Soldier's respect" earned. Negotiation leverage increased.
+- **External Interests Revealed**: Dravik hints at off-world powers interested in Bank control
+- **Revolutionary Ultimatum**: 72 hours to surrender Bank—or face full Revolutionary Army (30,000 troops)
+- **STATUS**: Day 2, Ironhold damaged but operational, coalition building phase beginning
+
 ---
 
-## Aktueller Status (Stand: Kapitel 110)
+## Aktueller Status (Stand: Kapitel 113)
 
 | Attribut | Wert |
 |----------|------|
-| **Standort** | Oakhaven (Core Chamber) |
-| **Mission Status** | BROKEN CROWN ACCEPTED (Tier 4 - Death Clause Active) |
-| **Bedrohungslevel** | KRITISCH (57% Casualty Rate, 96h Deployment) |
-| **Nächster Critical Path** | Pre-mission Briefing (Orbital Platform Sigma, 0900), Terra-Solvaris Deployment (96h) |
-| **Nettowert** | ~975.200 GP |
+| **Standort** | Ironhold Bunker, Terra-Solvaris (Solvara ruins) |
+| **Mission Status** | BROKEN CROWN ACTIVE - Day 2 (Tier 4 - Death Clause Active) |
+| **Mission Clock** | 118 Days, 19 Hours remaining |
+| **Bedrohungslevel** | KRITISCH (72-hour Revolutionary ultimatum, 30k troops threatened) |
+| **Nächster Critical Path** | Build coalition before ultimatum expires; contact Merchant Coalition |
+| **Nettowert** | ~975.200 GP (Oakhaven assets delegated) |
 | **Assets** | Dungeon Insolvia, Slime Farm, Apotheke, Gilded Caravan, 42-Soldier Force, 10 Shell Companies |
 | **Partnerships** | Church (15%), Merchant Guild (integrated via Lysander), Crown, Sterling, Nova |
 | **Exchange Status** | Tier 1 Verified Merchant (100k GP/week limit) |
 | **Death Mark** | Golden Glyph (Clause 47-Delta - mission failure = cardiac arrest) |
 | **Delegation** | Succession Protocol 2.0 active (Marcus/Sniv/Asterion/Lysander/Nova autonomous leadership) |
+| **Dravik Relationship** | +23 Loyalty (Soldier's Respect earned) |
 
 ---
 
