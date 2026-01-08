@@ -92,7 +92,7 @@
 - Revolutionary attack interrupted negotiation
 - Demanded Victor help defend or die
 
-**Kapitel 113 - The Siege Protocol** [LATEST]
+**Kapitel 113 - The Siege Protocol**
 - Accepted Victor's tactical recommendations (mage rotation optimization)
 - Watched Victor coordinate successful defense
 - Loyalty shift: +23 points ("soldier's respect earned")
@@ -100,18 +100,29 @@
 - Revealed external interests (off-world powers) want Bank control
 - Shifted from "interrogator" to potential "ally"
 
+**Kapitel 114 - The Proposal** [LATEST]
+- Opened Central Bank vault to Victor (personal security codes - demonstrates trust)
+- Revealed full Bank contents: 16.7M GP liquid + 847M GP intangible assets (land deeds, genealogies, trade treaties)
+- Explained Bank's true value: "custodian of civilization's backup system"
+- Accepted Victor's "custodian of a failing brand" assessment
+- Debated coalition proposal (25% equity to Merchant Coalition for military support)
+- Granted full diplomatic authority and communications network access to Victor
+- Quote: "Don't make me regret this" (pragmatic trust despite skepticism)
+- Ultimatum pressure increased: 72h → 48h (Sera's intercept)
+
 
 ---
 
-## Aktueller Status (Stand: Kapitel 113)
+## Aktueller Status (Stand: Kapitel 114)
 
 | Attribut | Wert |
 |----------|------|
 | **Standort** | Ironhold Bunker (damaged but operational) |
 | **Fortress Status** | 133 soldiers (47 dead), ~30 mages, supplies reduced |
-| **Threat** | 72-hour Revolutionary ultimatum (30k troops) |
-| **Victor Relationship** | +23 Loyalty (Soldier's Respect) |
-| **Next Action** | Consider coalition proposal; awaits Victor's communications plan |
+| **Threat** | 48-hour Revolutionary ultimatum (30k troops) - COMPRESSED |
+| **Victor Relationship** | HIGH TRUST (Vault access granted, diplomatic seal authorized) |
+| **Next Action** | Support coalition building; Victor has full communications authority |
+| **Strategic Position** | Bank value revealed: 863.7M GP (16.7M liquid + 847M intangible) |
 
 ---
 
@@ -125,9 +136,14 @@
 > "You managed it well. Perhaps your coalition proposal deserves consideration."
 > "The Bank isn't just gold. It's leverage."
 
+### Kapitel 114:
+> "You're not like the others. The previous teams would have evacuated by now."
+> "Full network access granted. My diplomatic seal is yours. Don't make me regret this."
+
+
 ---
 
-**Letzte Aktualisierung**: Kapitel 113 (Arc 2)
-**Version**: 1.0
-**Wichtigkeit**: SEKUNDÄR (Faction Leader / Potential Ally)
+**Letzte Aktualisierung**: Kapitel 114 (Arc 2)
+**Version**: 1.1
+**Wichtigkeit**: SEKUNDÄR (Faction Leader / Ally)
 **Kategorie**: Terra-Solvaris NPCs

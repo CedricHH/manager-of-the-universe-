@@ -316,24 +316,39 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Revolutionary Ultimatum**: 72 hours to surrender Bank—or face full Revolutionary Army (30,000 troops)
 - **STATUS**: Day 2, Ironhold damaged but operational, coalition building phase beginning
 
+**Kapitel 114 - The Proposal** [LATEST]
+- **Coalition Math Presentation**: Proposed 25% equity stake to Merchant Coalition for military support
+- **Central Bank Vault Access**: Dravik granted personal security clearance (demonstrates high trust)
+- **Asset Revaluation**: ARMI recalculated Bank value: 16.7M GP liquid + **847M GP intangible assets** (land deeds, genealogies, trade treaties)
+- **Strategic Insight**: "Bank is civilization's backup system" - legal framework enabling post-war reconstruction
+- **Multi-Faction Leverage Strategy**: Proposed selective document access to Princess Celestia (genealogies), Theocrats (land deeds), Merchants (contracts)
+- **Survival Probability Calculation**: Current 0.3% → With coalition 43%
+- **Confronted Tribune Vex**: Highlighted Revolutionary internal divisions; made conflict "personal"
+- **Diplomatic Authority Granted**: Dravik authorized full communications network access + diplomatic seal
+- **Ultimatum Compressed**: Sera intercepted transmission - 72h → **48h** (Revolutionary forces mobilizing early)
+- **New Mission Parameters**: 48 hours to build coalition preventing 30k-troop assault
+
 ---
 
-## Aktueller Status (Stand: Kapitel 113)
+## Aktueller Status (Stand: Kapitel 114)
 
 | Attribut | Wert |
 |----------|------|
 | **Standort** | Ironhold Bunker, Terra-Solvaris (Solvara ruins) |
 | **Mission Status** | BROKEN CROWN ACTIVE - Day 2 (Tier 4 - Death Clause Active) |
-| **Mission Clock** | 118 Days, 19 Hours remaining |
-| **Bedrohungslevel** | KRITISCH (72-hour Revolutionary ultimatum, 30k troops threatened) |
-| **Nächster Critical Path** | Build coalition before ultimatum expires; contact Merchant Coalition |
+| **Mission Clock** | 118 Days, 17 Hours remaining |
+| **Bedrohungslevel** | KRITISCH (48-hour Revolutionary ultimatum, 30k troops mobilizing) |
+| **Nächster Critical Path** | Coalition building - contact Merchant Coalition, Princess Celestia, Theocrats (48h deadline) |
+| **Strategic Asset** | Central Bank access: 863.7M GP total value (16.7M liquid + 847M intangible) |
+| **Diplomatic Authority** | FULL (Dravik's seal + communications network) |
 | **Nettowert** | ~975.200 GP (Oakhaven assets delegated) |
 | **Assets** | Dungeon Insolvia, Slime Farm, Apotheke, Gilded Caravan, 42-Soldier Force, 10 Shell Companies |
 | **Partnerships** | Church (15%), Merchant Guild (integrated via Lysander), Crown, Sterling, Nova |
 | **Exchange Status** | Tier 1 Verified Merchant (100k GP/week limit) |
 | **Death Mark** | Golden Glyph (Clause 47-Delta - mission failure = cardiac arrest) |
 | **Delegation** | Succession Protocol 2.0 active (Marcus/Sniv/Asterion/Lysander/Nova autonomous leadership) |
-| **Dravik Relationship** | +23 Loyalty (Soldier's Respect earned) |
+| **Dravik Relationship** | HIGH TRUST (Vault access + diplomatic seal granted) |
+
 
 ---
 
@@ -356,8 +371,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 
 ---
 
-**Letzte Aktualisierung**: Kapitel 109 (Arc 2)  
-**Version**: 3.0  
-**Wichtigkeit**: HAUPT (Protagonist)  
+**Letzte Aktualisierung**: Kapitel 114 (Arc 2)
+**Version**: 3.1
+**Wichtigkeit**: HAUPT (Protagonist)
 **Kategorie**: Protagonist
-

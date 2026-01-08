@@ -30,15 +30,63 @@ Extract from Plot_Outline.md:
 - Core action/event
 - Planned cliffhanger
 
-## Step 3: Load Character Context
+## Step 3: Plot Continuity Check (MANDATORY)
+
+> **CRITICAL**: Prevents repeating conquered guilds/factions or reusing antagonist names
+
+### 3.1: Guild/Faction Check
+
+Search Plot_Outline.md for any guild/faction mentioned in this chapter:
+
+// turbo
+
+```powershell
+rg "[GUILD_NAME]" "Story/Plot_Outline.md" --context 2
+```
+
+**If guild was "conquered", "acquired", "defeated" in previous arc → STOP**
+
+- Choose DIFFERENT guild/faction
+- Document reason in outline
+
+### 3.2: Character Name Check
+
+Search Characters/ for antagonist name conflicts:
+
+// turbo
+
+```powershell
+Get-ChildItem "Characters/" | Where-Object { $_.Name -match "[ANTAGONIST_NAME]" }
+```
+
+**If similar name exists → STOP**
+
+- Choose completely different name
+- No similar-sounding names (e.g., Groll/Kroll/Grall)
+
+### 3.3: Conflict Type Check
+
+Identify conflict type for this chapter/arc. Verify it differs from previous arcs:
+
+| Arc   | Conflict Type               | Example                            |
+| ----- | --------------------------- | ---------------------------------- |
+| Arc 1 | Economic warfare            | Bank, Alchemist Guild              |
+| Arc 1 | Regulatory capture          | Church                             |
+| Arc 2 | **Must be different** | (e.g., Trade licensing, Political) |
+
+**If conflict type is identical to previous arc → MODIFY**
+
+---
+
+## Step 4: Load Character Context
 
 Read relevant character profiles from `./Characters/`
 
-## Step 4: Load World Context
+## Step 5: Load World Context
 
 Read relevant World for the Arc from `./World/`
 
-## Step 5: Create Beat-Sheet
+## Step 6: Create Beat-Sheet
 
 Create outline based on word target from PROJECT.md:
 
@@ -46,6 +94,20 @@ Create outline based on word target from PROJECT.md:
 # Outline: Chapter XX - [Title]
 
 **Word Target**: [from PROJECT.md]
+
+## Continuity Verification
+- [x] Guild/faction NOT previously conquered
+- [x] Antagonist name is unique
+- [x] Conflict type differs from previous arcs
+
+## Characters
+
+| Character | Role | Start State | Expected Changes |
+|-----------|------|-------------|------------------|
+| [Name] | Protagonist/Ally/Antagonist | [Current status, mood, goals] | [Development in this chapter] |
+| [Name] | ... | ... | ... |
+
+> **Note**: After writing, use `/sync-from-chapter` to update Character profiles with actual changes.
 
 ## Hook
 [How chapter starts]
@@ -62,15 +124,24 @@ Create outline based on word target from PROJECT.md:
 - [ ] Protagonist demonstrates competence
 - [ ] Genre-specific elements present
 - [ ] Cliffhanger creates urgency
+- [ ] Character changes documented
 ```
 
-## Step 6: Save Outline
+## Step 7: Save Outline
 
 Save to: `Story/Chapter-Outline/Chapter_XX_[Name].md`
 
-## Step 7: User Review
+## Step 8: Sync with Plot_Outline.md
 
-Present outline for approval before `/write-chapter`
+Update `Story/Plot_Outline.md` with the new outline details:
+
+1. Locate the chapter entry in Plot_Outline.md
+2. Update/add the following fields:
+   - Title (if refined)
+   - Core action/event
+   - Key beats from outline
+   - Cliffhanger summary
+3. Mark chapter status as `[OUTLINED]`
 
 ---
 
@@ -82,4 +153,4 @@ Present outline for approval before `/write-chapter`
 
 ---
 
-**Version:** 3.0 (Generic)
+**Version:** 6.0 (Continuity Check + Plot_Outline Sync + Character Tracking)

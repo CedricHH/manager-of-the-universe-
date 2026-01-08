@@ -41,10 +41,15 @@ These apply to ANY Webnovel project:
 - Does the chapter end with a hook?
 - Would readers click "Next Chapter" immediately?
 
-### 5. Word Count
+### 5. Verify Word Count
 
-- Check against target in `PROJECT.md`
-- Webnovel standard: 1,500-2,000 words
+// turbo
+
+```powershell
+.\Tools\count-words.bat "Story/Chapters/Chapter_XX_[Name].md"
+```
+
+Compare against word target from PROJECT.md.
 
 ### 6. Competence Display
 

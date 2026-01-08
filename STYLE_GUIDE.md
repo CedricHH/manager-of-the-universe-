@@ -62,7 +62,7 @@ Depressed middle manager, formal.
 
 > "I have reviewed the contract. The severance package is... acceptable."
 
-### Lady Elara (Unwilling Tank)
+### Lady Lyra (Unwilling Tank)
 
 Bitter, sarcastic, trapped.
 
@@ -79,12 +79,13 @@ Bitter, sarcastic, trapped.
 | **Victor** | Everything is a transaction | The only sane person |
 | **Sniv** | Survival through service; the strong rule | A god who feeds him |
 | **Asterion** | Existence needs purpose; order brings peace | A strange master, but one who explains "why" |
-| **Elara** | Justice exists; institutions fail it | A monster—but an honest one |
+| **Lyra** | Justice exists; institutions fail it | A monster—but an honest one |
+| **Elara** | Loyalty is a liability, integrity is an asset | A calculated risk |
 | **Sterling** | Nobility deserves respect; blood matters | An upstart commoner who cheats |
 
 ### Writing Contrasting Views
 
-When Elara sees a dungeon, she sees: *a place where people die needlessly*.
+When Lyra sees a dungeon, she sees: *a place where people die needlessly*.
 When Asterion sees it: *his home, his prison, his function*.
 When Victor sees it: *undervalued real estate*.
 
@@ -92,7 +93,7 @@ When Victor sees it: *undervalued real estate*.
 
 **Example Scene:**
 > Victor: "The dungeon's kill rate increased 340%."
-> Elara: "Three hundred percent more *deaths*, Victor."
+> Lyra: "Three hundred percent more *deaths*, Victor."
 > Victor: "That's what I said."
 > Asterion: "...They were adventurers. They chose this."
 > Sniv: "Sniv processed the corpses efficiently! Praise for Sniv?"

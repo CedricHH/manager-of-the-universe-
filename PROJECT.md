@@ -15,12 +15,12 @@
 
 ### Chapter Settings
 
-| Setting                            | Value         |
-| ---------------------------------- | ------------- |
-| **Words per Chapter**        | 1,500 - 1,800 |
-| **Total Chapters (Planned)** | 1500          |
-| **Chapters per Arc**         | 100           |
-| **Update Frequency**         | Daily         |
+| Setting                            | Value        |
+| ---------------------------------- | ------------ |
+| **Words per Chapter**        | 1,500 - 2000 |
+| **Total Chapters (Planned)** | 1100         |
+| **Chapters per Arc**         | 100          |
+| **Update Frequency**         | Daily        |
 
 ### Repository
 
@@ -66,10 +66,10 @@
 
 ## Arc Structure
 
-| Arc | Chapters | Setting |
-|-----|----------|---------|
-| Arc 1 | 1-100 | Dungeon (Backstory) |
-| Arc 2 | 101-300 | City |
-| Arc 3 | 301-600 | Kingdom |
-| Arc 4 | 601-800 | World |
-| Arc 5 | 801+ | Universe |
+| Arc   | Chapters | Setting             |
+| ----- | -------- | ------------------- |
+| Arc 1 | 1-100    | Dungeon (Backstory) |
+| Arc 2 | 101-300  | City                |
+| Arc 3 | 301-600  | Kingdom             |
+| Arc 4 | 601-800  | World               |
+| Arc 5 | 801+     | Universe            |

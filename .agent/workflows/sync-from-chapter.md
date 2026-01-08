@@ -103,7 +103,20 @@ For each change, update the appropriate section:
 ## Recent Developments (Chapter XX)
 
 - [What happened this chapter]
+## Recent Developments (Chapter XX)
+
+- [What happened this chapter]
 ```
+
+#### Consolidation Rule (CRITICAL)
+
+**Do NOT let the "Recent Developments" section grow indefinitely.**
+
+1. **Limit**: Keep only the last **3-5 most recent chapters** in "Recent Developments".
+2. **Archive**: Move older chapter events into a "History" or "Arc Progression" summary section.
+3. **Summarize**: When moving to history, combine multiple bullet points into a single narrative sentence.
+   - *Example*: Instead of 5 bullets about buying potions, write: "Established potion trade route in Chapters 10-15."
+
 
 ### Step 2.3: Add Chapter Reference
 
@@ -167,46 +180,7 @@ If YES → Flag for user review
 
 ---
 
-## PHASE 5: Log the Sync
 
-### Step 5.1: Create Sync Report
-
-Save to: `Story/Sync_Reports/Sync_Chapter_XX.md`
-
-```markdown
-# Sync Report: Chapter XX
-
-**Date**: [Current Date]
-
-## Character Updates
-
-| Character | Change Type | Description | File Updated |
-|-----------|-------------|-------------|--------------|
-| [Name] | Inventory | Acquired [Item] | Characters/[Name].md |
-| [Name] | Relationship | Allied with [X] | Characters/[Name].md |
-
-## World Updates
-
-| Element | Change | File Updated |
-|---------|--------|--------------|
-| [Location] | Discovered | World/[File].md |
-
-## Outline Deviations
-
-| Outline | Planned | Actual | Updated |
-|---------|---------|--------|---------|
-| Chapter-Outline | [X event] | [Y event] | ✓ |
-| Plot_Outline | [Beat] | [New beat] | ✓ |
-
-## Cascade Effects
-
-- [ ] Later chapters affected: [List]
-- [ ] Requires user review: YES/NO
-
-## Summary
-
-[Brief summary of all changes made]
-```
 
 ---
 
@@ -221,7 +195,7 @@ This will:
 2. Compare against outlines for deviations
 3. Identify all character/world changes
 4. Update Characters/, World/, and Outlines
-5. Create sync report
+4. Update Characters/, World/, and Outlines
 
 ---
 

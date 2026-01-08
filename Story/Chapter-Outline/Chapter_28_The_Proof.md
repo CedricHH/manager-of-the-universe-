@@ -1,4 +1,4 @@
-# Outline: Chapter 28 - The Proof (Part 1)
+# Outline: Chapter 28 - The Proof
 
 **Word Target**: 1,500 - 1,800 words
 **Arc**: 1 (Dungeon)

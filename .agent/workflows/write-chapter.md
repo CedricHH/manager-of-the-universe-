@@ -1,7 +1,6 @@
 ---
 description: Write a complete chapter from an outline (Webnovel format)
 ---
-
 // turbo-all
 
 # Workflow: Write Chapter
@@ -56,16 +55,19 @@ Load `./STYLE_GUIDE.md` to get:
 > **CRITICAL**: ARMI system messages and mobile-optimized formatting create "visual length" but fewer actual words.
 
 **Target Calibration**:
-| PROJECT.md Target | Actual Writing Target | Reason |
-|-------------------|----------------------|--------|
+
+| PROJECT.md Target | Actual Writing Target       | Reason                                               |
+| ----------------- | --------------------------- | ---------------------------------------------------- |
 | 1,500-1,800 words | **1,700-1,900 words** | System messages count as ~50% fewer words than prose |
 
 **Word Count Distribution** (for 1,700 target):
+
 - Hook: 250-350 words
 - Development: 1,100-1,300 words
 - Cliffhanger: 250-350 words
 
 **Prose Density Rules**:
+
 - Every ARMI message block = write 50 extra words of prose nearby
 - Every chapter needs at least 4-5 paragraphs of 4+ sentences each
 - Expand character thoughts and environmental descriptions
@@ -95,6 +97,7 @@ Run through the checklist in STYLE_GUIDE.md before saving.
 ### Step 2.5.1: Check Count Before Saving
 
 After writing the full chapter content but BEFORE saving, estimate:
+
 - If visual length seems "short" compared to outline beats, expand now
 - Add internal monologue, environmental detail, or extended ARMI analysis
 
@@ -126,24 +129,6 @@ Save to: `Story/Chapters/Chapter_XX_[Name].md`
 ```
 
 Compare against word target from PROJECT.md.
-
----
-
-## PHASE 4: Git Commit (Optional)
-
-### Step 4.1: Read Git Config
-
-Get GitHub URL from `./PROJECT.md`
-
-// turbo
-
-### Step 4.2: Commit & Push
-
-```powershell
-git add "Story/Chapters/Chapter_XX_[Name].md"
-git commit -m "Chapter XX completed"
-git push origin main
-```
 
 ---
 

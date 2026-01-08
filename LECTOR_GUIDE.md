@@ -39,6 +39,7 @@
 - **The Sin**: Victor sounds like a generic fantasy protagonist.
 - **The Standard**: Victor is analytical, cynical, treats everything as a transaction.
 - **Test**: Remove the name. Is it OBVIOUSLY Victor speaking/thinking?
+- The other Characters dont always get the message von Victors speaking, this tends to be comedial
 
 ### 4. System Integration (ARMI)
 
