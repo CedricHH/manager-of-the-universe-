@@ -328,26 +328,40 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Ultimatum Compressed**: Sera intercepted transmission - 72h → **48h** (Revolutionary forces mobilizing early)
 - **New Mission Parameters**: 48 hours to build coalition preventing 30k-troop assault
 
+**Kapitel 115 - The Delegation** [LATEST]
+- **Merchant Coalition Negotiation**: Three principals arrived (Lord Cassius Valorian, Lady Thessaly Morthane, Captain Dren Kieran)
+- **Death Mark Leverage**: Revealed Clause 47-Delta glyph to prove Consortium commitment - "aligned incentives" demonstration
+- **Contract Secured**: 4,000 mercenaries + 800 personal guard (Kieran), 25% equity stake (reduced to 15% for Kieran after betrayal)
+- **Kieran Betrayal Discovered**: Sera detected mana signature - Kieran selling defense intel to Revolutionary quartermaster
+- **Leverage Play Executed**: Private confrontation converted traitor into double agent (false intel operation)
+- **Terms**: Kieran equity 25%→15%, personal forces committed, feeds misinformation to Tribune Vex
+- **Coalition Forces Acquired**: 4,800 Merchant troops (total coalition: 5,933 vs initial 133 Warlords)
+- **Survival Probability Update**: 14% → 23% (still insufficient vs 30k Revolutionaries)
+- **Revolutionary Vanguard Alert**: 5,000 troops pushing through Iron Woods, ETA 18 hours (before full coalition deployment)
+- **Merchant Response**: Accelerated deployment 36h → 12h due to vanguard threat
+- **Tactical Challenge**: Defend against 5,000 vanguard with partial coalition before main Revolutionary army arrives
+
 ---
 
-## Aktueller Status (Stand: Kapitel 114)
+## Aktueller Status (Stand: Kapitel 115)
 
 | Attribut | Wert |
 |----------|------|
 | **Standort** | Ironhold Bunker, Terra-Solvaris (Solvara ruins) |
-| **Mission Status** | BROKEN CROWN ACTIVE - Day 2 (Tier 4 - Death Clause Active) |
-| **Mission Clock** | 118 Days, 17 Hours remaining |
-| **Bedrohungslevel** | KRITISCH (48-hour Revolutionary ultimatum, 30k troops mobilizing) |
-| **Nächster Critical Path** | Coalition building - contact Merchant Coalition, Princess Celestia, Theocrats (48h deadline) |
+| **Mission Status** | BROKEN CROWN ACTIVE - Day 2 Evening (Tier 4 - Death Clause Active) |
+| **Mission Clock** | 118 Days, 15 Hours remaining |
+| **Bedrohungslevel** | KRITISCH (Revolutionary vanguard: 5,000 troops, ETA 18 hours) |
+| **Coalition Status** | Merchant Coalition SECURED (4,800 troops deploying in 12h) |
+| **Nächster Critical Path** | Defend against vanguard (5,000) with partial coalition; contact Princess Celestia + Theocrats |
 | **Strategic Asset** | Central Bank access: 863.7M GP total value (16.7M liquid + 847M intangible) |
 | **Diplomatic Authority** | FULL (Dravik's seal + communications network) |
+| **Coalition Strength** | 5,933 troops (133 Warlords + 4,800 Merchants) vs 5,000 vanguard |
+| **Survival Probability** | 23% (upgraded from 14% after Merchant Coalition) |
 | **Nettowert** | ~975.200 GP (Oakhaven assets delegated) |
-| **Assets** | Dungeon Insolvia, Slime Farm, Apotheke, Gilded Caravan, 42-Soldier Force, 10 Shell Companies |
-| **Partnerships** | Church (15%), Merchant Guild (integrated via Lysander), Crown, Sterling, Nova |
-| **Exchange Status** | Tier 1 Verified Merchant (100k GP/week limit) |
-| **Death Mark** | Golden Glyph (Clause 47-Delta - mission failure = cardiac arrest) |
-| **Delegation** | Succession Protocol 2.0 active (Marcus/Sniv/Asterion/Lysander/Nova autonomous leadership) |
+| **Death Mark** | Golden Glyph (Clause 47-Delta - publicly revealed to Merchants) |
 | **Dravik Relationship** | HIGH TRUST (Vault access + diplomatic seal granted) |
+| **Kieran Status** | Controlled asset (double agent feeding false intel to Revolutionaries) |
+
 
 
 ---
@@ -371,7 +385,8 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 
 ---
 
-**Letzte Aktualisierung**: Kapitel 114 (Arc 2)
-**Version**: 3.1
+**Letzte Aktualisierung**: Kapitel 115 (Arc 2)
+**Version**: 3.2
 **Wichtigkeit**: HAUPT (Protagonist)
 **Kategorie**: Protagonist
+
