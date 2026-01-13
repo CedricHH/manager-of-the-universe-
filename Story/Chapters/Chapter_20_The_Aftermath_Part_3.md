@@ -192,7 +192,7 @@ Gareth had his sword drawn. "Boss room ahead. Tight formation."
 "Wait," Alara said. "I detect... movement."
 
 From the darkness of the archway, a figure emerged.
-Small. Green.
+Impeccably dressed. Confident.
 Wearing a torn, dirty, but impeccably tailored Italian suit.
 
 Victor Kaine stepped into the torchlight.
@@ -201,6 +201,6 @@ He didn't draw a weapon. He clasped his hands behind his back.
 "Ladies and gentlemen," Victor said, his voice echoing smoothly off the stone walls. "I believe there has been a scheduling error."
 
 The party froze.
-Gareth blinked. "A... goblin?"
+Gareth blinked. "A... human?"
 
 "I prefer 'Management'," Victor corrected. "And I'm afraid the Minotaur is currently in a meeting. Do you have an appointment?"

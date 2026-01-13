@@ -12,7 +12,9 @@ He hadn't noticed until now. Too busy calculating survival probabilities, analyz
 
 Victor looked around the chamber with new eyes. Not the tactical assessment of a man about to die, but the analytical gaze of someone taking inventory.
 
-Stone walls, ancient and carved with runes that meant nothing to him but suggested intentional design. The liquidated asset (Marcus)—though "corpse" was generous now. The goblins had been thorough in their "processing." What remained was bones, scattered armor fragments, and stains Victor chose not to examine closely.
+Stone walls, ancient and carved with runes that meant nothing to him but suggested intentional design. The liquidated asset (Marcus)—though "corpse" was generous now.
+ 
+The goblins had been thorough in their "processing." What remained was bones, scattered armor fragments, and stains Victor chose not to examine closely.
 
 A broken throne at one end of the chamber. Dust. Shadows.
 
@@ -26,7 +28,9 @@ He found a flat stone slab near the wall—probably a ceremonial altar, based on
 
 On the improvised desk, he arranged what remained of Marcus's supplies:
 
-The glowing sword (still soulbound, still useless, still mocking him with its inaccessible power). The empty backpack. The map marked "Tutorial Dungeon - EASY." One remaining ration—dried meat and stale bread that represented his entire food security.
+The glowing sword (still soulbound, still useless, still mocking him with its inaccessible power). The empty backpack. The map marked "Tutorial Dungeon - EASY."
+ 
+One remaining ration—dried meat and stale bread that represented his entire food security.
 
 Victor sat on the broken throne. The stone was cold. The position was uncomfortable. But for the first time since arriving in this world, he had something that resembled an office.
 
@@ -57,15 +61,15 @@ With the immediate chaos contained, Victor turned his attention to the interface
 > - [Performance Review] - Cost: 0 GP - AVAILABLE
 >
 > **Locked Skills** (Require GP Investment):
-> - [Hostile Takeover] - 500 GP initial
-> - [Aggressive Negotiations] - 300 GP initial
-> - [Predatory Lending] - 200 GP initial
-> - [Motivational Lie] - 100 GP initial
+> - [Hostile Takeover] - 500 GP (Initial Unlock)
+> - [Aggressive Negotiations] - 300 GP (Initial Unlock)
+> - [Predatory Lending] - 200 GP (Initial Unlock)
+> - [Motivational Lie] - 100 GP (Initial Unlock)
 > (Additional skills: 47 locked)
 
 Victor stared at the numbers. Fifty HP in a world where a basic goblin could probably inflict twenty damage with a rusty knife. Zero GP in a system where gold was literally power.
 
-*I'm not just broke. I'm powerless.*
+*Current operational capability: Zero. I lack the initial capital to fuel even basic management modules.*
 
 The realization settled into his mind with the weight of a quarterly loss report. Every skill locked behind capital he didn't have. Every ability worthless without resources to fuel it.
 
@@ -103,12 +107,16 @@ The memory slipped away before he could grasp it fully. Like water through finge
 > Note: Full integration requires time and/or sufficient trauma.
 > Recommendation: Focus on immediate survival.
 
+Victor turned his gaze back to the stone walls. The runes weren't just decorative; his analytical mind began to map their recurring patterns, identifying a sequence that hinted at an automated maintenance protocol within the dungeon's architecture. It was a sophisticated system, one that operated at a level of efficiency he could respect.
+
 Victor rubbed his temples. The system was right—he couldn't afford to dwell on a past he barely remembered. Not when the present was trying to kill him.
 
 He stood and began pacing. The physical movement helped clear his head. As he walked, he mentally catalogued his problems:
 
 **Problem 1: Food**
-Fourteen goblins needed to eat. He had one ration. The health potions were gone—the goblins had consumed them for the sugar content within minutes of the negotiation ending. At current consumption rates, his workforce would begin starving in approximately four hours.
+Fourteen goblins needed to eat. He had one ration. The health potions were gone—the goblins had consumed them for the sugar content within minutes of the negotiation ending.
+ 
+At current consumption rates, his workforce would begin starving in approximately four hours.
 
 **Problem 2: Capital**
 Zero GP meant zero skills. No [Hostile Takeover] to forcibly recruit more employees. No [Motivational Lie] to boost morale. No [Predatory Lending] to create debt-based loyalty. He was a manager without a budget.
@@ -165,7 +173,9 @@ Then the small goblin's expression shifted. Something darker entered his gaze.
 
 "Boss... also... pack getting hungry. Looking at Sniv. Hungry eyes." He touched one of the scratches on his face. "This not from enemy tribe. This from *our* tribe."
 
-Victor checked his internal clock. Eight hours since the contract negotiation. Four hours since he'd sent Sniv on the census mission. The provisional loyalty he'd purchased with health potions was already fraying.
+Victor checked his internal clock. Eight hours since the contract negotiation. Four hours since he'd sent Sniv on the census mission.
+ 
+The provisional loyalty he'd purchased with health potions was already fraying.
 
 *Four hours. Maybe less. Before the contract dissolves into cannibalism.*
 

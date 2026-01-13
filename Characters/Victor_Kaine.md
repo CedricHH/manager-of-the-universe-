@@ -1,7 +1,7 @@
 # Victor Kaine - Protagonist
 
 > **Rolle**: Protagonist, Asset Manager  
-> **Klasse/Spezies**: Asset Manager (Einzigartig - Level 14)  
+> **Spezies**: Mensch / Asset Manager (Einzigartig - Level 14)  
 > **Archetyp**: The Magnificent Bastard / Lawful Evil Corporate Overlord  
 > **Status**: Aktiv (Regional Operator, Galaktisches Audit-Konsortium)
 
@@ -13,7 +13,7 @@
 |----------|------|
 | **Vollständiger Name** | Victor Kaine |
 | **Titel/Spitzname** | "The Chainsaw" / Independent Contractor |
-| **Klasse/Spezies** | Asset Manager (Level 14) |
+| **Spezies** | Mensch / Asset Manager (Level 14) |
 | **Level** | 14 (↑ von 11 in Arc 1) |
 | **Alter** | 42 (zum Zeitpunkt des Todes auf der Erde) |
 | **Position** | Regional Operator (Konsortium), CEO Kaine Consulting |
@@ -42,7 +42,7 @@ Drei Tage später wurde er von einem professionellen Attentäter ermordet ("Herz
 Das Galaktische Audit-Konsortium wählte Victor nicht trotz, sondern wegen dieser Anomalie: Er hatte einmal "worth it" über persönlichen Profit gestellt. Die Entität im Void analysierte ihn:
 - Rücksichtslosigkeit: 94. Perzentil
 - Effizienz: 98. Perzentil
-- Empathie: 12%
+- Empathie: 3. Perzentil
 
 **Urteil**: "Subject exchanged personal existence for external benefit." → Reallocation empfohlen.
 
@@ -341,26 +341,39 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Merchant Response**: Accelerated deployment 36h → 12h due to vanguard threat
 - **Tactical Challenge**: Defend against 5,000 vanguard with partial coalition before main Revolutionary army arrives
 
+**Kapitel 116 - The Vanguard** [LATEST]
+- **Command Friction Problem**: Three coalition armies (Warlords, Valorian mercs, Morthane forces) refusing coordination
+- **Tactical Liaison Solution**: Created new organizational role - provides "actionable intelligence analytics" without commanding
+- Framework: Commanders maintain authority; Victor optimizes decision-making through real-time data (Sera's intelligence)
+- Coalition Integration: 3,100 troops coordinated via ARMI HUD analytics (30-second update intervals)
+- **Vanguard Battle**: Revolutionary 5,000 troops vs Coalition 3,100 (deployed early)
+- Kill-Zone Analytics: Victor directed coordinated fire achieving 6.2:1 casualty ratio
+- Battle Result: Coalition 340 casualties (11%), Revolutionary 2,100 casualties (42%) - DECISIVE VICTORY
+- Professional Recognition: Dravik called Victor "dangerous" for optimization ability ("not because you fight, because you optimize")
+- **Main Army Threat Escalated**: Tribune Vex accelerated deployment - 25,000 troops, ETA 36 hours
+- Survival Probability: 23% → 8% (CRITICAL - need additional coalition members)
+- Strategic Imperative: Must secure Princess Celestia legitimists + Theocrat forces before main assault
+
 ---
 
-## Aktueller Status (Stand: Kapitel 115)
+## Aktueller Status (Stand: Kapitel 116)
 
 | Attribut | Wert |
 |----------|------|
 | **Standort** | Ironhold Bunker, Terra-Solvaris (Solvara ruins) |
-| **Mission Status** | BROKEN CROWN ACTIVE - Day 2 Evening (Tier 4 - Death Clause Active) |
-| **Mission Clock** | 118 Days, 15 Hours remaining |
-| **Bedrohungslevel** | KRITISCH (Revolutionary vanguard: 5,000 troops, ETA 18 hours) |
-| **Coalition Status** | Merchant Coalition SECURED (4,800 troops deploying in 12h) |
-| **Nächster Critical Path** | Defend against vanguard (5,000) with partial coalition; contact Princess Celestia + Theocrats |
-| **Strategic Asset** | Central Bank access: 863.7M GP total value (16.7M liquid + 847M intangible) |
-| **Diplomatic Authority** | FULL (Dravik's seal + communications network) |
-| **Coalition Strength** | 5,933 troops (133 Warlords + 4,800 Merchants) vs 5,000 vanguard |
-| **Survival Probability** | 23% (upgraded from 14% after Merchant Coalition) |
+| **Mission Status** | BROKEN CROWN ACTIVE - Day 3 Mid-Morning (Tier 4 - Death Clause Active) |
+| **Mission Clock** | 118 Days, 9 Hours remaining |
+| **Bedrohungslevel** | CRITICAL (Main Revolutionary Army: 25,000 troops, ETA 36 hours) |
+| **Coalition Status** | 2,760 operational (vanguard battle depleted); demonstrated Tactical Liaison effectiveness |
+| **Survival Probability** | 8% (DECLINING - requires additional coalition expansion) |
+| **Next Critical Path** | Secure Princess Celestia + The ocrats before 36h deadline; prepare for 25k assault |
+| **Recent Achievement** | Defeated vanguard (5k) with 6.2:1 kill ratio via coordinated analytics |
+| **Strategic Innovation** | Tactical Liaison protocol (information architecture command) |
+| **Coalition Forces** | 2,760 troops (133 Warlords depleted, Merchant forces combat-tested) |
 | **Nettowert** | ~975.200 GP (Oakhaven assets delegated) |
 | **Death Mark** | Golden Glyph (Clause 47-Delta - publicly revealed to Merchants) |
-| **Dravik Relationship** | HIGH TRUST (Vault access + diplomatic seal granted) |
-| **Kieran Status** | Controlled asset (double agent feeding false intel to Revolutionaries) |
+| **Dravik Relationship** | HIGH RESPECT ("dangerous because you optimize") |
+| **Kieran Status** | Controlled double agent (demonstrated "motivated performance") |
 
 
 
@@ -385,8 +398,8 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 
 ---
 
-**Letzte Aktualisierung**: Kapitel 115 (Arc 2)
-**Version**: 3.2
+**Letzte Aktualisierung**: Kapitel 116 (Arc 2)
+**Version**: 3.3
 **Wichtigkeit**: HAUPT (Protagonist)
 **Kategorie**: Protagonist
 

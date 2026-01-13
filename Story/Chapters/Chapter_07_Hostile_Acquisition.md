@@ -85,7 +85,7 @@ Victor activated **[Performance Review]**.
 > Weakness: Unorganized, no tactical training
 > Note: Eliminate Alpha to break pack cohesion.
 
-*Level 6. Ten levels above me. But levels aren't everything.*
+*Level 6. Five levels above me. But levels aren't everything.*
 
 He pulled back, gesturing for the team to huddle.
 
@@ -121,7 +121,7 @@ Victor watched as a dozen hostiles broke from the main group, charging toward th
 
 They hit the flank hard and fast.
 
-Victor's goblins slammed into the remaining defenders from the east entrance while the bulk of the hostile force was still chasing Sniv's noise. For three precious seconds, it was four against eight—still bad odds, but survivable.
+Victor's goblins slammed into the remaining defenders from the east entrance while the bulk of the hostile force was still chasing Sniv's noise. For three critical seconds, it was four against eight—still bad odds, but survivable.
 
 Guard-Lead buried his shiv in a hostile's throat. The goblin dropped without a sound.
 
@@ -139,9 +139,9 @@ No time to aim. No time to think. He threw.
 
 The sac arced through the air, spinning end over end, and struck the Alpha directly in the face. The membrane burst on impact.
 
-The Alpha's vocalizations shifted from a roar of dominance to a high-frequency acoustic feedback loop of pure sensory overload.
+The Alpha's roar became a shriek as the acid found flesh.
 
-The Alpha's hands clawed at his own face as the acid ate through flesh, dissolving skin and muscle and the soft tissue of an eye. He crashed to the ground, thrashing, the charge completely forgotten.
+The Alpha's hands clawed at his own face as the acid ate through skin, dissolving muscle and the soft tissue of an eye. He crashed to the ground, thrashing, the charge completely forgotten.
 
 The hostile goblins froze.
 

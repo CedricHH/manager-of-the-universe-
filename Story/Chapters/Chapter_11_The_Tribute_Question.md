@@ -82,7 +82,7 @@ Then, a ping.
 > Cost: 25 SP | Status: APPROVED
 > 
 > **Analysis: ASTERION (The Eternal Guardian)**
-> Species: Minotaur (Boss) | Level: 25 (EST)
+> Species: Minotaur (Boss) | Level: 20
 > Status: Underutilized (Existential Ennui)
 
 Victor opened his eyes.
@@ -91,7 +91,9 @@ Victor opened his eyes.
 
 Of course.
 
-Asterion was immortal, or close enough to it. He was a Level 25 Boss monster stuck on the fourth floor of a beginner dungeon. He hadn't seen a real challenge in years—decades, maybe. The last significant event was murdering Sir Kael's party fifty years ago.
+Asterion was immortal, or close enough to it. He was a Level 20 Boss monster stuck on the fourth floor of a beginner dungeon.
+
+He hadn't seen a real challenge in years—decades, maybe. The last significant event was murdering Sir Kael's party fifty years ago.
 
 For fifty years, he had been pacing a stone room, waiting for a fight that never came.
 
@@ -113,7 +115,7 @@ A worthy opponent.
 
 Victor stopped pacing.
 
-"He doesn't want my goblins," he realized. "They're not a challenge. Killing them would be like me swating flies. Unsatisfying."
+"He doesn't want my goblins," he realized. "They're not a challenge. Killing them would be like me swatting flies. Unsatisfying."
 
 He looked at the iron ore. At the organized farm. At the structure he was building.
 
@@ -121,7 +123,7 @@ He looked at the iron ore. At the organized farm. At the structure he was buildi
 
 ---
 
-The plan that formed in Victor's mind was insane. By goblin standards, it was suicide. by corporate standards, it was a high-risk merger with a hostile entity.
+The plan that formed in Victor's mind was insane. By goblin standards, it was suicide. By corporate standards, it was a high-risk merger with a hostile entity.
 
 He drafted the proposal in his head.
 

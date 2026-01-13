@@ -24,13 +24,13 @@ Victor turned to his team. "We're done here. Back to base."
 
 ---
 
-The return journey took fifteen minutes. By the time they climbed the stairs to the Boss Chamber—Floor Five, Victor had mentally rebranded it—the waiting goblins had worked themselves into a state of near-mutiny.
+The return journey took fifteen minutes. By the time they climbed the stairs to the Boss Chamber—Floor One, Victor had mentally rebranded it—the waiting goblins had worked themselves into a state of near-mutiny.
 
 He could see it in their eyes. The pack leader who had agreed to Victor's "probationary employment" was pacing, his scarred face twisted with barely contained aggression. The others clustered in groups, whispering. Calculating. Hungry.
 
 The four-hour deadline had passed. The contract was dissolving.
 
-Victor didn't hesitate. He strode into the chamber, untied the collection bag, and dumped fifteen slime jellies onto the stone floor.
+Victor didn't hesitate. He strode into the chamber, untied the collection bag, and dumped his remaining thirteen slime jellies onto the stone floor.
 
 "Dinner," he announced. "One per goblin. Ration it."
 
@@ -167,7 +167,9 @@ The question slipped away before he could grasp it.
 
 The ground trembled.
 
-It started as a vibration—subtle, almost imperceptible. Then it grew. The stone floor shook. Dust rained from the ceiling. Somewhere in the distance, something *roared*.
+It started as a vibration—subtle, almost imperceptible. Then it grew. 
+ 
+The stone floor shook. Dust rained from the ceiling. Somewhere in the distance, something *roared*.
 
 Not a goblin. Not a rat. Not a slime.
 
@@ -180,7 +182,7 @@ The goblins froze. Even the ones who had been bickering over sleeping spots went
 > **[ARMI - SEISMIC ALERT]**
 > Source: Floor 4 Guardian Chamber
 > Entity: ASTERION (Minotaur - Boss Class)
-> Level: 25
+> Level: 20
 > Status: AGITATED (Cause unknown)
 > Threat Assessment: EXTREME
 > Recommendation: Avoid engagement. Reinforce barriers.
@@ -211,11 +213,11 @@ The rest could wait.
 > Day 1 Complete
 > Balance: 0 GP (assets reserved for operations)
 > Employees: 14 goblins (stable), 12 rats (contractual - 1 jelly/day)
-> Assets: 12 Slime Jelly, 2 Acid Sacs (1 expended in testing)
+> Assets: 0 Slime Jelly (Deficit: 1), 2 Acid Sacs
 > Food Security: 24 hours (renewable)
 > Threats: Asterion (Floor 4 - dormant/agitated)
 > Memory Recovery: 12%
-> Status: OPERATIONAL - Phase 1 (Dead Capital) Complete
+> Status: OPERATIONAL - Maintenance Due (Alpha Rat)
 
 ---
 

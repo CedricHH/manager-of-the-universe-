@@ -6,13 +6,13 @@ Victor counted. He always counted. Three seconds was the optimal window for conf
 
 Time was money. Money was survival.
 
-"A goblin," Gareth repeated, lowering his sword by half an inch. "In a *suit*."
+"A human," Gareth repeated, lowering his sword by half an inch. "In a *suit*."
 
 "Italian," Victor clarified. "Pre-owned. The original owner had... scheduling conflicts."
 
 The tank blinked, processing the absurdity. Behind him, the rest of the Silver Lance shifted into defensive positions with the mechanical precision of experienced killers. Finn had a dagger in each hand, the blades catching torchlight. Bron's hammer was raised, tendons bulging in his forearms. Kaelie's staff crackled with arcane energy building toward critical mass. Lysa had already begun casting something—Victor caught the shimmer of a detection ward expanding outward. And Sister Alara's holy symbol pulsed with golden light, radiating warmth that made Victor's corrupted mana itch.
 
-Six weapons. Zero cover. Eighteen feet of exposed corridor. One goblin in a torn Armani suit.
+Six weapons. Zero cover. Eighteen feet of exposed corridor. One human in a torn Armani suit.
 
 Victor's internal calculator ran the numbers with cold precision. Combat survival probability: 0%. Negotiation survival probability: 47%. Those were workable odds.
 
@@ -68,7 +68,8 @@ He let that sink in.
 
 "Fourteen percent is not zero," Gareth said. His voice was steady, but Victor caught the slight elevation in pitch. Stress response.
 
-"Fourteen percent assumes the boss fights fairly." Victor's lipless mouth curved into something that might have been a smile. Might have been a threat display. Hard to tell with goblin facial structure. "Asterion does not fight fairly. He fights efficiently. There's a significant difference."
+"Fourteen percent assumes the boss fights fairly." Victor's lipless mouth curved into something that might have been a smile. Might have been a threat display. Hard to tell with his facial structure.
+ "Asterion does not fight fairly. He fights efficiently. There's a significant difference."
 
 "So what?" Bron slammed his hammer against his palm, the impact echoing off stone walls. "We fight monster, monster dies. Simple. That's what we do."
 
@@ -117,7 +118,8 @@ Game theory in real time. Beautiful.
 
 "And if we refuse both options? If we just... leave?"
 
-Victor shrugged, a surprisingly human gesture for his inhuman frame. "Then we discover Option C together. I suspect it involves a lot of running and screaming. Primarily from me. I'm not built for combat. I'm built for negotiations. So. Shall we negotiate, or shall we see who can scream louder?"
+Victor shrugged, a surprisingly human gesture for his frame.
+ "Then we discover Option C together. I suspect it involves a lot of running and screaming. Primarily from me. I'm not built for combat. I'm built for negotiations. So. Shall we negotiate, or shall we see who can scream louder?"
 
 The party huddled. Whispered arguments.
 

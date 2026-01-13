@@ -34,9 +34,13 @@ Victor closed his eyes.
 
 *Three years ago. Another life.*
 
-The boardroom of Kaine Industries occupied the entire 47th floor of a Manhattan skyscraper. Floor-to-ceiling windows offered a panoramic view of the city—a reminder to everyone present that they stood at the apex of American commerce. The afternoon sun caught the crystal decanters on the sideboard, throwing rainbows across Italian marble.
+The boardroom of Kaine Industries occupied the entire 47th floor of a Manhattan skyscraper. Floor-to-ceiling windows offered a panoramic view of the city—a reminder to everyone present that they stood at the apex of American commerce.
 
-Everything in this room was a calculated expenditure intended to signal dominance. The Eames chairs weren't for comfort; they were for atmospheric control. The Nakashima table was a reminder of the raw materials Victor optimized for profit. The abstract art on the walls was purchased at auction for seven figures, serving as a tax-efficient store of value that simultaneously insulted the aesthetics of anyone earning less than mid-six figures.
+The afternoon sun caught the crystal decanters on the sideboard, throwing rainbows across Italian marble.
+
+Everything in this room was a calculated expenditure intended to signal dominance. The Eames chairs weren't for comfort; they were for atmospheric control.
+
+The Nakashima table was a reminder of the raw materials Victor optimized for profit. The abstract art on the walls was purchased at auction for seven figures, serving as a tax-efficient store of value that simultaneously insulted the aesthetics of anyone earning less than mid-six figures.
 
 This room was designed to intimidate. And for fifteen years, Victor had been the one doing the intimidating.
 

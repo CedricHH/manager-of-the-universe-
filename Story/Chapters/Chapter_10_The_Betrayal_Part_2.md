@@ -180,7 +180,7 @@ The imp's smile widened. **"The Master appreciates directness as well."**
 
 Victor almost laughed.
 
-**"Appreciation does not pay tribute."** The imp's ember-eyes flared brighter, casting dancing shadows across the chamber walls. **"The Master claims your floor as his own. You stay here only because he allows it. And he does not allow it for free."** The imp's ember-eyes flared brighter, casting dancing shadows across the chamber walls. **"He demands tribute for your presence."**
+**"Appreciation does not pay tribute."** The imp's ember-eyes flared brighter, casting dancing shadows across the chamber walls. **"The Master claims your floor as his own. You stay here only because he allows it. And he does not allow it for free.He demands tribute for your presence."**
 
 Victor felt the room go still. Every goblin watching. Every breath held. Even Sniv, who usually couldn't stop fidgeting, stood frozen.
 

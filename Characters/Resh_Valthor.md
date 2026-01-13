@@ -101,7 +101,7 @@ Survival and mission completion. No apparent ideological drive.
 - Assessed Warlord patrol: "I can handle twelve. Reinforcements—question mark."
 - Tactical assessment of Ironhold: "Warlords trapped. Hiding behind vault walls."
 
-**Kapitel 113 - The Siege Protocol** [LATEST]
+**Kapitel 113 - The Siege Protocol**
 - **Combat Showcase**: Demonstrated Tier 4 superiority
 - Northern breach engagement: 23 hostile casualties
 - Revolutionary Captain defeated in 12 seconds (no weapons, pure martial arts)
@@ -109,17 +109,43 @@ Survival and mission completion. No apparent ideological drive.
 - Wounded Vex with precision blade strike (strategic, not lethal)
 - "Finally" - expressed satisfaction at real combat engagement
 
+**Kapitel 114 - The Proposal**
+- Prepared for accelerated timeline operations (48h ultimatum)
+- On tactical link standby for coalition building phase
+- Quote: "How many things are trying to kill you this time?" (dry humor)
+
+**Kapitel 115 - The Delegation**
+- Security detail during Merchant Coalition negotiations
+- Positioned at boardroom door (threat assessment)
+- Prevented Kieran's escape attempt during private confrontation
+- Quote: "I wouldn't." (deterred Kieran from drawing weapon)
+- Professional posture maintained throughout diplomatic proceedings
+
+**Kapitel 116 - The Vanguard** [LATEST]
+- Tactical support during vanguard battle (5,000 Revolutionary troops)
+- Western wall breach response: Sub-Tribune Aldric Thorne (Level 15) assault
+- **Combat Engagement**: Defeated Thorne in 23 seconds
+- Method: Anti-magic aura disrupted Thorne's perception; twin blades, pure martial skill
+- Thorne casualties: 3 spells failed (perception disrupted), inadequate physical combat training
+- **Asset Claim**: Retrieved Sub-Tribune insignia (golden pin) as trophy
+- Quote: "Breach secured. Thorne liquidated. Moving to support eastern defense."
+- Contribution: Secured western breach, prevented Revolutionary exploitation
+- Confirmed Tier 4 combat superiority against Level 15+ opponents
+
 ---
 
-## Aktueller Status (Stand: Kapitel 113)
+## Aktueller Status (Stand: Kapitel 116)
 
 | Attribut | Wert |
 |----------|------|
 | **Standort** | Ironhold Bunker, Terra-Solvaris |
-| **Mission Status** | BROKEN CROWN - Day 2 |
-| **Health** | 100% (no significant injuries) |
-| **Combat Effectiveness** | Demonstrated as anticipated |
-| **Team Relationship** | Professional respect for Victor's tactical contributions |
+| **Mission Status** | BROKEN CROWN - Day 3 Mid-Morning |
+| **Health** | 100% (no significant injuries from vanguard battle) |
+| **Combat Effectiveness** | Confirmed Tier 4 superiority (23-second Level 15 kill) |
+| **Trophy Collection** | Sub-Tribune Aldric Thorne insignia (golden pin) |
+| **Current Role** | Combat specialist preparing for main army assault (25k troops, 36h ETA) |
+| **Threat Assessment** | Main Revolutionary Army: 25,000 troops (significantly escalated threat) |
+| **Team Relationship** | Professional respect; Victor relies on Resh for breach/assassination missions |
 
 ---
 
@@ -134,9 +160,18 @@ Survival and mission completion. No apparent ideological drive.
 ### Kapitel 113:
 > "Finally."
 
+### Kapitel 114:
+> "How many things are trying to kill you this time?"
+
+### Kapitel 115:
+> "I wouldn't." (to Kieran)
+
+### Kapitel 116:
+> "Breach secured. Thorne liquidated. Moving to support eastern defense."
+
 ---
 
-**Letzte Aktualisierung**: Kapitel 113 (Arc 2)
-**Version**: 1.0
+**Letzte Aktualisierung**: Kapitel 116 (Arc 2)
+**Version**: 1.2
 **Wichtigkeit**: SEKUNDÄR (Team Member)
 **Kategorie**: Verbündete

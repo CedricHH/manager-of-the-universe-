@@ -48,7 +48,9 @@ The goblins stared at him. Motivation was not a concept they were familiar with.
 
 "The current resource distribution model is decoupled from individual performance. Work hard, work lazy—the allocation remains static. We are subsidizing inefficiency." Victor shook his head. "That's not how successful organizations work."
 
-The goblins blinked. Several of them looked at Sniv, hoping for a translation, but even the HR Manager looked stumped by 'decoupled.' One guard scratched his head with a blunt claw, his expression a mask of pure, concentrated incomprehension.
+The goblins blinked. Several of them looked at Sniv, hoping for a translation, but even the HR Manager looked stumped by 'decoupled.'
+
+One guard scratched his head with a blunt claw, his expression a mask of pure, concentrated incomprehension.
 
 He reached into the pile of salvaged adventurer equipment and withdrew something that caught the torchlight.
 
@@ -136,7 +138,7 @@ Floor Two became dedicated to food production. Two goblin teams worked the mushr
 
 Floor Three was now Mining Operations. The copper deposits Victor had noted earlier were being extracted with sharpened sticks and enthusiasm. Not efficient, but they had labor to spare.
 
-Floor Five remained Command—the Boss Chamber, storage, sleeping quarters for senior staff.
+Floor One remained Command—the Boss Chamber, storage, sleeping quarters for senior staff.
 
 It was beginning to look less like a dungeon and more like... an operation.
 

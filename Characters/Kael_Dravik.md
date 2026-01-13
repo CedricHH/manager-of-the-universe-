@@ -100,7 +100,7 @@
 - Revealed external interests (off-world powers) want Bank control
 - Shifted from "interrogator" to potential "ally"
 
-**Kapitel 114 - The Proposal** [LATEST]
+**Kapitel 114 - The Proposal**
 - Opened Central Bank vault to Victor (personal security codes - demonstrates trust)
 - Revealed full Bank contents: 16.7M GP liquid + 847M GP intangible assets (land deeds, genealogies, trade treaties)
 - Explained Bank's true value: "custodian of civilization's backup system"
@@ -110,18 +110,29 @@
 - Quote: "Don't make me regret this" (pragmatic trust despite skepticism)
 - Ultimatum pressure increased: 72h → 48h (Sera's intercept)
 
+**Kapitel 115 - The Delegation** [LATEST]
+- Received Merchant Coalition delegation (Valorian, Morthane, Kieran)
+- Allowed Victor to lead negotiations (trust in Victor's diplomatic skills)
+- Observed death mark revelation strategy
+- Supported Victor's coalition terms: 4,800 mercenaries for 25% equity
+- NOT informed of Kieran's betrayal (Victor handled privately)
+- Coalition strength increased: 133 → 5,933 troops
+- Revolutionary vanguard alert: 5,000 troops, ETA 18 hours
+- Authorized accelerated defensive preparations
 
 ---
 
-## Aktueller Status (Stand: Kapitel 114)
+## Aktueller Status (Stand: Kapitel 115)
 
 | Attribut | Wert |
 |----------|------|
 | **Standort** | Ironhold Bunker (damaged but operational) |
 | **Fortress Status** | 133 soldiers (47 dead), ~30 mages, supplies reduced |
-| **Threat** | 48-hour Revolutionary ultimatum (30k troops) - COMPRESSED |
-| **Victor Relationship** | HIGH TRUST (Vault access granted, diplomatic seal authorized) |
-| **Next Action** | Support coalition building; Victor has full communications authority |
+| **Threat** | Revolutionary vanguard: 5,000 troops, ETA 18 hours |
+| **Coalition Status** | Merchant Coalition SECURED (4,800 troops deploying in 12h) |
+| **Total Forces** | 5,933 troops (133 Warlords + 4,800 Merchants) |
+| **Victor Relationship** | HIGH TRUST (Delegated full diplomatic authority) |
+| **Next Action** | Defensive preparations for vanguard assault |
 | **Strategic Position** | Bank value revealed: 863.7M GP (16.7M liquid + 847M intangible) |
 
 ---
@@ -143,7 +154,8 @@
 
 ---
 
-**Letzte Aktualisierung**: Kapitel 114 (Arc 2)
-**Version**: 1.1
+**Letzte Aktualisierung**: Kapitel 115 (Arc 2)
+**Version**: 1.2
 **Wichtigkeit**: SEKUNDÄR (Faction Leader / Ally)
 **Kategorie**: Terra-Solvaris NPCs
+

@@ -2,7 +2,9 @@
 
 Victor calculated the rate of decay in the air; it was a leading indicator of untapped market potential on Floor Two.
 
-Victor moved carefully, one hand trailing along the slick stone wall for balance. Behind him, Sniv padded silently on bare feet, followed by three goblins who had been "volunteered" for this expedition by virtue of being the least likely to stab Victor in the back. Their names—if they had names—didn't matter yet. What mattered was that they could follow basic instructions and carry things.
+Victor moved carefully, one hand trailing along the slick stone wall for balance. Behind him, Sniv padded silently on bare feet, followed by three goblins who had been "volunteered" for this expedition by virtue of being the least likely to stab Victor in the back.
+
+Their names—if they had names—didn't matter yet. What mattered was that they could follow basic instructions and carry things.
 
 Marcus's torch sputtered in Victor's other hand. Thirty minutes of light, maybe less. The flame had been reliable when the hero was alive, probably enchanted to burn indefinitely. Now, with its owner dead, the magic was fading.
 
@@ -35,7 +37,7 @@ Victor activated Performance Review on the nearest specimen.
 
 *Infinite respawn. Self-sustaining resource. This isn't a threat—it's a farm.*
 
-Victor turned to his team. The goblins were hanging back, their yellow eyes wide with the instinctive fear of creatures that had lost tribe members to these oozing predators. Even Sniv looked nervous.
+Victor turned to his team. The goblins were hanging back, their yellow eyes wide with the instinctive fear of creatures that had lost tribe members to these oozing predators. Even Sniv's movements had slowed, his eyes constantly scanning for exits.
 
 "Listen carefully," Victor said. "We're not here to fight. We're here to harvest. The slimes are slow, predictable, and they only attack when threatened. Our job is to threaten them on our terms."
 
@@ -86,7 +88,9 @@ The next two hours were the most productive of Victor's new life.
 
 The "funnel technique"—as Victor mentally termed it—proved devastatingly effective. The goblins learned to work as a unit, driving slimes into prepared kill zones where they could be dispatched with minimal risk. The injured goblin's burn served as an object lesson in workplace safety; after that, everyone maintained proper distance from the acidic membranes.
 
-Victor observed his team with the detached satisfaction of a manager watching a training program take hold. The three volunteers had started as sullen, reluctant conscripts. Now they moved with purpose. They anticipated each other's positions. They even developed a crude signaling system—clicks and grunts that coordinated their flanking movements.
+Victor observed his team with the detached satisfaction of a manager watching a training program take hold. The three volunteers had started as sullen, reluctant conscripts. Now they moved with purpose.
+
+They anticipated each other's positions. They even developed a crude signaling system—clicks and grunts that coordinated their flanking movements.
 
 *Remarkable. Give creatures a task, a reward structure, and consequences for failure, and productivity follows. Universal principle.*
 
@@ -144,7 +148,7 @@ This was twelve rats. Twelve dungeon rats arranged in a loose semicircle around 
 
 The Alpha hissed. The pack closed in, cutting off the tunnel exit.
 
-Victor's mind raced through options. Fight? Twelve to five, with an enemy three levels above their best combatant. Run? The exit was blocked. Negotiate?
+Victor's mind raced through options. Fight? Twelve to five, with an enemy two levels above their average combatant. Run? The exit was blocked. Negotiate?
 
 "ARMI. Communication options with rats?"
 

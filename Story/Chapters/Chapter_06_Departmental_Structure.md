@@ -36,7 +36,9 @@ Victor pointed at the sleeping guard. "What was his job?"
 
 "And did he do any of those things?"
 
-Sniv looked at the chaos, then at the unconscious goblin. His yellow eyes narrowed with something approaching understanding. "No, Boss. He did not."
+Sniv looked at the chaos, then at the unconscious goblin. His yellow eyes narrowed with something approaching understanding.
+
+"No, Boss. He did not."
 
 "Correct." Victor turned to address the gathered goblins—all fourteen now awake and watching with various degrees of fear and confusion. "This is a teaching moment."
 
@@ -52,7 +54,9 @@ Relief flickered across the goblin's face.
 
 The relief died instantly.
 
-"Neither does he." Victor pointed at the aggressor. "Or him. Redundancy in misconduct leads to collective liability." The defender, mushroom still clutched protectively. "Three goblins caused disruption. Three goblins face consequences."
+"Neither does he." Victor pointed at the aggressor. "Or him. Redundancy in misconduct leads to collective liability."
+
+The defender, mushroom still clutched protectively. "Three goblins caused disruption. Three goblins face consequences."
 
 "But Grak take—" the defender started.
 

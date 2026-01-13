@@ -6,7 +6,9 @@ Victor watched fourteen pairs of yellow eyes process what they were seeing. A hu
 
 He was *talking*.
 
-The pack leader's primitive mind struggled with the contradiction. Prey ran. Prey begged. Prey did not negotiate. This creature violated every category the goblin had ever learned.
+The pack leader's primitive mind struggled with the contradiction. Prey ran. Prey begged.
+
+Prey did not negotiate. This creature violated every category the goblin had ever learned.
 
 Victor used the confusion to gather data.
 
@@ -35,7 +37,7 @@ The pack leader snarled something in Goblin. Victor's ARMI interface translated 
 
 Victor addressed the leader directly, his voice carrying the calm authority of a thousand quarterly earnings calls.
 
-"I have a proposal. This dungeon's boss is dead—" he gestured at Marcus's corpse "—and someone needs to manage this territory. The position is open. I'm offering... employment."
+"I have a proposal. This dungeonfloor's boss is dead—" he gestured at Marcus's corpse "—and someone needs to manage this territory. The position is open. I'm offering... employment."
 
 The word meant nothing to the pack. But ARMI provided context:
 
@@ -54,13 +56,17 @@ The leader barked a laugh—ugly, sharp—and charged.
 
 Victor didn't move.
 
-He had no weapon. No combat training. No chance in a physical confrontation. But he had one asset the goblins hadn't accounted for.
+He had no weapon. No combat training. No chance in a physical confrontation.
+
+But he had one asset the goblins hadn't accounted for.
 
 He had something worth more than violence.
 
 Victor grabbed a health potion from Marcus's backpack and threw it—not *at* the charging goblin as a weapon, but *to* him. An offering.
 
-The leader caught it reflexively. His charge stuttered, stopped. He stared at the vial in his clawed hand. The red liquid glowed faintly, warm against his palm.
+The leader caught it reflexively. His charge stuttered, stopped.
+
+He stared at the vial in his clawed hand. The red liquid glowed faintly, warm against his palm.
 
 This was worth more than a week of hunting. This was the kind of treasure that packs killed each other over.
 
@@ -129,6 +135,10 @@ After a long moment, he lowered his weapon. The others followed.
 
 Victor nodded. "Standard probationary period. Acceptable."
 
+He reached into the bag and pulled out the remaining four health potions, setting them on a flat stone with deliberate slow movements. "Distributed as per our agreement. Performance-based incentives will follow."
+
+The goblins stared at the glowing glass, their primitive hierarchy momentarily shattered by the sudden influx of wealth. For them, this wasn't just medicine; it was capital. Victor watched the shift in their eyes, calculating the exact amount of gratitude needed to prevent a knife in the back.
+
 > **[ARMI - HOSTILE TAKEOVER: PARTIAL]**
 > Entities Acquired: 14 (provisional)
 > Loyalty Status: UNSTABLE
@@ -144,7 +154,7 @@ Sniv lingered near Victor, his yellow eyes fixed on the human's face with an int
 
 "Boss," Sniv said, the word awkward in his mouth. "Boss give Sniv... food?"
 
-Victor looked at the small goblin. Three days from starvation. Pathetic. Desperate.
+Victor looked at the small goblin. Pathetic and desperate, he was three days from starvation.
 
 Also: the only creature in this dungeon who had chosen him freely. Not because of fear or calculation or pack dynamics. Because Victor had offered something no one else ever had.
 
@@ -203,6 +213,8 @@ But he had something he hadn't had an hour ago.
 
 *Human resources.*
 
+He had turned a death sentence into a recruitment drive. The overhead was high, and the loyalty was paper-thin, but it was a foundation. And in any restructuring, the first stage was always about securing the base.
+
 Now he just needed to make them productive.
 
 ---
@@ -212,13 +224,14 @@ Now he just needed to make them productive.
 ---
 
 > **[ARMI - SESSION SUMMARY]**
-> Balance: 0 GP (4 Potions expended as investment)
+> Balance: 0 GP (5 Potions expended as investment)
 > Employees: 14 (13 provisional, 1 stable)
-> Assets: 1 Health Potion (reserve), Travel Rations (depleting)
+> Assets: Travel Rations (depleting)
+> Note: High maintenance (3.5 GP/capita) justified by loyalty jumpstart.
 > Pending: Floor census, Minotaur assessment
 > Status: OPERATIONAL (Resource-constrained)
 
 ---
 
-**Word Count**: ~1,680
+**Word Count**: 1,579
 **Next Chapter**: [The First Quiet Moment]

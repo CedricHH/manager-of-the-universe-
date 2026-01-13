@@ -166,7 +166,7 @@ This creates conflict (Arc 1, Act 3).
 
 For Victor, gold and mana are interchangeable:
 
-- 1 GP = 1 Mana Point
+- 1 GP = 10 Mana Points (System Base Rate)
 - Monsters cost mana to spawn
 - Kills generate gold for Core
 - Victor's ARMI converts freely
