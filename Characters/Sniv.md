@@ -150,6 +150,8 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 - Physische Evolution beschleunigt durch bessere Ernährung (Ch 9, 18% Fortschritt)
 - Ernennung zum **Chief of Staff** im Board meeting (Ch 11)
 - Erfolgreiche erste Oberflächen-Mission nach Oakhaven (Ch 12)
+- Ausführung der Rumor-Expansion-Strategie mittels Pyrit (Ch 13)
+- Übernahme der Rolle als "Scare Actor" für den ersten Kundenkontakt (Ch 13)
 - Führte Trap-Diversion-Strategie gegen erste Abenteurer aus
 
 **Corporate Evolution (Ch 24-34)**

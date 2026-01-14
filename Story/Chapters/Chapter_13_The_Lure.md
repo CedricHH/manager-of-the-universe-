@@ -38,7 +38,7 @@ Guard-1 scratched his head. "Scare them... but make them come in?"
 
 "Exactly. It's the haunted house principle. People pay to be scared, as long as they think there's a prize at the end."
 
-"And the trap?" Guard-1 pointing to the pressure plate that had killed Marcus. The stone slab was reset, the spikes retracted, but the trigger mechanism was still active.
+"And the trap?" Guard-1 pointed to the pressure plate that had killed Marcus. The stone slab was reset, the spikes retracted, but the trigger mechanism was still active.
 
 "Keep it," Victor said. "But mark it. Faintly. Scrape the stone around the edges so it looks slightly different from the floor. Maybe leave a broken arrow pointing near it."
 
@@ -118,7 +118,6 @@ Two days later, the proximity alarm triggered.
 
 > **[ARMI]**
 > **PERIMETER ALERT**: Intrusion Detected (Floor 1 Entrance)
-> **Activity**: Intrusion Detected (Floor 1 Entrance)
 > **Entities**: 2
 > **Classification**: Humanoid (Human/Elf)
 > **Threat Level**: Low
@@ -148,7 +147,7 @@ Victor smiled. *Good boy. Analyze the data.*
 
 They moved forward, stepping carefully over the cleared rubble.
 
-"Hold up," Jace hissed. He pointed to the floor in front of them. The feint scratch marks Victor had ordered around the pressure plate. "See that? Discoloration."
+"Hold up," Jace hissed. He pointed to the floor in front of them. The faint scratch marks Victor had ordered around the pressure plate. "See that? Discoloration."
 
 Mira squinted. "Trap?"
 
