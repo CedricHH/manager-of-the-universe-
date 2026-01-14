@@ -164,7 +164,8 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 
 **Phase 2: Konsolidierung (Ch 11-25)**
 - Rekrutierte Asterion (Minotaur Boss) via "Performance Review" (Ch 16)
-- Unterschrieb [The Guardian's Pact] mit Asterion; ernannte ihn zum CSO
+- Unterschrieb [The Guardian's Pact] mit Asterion; ernannte ihn zum CSO (Ch 16)
+- Startete Mission: "The Headhunt" (Ziel: Level 15+ Party in 30 Tagen) (Ch 17)
 - Wehrte "Silver Lance" Party ab ohne Tötung; etablierte Ruf
 - Stellte Zip ein; formalisierte Org Chart
 

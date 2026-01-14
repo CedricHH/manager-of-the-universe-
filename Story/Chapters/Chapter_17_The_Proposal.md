@@ -11,11 +11,11 @@ The Minotaur was a mountain of muscle and matted fur, standing easily nine feet 
 "Tell me your plan," Asterion rumbled, his voice tectonic. "And I'll decide whether to eat you or listen."
 
 Victor cleared his throat, checking his internal interface.
-> **[ARMI Status Check]**
-> **Heart Rate:** 110 BPM (Elevated)
-> **Cortisol Levels:** High
-> **Charisma Mod:** +2 (Suit Bonus applied, despite damage)
-> **Probability of Survival:** 12% (Rising from 0%)
+> **[ARMI]**
+> **Session**: Negotiation Phase | Asset: [Asterion]
+> **Biometrics**: Heart Rate 110 BPM (Elevated) | Cortisol: High
+> **Active Buffs**: [Suit Bonus] +2 Charisma (Condition: Damaged)
+> **Simulation**: Survival Probability 12% (Trend: Rising)
 
 "This dungeon is a failing business," Victor began, his voice steady. "You are operating at a hundred percent loss. No adventurers. No loot cycle. No purpose. You are the final boss of... nothing."
 
@@ -52,22 +52,23 @@ The Minotaur went still. The silence stretched, heavy and suffocating. Victor he
 "Words," Asterion spat, though the anger had lost its edge. "Words are wind. Prove your worth."
 
 He lifted the axe. For a split second, Victor saw his death. The analytics flashed red.
-> **[Warning]**
-> **Threat Assessment:** Lethal
-> **Evasion Chance:** 0.0001%
+> **[ARMI]**
+> **Alert**: Lethal Threat Detected.
+> **Evasion Chance**: 0.0001%
+> **Note**: Negotiation is the only viable path to survival.
 
 But the axe didn't fall. Asterion pointed the haft at Victor, a gesture of challenge.
 
 "Bring me a worthy opponent within one month," the Minotaur commanded. "Someone who can actually make me sweat. Someone who knows the old forms of combat. Fail, and I burn your little empire to the ground. I will start with your goblins, I will destroy your traps, and I will end with you."
 
 The air between them shimmered, the magic of the dungeon responding to the vow.
-> **[ARMI Alert]**
-> **Contract Triggered: [The Guardian's Pact]**
-> **Party A:** Victor Kaine (Manager)
-> **Party B:** Asterion (Guardian/Final Boss)
-> **Terms:** Deliver "Worthy Opponent" (Level 15+ or equivalent party power)
-> **Deadline:** 30 Days
-> **Penalty:** Total liquidation of assets (Death)
+> **[ARMI]**
+> **Contract Triggered**: [The Guardian's Pact]
+> **Party A**: Victor Kaine (Manager)
+> **Party B**: Asterion (Guardian/Final Boss)
+> **Terms**: Deliver "Worthy Opponent" (Level 15+)
+> **Deadline**: 30 Days
+> **Penalty**: [Total Liquidation] (Death)
 > **Status:** AWAITING CONFIRMATION
 
 Victor stood up, his legs like jelly, but he locked his knees. He brushed invisible lint from his lapel.
@@ -98,9 +99,8 @@ Sniv was waiting by the archway, practically vibrating with anxiety. The little 
 
 Current Status check:
 > **[ARMI]**
-> **Stamina:** 14/50 (Exhausted)
-> **Stress:** Critical
-> **Status:** Alive (Surprisingly)
+> **Biometrics Update**: Stamina 14/50 (Exhausted) | Stress: Critical
+> **Status**: Successfully Disengaged from High-Threat Entity.
 
 Victor pushed himself off the wall and walked past the goblin, heading for the central chamber he had commandeered as his office. He collapsed onto the stone seat he called a throne, the cold rock seeping through his trousers.
 
@@ -137,12 +137,11 @@ He picked up one of the copper coins and flipped it. It caught the torchlight, g
 "We're going to advertise," Victor declared.
 
 > **[ARMI]**
-> **Mission Updated: The Headhunt**
-> **Objective:** Lure a High-Level Adventurer Party (Level 15+)
-> **Time Remaining:** 29 Days, 23 Hours
-> **Budget:** 3 Copper Coins, 1 Button
-> **Current Assets:** 43 incompetent Goblins, 1 Manager, 1 Existentially Bored Minotaur
-> **Projected Success Rate:** < 1%
+> **Mission Updated**: [The Headhunt]
+> **Objective**: Lure High-Level Party (Level 15+)
+> **Time Remaining**: 29 Days, 23 Hours
+> **Budget**: 3 Copper | 1 Button
+> **Projected Success Rate**: < 1%
 
 Victor looked at the holographic display floating in his peripheral vision. The odds were insults. He had built empires on worse odds.
 

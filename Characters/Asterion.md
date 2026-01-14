@@ -146,8 +146,8 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 - Identifiziert als "bored Boss" (Existential Ennui) via Performance Review (Ch 11)
 - Akzeptierte Sir Kael's Schwert als "Down Payment" für Partnerschaft (Ch 12)
 - Unterschrieb [The Guardian's Pact] (Ch 16)
-- Erhielt 10 GP Signing Bonus in Form von prozessiertem Mana
-- Offiziell zum **Chief Security Officer (CSO)** ernannt
+- Erhielt 10 GP Signing Bonus in Form von prozessiertem Mana; ernannt zum CSO (Ch 16)
+- Mission: Rekrutierung eines "Worthy Opponents" (Level 15+) innerhalb von 30 Tagen (Ch 17)
 
 **Die Performance (Ch 22)**
 - Kämpfte Silver Lance zu einem Stillstand (nicht-tödlich)
