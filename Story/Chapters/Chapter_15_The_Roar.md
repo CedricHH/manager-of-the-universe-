@@ -24,7 +24,7 @@ Victor looked at the entrance. The trap was set. The bait—Marcus’s glowing s
 
 All they needed was an audience.
 
-"If no one comes," Victor said, more to himself than the goblin, "we have two choices. We fight a Level 32 Minotaur with sharp sticks, or we run."
+"If no one came tomorrow, he would have to explain to a Level 20 Minotaur why his 'entertainment' strategy had yielded zero entertainments."
 
 "Running means leaving the Core," Victor pointed out. "If we leave the Core, we lose our jobs. And in this economy, 'unemployed dungeon manager' looks terrible on a resume."
 
@@ -45,6 +45,11 @@ Victor’s internal risk monitor spiked. He tapped the screen, expanding the fee
 Four figures were walking up the overgrown path to the ruin.
 
 "Jackpot," Victor breathed.
+
+> **[ARMI]**
+> **Session**: Day 12 (Deadline -1) | Entity Identified: [Professional Party]
+> **Risk Profile**: Significant | Engagement Protocol: [Passive Baiting/Confidentiality]
+> **Note**: These aren't bottom-feeders. High-level customer acquisition requires high-level psychological engineering.
 
 ***
 
@@ -273,7 +278,7 @@ Victor looked at his trembling hands.
 
 He could run. He could chase the adventurers, beg for mercy, maybe get arrested by the Guard. Prison was safer than this.
 
-But then he looked at Sniv, huddled in the corner of the shaft, shaking like a leaf. He looked at the dungeon—this broken, dusty, beautiful mess of a startup he had built from nothing over the last week.
+But then he looked at Sniv, huddled in the corner of the shaft. The goblin's cortisol levels were clearly red-lining, his pupils dilated in a classic fear response that Victor found tragically inefficient. He looked at the dungeon—this broken, dusty, beautiful mess of a startup he had built from nothing over the last week.
 
 "I’m not quitting," Victor whispered.
 

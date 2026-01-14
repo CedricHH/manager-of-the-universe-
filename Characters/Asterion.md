@@ -150,6 +150,7 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 
 **Die Performance (Ch 22)**
 - Kämpfte Silver Lance zu einem Stillstand (nicht-tödlich)
+- Beendete seine Extension vorzeitig durch Hunger; vertrieb die Silver Lance Party mit einem Brüllen; startete Pitch Meeting mit Victor (Ch 15)
 
 **Formelle Anstellung (Ch 26)**
 - Unterschrieb Vertrag als **Chief Security Officer (CSO)**
