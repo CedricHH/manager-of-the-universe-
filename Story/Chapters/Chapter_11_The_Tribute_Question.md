@@ -2,9 +2,17 @@
 
 Victor convened the Board at dawn.
 
-The "Board" consisted of five goblins: Sniv (Chief of Staff), Guard-1 and Guard-2 (Security), Mining-Lead (Operations), and Farm-Lead (Logistics). They gathered in the Boss Chamber, standing nervously around the newly constructed stone table Victor had ordered.
+The "Board" consisted of five goblins: Sniv (Chief of Staff), Guard-1 and Guard-2 (Security), Mining-Lead (Operations), and Farm-Lead (Logistics). They gathered in the Boss Chamber, standing nervously around the newly constructed stone table Victor had ordered. It was a crude thing—a slab of grey granite hauled up from Floor Two and smoothed out with broken adventurer shields—but it served its symbolic purpose.
 
-They looked terrified. Not just standard goblin paranoia, but deep, ancestral dread.
+In the corporate world, the table was the neutral ground where logic was supposed to prevail. In this dungeon, it was just another edge to hide behind.
+
+They looked terrified. Not just standard goblin paranoia, but deep, ancestral dread. Even Sniv, who had seen Victor reshape the very nature of their tribe, kept his eyes glued to the rough-hewn surface of the table.
+
+> **[ARMI]**
+> Event: Leadership Formation | Scale: Institutional
+> Subject: "The Board of Directors" (Status: UNSTABLE)
+> Note: Cognitive dissonance detected among participants. Ancestral survival instincts are currently overriding corporate directives.
+> Recommendation: Assert dominance via logic-based ultimatums.
 
 "The situation is simple," Victor began, his voice echoing off the cold stone walls. "The tenant on Floor Four has demanded rent."
 
@@ -12,11 +20,13 @@ He looked at each of them in turn.
 
 "We have three days. The demand is: twenty percent of our food, ten percent of our wealth, or one soul per month."
 
-Farming-Lead—a goblin named Root with chronic sniffles—trembled. "Twenty percent is much food. Very much. Winter comes. We starve if we give."
+Farming-Lead—a goblin named Root with chronic sniffles—trembled so hard his clipboard rattled. "Twenty percent is much food. Very much. Winter comes. We starve if we give. High-grass outside dies, mushrooms slow down. If Cow-Man takes, we die in dark."
 
-"And we have no wealth yet," Victor pointed out. "The iron ore is potential wealth, not actual wealth. We can't pay ten percent of potential."
+"And we have no wealth yet," Victor pointed out, his tone dry. "The iron ore is potential wealth, not actual wealth. We can't pay ten percent of potential. In my world, we call that a paper gain. It's useless for paying bills."
 
-"Then soul?" Guard-2 asked. He touched the hilt of his crude spear. "We have twenty-six. Can spare one. Maybe Labor-15. He slow."
+"Then soul?" Guard-2 asked. He was the most practical of the group, a survivalist who viewed every goblin as a component in a machine. He touched the hilt of his crude spear. "We have twenty-six. Can spare one. Maybe Labor-15. He slow. He eats more than he digs. If we give him, Cow-Man is full, and twenty-five stay alive."
+
+The other goblins shifted. Some nodded—a grim, desperate calculus. It was the same math that had kept their species alive for millennia: throw the weakest to the wolf and keep the pack moving.
 
 Victor slammed his hand on the table. The sharp crack made all five goblins jump.
 
@@ -24,17 +34,19 @@ Victor slammed his hand on the table. The sharp crack made all five goblins jump
 
 The word hung in the air. Absolute. Non-negotiable.
 
-"We do not sacrifice employees. Ever. That is the quickest way to destroy morale and ensure that the next time, *you* might be the one on the block." Victor leaned forward. "If we pay the soul tribute once, we pay it forever. Until there's no one left."
+"We do not sacrifice employees. Ever. That is the quickest way to destroy morale and ensure that the next time, *you* might be the one on the block." Victor leaned forward, his analytical gaze pinning each of them in turn. "If we pay the soul tribute once, we pay it forever. Until there's no one left but me and a very well-fed Minotaur. From a resource management perspective, it's a spiral toward bankruptcy."
 
-Sniv nodded vigorously, clearly relieved that he wasn't on the menu.
+Sniv nodded vigorously, clearly relieved that he wasn't on the menu for today's departmental cuts. "Boss is right! If we give Labor-15, then Labor-14 is next. Then Sniv! Then Guard-2! No more gobs!"
 
-"Then what choice?" Mining-Lead asked. "Fight?"
+"Then what choice?" Mining-Lead asked, scratching his scarred chin. "Fight?"
 
-Guard-1 snorted. "Fight Cow-Man? Cow-Man kill whole parties. Cow-Man tear Marcus in half like wet bread. We die."
+Guard-1 snorted. "Fight Cow-Man? Cow-Man kill whole parties. Cow-Man tear Marcus in half like wet bread. We die. Spears go *snap* on his skin. Magic goes *pop* on his head."
 
-"So we can't pay, and we can't fight," Victor summarized.
+"So we can't pay, and we can't fight," Victor summarized. He leaned back in his throne, his fingers steepled. It was a classic "distressed asset" scenario. He had a creditor moving in for a hostile takeover, and he had no liquid capital to buy them off. 
 
-"Run," Root suggested. "Leave dungeon. Find new cave. Far away."
+In New York, he would have filed for Chapter 11. Here, Chapter 11 was currently the chapter of his life. 
+
+"Run," Root suggested, his voice small. "Leave dungeon. Find new cave. Far away. Deep in mountains. Cow-Man too big for small holes."
 
 The other goblins murmured agreement. Running was a strategy they understood. It had kept their species alive for millennia.
 
@@ -62,9 +74,13 @@ They returned six hours later, shaking and smelling of sulfur, but alive.
 
 Victor frowned. "He threw away food?"
 
-"Yes. Looked... sad?" The goblin shrugged, the concept of a sad Minotaur clearly beyond his pay grade.
+"Yes. Looked... sad?" Shadow-1 mimicked a slumped posture. "Not hungry-sad. Just... heavy-sad. Like when goblin finds no shinies for many suns." The goblin shrugged, the concept of a sad Minotaur clearly beyond his pay grade.
 
-Victor dismissed them and sat on his throne, closing his eyes.
+Victor dismissed them with a wave and sat on his throne, closing his eyes. The reports were consistent. The "Master" of the fourth floor wasn't hunting. He wasn't foraging. He was existing. 
+
+He was an apex predator without a prey pool. A CEO with an empty office and a telephone that never rang. 
+
+*Loneliness is a significant overhead.*
 
 He activated his skill.
 
@@ -77,6 +93,8 @@ The familiar blue overlay shimmered into existence, but this time it was distant
 
 Then, a ping.
 
+Victor opened his eyes.
+
 > **[ARMI]**
 > Target: Floor Four | Skill: [Performance Review]
 > Cost: 25 SP | Status: APPROVED
@@ -84,8 +102,7 @@ Then, a ping.
 > **Analysis: ASTERION (The Eternal Guardian)**
 > Species: Minotaur (Boss) | Level: 20
 > Status: Underutilized (Existential Ennui)
-
-Victor opened his eyes.
+> Note: Target is currently experiencing high levels of boredom. 
 
 *Boredom.*
 

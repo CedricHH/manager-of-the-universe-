@@ -52,7 +52,7 @@ Sniv gasped, clutching his clipboard. "Boss want humans to see trap? Boss is cra
 
 The bait was the hardest part.
 
-Marcus's sword—the "Fire-Stick"—was their most valuable asset. The blade glowed with a steady, orange pulse, humming with magical energy. It was a Soulbound weapon, useless to anyone but its deceased owner, but the glowing effect was undeniable.
+The Hero's sword—the "Fire-Stick"—was their most valuable asset. The blade glowed with a steady, orange pulse, humming with magical energy. It was a Soulbound weapon, useless to anyone but its deceased owner, but the glowing effect was undeniable.
 
 It screamed *loot*.
 
@@ -160,7 +160,7 @@ They skirted the trigger mechanism with exaggerated caution.
 
 They reached the stairs to Floor Two. Jace paused, looking down into the dark.
 
-Then, from deep below—from the pedestal on Floor Three—the faint, orange glow of Marcus's sword pulsed.
+Then, from deep below—from the pedestal on Floor Three—the faint, orange glow of the Hero's sword pulsed.
 
 It reflected off the walls, a beacon in the dark.
 

@@ -24,7 +24,7 @@ Victor looked at the entrance. The trap was set. The bait—Marcus’s glowing s
 
 All they needed was an audience.
 
-"If no one comes," Victor said, more to himself than the goblin, "we have two choices. We fight a Level 25 Minotaur with sharp sticks, or we run."
+"If no one comes," Victor said, more to himself than the goblin, "we have two choices. We fight a Level 32 Minotaur with sharp sticks, or we run."
 
 "Running means leaving the Core," Victor pointed out. "If we leave the Core, we lose our jobs. And in this economy, 'unemployed dungeon manager' looks terrible on a resume."
 
@@ -40,7 +40,7 @@ As if on cue, a blue screen flickered into existence in front of his eyes.
 > **Classification**: Adventurer Party (Mid-Level)
 > **Threat Assessment**: High
 
-Victor’s heart skipped a beat. He tapped the screen, expanding the feed from the external sensors (actually unsuspecting beetles he’d tagged with mana).
+Victor’s internal risk monitor spiked. He tapped the screen, expanding the feed from the external sensors (actually unsuspecting beetles he’d tagged with mana).
 
 Four figures were walking up the overgrown path to the ruin.
 
@@ -134,7 +134,7 @@ The party pushed forward, slaughtering the few slimes that got in their way with
 
 And there it was.
 
-The pulsing orange light. The hum of power. Marcus's sword, embedded in the stone like Excalibur waiting for a king.
+The pulsing orange light. The hum of power. The Hero's sword, embedded in the stone like Excalibur waiting for a king.
 
 The Silver Lance stopped. Even the bored Mage looked impressed.
 
@@ -180,7 +180,7 @@ Victor froze. *What?*
 
 Silence in the chamber.
 
-Victor felt his stomach drop. Error in asset valuation. Marcus was a vanity hero; of course his sword was a cosmetic prop.
+Victor felt his stomach drop. Error in asset valuation. The dead hero was a vanity build; of course his sword was a cosmetic prop.
 
 "Waste of time," Finn kicked a pebble. "Establishment is a joke. Level 1 goblins and a glow-stick sword. Let's bail."
 
@@ -188,7 +188,7 @@ Victor felt his stomach drop. Error in asset valuation. Marcus was a vanity hero
 
 They turned around. They were leaving.
 
-"No," Victor whispered. "No, no, no. You can't leave. You have to take it. You have to tell people!"
+"Client retention failure," Victor whispered. "No. The funnel isn't closed. You can't leave. You have to take it."
 
 If they left now, they would tell everyone the dungeon was a bust. 'Don't bother, it's just trash loot.' That was worse than being unknown. That was being *bad*.
 
@@ -232,7 +232,7 @@ The Silver Lance party froze. Their professional veneer cracked instantly.
 
 "Above us," Kaelie whispered. She was pale. "Way above us. That's... that's a Boss. A real Boss."
 
-Technically, Asterion was a Mid-Boss, but to a Level 12 party, the distinction was academic.
+Technically, Asterion was a Floor Boss, but to a Level 12 party, the distinction was academic.
 
 **"I SMELL..."**
 
@@ -262,7 +262,7 @@ Then, he turned his head slowly, scanning the shadows of Floor Three.
 
 **"Manager,"** he rumbled. **"The clock strikes."**
 
-Victor, hidden in the ventilation shaft, felt a cold sweat unlike anything he’d experienced before.
+Victor, hidden in the ventilation shaft, registered a level of terror that his logical mind struggled to quantify.
 
 The adventurers were gone. They had fled in terror.
 

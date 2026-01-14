@@ -18,7 +18,7 @@ He tapped the wall. "And the poison darts?"
 
 "Good."
 
-Victor walked along the corridor. The swinging blade trap—a massive pendulum of sharpened steel—had been dismantled. In its place hung a log deeply wrapped in moss and leather. It wouldn't slice a man in half. It would just break a rib and knock the wind out of him.
+Victor walked along the corridor. The swinging blade trap—a massive pendulum of sharpened steel—had been dismantled. In its place hung a log heavily padded with moss and leather. It wouldn't slice a man in half. It would just break a rib and knock the wind out of him.
 
 "Why, Boss?" Sniv asked, trotting to keep up. "Adventurers come to kill us. Why we not kill them?"
 
@@ -125,11 +125,7 @@ He just waited for the dawn.
 "Boss? Boss!"
 
 Victor snapped back.
-He was gripping the handle of the lever so hard his knuckles (green, clawed) were white.
-
-"Boss gone again," Sniv whispered to a nearby goblin. "Boss seeing ghosts."
-
-Victor released the lever. He took a breath. The dungeon air was cool.
+Victor released the lever. He took a breath. His pulse spiked to 140 BPM, adrenaline flushing his system until he forced the biological response into a controlled baseline. The dungeon air was cool.
 
 "I'm here, Sniv," Victor said. "Just... checking the mechanism."
 
@@ -141,7 +137,7 @@ He walked toward the stairs. "Is the perimeter secure?"
 
 "Yes, Boss. Rats are watching. Bats are watching. No adventurers."
 
-As if on cue, a chiming sound echoed through Victor's skull.
+A chiming sound echoed through Victor's skull.
 
 > **[ARMI Alert]**
 > **Perimeter Breach Detected.**

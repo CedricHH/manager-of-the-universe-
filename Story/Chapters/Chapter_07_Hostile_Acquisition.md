@@ -6,7 +6,7 @@ To him, it was beautiful.
 
 "Floor Three," he said, tapping the central square. "Their base of operations. Sniv's reconnaissance indicates a large chamber here—high ceilings, multiple columns, two entrances."
 
-The Guard Team—four goblins who had earned the position by being marginally less incompetent than the others—stared at the wall with expressions ranging from confusion to terror. They understood the word "Floor Three." They understood "danger."
+The Guard Team—three goblins who had earned the position by being marginally less incompetent than the others—stared at the wall with expressions ranging from confusion to terror. They understood the word "Floor Three." They understood "danger."
 
 The concept of "tactical planning" was somewhat beyond them.
 
@@ -16,7 +16,7 @@ The concept of "tactical planning" was somewhat beyond them.
 
 "Correct. A corridor only allows two or three goblins to fight at once. Numbers become irrelevant."
 
-Victor surveyed his assembled strike force. Five goblins total, including himself. They would be facing somewhere between fifteen and twenty hostiles, depending on how many the Alpha had kept as a core fighting force.
+Victor surveyed his assembled strike force. Five bodies total—himself, Sniv, the three guards, and one volunteer from Food Team who claimed to know the tunnels. They would be facing somewhere between fifteen and twenty hostiles, depending on how many the Alpha had kept as a core fighting force.
 
 *Direct confrontation is a resource-intensive failure mode. We will opt for a non-linear acquisition strategy.*
 

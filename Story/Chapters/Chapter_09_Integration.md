@@ -223,7 +223,7 @@ Victor folded the scroll carefully.
 > Balance: 0 GP
 > Employees: 26 goblins (14 veteran, 12 probationary)
 > Systems Implemented: Merit Points (Incentivization)
-> Operations: Floor 2 (Farming), Floor 3 (Mining), Floor 5 (Command)
+> Operations: Floor 2 (Farming), Floor 3 (Mining), Floor 1 (Command)
 > Resources Discovered: Iron Ore Vein (Unprocessed)
 > Discovery: Sir Kael's Remains + Warning Scroll
 > Asterion Threat Level: EXTREME (Confirmed by historical data)

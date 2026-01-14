@@ -101,13 +101,13 @@ Confused nods. Close enough.
 
 He assigned teams with the efficiency of a man who had restructured Fortune 500 companies before breakfast.
 
-**Food Team**: Four goblins responsible for hunting slimes and gathering mushrooms. The biggest one became Food-Lead.
+**Food Team**: Four goblins responsible for hunting slimes and gathering mushrooms. One became Food-Lead; three reported to him.
 
-**Guard Team**: Four goblins for perimeter security. Rotating shifts. The sleeping guard was stripped of his Lead status—given to the next largest.
+**Guard Team**: Three goblins for perimeter security. Rotating shifts. The sleeping guard was stripped of his Lead status—the next largest promoted in his place.
 
-**Labor Team**: Four goblins for sanitation, construction, transportation. Every task that didn't fit elsewhere.
+**Labor Team**: Three goblins for sanitation, construction, transportation. Every task that didn't fit elsewhere.
 
-Each Lead reported to Sniv. Sniv reported to Victor. Chain of command established.
+That left Sniv, who reported directly to Victor. Chain of command established: ten workers, three Leads, one COO, one Boss.
 
 > **[ARMI - ORGANIZATIONAL RESTRUCTURE]**
 > Departmental Structure Implemented

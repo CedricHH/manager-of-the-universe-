@@ -1,9 +1,9 @@
 # Asterion - Chief Security Officer
 
 > **Rolle**: Chief Security Officer (CSO), Victors General  
-> **Klasse/Spezies**: Minotaurus (Boss-Class, Level 32)  
+> **Klasse/Spezies**: Minotaurus (Boss-Class, Level 20 → 32)  
 > **Archetyp**: Der existenziell traumatisierte Krieger  
-> **Status**: Aktiv (CSO, Oakhaven Region)
+> **Status**: Aktiv (CSO, Oakhaven Region; Distressed Stakeholder)
 
 ---
 
@@ -14,7 +14,7 @@
 | **Vollständiger Name** | Asterion |
 | **Titel/Spitzname** | CSO, The Compliance Tool (sein Axt-Name) |
 | **Klasse/Spezies** | Minotaurus (Boss-Class) |
-| **Level** | 32 (General Class) |
+| **Level** | 20 (Arc 1) → 32 (Arc 2+) |
 | **Alter** | 247 Jahre |
 | **Position** | Chief Security Officer (CSO) |
 | **Erstauftritt** | Kapitel 5 |
@@ -98,7 +98,7 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 
 | Stat | Wert | Notizen |
 |------|------|---------|
-| **Level** | 32 | General Class |
+| **Level** | 20 (Base) → 22 (Ch 70+) → 32 (Arc 2) |
 | **HP** | 5.500 | Regeneriert im Heim-Dungeon |
 | **STR** | 48 | Kann Rüstung mit bloßen Händen zerquetschen |
 | **AGI** | 16 | Langsam aber mächtig |
@@ -141,8 +141,11 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 
 ### Arc 1: Der Boss wird Employee (Kapitel 5-80)
 
-**Rekrutierung (Ch 16-17)**
-- Akzeptierte Victors Angebot, "General" zu werden
+**Rekrutierung & Negotiation (Ch 10-17)**
+- Forderte Tribute via Imp-Messenger (Ch 10)
+- Identifiziert als "bored Boss" (Existential Ennui) via Performance Review (Ch 11)
+- Akzeptierte Sir Kael's Schwert als "Down Payment" für Partnerschaft (Ch 12)
+- Akzeptierte Victors Angebot, "General" zu werden (Ch 16-17)
 - Unterschrieb [The Guardian's Pact]
 
 **Die Performance (Ch 22)**

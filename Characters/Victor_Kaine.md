@@ -85,7 +85,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 | **Lysander Corvus** | Antagonist (Arc 2) | Gildemeister; ökonomischer Krieg → Verhandlung |
 | **High Priestess Aurelia** | Geschäftspartnerin | 15% Brokerage-Deal (Miracles-Handel) |
 | **Lord Sterling** | Politischer Verbündeter | 20% Revenue Share; gegenseitiger Nutzen |
-| **Executor Veyra** | Konsortium-Enforcer | Audit überlebt; Probation aufgehoben |
+| **Executor Veyra** | Konsortium-Enforcer | Audit überlebt; Probation aufgehoben |\r\n| **Elena Chen** | Ehemalige Protégé | Verräterin (Earth-Backstory); nutzte seine Philosophie gegen ihn |
 
 ---
 
@@ -149,10 +149,15 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 
 ### Arc 1: Aufstieg vom Dungeon zum Regional Operator (Kapitel 1-100)
 
-**Phase 1: Überleben & Foundation (Ch 1-10)**
+**Phase 1: Überleben & Foundation (Ch 1-12)**
 - Erwachte im Dungeon; verhandelte mit Goblins statt zu kämpfen
 - Stellte Sniv als Employee #1 ein; etablierte "Corporate Structure"
 - Eroberte Floors 1-3 mit Fallen und Verträgen
+- Implementierte **Merit Point System** (Gamification für Goblins) (Ch 9)
+- Etablierte das **Board of Directors** (Sniv, Guard-1, Guard-2, Root, Mining-Lead) (Ch 11)
+- Identifizierte Asterions Boredom als Leverage; bot "Employment" statt Tribute (Ch 11)
+- Startete **Operation Market Research**: Sniv zur Oberfläche entsandt (Ch 12)
+- Implementierte **Teaser Strategy** (Baiting mit Fire-Stick) (Ch 12)
 
 **Phase 2: Konsolidierung (Ch 11-25)**
 - Rekrutierte Asterion (Minotaur Boss) via "Performance Review"

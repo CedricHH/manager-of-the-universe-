@@ -48,7 +48,7 @@ Victor watched the micro-expressions flicker across their faces. Anger from Bron
 
 That was the opening. Curiosity was a crack in the wall. All Victor needed was a crack.
 
-"The boss of this dungeon is a Level 25 Minotaur," Victor continued, his tone shifting to clinical analysis. Facts. Numbers. Data. The language of rationality. "Name: Asterion. Classification: Mythic Beast. Three centuries of continuous combat experience. Weapon: a Minotaur War-Axe of Ancestral design—enchanted, probably cursed, definitely unpleasant. Regeneration factor: significant. Pain tolerance: absolute."
+"The boss of this dungeon is a Level 20 Minotaur," Victor continued, his tone shifting to clinical analysis. Facts. Numbers. Data. The language of rationality. "Name: Asterion. Classification: Mythic Beast. Three centuries of continuous combat experience. Weapon: a Minotaur War-Axe of Ancestral design—enchanted, probably cursed, definitely unpleasant. Regeneration factor: significant. Pain tolerance: absolute."
 
 He paused. Let the data accumulate in their minds.
 

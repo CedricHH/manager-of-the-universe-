@@ -15,7 +15,7 @@ But Victor was not unarmed. He carried the most dangerous weapon in the universe
 *Current Assets:*
 *- Goblin workforce (Labor/Cannon fodder): 43 units*
 *- Silver Lance (Elite Mercenaries): Temporarily routed*
-*- Capital Reserves: 12,400 GP*
+*- Capital Reserves: 0.03 GP (Liquid)*
 *- Influence: Rising*
 
 *Current Liabilities:*
@@ -79,17 +79,17 @@ A transparent blue grid overlaid his vision, scanning the massive creature befor
 
 > **[Target Analysis: Asterion]**
 > **Role:** Floor 4 Guardian
-> **Level:** 25 (Boss)
-> **HP:** 15,000 / 15,000
+> **Level:** 32 (Boss)
+> **HP:** 5,500 / 5,500
 > **Mana:** 500 / 500
 > **Skills:** [Seismic Slam], [Gore], [Labyrinth Call]
-> **Contract Status:** Bound (312 Years)
+> **Contract Status:** Bound (247 Years)
 > **Psych Profile:**
 > - Boredom: Critical (98%)
 > - Depression: High
 > - Motivation: 0%
 
-Victor suppressed a smile. *Jackpot.*
+Victor suppressed a smile. *Undervalued asset detected.*
 
 "I am neither," Victor replied, his voice calm and echoing in the vast chamber. "I am a manager. And I'm here to conduct your evaluation."
 
@@ -97,7 +97,7 @@ Asterion froze. The axe lowered an inch. "My... what?"
 
 "Your performance evaluation," Victor said, taking a step forward. He pulled a notebook from his pocket—pure theater, of course, but effective. "You've been in this position for, what? Three hundred years?"
 
-"Three hundred and twelve," Asterion grunted, confused by the sudden change in dynamic. Usually, the little ones screamed or threw fireballs. They didn't ask about his tenure.
+"Two hundred and forty-seven," Asterion grunted, confused by the sudden change in dynamic. Usually, the little ones screamed or threw fireballs. They didn't ask about his tenure.
 
 "And in that time," Victor continued, glancing at the piles of bones, "you've successfully defended the core. Zero breaches. A one hundred percent retention rate of floor assets."
 
@@ -172,7 +172,7 @@ Asterion bristled. "I should let them pass?"
 
 "Why?"
 
-"Because," Victor said, "dead men tell no tales. But terrified survivors? They tell everyone. They are marketing."
+"Because," Victor said, "dead adventurers have zero retention value. But terrified survivors? They tell everyone. They are marketing."
 
 Asterion was silent for a long time. He turned the idea over in his mind, chewing on it like cud.
 

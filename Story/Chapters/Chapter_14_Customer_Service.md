@@ -74,7 +74,7 @@ They reached the pressure plate trap. Jace paused, spotting the faint scratch ma
 
 They reached the top of the stairs leading to Floor Two. The darkness below was absolute—except for a faint, rhythmic orange pulse coming from deep within the earth.
 
-The reflection of Marcus's sword on the copper walls. It throbbed like a heartbeat, warm and inviting against the cold blue of the dungeon stone.
+The reflection of the Hero's sword on the copper walls. It throbbed like a heartbeat, warm and inviting against the cold blue of the dungeon stone.
 
 "The light," Mira breathed. She lowered her bow slightly. "It's beautiful."
 

@@ -146,7 +146,10 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 
 **Die erste Beförderung (Ch 8-14)**
 - Organisierte erste "Onboarding Census" für wilde Rekruten
-- Befördert zu "Manager"
+- Befördert zu "Manager" (Ch 8)
+- Physische Evolution beschleunigt durch bessere Ernährung (Ch 9, 18% Fortschritt)
+- Ernennung zum **Chief of Staff** im Board meeting (Ch 11)
+- Erfolgreiche erste Oberflächen-Mission nach Oakhaven (Ch 12)
 - Führte Trap-Diversion-Strategie gegen erste Abenteurer aus
 
 **Corporate Evolution (Ch 24-34)**

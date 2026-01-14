@@ -20,7 +20,7 @@ He led the small goblin up the stairs.
 
 Floor Two passed quickly—the organized rows of mushroom farms, the goblins nodding respectfully as their Boss walked by. Floor One was different. It was the original entrance, a ruined temple that had collapsed decades ago, leaving a jagged scar in the earth.
 
-Sunlight—real, unfiltered sunlight—streamed through the cracks in the ceiling, cutting through the gloom like laser beams.
+Sunlight—real, unfiltered sunlight—streamed through the cracks in the ceiling, cutting through the gloom like spears of fire.
 
 Sniv hissed and covered his eyes. "It burns! The sky-fire burns!"
 
@@ -45,7 +45,7 @@ That was Sniv's first thought as he crawled out of the hole in the earth. The ce
 
 The air moved. It pushed against his skin, carrying smells he didn't have names for. Pine needles. Wet earth. Something sweet and floral that made his nose twitch uncontrollably.
 
-He froze, his instincts screaming at him to burrow back into the safety of the stone. His heart hammered against his ribs like a trapped bird, beating so fast it made his vision blur.
+He froze, his instincts screaming at him to burrow back into the safety of the stone. His pulse spiked, a frantic rhythm that threatened to overwhelm his senses.
 
 *Boss trusts Sniv. Boss says Sniv is smart.*
 
@@ -171,13 +171,13 @@ The imp picked up the sword. It was heavy for the small creature, but it lifted 
 
 **"The Master will accept this... gesture. As a down payment."** The imp's eyes narrowed. **"But the full tribute schedule must be established within seven days. Or the dealership is closed."**
 
-"seven days," Victor agreed. "We'll have a proposal ready."
+"Seven days," Victor agreed. "We'll have a proposal ready."
 
 The imp vanished.
 
 Victor let out a long breath. He had bought a week.
 
-Seven days to turn a ruined temple into a tourist attraction for suicidal adventurers. Seven days to set the trap. Seven days to convince a Level 25 Minotaur that eating humans was better than eating goblins.
+Seven days to turn a ruined temple into a tourist attraction for suicidal adventurers. Seven days to set the trap. Seven days to convince a Level 20 Minotaur that eating humans was better than eating goblins.
 
 He looked at Sniv.
 

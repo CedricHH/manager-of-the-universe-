@@ -97,15 +97,15 @@ They anticipated each other's positions. They even developed a crude signaling s
 By the halfway point, they had developed a rhythm. Spot. Surround. Corner. Kill. Collect. The efficiency improved with each cycle, the time between kills shrinking as muscle memory replaced conscious thought.
 
 > **[ARMI - PROGRESS REPORT]**
-> Slimes Eliminated: 15
+> Slimes Eliminated: 16
 > Loot Collected:
-> - Slime Jelly x15 (Sufficient for 15 meals)
+> - Slime Jelly x16 (Sufficient for 16 meals)
 > - Acid Sac x3 (Stored for future application)
 > XP Gained (Victor): 15 (Coordination bonus)
-> Estimated Market Value: 30 GP (if liquidated)
+> Estimated Market Value: 32 GP (if liquidated)
 > Status: Operational efficiency improving.
 
-Thirty GP. Not enough for any major skills, but enough to prove a concept. Resources could be gathered. Value could be created. The dungeon wasn't just a death trap—it was an economy waiting to be optimized.
+Thirty-two GP. Not enough for any major skills, but enough to prove a concept. Resources could be gathered. Value could be created. The dungeon wasn't just a death trap—it was an economy waiting to be optimized.
 
 Victor was cataloguing their inventory when movement caught his eye.
 
@@ -202,7 +202,7 @@ The Alpha rat watched him, tail twitching in rhythmic greed. Deeper in the nest,
 > **[ARMI]**
 > Balance: 0 GP | Transaction: [Daily Audit]
 > Status: OPERATIONAL
-> Assets: 13 Slime Jelly, 3 Acid Sacs.
+> Assets: 14 Slime Jelly, 3 Acid Sacs.
 > Staffing: 14 Goblins, 12 Rats (Contractors).
 
 ---

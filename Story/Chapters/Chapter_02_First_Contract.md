@@ -142,7 +142,7 @@ The goblins stared at the glowing glass, their primitive hierarchy momentarily s
 > **[ARMI - HOSTILE TAKEOVER: PARTIAL]**
 > Entities Acquired: 14 (provisional)
 > Loyalty Status: UNSTABLE
-> Investment: 4 Health Potions (200 GP equivalent)
+> Investment: 5 Health Potions (250 GP equivalent)
 > Projected Maintenance: 50 GP/day (food costs)
 > Note: High-risk acquisition. Recommend rapid loyalty integration.
 

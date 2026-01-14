@@ -141,7 +141,7 @@ He picked up one of the copper coins and flipped it. It caught the torchlight, g
 > **Objective:** Lure a High-Level Adventurer Party (Level 15+)
 > **Time Remaining:** 29 Days, 23 Hours
 > **Budget:** 3 Copper Coins, 1 Button
-> **Current Assets:** 12 incompetent Goblins, 1 Manager, 1 Existentially Bored Minotaur
+> **Current Assets:** 43 incompetent Goblins, 1 Manager, 1 Existentially Bored Minotaur
 > **Projected Success Rate:** < 1%
 
 Victor looked at the holographic display floating in his peripheral vision. The odds were insults. He had built empires on worse odds.

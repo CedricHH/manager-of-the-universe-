@@ -2,7 +2,7 @@
 
 The dungeon did not sleep. It waited.
 
-Victor lay on the stone slab that served as his bed, staring up at the darkness of the fourth floor's ceiling. The stone was cold, seeping through his clothes, biting into the green skin of his new form. His body was exhausted—the climb from the boss chamber had burned through his meager goblin reserves—but his mind was a centrifuge, spinning at four thousand revolutions per minute.
+Victor lay on the stone slab that served as his bed, staring up at the darkness of the fourth floor's ceiling. The stone was cold, seeping through his clothes, biting into his skin. His body was exhausted—the climb from the boss chamber had burned through his meager reserves—but his mind was a centrifuge, spinning at four thousand revolutions per minute.
 
 He had made a deal with a minotaur. He had promised a war. He had thirty days to manufacture a legendary threat out of mud and lies.
 
@@ -132,7 +132,7 @@ He had been the Cause.
 ***
 
 Victor gasped, sitting bolt upright on the stone slab.
-His heart was hammering against his ribs—a frantic, staccato rhythm that felt too big for his goblin chest.
+His heart was hammering against his ribs—a frantic, staccato rhythm that felt too big for his chest.
 Darkness.
 Cold stone.
 The smell of damp earth and mold.
@@ -186,7 +186,7 @@ The math worked. It made sense. It justified the decision.
 
 But for the first time, the math wasn't the reason.
 
-Victor looked at his own hand—green, clawed, monstrous.
+Victor looked at his own hand—pale, trembling, human.
 He couldn't undo the mine. He couldn't bring back the forty-seven.
 But he didn't have to add to the count. Not today.
 

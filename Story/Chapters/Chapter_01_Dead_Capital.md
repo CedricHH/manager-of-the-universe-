@@ -29,13 +29,13 @@ His heart was beating. The last time he'd felt it, he was dying on a corporate c
 
 The memory crashed through him like a quarterly loss report: The video conference. The board members' faces. His chest tightening. The fall. And then—
 
-*„PROCESSING..."*
+* "PROCESSING..."*
 
 A voice in geometric darkness. Being weighed. Being measured.
 
-*„Candidate 8940. Efficiency: 97th percentile. Empathy: 3rd percentile."*
+* "Candidate 8940. Efficiency: 97th percentile. Empathy: 3rd percentile."*
 
-*„Recommendation: DEPLOYMENT."*
+* "Recommendation: DEPLOYMENT."*
 
 Victor shook his head. Focus. Analyze later. Survive now.
 
@@ -53,7 +53,7 @@ He didn't panic. Panic was an inefficient use of glucose.
 
 Instead, he attempted to interact with the interface. A thought was enough—the system responded to intent.
 
-*Explain „Restructurer."*
+*Explain "Restructurer."*
 
 > **[ARMI QUERY RESPONSE]**
 > Restructurers are agents deployed by the Galactic Audit Consortium to optimize underperforming planetary assets.
@@ -158,7 +158,7 @@ The largest goblin—large being relative, perhaps waist-high—chittered someth
 
 > **[ARMI LANGUAGE ANALYSIS]**
 > Goblin (Common Dialect): Partial translation available
-> Phrase detected: „Kill-take-eat the weak-thing"
+> Phrase detected: "Kill-take-eat the weak-thing"
 > Negotiation success probability: 4%
 
 Four percent.
@@ -194,7 +194,7 @@ The goblins hadn't attacked. They were listening.
 
 Victor pointed at Marcus's corpse.
 
-„He's dead now. I killed him."
+"He's dead now. I killed him."
 
 A lie. But the goblins didn't know that. They only knew that a strange creature stood over the hero's body, unafraid, speaking with authority.
 
@@ -202,11 +202,11 @@ A lie. But the goblins didn't know that. They only knew that a strange creature 
 > Bluff Assessment: Partially successful
 > Goblin pack believes you are dangerous. Fear response increasing.
 
-„I am not a hero," Victor said. „I don't kill for free. I don't fight for glory. I am something much more dangerous."
+"I am not a hero," Victor said. "I don't kill for free. I don't fight for glory. I am something much more dangerous."
 
 He let the silence hang.
 
-„I am a manager."
+"I am a manager."
 
 The lead goblin's yellow eyes narrowed. It didn't understand the word—but it understood the tone. The confidence. The complete absence of fear.
 
@@ -235,7 +235,7 @@ It spoke—guttural, broken, but clear:
 
 Victor allowed himself a small, cold smile.
 
-„Let's discuss terms."
+"Let's discuss terms."
 
 ---
 

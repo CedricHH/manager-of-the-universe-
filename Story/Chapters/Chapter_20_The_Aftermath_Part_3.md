@@ -66,7 +66,7 @@ If they killed Asterion, the dungeon would be "cleared." Victor would lose his G
 
 If Asterion killed them... well, Victor fulfilled his contract. "Worthy opponents" delivered. The Minotaur gets his fight. Everyone happy.
 
-Except they weren't worthy. Not really. A Level 15 Paladin was good, but Asterion was Level 25 and had three centuries of combat experience. It wouldn't be a fight. It would be a slaughter.
+Except they weren't worthy. Not really. A Level 15 Paladin was good, but Asterion was Level 20 and had three centuries of combat experience. It wouldn't be a fight. It would be a slaughter.
 
 And Asterion had specifically asked for a *fight*. Not a slaughter.
 
