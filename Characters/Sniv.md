@@ -155,6 +155,7 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 - Baute die "String of Torment" für akustische psychologische Kriegsführung (Ch 14)
 - Erfolgreicher "Catch and Release" Einsatz gegen erste Abenteurer (Ch 14)
 - Koordinierte die Verteidigung gegen die Silver Lance Party; flüchtete vor Asterions Brüllen (Ch 15)
+- Zeuge von Asterions Onboarding; forderte eigene ID-Badge (Ch 16)
 
 **Corporate Evolution (Ch 24-34)**
 - Evolvierte zu Hobgoblin (Stage 2)

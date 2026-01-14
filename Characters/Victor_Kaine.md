@@ -163,7 +163,8 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - Identifizierte die **Silver Lance Guild** und **Captain Thorne** als potentielle Zielkunden/Stakeholder (Ch 14)
 
 **Phase 2: Konsolidierung (Ch 11-25)**
-- Rekrutierte Asterion (Minotaur Boss) via "Performance Review"
+- Rekrutierte Asterion (Minotaur Boss) via "Performance Review" (Ch 16)
+- Unterschrieb [The Guardian's Pact] mit Asterion; ernannte ihn zum CSO
 - Wehrte "Silver Lance" Party ab ohne Tötung; etablierte Ruf
 - Stellte Zip ein; formalisierte Org Chart
 

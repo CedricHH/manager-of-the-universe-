@@ -3,7 +3,7 @@
 > **Rolle**: Chief Security Officer (CSO), Victors General  
 > **Klasse/Spezies**: Minotaurus (Boss-Class, Level 20 → 32)  
 > **Archetyp**: Der existenziell traumatisierte Krieger  
-> **Status**: Aktiv (CSO, Oakhaven Region; Distressed Stakeholder)
+> **Status**: Aktiv (Chief Security Officer - CSO)
 
 ---
 
@@ -145,8 +145,9 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 - Forderte Tribute via Imp-Messenger (Ch 10)
 - Identifiziert als "bored Boss" (Existential Ennui) via Performance Review (Ch 11)
 - Akzeptierte Sir Kael's Schwert als "Down Payment" für Partnerschaft (Ch 12)
-- Akzeptierte Victors Angebot, "General" zu werden (Ch 16-17)
-- Unterschrieb [The Guardian's Pact]
+- Unterschrieb [The Guardian's Pact] (Ch 16)
+- Erhielt 10 GP Signing Bonus in Form von prozessiertem Mana
+- Offiziell zum **Chief Security Officer (CSO)** ernannt
 
 **Die Performance (Ch 22)**
 - Kämpfte Silver Lance zu einem Stillstand (nicht-tödlich)
