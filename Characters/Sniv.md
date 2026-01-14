@@ -151,8 +151,9 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 - Ernennung zum **Chief of Staff** im Board meeting (Ch 11)
 - Erfolgreiche erste Oberflächen-Mission nach Oakhaven (Ch 12)
 - Ausführung der Rumor-Expansion-Strategie mittels Pyrit (Ch 13)
-- Übernahme der Rolle als "Scare Actor" für den ersten Kundenkontakt (Ch 13)
-- Führte Trap-Diversion-Strategie gegen erste Abenteurer aus
+- Übernahme der Rolle als "Scare Actor" und Koordination des Special Effects Teams (Ch 14)
+- Baute die "String of Torment" für akustische psychologische Kriegsführung (Ch 14)
+- Erfolgreicher "Catch and Release" Einsatz gegen erste Abenteurer (Ch 14)
 
 **Corporate Evolution (Ch 24-34)**
 - Evolvierte zu Hobgoblin (Stage 2)

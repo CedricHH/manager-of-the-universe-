@@ -54,7 +54,7 @@ The air was cool, smelling of damp stone and ancient dust. Sunlight filtered thr
 
 "See?" Jace said, pointing to the floor. "Tracks. Small ones. Dozens of them."
 
-"Goblins," the girl whispered. She drew an arrow, her knuckles white on the bowstring. Her eyes darting to every shadow, every corner. "Jace, look at the walls. Scratches. Old ones."
+"Goblins," the girl whispered. She drew an arrow, her knuckles white on the bowstring. Her eyes darted to every shadow, every corner. "Jace, look at the walls. Scratches. Old ones."
 
 They moved forward, stepping over the piles of bones Victor had arranged. The girl flinched when her boot crunched on a ribcage. The sound echoed in the silent hall like a gunshot.
 
@@ -158,7 +158,7 @@ They ran.
 
 They didn't look back. They didn't check for traps. They just sprinted for the stairs, abandoning dignity, tactics, and—crucially—their heavy backpacks.
 
-Victor watched them scramble up to Floor One, trip over the rubble, and burst out into the sunlight like corks form a bottle.
+Victor watched them scramble up to Floor One, trip over the rubble, and burst out into the sunlight like corks from a bottle.
 
 Silence returned to the dungeon.
 
@@ -213,7 +213,7 @@ Asterion's extension expired tomorrow.
 
 He looked at the stairs to Floor Four.
 
-If no one came tomorrow, he would have to explain to a Level 25 Minotaur why his 'entertainment' strategy had yielded zero entertainments.
+If no one came tomorrow, he would have to explain to a Level 20 Minotaur why his 'entertainment' strategy had yielded zero entertainments.
 
 "Sniv."
 

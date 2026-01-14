@@ -158,8 +158,9 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - Identifizierte Asterions Boredom als Leverage; bot "Employment" statt Tribute (Ch 11)
 - Startete **Operation Market Research**: Sniv zur Oberfläche entsandt (Ch 12)
 - Implementierte **Teaser Strategy** (Baiting mit Fire-Stick auf Floor 3) (Ch 13)
-- Etablierte das "Haunted House" Prinzip für das Storefront-Design (Floor 1) (Ch 13)
-- Erster Kontakt mit Abenteurern (Jace & Mira) erfolgreich eingeleitet (Ch 13)
+- Etablierte das "Haunted House" Prinzip für das Storefront-Design (Floor 1) (Ch 13-14)
+- Leitete die erste "Performance" für Abenteurer (Jace & Mira); erbeutete Jaces Tagebuch (Ch 14)
+- Identifizierte die **Silver Lance Guild** und **Captain Thorne** als potentielle Zielkunden/Stakeholder (Ch 14)
 
 **Phase 2: Konsolidierung (Ch 11-25)**
 - Rekrutierte Asterion (Minotaur Boss) via "Performance Review"
