@@ -1,9 +1,9 @@
-# Inspector Vorne - Guild Inspector
+# Inspector Silas Vorne - Guild Inspector
 
 > **Rolle**: Merchant Guild Inspector (Ch 50+)  
 > **Klasse/Spezies**: Inspector (Level 11-13)  
 > **Archetyp**: Der Bürokratische Enforcer  
-> **Status**: Defeated (Arc 1)
+> **Status**: Aktiv (Monitoring Insolvia)
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Attribut | Wert |
 |----------|------|
-| **Name** | Inspector Vorne |
+| **Name** | Silas Vorne (umbenannt in Ch 51 zur Vermeidung von Namensdopplungen) |
 | **Position** | Merchant Guild Inspector |
 | **Level** | 11-13 |
 | **Affiliation** | Merchant Guild |

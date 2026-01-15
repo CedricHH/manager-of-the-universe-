@@ -48,7 +48,8 @@ Victor erkannte seine Ambition und seine Unterbezahlung ("second-hand leather sh
 
 ## Kapitel-Geschichte
 
-- **Kapitel 46**: Führte einen Audit der Insolvia-Dungeons durch; versuchte Victor mit Zoning-Gesetzen zu erpressen; wurde von Victor als inoffizieller Lobbyist rekrutiert (Büro-Korruption).
+- **Kapitel 46**: Recruited as an internal lobbyist with a 12% equity incentive to bypass Merchant Guild zoning restrictions.
+- **Kapitel 51**: Participated in the tactical briefing regarding Crown Prince Aldric's visit. Provided critical intelligence on the kingdom's financial distress and the King's secrecy toward the heir. Transitioned from bureaucratic dread to active "courting" strategy support.
 
 ---
 

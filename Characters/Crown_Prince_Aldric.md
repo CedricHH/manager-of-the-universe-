@@ -1,9 +1,9 @@
-# Crown Prince Aldric - Royal Charter
+# Crown Prince Aldric Valdris II
 
-> **Rolle**: Crown Prince, Royal Charter Grantor  
-> **Klasse/Spezies**: Noble/Paladin (Level 20)  
-> **Archetyp**: Der idealistische Prinz  
-> **Status**: Aktiv (Arc 1 Partner)
+> **Rolle**: Future Strategic Asset / Partner  
+> **Klasse/Spezies**: Human (Heir Apparent, Level 27)  
+> **Archetyp**: Der Idealistische Reformer  
+> **Status**: Aktiv (En Route to Eastmarch)
 
 ---
 
@@ -11,30 +11,40 @@
 
 | Attribut | Wert |
 |----------|------|
-| **Name** | Crown Prince Aldric |
-| **Title** | Crown Prince |
-| **Level** | 20 |
-| **Affiliation** | Kingdom Royal Family |
-| **Erstauftritt** | Kapitel 51 |
+| **Name** | Aldric Valdris II |
+| **Titel** | Crown Prince of Valdris, Head of Eastern Revenue Commission |
+| **Level** | 27 |
+| **Erstauftritt** | Kapitel 51 (Indirekt/Messenger) |
+| **Aktueller Status** | En route to Insolvia for inspection |
 
 ---
 
-## Psychologie
+## Psychologie & Persönlichkeit
 
-- **Idealistic**: Glaubt das System funktioniert
-- **Naive**: Weiß nicht, dass Kingdom fiscal Crisis hat
-- **Well-Intentioned**: Genuinely wants to help Kingdom
+### Kern-Eigenschaften
 
----
-
-## Kapitel-Geschichte (Kompakt)
-
-**Kapitel 51 - The Crown Asset**: Victor identified: Idealistic, naive, believes System works; Kingdom Intel revealed: secretly bleeding Gold; King hides Fiscal Crisis from Prince
-
-**Kapitel 60-61 - The Royal Visit**: Secured **Royal Charter** from Prince Aldric (**15% Kickback**); High Priestess Aurelia neutralized initial Audit; protected Core
+- **Idealistisch**: Glaubt an das System und die Gerechtigkeit der Krone.
+- **Ehrgeizig**: Möchte sich vor seinem Vater beweisen.
+- **Gerechtigkeitsinn**: Hasst Korruption (was ihn anfällig für Victors "transparente" Korruption macht).
 
 ---
 
-**Version**: 2.0  
-**Wichtigkeit**: NEBEN  
-**Kategorie**: Verbündeter (Royal Charter)
+## Beziehungen
+
+| Character | Beziehung | Status |
+|-----------|-----------|--------|
+| **Victor Kaine** | Zielperson / Unbekannt | Noch kein Treffen; erwartet Audit |
+| **King Aldric IV** | Vater | Respektvoll; sucht Anerkennung |
+| **Lord Sterling** | Lehnsherr | Skeptisch gegenüber Sterlings Ambitionen |
+
+---
+
+## Kapitel-Geschichte
+
+- **Kapitel 51**: Erteilte Marschbefehl zur Inspektion von Insolvia Holdings; Timeline auf 72 Stunden verkürzt. Wird von Victor als "Lösung für das Schuldenproblem der Krone" anvisiert.
+
+---
+
+**Version**: 1.0  
+**Wichtigkeit**: HAUPT (Arc 1.3)  
+**Kategorie**: Verbündeter (Target Asset)

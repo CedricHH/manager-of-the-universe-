@@ -203,6 +203,8 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Kapitel 47**: Implemented the "Velvet Rope" protocol, monetizing dungeon entry via a "Site Preservation Donation" (5 silver/head) and indemnity waivers. Successfully converted Sir Gareth of House Sterling from a hostile intruder to a paying customer through a tactical show of force (Asterion as security).
 - **Kapitel 48**: Facilitated a "Platinum Package" experience for Sir Gareth. Negotiated a potential vertical monopoly partnership with House Sterling (10,000 GP/year projected revenue) and transitioned Gareth from an antagonist to a reluctant business envoy.
 - **Kapitel 49**: Finalized the "Sterling Vertical Integration Agreement" (35/65 split). Successfully bribed Gareth with a 5% "finder's fee" to ensure his advocacy. Identified a new regulatory threat from the Adventurer Guild scouts (Groll's legal pivot) and initiated "Regulatory Warfare" protocols.
+- **Kapitel 50**: Successfully bypassed initial Guild Audit by Inspector Silas Vorne (formerly Aldric) using weaponized transparency and documentation overload.
+- **Kapitel 51**: Targeted Crown Prince Aldric Valdris II for "acquisition". Leveraged information asymmetry (kingdom debt) to position as a solution provider. Received a direct royal summons; timeline for Prince's visit accelerated to 72 hours.
 - Überlebte Mercenary-Angriff (Ch 42-44)
 - Sicherte Royal Charter von Prince Aldric (Ch 60-61)
 - Besiegte The Gilded Ledger (Bank War, Ch 62-68)
@@ -436,4 +438,4 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 **Letzte Aktualisierung**: Kapitel 116 (Arc 2)
 **Version**: 3.3
 **Wichtigkeit**: HAUPT (Protagonist)
-**Kategorie**: Verbündeter (Bribed Intermediary)
+**Kategorie**: Protagonist

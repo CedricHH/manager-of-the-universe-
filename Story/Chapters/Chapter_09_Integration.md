@@ -38,7 +38,7 @@ Everyone learned, eventually.
 
 The next morning, Victor called a general meeting.
 
-Twenty-six goblins gathered in the Boss Chamber, arranged in a loose semicircle around the throne. The original fourteen stood at the front, comfortable in their seniority. The probationary twelve clustered at the back, uncertain of their place.
+Twenty-four goblins gathered in the Chamber, arranged in a loose semicircle around the throne. The original fourteen stood at the front, comfortable in their seniority. The probationary twelve clustered at the back, uncertain of their place.
 
 Sniv stood at Victor's right hand, clipboard ready.
 
@@ -162,7 +162,7 @@ Iron ore.
 
 Victor descended to Floor Three with Sniv and two guards.
 
-The mining operation had expanded into a natural alcove that the previous inhabitant—Marcus, the former Boss—had apparently never explored. The walls here were darker, the air colder. Something about the space felt old.
+The mining operation had expanded into a natural alcove. The walls here were darker, the air colder. Something about the space felt old.
 
 The iron vein was substantial—easily thirty meters of exposed ore, waiting to be extracted. With proper tools, this could transform their capabilities.
 

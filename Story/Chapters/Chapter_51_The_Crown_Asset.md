@@ -48,7 +48,7 @@ The former auditor stopped pacing. His expression shifted — the particular shi
 
 "And the Crown Prince?"
 
-"Doesn't know. Or didn't, last I heard. The King keeps the worst of it hidden from him." Valerius shook his head. "Aldric thinks the kingdom is stable. He thinks his inspections actually accomplish something. He's... well."
+"Doesn't know. Or didn't, last I heard. The King keeps the worst of it hidden from him." Valerius shook his head. "The Prince thinks the kingdom is stable. He thinks his inspections actually accomplish something. He's... well."
 
 "Naive?"
 

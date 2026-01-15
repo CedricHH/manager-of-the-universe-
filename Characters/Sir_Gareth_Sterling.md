@@ -27,4 +27,4 @@ Arrogant Nephew. Failed to conquer dungeon (paid 10 GP fees for Platinum Package
 
 **Version**: 1.0  
 **Wichtigkeit**: NEBEN  
-**Kategorie**: Verbündeter (Intermediary)
+**Kategorie**: Verbündeter (Bribed Intermediary)

@@ -98,7 +98,7 @@ Recognition für sein Craft. Nicht gefressen werden. "Many synergies" machen.
 
 **Kapitel 40**: Fire Witness—spotted Market Fire; alerted Victor immediately
 
-**Kapitel 51**: **Scout Commander**—detected Royal Messenger first; reported Crown Seal directly to Victor
+**Kapitel 51**: Acting as **Scout Commander**; successfully intercepted and identified a royal messenger with the Crown Seal; reported the imminent arrival of the Crown Prince.
 
 ---
 
