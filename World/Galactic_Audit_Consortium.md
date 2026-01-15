@@ -26,6 +26,20 @@ The **Galactic Audit Consortium** is the entity responsible for the distribution
 "Efficiency is the only virtue. Profit is the only metric."
 (Deduced from ARMI's behavior)
 
+## The Harvest (Ch 32 Discovery)
+
+Das Konsortium betrachtet Welten nicht als zu rettende Orte, sondern als **Experimente** und **Nutztierhaltung** ("Preparing the crop").
+
+- **Phase 1: Seeding**: Welten werden mit Magie, Monstern und Systemen "besät".
+- **Phase 2: Development**: Überwachung durch Restructurer/Administratoren, um den Wert der Welt (Mana, Seelen, Ressourcen) zu maximieren.
+- **Phase 3: Harvest**: Sobald die Welt eine kritische Wert-Grenze erreicht, wird sie vom Konsortium "geerntet" (Liquidation der Welt-Ressourcen/Seelen).
+
+**Restructurer #1**:
+- Der erste Administrator von Terra-Insolvia.
+- Versuchte die Wahrheit über das Harvest-Modell aufzudecken und den Planeten zu schützen.
+- Endete isoliert und ohne Support im Vault (Floor 3); starb nach Jahrzehnten der Einsamkeit.
+- Hinterließ ein Journal und das "Priority Asset Transfer Notice" Siegel.
+
 ---
 
 ## The Galactic Exchange

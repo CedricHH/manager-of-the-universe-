@@ -148,10 +148,8 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 - Unterschrieb [The Guardian's Pact] (Ch 16)
 - Erhielt 10 GP Signing Bonus in Form von prozessiertem Mana; ernannt zum CSO (Ch 16)
 - Mission: Rekrutierung eines "Worthy Opponents" (Level 15+) innerhalb von 30 Tagen (Ch 17)
-
-**Die Performance (Ch 22)**
-- Kämpfte Silver Lance zu einem Stillstand (nicht-tödlich)
-- Beendete seine Extension vorzeitig durch Hunger; vertrieb die Silver Lance Party mit einem Brüllen; startete Pitch Meeting mit Victor (Ch 15)
+- **Aggressive Negotiations (Ch 21)**: Empfing die Silver Lance Party.
+- **The Performance (Ch 22)**: Kämpfte gegen die Silver Lance (Alara, Gareth, Bron, Finn, Lysa, Kaelie); besiegte sie fast vollständig; respektierte Alaras paladinisches Können.
 
 **Formelle Anstellung (Ch 26)**
 - Unterschrieb Vertrag als **Chief Security Officer (CSO)**

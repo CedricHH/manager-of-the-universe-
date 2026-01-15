@@ -79,6 +79,14 @@ Recognition für sein Craft. Nicht gefressen werden. "Many synergies" machen.
 ## Kapitel-Geschichte (Kompakt)
 
 **Kapitel 23**: Entdeckt hiding on Floor 2; recruited nach Fire Trap Pitch; promoted zu Head of R&D
+**Kapitel 24**: Entwickelte Smoke Bombs (Mushroom Spores); identifizierte Bedarf für einen Forge (Tempered Steel).
+**Kapitel 25**: Deonstruierte Marcus Valorhearts Schwert (75 GP Ausbeute in Mana Dust und Essence) zur Finanzierung des Administrative Bonds.
+**Kapitel 26**: Formell zum **Chief Technology Officer (CTO)** ernannt; verantwortlich für die R&D Division.
+**Kapitel 31**: Designte die Stützstrukturen für die Floor 3 Expansion; entdeckte das antike "Pre-Dungeon" Siegel beim Graben in Expansion Zone 3.
+**Kapitel 33**: Zum Reisebegleiter für die Oakhaven-Mission ernannt; zuständig für die Erstellung der "Potion Trader" Cover-Story und Labels.
+**Kapitel 34**: Entwickelte professionelle Potion-Labels; reist im Travel-Bag von Victor nach Oakhaven; versprach, keine "shiny things" zu stehlen (unter Androhung von Performance-based Severance).
+**Kapitel 35**: Erste Schritte außerhalb des Dungeons; lernte "Networking" und "Networking-Synergies" kennen; verhält sich während der Konfrontation mit Lord Sterlings Männern ruhig (best-quiet).
+**Kapitel 36**: Beobachtete die Sterling-Verhandlungen aus dem Travel-Bag; lernte die Bedeutung von "Strategic Leverage" und "Negotiation Buffer" kennen.
 
 **Kapitel 26**: Appointed **Chief Technology Officer (CTO)**
 

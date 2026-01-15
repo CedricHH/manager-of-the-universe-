@@ -12,7 +12,7 @@ Time was money. Money was survival.
 
 The tank blinked, processing the absurdity. Behind him, the rest of the Silver Lance shifted into defensive positions with the mechanical precision of experienced killers. Finn had a dagger in each hand, the blades catching torchlight. Bron's hammer was raised, tendons bulging in his forearms. Kaelie's staff crackled with arcane energy building toward critical mass. Lysa had already begun casting something—Victor caught the shimmer of a detection ward expanding outward. And Sister Alara's holy symbol pulsed with golden light, radiating warmth that made Victor's corrupted mana itch.
 
-Six weapons. Zero cover. Eighteen feet of exposed corridor. One human in a torn Armani suit.
+Six weapons. Zero cover. Eighteen feet of exposed corridor. One human in a torn Italian suit.
 
 Victor's internal calculator ran the numbers with cold precision. Combat survival probability: 0%. Negotiation survival probability: 47%. Those were workable odds.
 
@@ -56,7 +56,7 @@ He paused. Let the data accumulate in their minds.
 
 Silence.
 
-"Your party composition is suboptimal for this engagement," Victor continued. "One tank—Gareth, Level 14, standard sword-and-board loadout. One off-tank—Bron, Level 12, berserker specialization, damage-focused. Two DPS—Finn, Level 11, rogue; Mira, Level 13, archer. One healer—Sister Alara, Level 15, paladin subclass. One support—I assume Kaelie is the mage, Level 12?"
+"Your party composition is suboptimal for this engagement," Victor continued. "One tank—Gareth, Level 12, standard sword-and-board loadout. One off-tank—Bron, Level 14, berserker specialization, damage-focused. One DPS—Finn, Level 11, rogue. One healer—Sister Alara, Level 15, paladin subclass. One support—Lysa, Level 10, cleric. And one mage—Kaelie, Level 13."
 
 "How do you know our levels?" Lysa demanded.
 
@@ -92,7 +92,7 @@ He raised a second finger.
 
 "Option B. You walk past me. Right now. No fight. No traps. No resource expenditure. Fresh. Full resources. Full health. You fight the Minotaur at peak capacity. Survival probability remains at fourteen percent."
 
-"Both options lead to the Minotaur," Mira observed. The Archer. Victor had almost forgotten about her—she hadn't moved since he started talking. No fidgeting. No shifting weight. Professional stillness. The stillness of someone who killed from a distance and understood the value of observation. Dangerous in a way Victor wasn't measuring correctly.
+"Both options lead to the Minotaur," Lysa observed. The Cleric. Victor had almost forgotten about her—she hadn't moved since he started talking. No fidgeting. No shifting weight. Professional stillness. The stillness of someone who prayed for salvation but understood the value of observation. Dangerous in a way Victor wasn't measuring correctly.
 
 "Correct," Victor confirmed. "The destination is fixed. The condition of arrival is variable. I'm giving you control over the variable."
 

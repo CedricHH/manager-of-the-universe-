@@ -17,6 +17,10 @@ The first dungeon to be "Restructured" by Victor Kaine. It functions as a corpor
 - **CTO (R&D)**: Zip (Kobold)
 - **Operating Partner**: Nova (formerly Core-7749)
 
+## External Partnerships
+
+- **Lord Sterling (Eastmarch)**: 20% Royalty Agreement in exchange for legal permits and political protection (Ch 36).
+
 ## Layout
 
 | Floor | Function | Description |

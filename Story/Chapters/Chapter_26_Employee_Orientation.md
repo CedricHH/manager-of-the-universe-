@@ -30,6 +30,36 @@ Sniv's face scrunched in confusion. "H... R?"
 
 "Human Resources. Or in this case, Monster Resources. Just tell him I want to discuss his future with the organization."
 
+As Sniv scrambled away, Victor turned back to the stack of parchment on his desk. He reached for his quill, then paused, looking at the tattered sleeve of his suit. This world had magic, gods, and chosen heroes, but it lacked the most fundamental tool of civilization: the enforceable employment contract.
+
+"You're making a mistake, Victor," a voice whispered from the corner of his mind. It wasn't the ARMI system; it was the echo of his old mentor at Vanguard Consulting. *Never give them a reason to think they're irreplaceable. The moment they have a contract, they have leverage.*
+
+Victor smiled at the memory of that cold, grey office. "Leverage is a two-way street, Arthur. A man who owns nothing has nothing to lose. A man with a dental plan? He has something to fear."
+
+He began to write, the nib scratching rhythmically against the rough paper.
+
+When Sniv returned, he found Victor carefully dripping red wax onto the bottom of the parchment.
+
+"Boss make fancy patterns?" Sniv asked, peering over the edge of the desk.
+
+"I am creating a physical manifestation of mutual obligation," Victor replied. "Sniv, do you know why most dungeons fail?"
+
+"Adventurers bring big swords?"
+
+"No. They fail because of high turnover and poor internal communication. A monster who thinks they are just a 'spawn' works with the enthusiasm of a minimum-wage dishwasher. A monster who thinks they are a 'Chief Security Officer' with a vested interest in the facility's success? That's a different animal entirely."
+
+Victor pressed his signet ring into the wax. The ring was a cheap copper thing he'd scavenged from a dead merchant's bag, but in this light, it looked like a symbol of sovereign authority.
+
+"Look at this list," Victor said, gesturing to the line items. "Medical, dental, vision, life insurance. Do we have a dentist?"
+
+Sniv tilted his head. "What is den-tist?"
+
+"Exactly. We don't have one. But the mere *existence* of the benefit creates a perception of value. It tells Asterion that I am thinking about his long-term health. It implies that I expect him to *have* a long term. In a world where most monsters are treated like disposable XP batteries, that is a revolutionary concept."
+
+"Boss is very smart," Sniv said, though he looked like he wanted to bite the wax.
+
+"Smart is secondary, Sniv. Consistency is what wins. Now, go. Asterion should be arriving soon. Ensure the conference area is clear of... well, clear of any goblin droppings. We're a professional firm now."
+
 ---
 
 Asterion arrived twenty minutes later.
@@ -131,9 +161,33 @@ Zip raised a claw. "What is... C...T...O?"
 
 The Kobold's eyes widened. "Zip is... *chief*?"
 
-"You're the only qualified candidate." Victor turned to address the full assembly. "This is Phase 1 of our reorganization. Clear lines of authority. Defined responsibilities. Everyone knows their role, everyone knows their chain of command."
+"You're the only qualified candidate." Victor turned to address the full assembly. He stepped forward, his eyes sweeping over the group. Most of the gollins were still trying to figure out if being on a "team" meant they got more food or if it was just a more efficient way to be yelled at.
 
-"What Phase 2, Boss?" Sniv asked.
+"Listen to me," Victor’s voice projected through the chamber, carrying the weight of a quarterly earnings call. "For centuries, your kind has existed only to be slaughtered by humans for their 'gains.' You were unorganized. You were chaotic. You were, frankly, an embarrassment to the concept of a workforce."
+
+One of the older workers, a goblin with a missing ear and a permanent scowl named Grak, raised a hand tentatively.
+
+"Boss... do teams mean... uniforms?"
+
+Victor paused. "Uniforms are a Phase 3 initiative. For now, focus on your reporting lines. If a problem occurs on Floor One, you tell Krog. Krog tells Asterion. Asterion tells me. Do not—and I cannot stress this enough—do not come directly to my office to complain about the quality of the mushrooms. That is an operational matter for Sniv."
+
+"Sniv is boss of mushrooms?" Grak asked, looking at the COO.
+
+"Sniv is Chief Operating Officer. He is the boss of *everything* that isn't security or engineering. If you find a leak in the ceiling, you go to Zip. If you see an adventurer, you go to Krog. If you are hungry, you wait for the scheduled break."
+
+Zip was still staring at his name on the chart. "Zip is CTO," he whispered again, his chest puffing out slightly. "Zip will make traps that... that innovate!"
+
+"Exactly," Victor said. "Scale. Innovation. Efficiency. These are the pillars of the new Insolvia. We are no longer a 'dungeon.' We are a specialized infrastructure provider."
+
+Asterion crossed his massive arms. "And the 'dental' repair? When does that begin?"
+
+"As soon as we secure a qualified provider," Victor replied without missing a beat. "In the meantime, consider your current tusks as 'legacy hardware' scheduled for a future upgrade cycle."
+
+The Minotaur nodded once, seemingly satisfied by the jargon. 
+
+"This is Phase 1," Victor continued. "Clear lines of authority. Defined responsibilities. Everyone knows their role, everyone knows their chain of command. If you perform well, there will be opportunities for advancement. If you do not..." He let the silence hang for a moment, pregnant with corporate dread. "...there will be performance reviews."
+
+Goblins who didn't know what a performance review was still shivered. The tone alone was enough.
 
 Victor looked at the ceiling, toward where he knew the Dungeon Core waited in its chamber.
 

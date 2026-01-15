@@ -3,7 +3,7 @@
 > **Rolle**: Protagonist, Asset Manager  
 > **Spezies**: Mensch / Asset Manager (Einzigartig - Level 14)  
 > **Archetyp**: The Magnificent Bastard / Lawful Evil Corporate Overlord  
-> **Status**: Aktiv (Regional Operator, Galaktisches Audit-Konsortium)
+> **Status**: Active (Regional Operator, Galactic Audit Consortium - Authorization Level 2)
 
 ---
 
@@ -19,7 +19,7 @@
 | **Position** | Regional Operator (Konsortium), CEO Kaine Consulting |
 | **Erstauftritt** | Kapitel 1 |
 | **Aktueller Status** | Arc 1 abgeschlossen (1.022M GP), Arc 2 aktiv (10M GP Ziel) |
-| **Standort** | Oakhaven (Dungeon Insolvia Kernkammer) |
+| **Location** | Oakhaven (The Silver Standard Inn) |
 
 ---
 
@@ -113,7 +113,8 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 | **[Precedent Defense]** | Rechtlicher Krieg via Case-Law-Analyse |
 | **[Institutional Navigation]** | Manipulation bürokratischer Systeme |
 | **[Institutional Analysis]** | Tiefenanalyse organisatorischer Strukturen (Arc 2, Ch 101) |
-| **[Market Penetration Protocol]** | Systematische Markt-Disruption und Monopol-Breaking (Arc 2, Ch 101) |
+| **[Market Penetration Protocol]** | Systematic market disruption and monopoly-breaking (Arc 2, Ch 101) |
+| **[Asset Liquidation]** | Convert immobilized target directly into gold (Arc 2, Ch 37) |
 
 ---
 
@@ -163,11 +164,27 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - Identifizierte die **Silver Lance Guild** und **Captain Thorne** als potentielle Zielkunden/Stakeholder (Ch 14)
 
 **Phase 2: Konsolidierung (Ch 11-25)**
-- Rekrutierte Asterion (Minotaur Boss) via "Performance Review" (Ch 16)
-- Unterschrieb [The Guardian's Pact] mit Asterion; ernannte ihn zum CSO (Ch 16)
-- Startete Mission: "The Headhunt" (Ziel: Level 15+ Party in 30 Tagen) (Ch 17)
-- Wehrte "Silver Lance" Party ab ohne Tötung; etablierte Ruf
-- Stellte Zip ein; formalisierte Org Chart
+-   Rekrutierte Asterion (Minotaur Boss) via "Performance Review" (Ch 16)
+-   Unterschrieb [The Guardian's Pact] mit Asterion; ernannte ihn zum CSO (Ch 16)
+-   Startete Mission: "The Headhunt" (Ziel: Level 15+ Party in 30 Tagen) (Ch 17)
+-   Wehrte "Silver Lance" Party ab ohne Tötung; etablierte Ruf (Ch 20)
+-   **Aggressive Negotiations (Ch 21)**: Verhandelte mit Silver Lance; bot "Option B" an.
+-   **The Performance (Ch 22)**: Kämpfte gegen die Silver Lance; besiegte sie; respektierte Alara.
+-   **The Invoice (Ch 23)**: Extrahierte Informationen über die Silver Lance Guild und "Iron Vanguard" von Gareth; beförderte Sniv zum HR Director und rekrutierte Zip (Kobold) als Head of R&D.
+-   **Infrastructure (Ch 24)**: Formalisierte die Dungeon-Struktur (Floors 1-5); gründete das "Reconnaissance Unit" unter Sniv; entdeckte die versiegelte Core-Kammer mit dem dormanten Dungeon Core (7749).
+-   **The Merger (Ch 25)**: Zahlte den Administrative Bond (100 GP) durch Liquidation von Marcus Valorhearts Schwert; wurde offizieller Administrator des Dungeons ("Insolvia Holdings HQ"); detektierte Überwachung durch das Galactic Audit Consortium.
+-   **Employee Orientation (Ch 26)**: Formell als **Chief Security Officer (CSO)** angestellt; unterschrieb Vertrag mit Victor; erhielt Benefits (Dental, Respawn Guarantee).
+- **The Core Awakening (Ch 27)**: Erweckte den Dungeon Core (Core-7749); analysierte die Misswirtschaft früherer Administratoren (Torin, Elara, Kaelen); handelte eine 50/50 Equity Partnership unter der Bedingung einer 100% Profitsteigerung aus.
+- **The Proof (Ch 28)**: Vorbereitung auf die Demonstration vor dem Core; identifizierte die "Iron Wolves" (B-Rank) als Zielobjekte; entschied sich gegen Tötungen, um ein nachhaltiges Umsatzmodell zu beweisen; Reflektion über die Mid-West Logistics Akquisition und den Verrat auf der Erde.
+- **The Negotiation (Ch 29)**: Verhandelte erfolgreich mit den Iron Wolves über Eintrittsgebühren (5 GP/Kopf) und ein "Premium-Paket" (10 GP Boss-Encounter); generierte 35 GP Umsatz (133% über Baseline); implementierte Tracking-Spores zur Datenanalyse.
+- **The Partnership (Ch 30)**: Beaufsichtigte den "Performance Evaluation"-Kampf zwischen Asterion und den Iron Wolves; verkaufte Premium-Equipment aus dem Silver Lance-Inventar; erreichte 50 GP Gesamtumsatz (+233% vs Baseline); schloss 50/50 Partnerschaft mit dem Core ab (der sich in **Nova** umbenannte).
+- **Dungeon 2.0 (Ch 31)**: Reinvestierte 70 GP in Trap Automation und Floor 3 Mining Expansion; implementierte eine "Scheduled Maintenance" Policy (1 freier Tag pro Woche für Goblins) zur Morale-Optimierung; entdeckte und öffnete ein antikes "Pre-Dungeon" Siegel auf Floor 3.
+- **The Vault (Ch 32)**: Öffnete den versiegelten Vault (Kosten: 10 GP); fand die Überreste von **Restructurer #1** und dessen Journal; lernte die Wahrheit über das "Harvest"-Modell des Consortiums; sicherte ein "Priority Asset Transfer Notice" und kündigte einen "Hostile Takeover" des Consortiums an.
+- **The Crystal Archive (Ch 33)**: Analysierte die Logs von R#1; verstand die Sabotage-Strategie seines Vorgängers; entschied sich gegen Verweigerung und für "Leverage"; ernannte Sniv zum Interims-Manager und bereitete die Reise nach Oakhaven vor (Cover: Potion Traders).
+- **Preparations (Ch 34)**: Übergab formell die operative Gewalt an Sniv, Asterion und Nova; legte Sicherheits- und Umsatz-KPIs für die Abwesenheit fest; identifizierte die Oakhaven-Reise als Risiko-Leverage gegen das Consortium; startete die Mission mit Zip als "Assistent".
+- **The Road (Ch 35)**: Reise nach Oakhaven; Kontakt mit dem Händler Halric Voss; Identifikation von Lord Sterlings extraktivem Toll-Modell; Verhandlung mit Sterlings Enforcern unter Einsatz des Black Cards und eines Mana-Crystals als Leverage; Eskorte zum Sterling Manor als "Gast".
+- **Sterling Manor (Ch 36)**: Negotiated a 20% revenue-share partnership with Lord Sterling; legitimized operation through Operative Permits; implemented a "Dead-Man Switch" for security.
+- **The Waypoint (Ch 37)**: Activated dormant Consortium waypoint in Oakhaven; upgraded to Authorization Level 2; unlocked [Asset Liquidation] and extended ARMI scanning; placed under observer surveillance.
 
 **Phase 3: Das Business Model (Ch 26-37)**
 - Partnership mit Dungeon Core ("Nova"); implementierte "Pay-to-Play"-Modell

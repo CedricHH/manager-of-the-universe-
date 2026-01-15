@@ -66,7 +66,7 @@ Asterion hadn't moved. The Minotaur stood in the center of the sand pit, axe res
 
 "Zero?" Asterion's voice rumbled with something that might have been disappointment.
 
-"I needed them alive." Victor clasped his hands behind his back. "Corpses don't spread rumors. Survivors do. They'll return to their Guild and report that this dungeon houses a Level 25 boss who nearly killed them. That's valuable publicity."
+"I needed them alive." Victor clasped his hands behind his back. "Corpses don't spread rumors. Survivors do. They'll return to their Guild and report that this dungeon houses a Level 20 boss who nearly killed them. That's valuable publicity."
 
 The Minotaur considered this. His massive head tilted, horns catching the torchlight.
 

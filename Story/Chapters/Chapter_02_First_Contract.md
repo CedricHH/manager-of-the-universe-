@@ -92,7 +92,7 @@ And then a small voice spoke from the back.
 
 "Sniv will work."
 
-Fourteen heads turned. The runt. The sacrifice. The one they'd planned to throw at danger. He had stepped forward—trembling, starving, but *forward*.
+Thirteen heads turned. The runt. The sacrifice. The one they'd planned to throw at danger. He had stepped forward—trembling, starving, but *forward*.
 
 The leader snarled. This was betrayal. This was weakness. This was—
 

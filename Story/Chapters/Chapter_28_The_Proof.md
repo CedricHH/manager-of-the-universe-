@@ -90,6 +90,24 @@ The thought came unbidden, unlocking something Victor had kept buried for months
 
 *"Where did the numbers come from?"*
 
+He had asked the question aloud, his voice echoing in the empty penthouse. It was a question that didn't have an answer in a spreadsheet. It was a question that required looking at the blood on the hands that typed the data.
+
+That night, he hadn't slept. He had watched the sun rise over Lake Michigan, the water a cold, indifferent grey. He had realized that he was a cog in a machine that was designed to swallow lives and spit out percentage points. And he’d realized that no one cared. Not the shareholders, not the board, not the customers. As long as the products worked and the dividends arrived, the cost of the "inputs" remained invisible.
+
+Victor had tried to leak the documents. He’d sent them to three major news outlets. He’d waited for the explosion, the justice, the reckoning.
+
+It never came.
+
+Two days later, his security clearance was revoked. A week later, he was out. The company’s legal department had buried the stories before they could hit the wire, citing "trade secrets" and "unsubstantiated claims by a disgruntled former executive."
+
+He’d been erased. Not because he was wrong, but because he was inconvenient. He was a bug in the code of global capital, and the system had automatically patched itself by removing him.
+
+The silence that followed was the heaviest thing Victor had ever known. It wasn't just the lack of noise; it was the total absence of purpose. He was a manager with no one to manage. A restructurer with nothing to build. A man whose entire identity was built on efficiency, who had become a waste of space.
+
+When the Consortium reached out, he hadn't even hesitated. He didn't care who they were or what they wanted. He just wanted to be part of a system again. Any system.
+
+Even one that calculated the value of souls.
+
 ---
 
 Victor blinked.
@@ -98,9 +116,23 @@ The Core's display showed the Iron Wolves advancing through Floor 1. Twelve minu
 
 "Boss?" Sniv was watching him with concern. "Orders?"
 
-Victor forced himself to focus. The present mattered now. The past was ash.
-
 He pulled up the tactical overview. Four adventurers at various positions. Gareth in front, leading with aggressive confidence. Mira second, scanning for traps. Bron covering rear. Tessa somewhere in the middle, trying to look calm and failing.
+
+"Krog," Victor said, his voice projecting into the guard room through the internal scrying network.
+
+The burly goblin leader straightened up, his hand going to the hilt of his iron-bound mace. "Yes, Boss?"
+
+"The Iron Wolves are entering the primary corridor. This is a Tier 1-B engagement. I want the initial pressure trap on Floor One to be triggered manually. Do not aim for the feet—aim for the shields. I want them loud. I want them startled. But I want them intact."
+
+"Startle, not smash?" Krog asked, confused.
+
+"Exactly. We are establishing an atmosphere of extreme danger without actually delivering the blow. It's a classic psychological anchoring technique. If they walk in and nothing happens, they get cautious. If they walk in and nearly get hit by a swinging log, they get *scared*. And scared people make irrational financial decisions."
+
+"Sniv," Victor added, turning to the COO. "Ensure the sound emitters are active on Floor Two. I want the sound of a large predator. Something that sounds like it has more teeth than a budget meeting."
+
+"Sniv make big roar!" the goblin promised, scribbling on his clipboard.
+
+"And remember," Victor’s voice lowered, becoming a cold, focused rasp. "No kills. We are proving a sustainable revenue model today. A dead explorer is a one-time liquidation. A terrified survivor is a marketing asset."
 
 The old way would be simpler. Four deaths meant equipment recovery, body loot, approximately 60 GP in value. Well above any target. The Core would be satisfied. Victor's partnership would be secured.
 

@@ -1,12 +1,12 @@
-# Chapter 102 - The Recruitment
+﻿# Chapter 102: The Recruitment
 
-Three days of surveillance had taught Victor two things about the mystery Restructurer.
+Three days after the expansion plan.
 
-First: she was watching him.
+Victor moved through the Market Quarter like a ghost.
 
-Second: she wanted him to know it.
+The hooded cloak suppressed most of his mana signature, and ARMI's stealth protocol handled the rest. To casual observers, he was just another traveler browsing the morning markets. To anyone with Restructurer-level perception, he was a carefully controlled absence.
 
-The Market Quarter smelled like commerce—sawdust, spice, and desperation. Victor moved through the morning crowd with practiced anonymity: hooded cloak, suppressed mana signature, gait adjusted to match common laborers. ARMI's tracking protocol pulsed against his consciousness, a subtle pressure behind his eyes.
+The mystery signal pulsed ahead.
 
 > **[ARMI - MARKET INTELLIGENCE]**
 > Quest: [Market Intelligence]
@@ -16,281 +16,348 @@ The Market Quarter smelled like commerce—sawdust, spice, and desperation. Vict
 > Signal Strength: 34% (intermittent)
 > Last Detection: Market Quarter, Alchemist Supply Shop
 > Distance: 200 meters
-> 
-> Status: APPROACHING SIGNAL
 
-The trail led to a narrow shop squeezed between a potter's stall and a closed tavern. Hand-painted sign: *Thornwick's Alchemical Supplies*. Legitimate business. Low traffic. Perfect surveillance position overlooking the Market Quarter's main thoroughfare.
+Victor followed the thread through the crowd. Merchants hawking bread. Adventurers haggling over equipment. Beggars working their corners. The Market Quarter at dawn was a symphony of transactions, each one a tiny data point in Oakhaven's economic ecosystem.
 
-Victor stopped at a spice vendor across the street. Purchased cinnamon he didn't need. Watched the shop's entrance.
+The signal led to a narrow shop wedged between a blacksmith and a jeweler: *Thorne's Alchemical Supplies*.
 
-Seventeen minutes. Then she emerged.
+Victor stopped across the street, pretending to examine a fruit vendor's apples.
 
-Mid-twenties. Travel-worn clothing, merchant guild colors, leather pack suggesting long-distance trade. Nothing remarkable. Everything calculated.
+Through the shop window, he saw her.
 
-She walked to a display of slime cores. Picked one up. Examined it with the precision of someone analyzing asset quality, not ingredient value.
+Young woman. Mid-twenties. Traveling merchant's clothes—practical leather, no ornamentation. She moved through the ingredient displays with surgical precision. Not browsing. Analyzing.
 
-Then she looked directly at Victor through the crowd.
+She picked up a slime core sample from the discount bin.
+
+Inspected it under the light.
+
+Set it down.
+
+Victor's ARMI interface pulsed.
+
+> **[ARMI - ANALYSIS]**
+> Target: Female, estimated Level 15-18
+> Behavior Pattern: Institutional reconnaissance
+> Probability of Restructurer classification: 87%
+
+Then she turned and looked directly at him through the crowd.
 
 Smiled.
 
-The mana signature vanished—suppressed, controlled, *intentional*. Professional-grade concealment. Consortium training.
+The mana signature vanished like a candle snuffed out. Suppressed. Just like his.
 
-She turned and walked toward the opposite exit.
+She walked to the shop's back exit and disappeared into an alley.
 
-Victor calculated pursuit probability. Seventy-three percent this was bait. Twenty-two percent genuine contact attempt. Five percent coincidence.
+Victor stood perfectly still.
 
-He dismissed the five percent immediately. The Consortium didn't do coincidences.
+She'd known he was tracking her. She'd wanted him to find her. And now she was testing whether he'd follow.
 
-The woman disappeared into the alley networks behind the Market Quarter. Victor didn't follow.
+He checked the time. Forty-three minutes until his first recruitment interview.
 
-If she wanted contact, she'd initiate properly. If she wanted competition, she'd reveal intent. If she wanted surveillance... well. Two could play that game.
+**Decision**: Not today.
 
-Victor purchased his cinnamon and returned to the dungeon.
+The mystery Restructurer could wait. Victor had infrastructure to build.
 
-Operations required oversight. The mystery Restructurer could wait.
+He turned and walked back toward the dungeon.
+
+Behind him, in the alley's shadows, a woman watched him leave.
+
+"Smart," she murmured. "He doesn't chase bait."
+
+She pulled out a small crystal—an ARMI interface, different model than Victor's—and typed a note.
+
+> Subject assessment: Tactical discipline exceeds file projection. Proceeding to Phase 2.
 
 ---
 
-The Potion R&D Division occupied the western annex of Floor 3—a converted armory that now housed alembics, distillation columns, and seventeen alchemists who'd learned to prefer Victor's management style to Mordecai Groll's.
+The conference room felt too small for Asterion's bulk, but the minotaur had learned to navigate human-sized furniture. Sniv sat to Victor's left, clipboard ready, spectacles gleaming.
 
-Marcus Thiel stood at a workbench, reviewing production schedules. Thirty-four years old, twelve years' experience, promoted from journeyman to operations lead because he could read spreadsheets and follow instructions without requiring motivational violence.
+Across the table: Marcus Thiel.
 
-"Marcus," Victor said.
+Age thirty-four. Former Merchant Guild journeyman. Twelve years of experience, according to the application Sniv had somehow acquired through channels Victor didn't ask about.
 
-The alchemist looked up. Set down his quill. "Mr. Kaine."
+Marcus looked nervous. Not terrified—Victor had seen terrified. This was the controlled anxiety of a man who knew he was gambling his career.
 
-"Walk with me."
+"Mr. Thiel," Victor began. "You've worked for the Merchant Guild for how long?"
 
-They moved to a side office—formerly a weapons locker, now converted to Victor's secondary workspace. ARMI projection surfaces lined two walls. Financial charts dominated the display.
+"Twelve years. Since my apprenticeship."
 
-"I'm expanding operations," Victor began. No preamble; Marcus preferred directness. "Insolvia Apothecary. Storefront operation at the dungeon entrance. Direct consumer sales."
+"Current salary?"
 
-"Bypassing the Merchant Guild licensing," Marcus said immediately. The man understood market structure.
+"Fifty gold per month. Plus lodging in the Guild dormitory."
 
-"Precisely. I need production capacity of two thousand potions per week minimum, scaling to four thousand by Week 3."
+Victor pulled up an ARMI projection between them—a hovering display of numbers that made Marcus's eyes widen.
 
-"That's triple our current output."
+> **Comparative Analysis: Alchemist Compensation**
+> 
+> **Guild Standard (Journeyman)**:
+> - Salary: 50 GP/month
+> - Hours: 70-80/week (no overtime pay)
+> - Benefits: Dormitory bed, meal rations
+> - Profit sharing: 0%
+> - Retirement: Guild pension (if you survive 30 years)
+> 
+> **Insolvia Apothecary Offer**:
+> - Salary: 150 GP/month (3x industry standard)
+> - Hours: 60/week maximum (6-day, 10-hour shifts)
+> - Benefits: Private housing stipend (20 GP/month), meal allowance
+> - Profit sharing: 1% of shop revenue
+> - Severance package: 6 months salary if terminated without cause
 
-"Which is why I'm offering you a promotion. Apothecary Operations Lead. You'll manage production, quality control, and distribution logistics."
+Marcus stared at the numbers.
 
-Marcus's expression didn't change, but his posture shifted—the subtle recalculation of someone reassessing their position. "Salary?"
+"This is... triple what Lysander pays."
 
-"One hundred fifty GP per month. Triple your current rate. Housing stipend, meal allowance, and one percent profit share on gross apothecary revenue."
+"Correct."
 
-"One percent."
+"Why?"
 
-"Of revenue, not profit. The percentage compounds as we scale."
+"Because I need the best alchemists in Oakhaven, and the best alchemists currently work for a monopoly that underpays them. I'm correcting a market inefficiency."
 
-Victor pulled up the financial projection. Conservative estimates showed monthly apothecary revenue of four thousand GP within twelve weeks. One percent would net Marcus forty GP monthly—more than most journeyman alchemists earned in six months.
+Marcus leaned back. His hands trembled slightly. "If I defect, the Guild will blacklist me. I'll never work in this city again."
 
-"You're targeting the Merchant Guild," Marcus said slowly.
+"In eight weeks," Victor said, voice flat, factual, "I will own the Guild. You're not defecting. You're getting in on the ground floor."
 
-"I'm offering consumers a non-Guild alternative priced fifteen percent below market standard. The Guild's response is irrelevant to your compensation structure."
+Silence.
 
-"Lysander Corvus is thirty-eight years in power. He has Crown connections. Political leverage."
+"You're serious."
 
-"Lysander profits from regulatory capture, not competition. Crown Territory exemptions make his licensing structure legally irrelevant. I'm not breaking his monopoly. I'm circumventing it entirely."
+"I don't make jokes about acquisitions."
 
-Marcus stared at the projection. Victor let him calculate. Smart employees didn't need persuasion; they needed data.
+Another projection appeared—this one showing production costs.
 
-"Lysander will pressure the Crown to close the loophole," Marcus finally said.
+> **Potion Economics**
+> 
+> **Guild Production Cost/Unit**: 8 silver
+> **Insolvia Production Cost/Unit**: 3 silver (slime-core advantage)
+> 
+> **Market Pricing**:
+> - Current Guild price: 50 silver
+> - Insolvia launch price: 10 silver (80% undercut)
+> 
+> **Profit Margins**:
+> - Guild margin at 10 silver/unit: **-200%** (bankruptcy)
+> - Insolvia margin at 10 silver/unit: **+233%** (sustainable)
 
-"Which requires legislative action. Legislation requires political capital. Political capital costs money when you're fighting twelve thousand adventurers who save forty silver per transaction shopping at my store."
+Marcus's eyes tracked the numbers. Victor could see the moment comprehension hit.
 
-Marcus's eyes widened fractionally—the only indication of surprise he'd shown. "You're building a voting constituency."
+"You're going to price them into the ground."
 
-"I'm building a market. The constituency is a natural byproduct of competitive pricing."
+"I'm going to give them a choice: work for me, or starve. You're choosing now, before the collapse. That's smart."
 
-Silence. Marcus's fingers drummed against the workbench—an unconscious tell Victor had cataloged weeks ago. The man was calculating risk versus reward.
+"What if..." Marcus hesitated. "What if Lysander retaliates? Violently?"
 
-"What happens when Lysander escalates?" Marcus asked.
+Victor gestured to Asterion. The minotaur stood—all eight feet and four hundred pounds of muscle.
 
-"Then we discover whether three decades of monopoly behavior prepares someone for actual economic warfare."
+"This is Asterion, head of security. He has twelve additional guards stationed at the apothecary location. The slime farm is inside the dungeon, protected by five floors of defensive infrastructure. And I have forty-two professional soldiers on retainer."
 
-More silence. Then: "I'll need two assistant alchemists. Competent ones."
+Marcus swallowed.
 
-"Pick your team from the R&D pool. You have authorization to increase production staff by twenty percent."
+"When I said I'm acquiring the Guild," Victor continued, "I meant I've already calculated how Lysander will respond. Violence is expensive. Violence against fortified positions with superior funding is suicide. He'll try a price war first. Then sabotage. Then legal action. By the time he considers armed conflict, he'll be bankrupt."
 
-"And if there's... regulatory interference?"
+"And if I join you, I'm part of that plan."
 
-"Security is Asterion's domain. Your concern is production metrics. Hit your targets, collect your percentage. Guild politics are my problem, not yours."
+"You're part of the winning side."
 
-Marcus nodded slowly. "When do I start?"
+Marcus looked at the contract Sniv slid across the table. Standard employment agreement, reviewed by Victor's hired legal consultant. Two-year term. Non-compete clause that only activated if Marcus voluntarily left. Profit-sharing vesting after six months.
 
-"Today. First production run needs to be ready in forty-eight hours."
+He picked up the quill.
+
+"Where do I sign?"
+
+---
 
 > **[ARMI]**
-> Personnel Assignment: Marcus Thiel (Alchemist, Level 8)
-> Role: Apothecary Operations Lead
-> Compensation: 150 GP/month + housing + 1% revenue share
-> Production Capacity: 40 potions/day (solo), 120/day (with assistants)
-> Status: ASSIGNED
+> New Employee: Marcus Thiel (Alchemist, Level 8)
+> Salary: 150 GP/month
+> Specialization: Health potions, mana potions, basic curatives
+> Production Capacity: 40 potions/day
+> 
+> **Employment Contract**: BINDING (2-year term)
+> **Cost**: 1,800 GP/year salary + 240 GP/year housing = 2,040 GP total
+> **Projected Revenue Contribution**: 14,000 GP/year (assumes 40 potions/day at 7 GP profit)
+> **ROI**: 686%
 
-"One more thing," Victor said. "You worked under Groll for eight years. You understand how Guild politics operate. I want weekly intelligence reports on Merchant Guild activity. Rumors, policy changes, personnel movements."
+Victor dismissed the notification as Marcus left.
 
-"You want me to spy."
+"Two more alchemists," he said to Sniv. "Interviews this afternoon."
 
-"I want you to provide market intelligence as part of your operational oversight role. If that involves listening to gossip at the Tradesman's Guild Hall, consider it professional development."
+The goblin consulted his list. "Sniv has three candidates! Very qualified! None have tried to eat Sniv yet!"
 
-Marcus's mouth twitched—not quite a smile, but close. "Understood."
+"Excellent. Asterion, security update?"
 
-"Dismissed."
+The minotaur produced a rolled parchment—a floor plan of the apothecary site.
 
-After Marcus left, Victor updated the operational timeline. Marcus would select assistants by end of day. Production would begin tomorrow. Within forty-eight hours, the apothecary would have two thousand units of inventory.
+"Construction is on schedule. Walls reinforced. Anti-scrying wards installed. I've hired twelve guards. Three per eight-hour shift."
 
-Phase 1: Infrastructure. Complete.
+"Experience level?"
 
----
+"Mix of ex-military and dungeon veterans. All Level 10 or higher. All understand the rules of engagement: non-lethal unless directly threatened with lethal force."
 
-Floor 1's training yard had been converted to what Sniv enthusiastically called the "Customer Service Academy"—a designation that horrified local adventurers and delighted absolutely no one except Sniv himself.
+Victor studied the floor plan. Perimeter defenses. Panic room for high-value inventory. Emergency escape tunnels leading back to the dungeon.
 
-Victor observed from the upper balcony. Below, ten goblins sat in rows, clutching makeshift quills and attempting to copy phrases from a chalkboard.
+"What about the slime farm?"
 
-Sniv stood at the front, wearing reading glasses Victor had never authorized and carrying a pointer stick he'd clearly stolen from somewhere.
+"Inside Floor 2. Anyone trying to sabotage it would have to fight through Nova's dungeon floors. Low probability of success."
 
-"Repeat after Sniv!" the goblin announced. "Welcome to Insolvia Apothecary!"
+"And the mystery Restructurer?"
 
-The goblin chorus: "WELCOME TO BOSS'S HEALING JUICE PLACE!"
+Asterion's expression didn't change, but his tone sharpened. "Unknown variable. You said you saw her this morning?"
 
-"No, no! *Insolvia.* In-SOL-via."
+"Briefly. Young woman, mid-twenties. She knew I was tracking her. She's watching me, I'm watching her. We're both waiting to see who moves first."
 
-"IN-SKULL-VIA!"
+"Enemy?"
 
-"Close enough." Sniv turned to the chalkboard, scribbling frantically. "Module Two: No Eating Customers."
+"Unknown. Could be competitor. Could be Consortium oversight. Could be something else entirely."
 
-One goblin raised a clawed hand. "But what if customer very rude?"
+"And if she moves against the operation?"
 
-"Still no eating!"
+Victor's smile was thin. "Then we'll find out if the Consortium trains Restructurers to compete or cooperate."
 
-"What if customer attacks first?"
-
-Sniv considered this. "Then... call security? Yes! Call big cow-man Asterion! He does the violence! You do the smiling!"
-
-The goblins nodded solemnly, as if this were profound wisdom.
-
-Victor descended the stairs. Sniv spotted him immediately and saluted.
-
-"Boss! Training is proceeding with MAXIMUM EFFICIENCY!"
-
-"Report," Victor said.
-
-Sniv consulted his clipboard. "Ten recruits! All passed Module One: Basic Counting! Currently on Module Two: Customer Interaction Without Fatalities! Tomorrow: Module Three: Upselling Techniques!"
-
-"Fatality rate during training?"
-
-"Zero percent! New record!"
-
-Victor examined the goblin students. They looked simultaneously terrified and determined—the ideal employee mindset.
-
-"Graduation timeline?"
-
-"Four days! Sniv guarantees customer service excellence! Or at least... customer service adequacy!"
-
-"Revenue projection assumes six active shopkeepers for opening day. Can you deliver?"
-
-"Sniv will deliver EIGHT shopkeepers! Plus two backup! Redundancy protocols! Sniv learned from Boss!"
-
-Victor nodded. Sniv had evolved from illiterate scavenger to middle manager in eighteen months. The ROI on that initial recruitment decision remained incalculable.
-
-"Module Three curriculum?" Victor asked.
-
-Sniv flipped pages. "If customer buys one potion, suggest two potions! If customer buys health potion, suggest mana potion! Create value through product bundling!"
-
-"You learned that phrase from the operations manual."
-
-"Sniv reads ALL the manuals! Sniv is very dedicated employee!"
-
-"Maintain current trajectory. Report any behavioral issues immediately."
-
-"Understood!" Sniv turned back to his students. "Everyone! Practice smiling! Like this!" He demonstrated an expression that looked more like a threat than a welcome.
-
-The goblins imitated him. It was horrifying.
-
-Victor left them to it.
-
-Below, Sniv's voice echoed: "Remember! Customer is always right! Unless customer is wrong! Then customer needs EDUCATION through pricing structure!"
-
----
-
-The construction site sat at the dungeon's main entrance—a cleared pavilion where adventurers transitioned between city streets and dungeon passages. Asterion stood among partially built walls, reviewing architectural plans with one of his security contractors.
-
-"Victor," the minotaur acknowledged.
-
-"Security status."
-
-"Twelve guards hired. Mix of dungeon veterans and ex-military. Three shifts, rotating coverage. Non-lethal protocols unless attacked with lethal intent."
-
-Victor examined the perimeter. Stone walls, reinforced doors, anti-scrying wards embedded in the foundations. Professional work.
-
-"Vulnerabilities?"
-
-"Two. First: supply chain. If the Merchant Guild interferes with material deliveries, construction delays."
-
-"Deliveries are sourced through the dungeon. Slime cores are internal production. No external touchpoints except the customer-facing storefront."
-
-"Second vulnerability: legal harassment. Guild inspectors, bureaucratic pressure."
-
-"The storefront is Crown Territory. City regulations don't apply. Guild charter authority ends at the dungeon boundary."
-
-Asterion's ears flicked—bovine skepticism. "And if the Guild challenges that jurisdictionally?"
-
-"Then we'll discover whether Lysander's political connections outweigh Prince Aldric's revenue share from our dungeon operations."
-
-"You're betting on the Crown protecting its tax base."
-
-"I'm betting on institutional self-interest. Aldric receives fifteen percent of dungeon revenue. Lysander receives nothing. When forced to choose, institutions protect their income streams."
-
-Asterion nodded slowly. "What about the mystery mana signature you detected?"
-
-Victor paused. He hadn't mentioned that to Asterion yet.
-
-"You read the morning briefing reports," Victor said.
-
-"I read everything that constitutes a security threat. Another Restructurer in Oakhaven qualifies."
-
-"She's watching. I'm watching her. We're both waiting for the first move."
-
-"And if she moves against you?"
-
-"Then we'll find out if the Consortium trains us to compete or cooperate."
-
-A notification pulsed in Victor's peripheral vision. ARMI's construction monitoring system.
+An ARMI notification interrupted them.
 
 > **[ARMI - CONSTRUCTION UPDATE]**
 > Asset: Automated Slime Farm Alpha
 > Status: 87% complete
-> First harvest: 2 days
-> Projected output: 2,000 cores/week (on target)
-> Quality assessment: 98% Grade A+ specimens
+> First Harvest: 2 days
+> Projected Output: 2,000 cores/week (on target)
+> Maintenance Cost: 200 GP/week
 
-Two days until harvest. One week until the storefront opened. Ten days until Lysander discovered what Victor had built.
+"Two days until we have product," Victor said. "One week until Marcus and the other alchemists start production. Two weeks until we open the shop."
 
-"Timeline?" Asterion asked.
+"And then?" Asterion asked.
 
-"Two days until we have product. One week until operations are ready. Two weeks until we open to the public."
+"Then Lysander finds out what happens when someone calls me an amateur."
 
-"And then?"
+---
 
-"Then Lysander finds out what happens when someone tries to tax a Restructurer's revenue stream."
+Floor 1 of the dungeon had been converted into what Sniv called the "Customer Service Academy."
 
-Asterion's expression didn't change—the minotaur had long since stopped being surprised by Victor's declarations—but his tail swished once. Anticipation, maybe. Or concern.
+Ten goblins sat in makeshift chairs, facing a chalkboard where Sniv had drawn helpful diagrams. The diagrams were mostly stick figures and incomprehensible symbols, but the goblins nodded enthusiastically.
 
-"I'll ensure security is ready," Asterion said.
+Victor watched from the elevated walkway, arms crossed.
 
-"Do that."
+"Module One!" Sniv announced, tapping the chalkboard with his pointer stick. "Greet the asset—I mean, **customer**!"
 
-Victor left the construction site and returned to the Core Chamber. Evening was approaching. Most of the dungeon's staff would be finishing daily operations. The slime farmers would be logging production metrics. Marcus would be selecting his assistant alchemists. Sniv would be putting his customer service trainees through Mock Transaction Scenario #4.
+The goblins recited in unison: "WELCOME TO BOSS'S HEALING JUICE PLACE!"
 
-Everything proceeding according to plan.
+Sniv's ears drooped. "No, no, no. Is 'Insolvia Apothecary.' Not 'healing juice place.' Try again!"
 
-Which made the ARMI notification that appeared ninety seconds later all the more disruptive.
+"INSOLVIA... APOC... APOTH..."
+
+"Close enough!" Sniv made a checkmark on his clipboard. "Module Two: **No eating the customers.**"
+
+One goblin raised a hand. "What if customer is very small? And smells delicious?"
+
+"NO. EATING. Even if delicious."
+
+The goblin looked disappointed but nodded.
+
+"Module Three!" Sniv paced in front of the class like a drill sergeant. "Upselling techniques! If customer buys one potion, you say: 'Would you like to add value with SECOND potion?'"
+
+A goblin in the back row tried: "Would you like MORE HEALING before you DIE?"
+
+Sniv paused. Considered. "...Close enough. Shows urgency. Good salesmanship!"
+
+Victor made a mental note: Sniv had evolved from starving runt to middle manager training retail staff.
+
+The ROI on that original contract was incalculable.
+
+Sniv noticed him watching and scurried over, clipboard clutched to his chest.
+
+"Boss! Boss! Training is going very well! Only two incidents!"
+
+"Define 'incidents.'"
+
+"One goblin tried to eat training dummy. One goblin tried to sell training dummy a potion. Both show entrepreneurial spirit!"
+
+"Graduation timeline?"
+
+"Four days! Goblins will be ready for customer interface! Sniv guarantees zero fatalities!"
+
+"Zero customer fatalities, or zero goblin fatalities?"
+
+Sniv's face scrunched in thought. "...Sniv will clarify success metrics."
+
+Victor almost smiled. "Good. Report to me when they're ready."
+
+He left Sniv to his training and headed for the Market Quarter construction site.
+
+---
+
+The future Insolvia Apothecary sat in a prime location: corner of Market Row and Healer's Lane. High foot traffic. Visible from three directions. Close enough to the Adventurer's Guild to catch post-dungeon traffic.
+
+Asterion was already there, reviewing security installations with the lead contractor.
+
+Victor joined him inside. The walls were reinforced stone, two feet thick. The windows had iron shutters. The back room—where potions would be stored—had a vault door salvaged from a defunct bank.
+
+"Overkill?" Victor asked.
+
+"Not if Lysander sends professionals."
+
+They walked the perimeter. Three guards currently on duty, watching the construction. All armed. All alert.
+
+"What's your threat assessment?" Victor asked.
+
+"Phase one: Lysander sends thugs to intimidate workers. Low-level harassment. We repel easily."
+
+"Phase two?"
+
+"Sabotage. Arson attempts. Poisoning the water supply. We counter with wards and patrols."
+
+"Phase three?"
+
+Asterion's voice lowered. "Professional killers. Not guild enforcers. Real talent. That's when it gets expensive."
+
+"For him or for us?"
+
+"Both. But you have deeper pockets."
+
+Victor walked to the front window, looking out at the Market Quarter. Somewhere out there, the mystery Restructurer was watching. Waiting.
+
+"Asterion. Hypothetical question."
+
+"Yes?"
+
+"If another Restructurer is operating in this city, and she's not competing for the Guild target, what is she here for?"
+
+The minotaur considered. "Oversight. Evaluation. Recruitment."
+
+"Those were my conclusions."
+
+"Which means she's not your enemy."
+
+"Not yet." Victor turned from the window. "But the Consortium doesn't send evaluators unless someone's performance is worth evaluating. Either I've impressed them, or I've concerned them."
+
+"And you don't know which."
+
+"I will. Soon."
+
+They finished the security audit in silence.
+
+---
+
+Victor returned to the Core Chamber as the sun set.
+
+The day's work played out in mental ledgers:
+
+- 1 alchemist hired (2 more interviews tomorrow)
+- 10 goblins in training (4 days until deployment)
+- Security installation 90% complete
+- Slime farm 87% complete (first harvest in 48 hours)
+- Mystery Restructurer: status unchanged
+
+Acceptable progress.
+
+He was reviewing projected expenses when ARMI pulsed an alert. Not a standard notification—this one carried Consortium encryption protocols.
 
 > **[ARMI - PRIORITY MESSAGE]**
 > Source: UNKNOWN RESTRUCTURER
 > Encryption: Consortium Standard Protocol
 > 
-> **Message Received**:
-> "To: Restructurer #REDACTED (Victor Kaine)
+> **MESSAGE RECEIVED**:
+> 
+> To: Restructurer #REDACTED (Victor Kaine)
 > From: Restructurer #418 (Designation: Liaison)
 > 
 > **Subject**: Territorial Introduction
@@ -302,84 +369,80 @@ Which made the ARMI notification that appeared ninety seconds later all the more
 > 
 > I'm not here to compete. I'm here to *evaluate*.
 > 
-> - Kira"
+> - Kira
 
-Victor stared at the message for seventeen seconds.
+Victor read the message three times.
 
-Analysis:
-- She knew his Restructurer designation. Consortium-level intelligence access.
-- She signed her name. Confidence or tactical transparency?
-- Designation "Liaison" suggested oversight function, not operational. Evaluator, not competitor.
-- She'd waited three days before initiating contact. Observation period complete.
+She knew his Restructurer ID number—that required Consortium-level clearance.
 
-Probability assessment:
+Her designation was "Liaison," not "Operator." Oversight, not acquisition.
+
+She was evaluating him. For what? Promotion? Audit? Termination?
+
+And she'd signed her name. Confidence. Or bait.
+
+Probability matrix assembled itself:
+
 - Trap: 23%
 - Genuine Consortium oversight: 54%
-- Recruitment attempt: 18%
+- Recruitment for larger operation: 18%
 - Unknown third option: 5%
 
-He dismissed options 2 and 3 immediately. Refusing contact would signal weakness or paranoia. Sending a proxy would signal cowardice.
+Victor pulled up his calendar. Tomorrow, noon. He had a second alchemist interview at 10 AM and a building inspection at 2 PM.
 
-Decision: attend. Alone. Prepared for every scenario.
+He could fit in a meeting.
 
-Victor composed his response via ARMI:
+Three options:
 
-> "Accepted. Noon. Alone.
+1. **Attend alone** (risky, information-rich)
+2. **Ignore the message** (safe, loses intelligence)
+3. **Send a proxy** (cowardly, reveals weakness)
+
+He dismissed options two and three immediately.
+
+If the Consortium sent an evaluator, he'd meet her. On her terms, initially. Then on his.
+
+Victor composed a reply:
+
+> Accepted. Noon. Broken Barrel. Alone.
+> 
 > Fair warning: I don't take orders well.
-> - V.K."
+> 
+> - V.K.
 
-He sent the message.
+He sent it.
 
-Tomorrow, he'd meet the Restructurer who'd been shadowing him for three days.
+The response came thirty seconds later:
 
-Tonight, he'd prepare for every possible outcome.
+> Good. Neither do I.
+> See you tomorrow, Chainsaw.
 
-The Broken Barrel Inn. Noon. A public location—smart choice. Witnesses without surveillance. Professional approach.
+Victor stared at the nickname. She'd done her research.
 
-Kira. Restructurer #418. Liaison designation.
+He leaned back in his chair, fingers steepled.
 
-Victor pulled up Consortium protocol classifications. "Liaison" meant inter-agent coordination. Oversight function. Evaluation authority.
+Tomorrow, he'd meet Restructurer #418. Tonight, he'd prepare for every possible outcome.
 
-And, notably, termination authority if necessary.
+A final ARMI notification pulsed:
 
 > **[ARMI - QUEST UPDATE]**
 > Quest: [Market Intelligence]
-> Status: PROGRESSING
-> New Objective: Survive meeting with Restructurer #418
-> Reward: Intelligence on Consortium operations
+> Status: PROGRESSING → CRITICAL PHASE
+> New Objective: Survive meeting with Restructurer #418 (Kira)
+> Reward: Intelligence on Consortium operations + Potential alliance
 > Risk Level: MODERATE-HIGH
 > 
-> **Advisory**: Liaison-class agents have discretionary oversight authority.
-> **Recommendation**: Demonstrate competence. Avoid antagonism.
+> **Advisory**: Liaison-class Restructurers have termination authority.
+> Recommendation: Bring leverage.
 
-Victor dismissed the notification.
+Victor dismissed the warning.
 
-Demonstrate competence. That part was easy.
+He'd built a million-gold empire in twenty-three days.
 
-Avoid antagonism? Significantly harder.
+He'd survived Church inquisitors, Imperial customs, and Executor-level audits.
 
-He pulled up tomorrow's schedule. Apothecary construction. Marcus's production planning. Sniv's training graduation. And now: a meeting with a Consortium evaluator who had the authority to classify him as a problematic asset.
+One evaluator with a superiority complex?
 
-A normal day for a Regional Operator.
+That was just another negotiation.
 
-Victor closed the reports. Dimmed the Core Chamber lights. Left through the administrative corridors.
-
-Somewhere in Oakhaven, Kira was preparing her evaluation criteria.
-
-Victor would ensure those criteria highlighted his value, not his liabilities.
-
-One meeting. One Restructurer. One opportunity to determine whether the Consortium viewed him as an asset or a threat.
-
-He had sixteen hours to prepare.
-
-Sixteen hours to ensure that when Kira evaluated Victor Kaine, she saw the operator who'd reached 1.022 million GP in twenty-three days.
-
-Not the liability who'd executed seven illegal arbitrage transactions to meet that goal.
-
-The difference, Victor suspected, would determine whether tomorrow's meeting ended with a handshake or a termination notice.
-
-Either way, he'd find out at noon.
-
-The Broken Barrel Inn. Tomorrow.
-
-Victor Kaine's calendar was never boring.
+And Victor Kaine didn't lose negotiations.

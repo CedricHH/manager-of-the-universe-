@@ -58,7 +58,7 @@ He began assigning roles.
 
 The goblins exchanged confused glances but didn't argue.
 
-"You four—report to Floor Two. Collect mushrooms. The blue ones are edible. The green ones glow but taste like rot. Avoid the orange ones entirely; they're toxic. Bring back as many blue ones as you can carry."
+"You five—report to Floor Two. Collect mushrooms. The blue ones are edible. The green ones glow but taste like rot. Avoid the orange ones entirely; they're toxic. Bring back as many blue ones as you can carry."
 
 Another group moved toward the stairs.
 
@@ -76,15 +76,16 @@ He scurried off toward the collection bags.
 
 > **[ARMI - ORGANIZATIONAL UPDATE]**
 > Balance: 0 GP | Transaction: [Deployment]
-> Workforce Deployed: 14 units
+> Workforce Deployed: 15 units
 > Roles Assigned:
+>
 > - Sanitation: 4 (Chamber maintenance)
-> - Foraging: 4 (Resource acquisition)
+> - Foraging: 5 (Resource acquisition)
 > - Security: 4 (Perimeter watch)
 > - Administration: 1 (Inventory management)
 > - Management: 1 (Victor Kaine - coordination)
-> Efficiency Rating: SUBOPTIMAL (Training required)
-> Projected Improvement: 15% per cycle with consistent protocols
+>   Efficiency Rating: SUBOPTIMAL (Training required)
+>   Projected Improvement: 15% per cycle with consistent protocols
 
 Victor watched his workforce disperse—reluctantly, imperfectly, but moving nonetheless. It wasn't a corporation. It wasn't even a functional team. But it was the beginning of something.
 
@@ -102,10 +103,11 @@ The reaction was immediate. The acid hissed and smoked, eating into the rock wit
 > Substance: Slime Acid (Concentrated)
 > Properties: Corrosive (Level 3), Short-term reactivity (30 seconds active)
 > Potential Applications:
+>
 > - Weapon (Thrown projectile)
 > - Tool (Stone-cutting, lock dissolution)
 > - Trap component (Pressure-activated release)
-> Assessment: High tactical value. Handle with caution.
+>   Assessment: High tactical value. Handle with caution.
 
 *Acid grenades. Primitive, dangerous, but viable.*
 
@@ -167,8 +169,8 @@ The question slipped away before he could grasp it.
 
 The ground trembled.
 
-It started as a vibration—subtle, almost imperceptible. Then it grew. 
- 
+It started as a vibration—subtle, almost imperceptible. Then it grew.
+
 The stone floor shook. Dust rained from the ceiling. Somewhere in the distance, something *roared*.
 
 Not a goblin. Not a rat. Not a slime.

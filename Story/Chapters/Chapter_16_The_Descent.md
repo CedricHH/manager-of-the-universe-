@@ -79,7 +79,7 @@ A transparent blue grid overlaid his vision, scanning the massive creature befor
 
 > **[Target Analysis: Asterion]**
 > **Role:** Floor 4 Guardian
-> **Level:** 32 (Boss)
+> **Level:** 20 (Boss)
 > **HP:** 5,500 / 5,500
 > **Mana:** 500 / 500
 > **Skills:** [Seismic Slam], [Gore], [Labyrinth Call]

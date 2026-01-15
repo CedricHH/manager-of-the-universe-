@@ -16,9 +16,27 @@ Asterion stood in the center of the arena, massive axe resting across his should
 
 Gareth charged.
 
----
-
 The fight lasted exactly eight minutes.
+
+It wasn't a brawl; it was an audit. Asterion moved with the calculated efficiency of a veteran instructor, his massive axe never actually committing to a killing blow. He swung just enough to test Gareth’s parry strength, then immediately shifted his weight to force Bron into a defensive repositioning.
+
+"Weight distribution on the front foot is too heavy," the Minotaur rumbled, parrying Gareth’s overhead strike with the flat of his blade. "Leaves you vulnerable to low-angle sweeps. Two out of ten."
+
+"Shut up and fight!" Gareth roared, lunging again.
+
+Asterion didn't lunge back. He stepped aside, a move so fluid it shouldn't have been possible for a creature of his size. He tapped the pommel of his axe against Gareth’s kidney—hard enough to bruise, not enough to break. "Aggression is not a strategy, Swordsman. It is a temper tantrum. C-minus."
+
+He turned his attention to Mira. The mage was already casting, her staff glowing with a frost-blue light. A shard of ice flew toward Asterion’s chest. He didn't block it; he caught it on his horn, the ice shattering into harmless mist.
+
+"Good timing," Asterion noted. "But you’re telegraphing your mana-pulse through your shoulders. A child could read your intentions. Try again, but lead with the thought, not the limb."
+
+Mira blinked, her analytical mind immediately processing the advice. Her next spell—a localized gravity well—caught Asterion off guard, forcing him to plant his hooves to avoid being pulled off balance.
+
+"Better," he grunted. "B-plus for adaptability."
+
+Tessa was the surprise. She didn't stay in the center. She stayed high, using the pillars and the shadows of the arena ceiling to move. She never engaged Asterion directly. She waited for the moments when his attention was on Bron’s massive shield, then dropped from above with a flurry of non-lethal strikes against his armored shoulders.
+
+"A-plus for evasion," Asterion said, catching her by the collar mid-air and setting her down gently. "You have the instincts of a natural extractor. Do not let the swordsman ruin you."
 
 Asterion tested each party member with clinical precision, adjusting his power output to match their skill level. He wasn't trying to kill them—he was *assessing* them.
 
@@ -46,15 +64,27 @@ No scattered piles of gold. No random equipment dumped in corners. Instead: orga
 
 "Standard loot included with entry fee," Sniv explained, gesturing to the first section. "Healing potions, common-grade weapons, miscellaneous supplies. Take what you need."
 
-"And that?" Mira pointed to the roped-off section labeled "PREMIUM."
-
 "Available for additional purchase. Higher quality. Verified enchantments. Satisfaction guaranteed or refund on your next visit."
 
-Victor's voice crackled from hidden speakers. "I don't stock garbage. Repeat customers expect consistency. Everything in that section has been quality-tested and priced according to verified market rates."
+Mira examined a staff in the premium section. Blue wood, runes of power carved along its length, a crystal focus that hummed with contained energy. She ran a finger over the label attached to the base.
 
-Mira examined a staff in the premium section. Blue wood, runes of power carved along its length, a crystal focus that hummed with contained energy. "This is... actually high quality."
+*Product ID: SL-774. Origin: Silver Lance Liquidation. Enchantment Tier: 2. Verified by: Zip, CTO.*
 
-"I told you. Sustainable business model." Victor paused. "Current promotional offer: ten percent discount for returning customers. Fifteen percent if you bring referrals."
+"This is the staff from the Silver Lance party," Mira whispered, her eyes widening. "I recognize the grain. They were... they were one of the best B-rank parties in the region. How did you get this?"
+
+"Insolvia Holdings believes in resource recycling," Victor’s voice came from the speaker, steady and professional. "The previous owners chose a severance package that didn't include their equipment. We have refurbished the item, recertified the runes, and are now offering it to you at twenty percent below the Oakhaven market rate."
+
+"You're selling us the equipment of the people who died here?" Gareth asked, his voice thick with disgust.
+
+"They didn't die here, Gareth. They accepted a non-lethal exit strategy in exchange for information and assets. It was a mutually beneficial transaction." Victor’s tone was almost bored. "Do you want the staff or not? Mira's mana-conduit could use the upgrade. Her current focus is losing approximately twelve percent of its output to heat-leakage."
+
+Mira looked at her old staff, then back to the blue-wood focus. She knew he was right. The numbers didn't lie.
+
+"I'll take it," she said, reaching for her gold pouch. "And the participation certificate?"
+
+Sniv handed over a small, neatly rolled scroll. "Certified completion of Insolvia Floor 3. Grants access to the members-only lounge and a free mana-refreshment on next visit."
+
+"A lounge?" Tessa looked at Gareth. "We should definitely come back next week."
 
 Gareth shook his head in disbelief. "You're running a dungeon like a shop."
 
@@ -163,7 +193,28 @@ Victor smiled. His first genuine smile in a very long time.
 
 "Nova it is. Now—let's talk about Phase 3."
 
-The crystal pulsed brighter.
+As Victor spoke, the room began to change.
+
+The ancient, grey dust that had coated the walls for centuries didn't just disappear; it was consumed, drawn into the runes that were now glowing with a fresh, vibrant mana-signature. The dim, flickering light was replaced by a steady, surgical brilliance that reached every corner of the chamber.
+
+In the walls themselves, the sound of clockwork—or something like it—began to rumble. Ancient gears of logic and magic, long seized by the rust of neglect, began to turn. On Floor One, the traps realigned themselves with millimetric precision. On Floor Two, the fungal spores adjusted their dispersal patterns to match Victor's tracking data.
+
+Nova’s consciousness expanded, no longer a tired ghost in a decaying shell, but a living operating system.
+
+> **[CORE-NOVA]**
+> DIAGNOSTICS COMPLETE. 
+> SYSTEM INTEGRITY: 100%. 
+> REVENUE STREAMS: ESTABLISHED.
+> PHASE 3 OBJECTIVE: MARKET SATURATION.
+
+Victor watched the data-streams flood his ARMI interface. It was more than he’d ever had on Earth. Faster. Deeper. More tangible. He wasn't just managing a company anymore. He was managing a world.
+
+"Market saturation is the goal," Victor agreed, his eyes reflecting the Core's light. "But first, we need to address our supply chain. We need a forge. We need an alchemist. And we need a recruitment strategy for the local goblins that doesn't involve hitting them with clubs."
+
+> **[CORE-NOVA]**
+> AGREED. 
+> DEVELOPING HR PROTOCOLS. 
+> SYNERGY ATTAINED.
 
 The partnership was official.
 

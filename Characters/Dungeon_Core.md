@@ -17,7 +17,7 @@
 | **Level** | N/A (Dungeon-Entität) |
 | **Alter** | 312 Jahre (aktiv), 847 Jahre (seit Erschaffung) |
 | **Position** | Operating Partner (Equity Holder) |
-| **Erstauftritt** | Kapitel 27 |
+| **Erstauftritt** | Kapitel 24 |
 | **Aktueller Status** | Active Mode, 50/50 Partnership |
 | **Standort** | Dungeon Insolvia, Floor 5 (Core Chamber) |
 
@@ -140,31 +140,49 @@ Wachsen. Nicht mehr "Tutorial Dungeon" sein. Victor glücklich machen = mehr Res
 
 ### Arc 1: Von Tutorial Dungeon zu Operating Partner (Kapitel 26-100)
 
+**Kapitel 24 - Entdeckung**
+- In dornantem Zustand (3% Mana) auf Floor 5 entdeckt.
+- Versiegelte Kammer von Minenteam durchbrochen.
+- Victor etabliert ersten Kontakt (non-active).
+- **The Merger (Ch 25)**: Erhielt 100 GP Administrative Bond; Victor Kaine als Administrator registriert; Dungeon in "Insolvia Holdings HQ" umbenannt; Basisfunktionen (Monster Spawning, Trap Automation) freigeschaltet.
+
 **Kapitel 26 - Identifikation**
 - Status: "Legacy Infrastructure" in Passive Mode
 - Victor plant "Awakening"
 
 **Kapitel 27 - Die Erweckung**
-- Status wechselt von **Passive** zu **Active** nach 847 Jahren
-- Demonstriert Ressentiment gegen vorherige Admins
-- Victor bietet "Equity Partnership" an (50% increase → 50% equity)
+- Status wechselt von **Passive** zu **Active** nach 847 Jahren.
+- Demonstriert Ressentiment gegen vorherige Admins (Torin the Brave, Elara of the High Sun, Merchant Prince Kaelen).
+- Victor bietet "Equity Partnership" an: 50/50 Profitanteil, wenn Victor den Profit um 100% steigern kann.
 
 **Kapitel 29 - Revenue Test**
-- Victor generiert 35 GP von einzelner Party ohne Kampf
-- Equity-Bedingung erfüllt und überschritten
+- Victor generiert 35 GP von den Iron Wolves (Eintrittsgebühr + Boss-Premium).
+- Die Baseline von 15 GP wird um 133% überschritten.
+- Equity-Bedingung erfüllt und überschritten.
 
 **Kapitel 30 - Nova wird geboren**
-- Wählt Namen: **Nova**
-- Befördert zu "Operating Partner"
-- Unlocked: Tier 2 Spawning, Advanced Defensive Architecture
+- Wählt Namen: **Nova**.
+- Erreicht 233% Profit-Steigerung durch Victor's Modell.
+- Geht formelle 50/50 Partnerschaft (Operating Partner) mit Victor ein.
+- Unlocked Tier 2 Spawning und administrative Autonomie.
 
 **Kapitel 31 - Infrastructure Support**
-- Bietet Upgrade-Optionen an (Trap Automation, Monster Spawner, Mining, Defense Grid)
-- Mining Operations: Floor 3 Expansion (47h 32m), 7 mana crystals detected
-- Cash Position: 40 GP nach 70 GP Investment
+- Bietet Upgrade-Optionen an (Trap Automation, Spawner, Mining Expansion).
+- Verarbeitet 70 GP Investition; schließt Floor 3 Renovierung in <48h ab.
+- Detektiert unbekannte "Pre-Dungeon" Struktur (800+ Jahre alt) auf Floor 3.
+- Cash Position: 40 GP nach 70 GP Investment.
 
 **Kapitel 32 - Vault Uncertainty**
-- Enthüllt: Vault predates Nova's Erschaffung um 1.700 Jahre
+- Enthüllt: Vault predates Nova's Erschaffung um 1.700 Jahre.
+- Nova bestätigt "Gedächtnislücken" aufgrund von Consortium-Wartungsprotokollen.
+- Realisierung der Rolle als "Consortium Creation" im Harvest-Modell.
+**Kapitel 33 - The Crystal Archive**
+- Bestätigt Inkompatibilität mit der überlegenen Technologie von R#1.
+- Erhält Auftrag, den Dungeon für eine Woche autonom zu verwalten.
+**Kapitel 34 - Preparations**
+- Analysierte das Risiko der Oakhaven-Mission (87% Monitoring Wahrscheinlichkeit).
+- Installierte autonome Zahlungsprotokolle für die Rückkehr der Iron Wolves.
+- Verbleibt als Überwachungsinstanz und Kommunikationslink für Victor.
 - **Existenzielle Krise**: "PERHAPS I WAS DESIGNED NOT TO KNOW THIS" (Konsortium-Wahrheit)
 - Memory Gaps: Prior admins dokumentierten Vault nie
 

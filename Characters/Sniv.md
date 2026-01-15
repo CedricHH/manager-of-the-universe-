@@ -156,6 +156,12 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 - Erfolgreicher "Catch and Release" Einsatz gegen erste Abenteurer (Ch 14)
 - Koordinierte die Verteidigung gegen die Silver Lance Party; flüchtete vor Asterions Brüllen (Ch 15)
 - Zeuge von Asterions Onboarding; forderte eigene ID-Badge (Ch 16)
+- **The Invoice (Ch 23)**: Fand Zip auf Floor 2; befördert zum **HR Director**.
+- **Infrastructure (Ch 24)**: Begann mit der Ausbildung des "Reconnaissance Units" (Spy Team).
+- **Employee Orientation (Ch 26)**: Offiziell zum **Chief Operating Officer (COO)** ernannt; unterstützt bei der Vorbereitung der Anstellungsverträge und der Organisation der Mitarbeiter-Orientation.
+- **Dungeon 2.0 (Ch 31)**: Fungierte als Project Manager für die Floor 3 Expansion; meldete Burnout-Risiken bei den Goblins; setzt die neue "Scheduled Maintenance" (Urlaubs-) Regelung um.
+- **The Crystal Archive (Ch 33)**: Erhielt von Victor "Operational Authority" für die Dauer seiner Abwesenheit; unterliegt dem "Management Test" (Equity vs. Severance).
+- **Preparations (Ch 34)**: Bestätigte seine Loyalität ("Boss want Sniv safe"); verwaltet 26 Goblins und die Floor 3 Mining Operations (70% Kapazität) während Victors Mission; hält an seiner HR-Direktor-Rolle fest.
 
 **Corporate Evolution (Ch 24-34)**
 - Evolvierte zu Hobgoblin (Stage 2)

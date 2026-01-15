@@ -120,11 +120,13 @@ He wasn't going to help them. That would be inefficient—these adventurers were
 
 But he wasn't going to let them all die, either.
 
-Dead adventurers were just corpses. Corpses had limited utility. But *survivors*—survivors who had witnessed a Level 25 boss fight and lived to tell the tale—survivors were *marketing*.
+Dead adventurers were just corpses. Corpses had limited utility. But *survivors*—survivors who had witnessed a Level 20 boss fight and lived to tell the tale—survivors were *marketing*.
 
-Victor's mind raced through the possibilities. If the Silver Lance died here, no one would know. The dungeon would remain obscure, unmarked, just another death trap in a world full of them. But if they *survived*—if they limped back to the Guild with stories of horror and near-death—
+Victor's mind raced through the possibilities. If the Silver Lance died here, no one would know. The dungeon would remain obscure, unmarked, just another death trap in a world full of them. 
 
-That was advertising. Free advertising. The kind money couldn't buy.
+But if they *survived*—if they limped back to the Guild with stories of horror and near-death at the hands of a Level 20 boss—that was advertising. 
+
+Free advertising. The kind money couldn't buy.
 
 He needed them alive. But he needed something from them first.
 

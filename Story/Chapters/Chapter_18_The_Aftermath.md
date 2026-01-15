@@ -133,6 +133,12 @@ He had been the Cause.
 
 Victor gasped, sitting bolt upright on the stone slab.
 His heart was hammering against his ribs—a frantic, staccato rhythm that felt too big for his chest.
+
+> **[ARMI]**
+> **Biometrics Alert**: Heart Rate 142 BPM | Cortisol: Critical
+> **Sleep Quality**: Interrupted (REM Disruption)
+> **Status**: Psychological Distress Detected
+
 Darkness.
 Cold stone.
 The smell of damp earth and mold.

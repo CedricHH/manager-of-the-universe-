@@ -1,6 +1,6 @@
 # Chapter 6: Departmental Structure
 
-Blood.
+Smell of Blood.
 
 Victor opened his eyes to find two goblins tearing at each other's throats three meters from his throne. One had the other pinned, yellow teeth bared, fingers clawing toward exposed jugular.
 
@@ -14,11 +14,11 @@ He grabbed the aggressor by the scruff and hauled him backward with all the auth
 
 "Enough."
 
-The goblin snarled, squirming. "Mushroom! Mine! He take—"
+The goblin—Grak, Victor would learn—snarled, squirming. "Mushroom! Mine! He take—"
 
 "I don't care."
 
-Victor released him with a shove that sent him sprawling. The defender—smaller, bleeding from three parallel scratches across his face—scrambled back, clutching a half-eaten blue mushroom to his chest.
+Victor released him with a shove that sent him sprawling. The thief—smaller, bleeding from three parallel scratches across his face—scrambled back, clutching a half-eaten blue mushroom to his chest. Grak's mushroom, apparently.
 
 The night watch sat in the corner. Asleep.
 
@@ -54,19 +54,19 @@ Relief flickered across the goblin's face.
 
 The relief died instantly.
 
-"Neither does he." Victor pointed at the aggressor. "Or him. Redundancy in misconduct leads to collective liability."
+"Neither does he." Victor pointed at Grak. "Or him." He gestured at the thief. "Redundancy in misconduct leads to collective liability."
 
-The defender, mushroom still clutched protectively. "Three goblins caused disruption. Three goblins face consequences."
+The thief clutched the mushroom protectively. "Three goblins caused disruption. Three goblins face consequences."
 
-"But Grak take—" the defender started.
+"But Grak's mushroom—" the thief started.
 
-"I. Don't. Care. What Grak did is Grak's problem. What you did—fighting instead of reporting—is your problem. What he did—" Victor jerked a thumb at the sleeping guard "—is negligence."
+"I. Don't. Care. What you did—stealing—is your problem. What Grak did—attacking instead of reporting—is Grak's problem. What he did—" Victor jerked a thumb at the sleeping guard "—is negligence."
 
 The goblins stared at him. The concepts were alien. They had lived by survival of the fittest, where strength meant taking and weakness meant starving. The idea that *all* participants in a conflict might face punishment was revolutionary.
 
 > **[ARMI - BEHAVIORAL FRAMEWORK]**
 > Disciplinary Action Logged
-> Subjects: Guard-1 (Negligence), Grak (Aggression), Subject-003 (Unauthorized Combat)
+> Subjects: Guard-1 (Negligence), Grak (Aggression—victim, but fought instead of reporting), Subject-003 (Theft)
 > Penalty: 1 day rations withheld
 > Purpose: Establish consequence framework
 > Note: Primitive correction protocols. Effective for low-INT populations.
@@ -101,11 +101,11 @@ Confused nods. Close enough.
 
 He assigned teams with the efficiency of a man who had restructured Fortune 500 companies before breakfast.
 
-**Food Team**: Four goblins responsible for hunting slimes and gathering mushrooms. One became Food-Lead; three reported to him.
+**Food Team**: Five goblins responsible for hunting slimes and gathering mushrooms. One became Food-Lead; four reported to him.
 
-**Guard Team**: Three goblins for perimeter security. Rotating shifts. The sleeping guard was stripped of his Lead status—the next largest promoted in his place.
+**Guard Team**: Four goblins for perimeter security. Rotating shifts. The sleeping guard was stripped of his Lead status—the next largest promoted in his place.
 
-**Labor Team**: Three goblins for sanitation, construction, transportation. Every task that didn't fit elsewhere.
+**Labor Team**: Four goblins for sanitation, construction, transportation. Every task that didn't fit elsewhere.
 
 That left Sniv, who reported directly to Victor. Chain of command established: ten workers, three Leads, one COO, one Boss.
 
@@ -183,7 +183,7 @@ Victor accepted the clipboard. Sniv had been learning to make marks—not readin
 
 "And the others?"
 
-Sniv's expression darkened. "Floors above—Floor One, Two, Three—have other goblins. Many other goblins. Headcount: 28 units (Competitor Market Presence). They don't follow Boss."
+Sniv's expression darkened. "Floors below—Floor Two, Three—have other goblins. Many other goblins. Headcount: 28 units. They don't follow Boss."
 
 "Hostile?"
 
@@ -248,12 +248,12 @@ That, Victor noted, was progress.
 > Organizational Structure: Implemented
 > Departments Established: 3 (Food, Guard, Labor)
 > Management Layer: Active (Sniv - first promotion)
-> Threats Identified: 28 hostile goblins (Floors 1-3)
+> Threats Identified: 28 hostile goblins (Floors 2-3)
 > Resource Crisis: Estimated 10 days until food shortage
 > Decision Logged: Territorial Expansion (Floor 3)
 > Status: PREPARING FOR HOSTILE ACQUISITION
 
 ---
 
-**Word Count**: 1,720 (Target met)
+**Word Count**: 1,720
 **Next Chapter**: [Floor Three Takeover]

@@ -58,7 +58,7 @@ Then they reached the stairs to the Fourth Floor.
 The boundary line.
 Beyond those stairs lay the Boss Room. Asterion.
 
-Victor hesitated, his clawed fingers gripping the armrests of his stone throne so hard the granite creaked.
+Victor hesitated, his fingers gripping the armrests of his stone throne so hard the granite creaked.
 
 The Silver Lance was strong. Stronger than he had estimated. With the new recruits—especially Alara, whose Level 15 meant she could probably solo most of the dungeon—they might actually stand a chance against the Minotaur.
 

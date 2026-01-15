@@ -110,7 +110,7 @@ Glyphs materialized in the air above the pedestal, scrolling through authenticat
 > 
 > New Authorization Level: 2
 > Access Granted: Extended ARMI Functions
-> Access Granted:Encrypted Archive (Partial Access - Files 1-2 of 3)
+> Access Granted: Encrypted Archive (Partial Access - Files 1-2 of 3)
 > Skill Unlocked: [Asset Liquidation]
 > 
 > Transmitting status report to Consortium Administrative Network...
@@ -138,7 +138,7 @@ Tight timeline. Manageable.
 The holographic display shifted, presenting Victor's upgraded capabilities.
 
 **New ARMI Functions**:
-- Extended range environmental scanning (500-meter radius vs. previous 50-meter)
+- Extended range environmental scanning (500-meter radius vs. previous 50-meter baseline)
 - Detailed financial projection modeling (quarterly forecasts, market trend analysis)
 - Contract binding authority increased (can enforce agreements on targets up to Level 15)
 - Real-time dungeon monitoring (remote connection to Nova's core systems)
@@ -189,7 +189,7 @@ Not obvious surveillance. Not threatening positioning. But professional observat
 Victor's upgraded ARMI identified the source.
 
 > **[ARMI - THREAT ASSESSMENT]**
-> Target Detected: Humanoid, 47 meters, rooftop position (2 o'clock)
+> Target Detected: Humanoid, 47 meters, rooftop position (2 o'clock) [Enhanced Optics Active]
 > Level: 15-18 (estimated, stealth-focused build)
 > Equipment: Observer class (no visible weapons, lightweight armor)
 > Affiliation: UNKNOWN

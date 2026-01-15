@@ -188,11 +188,11 @@ Victor stared at the message.
 
 The Galactic Audit Consortium. The organization that had sent him here. The cosmic accountants who had looked at his soul, evaluated his skills, and deployed him to this world.
 
-They were watching.
+They were watching him. Closely.
 
-They had *always* been watching.
+They had *always* been watching everything.
 
-Victor had known this, on some level. He'd been summoned by an algorithm, assigned objectives, given a system that tracked his every transaction. Of course they monitored their investments. Of course they kept tabs on their assets.
+Victor had known this, on some level. He'd been summoned by an algorithm, assigned objectives, given a system that tracked his every transaction. Of course they monitored their investments. Of course they kept tabs on their assets. Of course they analyzed his performance.
 
 But there was a difference between knowing and *feeling*.
 

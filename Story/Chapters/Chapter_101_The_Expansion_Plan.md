@@ -1,8 +1,8 @@
-# Chapter 101 - The Expansion Plan
+﻿# Chapter 101: The Expansion Plan
 
-Six hours after achieving the impossible, Victor Kaine was already calculating how to do it again.
+Six hours after achieving the million.
 
-The Core Chamber's ambient glow reflected off the crystal display hovering before him. ARMI—the Arcane Resource Management Interface—pulsed with a notification that had appeared the moment his Consortium contract was fulfilled.
+Victor sat in the Core Chamber, staring at the notification that refused to disappear.
 
 > **[ARMI - CONSORTIUM UPDATE]**
 > Status: Independent Contractor (Verified)
@@ -18,242 +18,303 @@ The Core Chamber's ambient glow reflected off the crystal display hovering befor
 
 Ten million.
 
-Ten times his previous target.
+The number sat in his mind like a debt he'd already incurred.
 
-Victor studied the projection. His current liquidity sat at 1,022,000 GP—impressive by local standards, irrelevant by Consortium metrics. The dungeon generated approximately 15,000 GP per week from adventurer traffic. Sustainable. Profitable.
+One million had required insurance fraud, miracle arbitrage, and nearly getting arrested by Imperial Customs. Ten million would require... what? Selling the planet?
 
-Insufficient.
+Victor dismissed the notification. ARMI didn't do sarcasm, but the phrasing felt pointed. *Scale operations to match capital base.* Translation: "Stop playing in the dungeon. You have institutional capital now. Act like it."
 
-At current growth rates, reaching ten million would require... seventy-three weeks. Unacceptable. The Consortium didn't reward patience. It rewarded aggressive expansion.
+He pulled up the dungeon's revenue projections.
 
-He dismissed the notification and pulled up the market analysis he'd commissioned from Sniv last week.
+> **Dungeon Insolvia - Weekly Revenue Analysis**
+> Ember Trials: 1,500 GP/week
+> Entry Fees (Floors 1-4): 800 GP/week
+> Premium Packages: 600 GP/week
+> Loot Commissions: 400 GP/week
+> **Total**: 3,300 GP/week
 
-Oakhaven. Forty-five thousand population. Four major economic sectors: adventuring, trade, agriculture, services. The dungeon dominated adventuring. But trade? Trade was controlled by a centuries-old monopoly that made his previous acquisitions look like charity work.
+Sustainable. Profitable. Utterly insufficient.
 
-The Merchant Guild.
+At this rate, reaching ten million would take sixty-three weeks. The Consortium didn't set deadlines anymore because they didn't need to. Victor's psychology would do the work for them. He'd seen his ranking: top 8%. That meant 92% of Restructurers were beneath him. It also meant 8% were *above* him.
 
-Guild Master Lysander Corvus—thirty-eight years running Oakhaven's licensing apparatus. Every shop in the Market Quarter paid fifteen percent of gross revenue for the privilege of operating legally. Non-compliance resulted in immediate seizure and crippling fines.
+He couldn't tolerate that.
 
-Five hundred twenty thousand GP per year extracted from local merchants. Pure rent-seeking. Zero value provided.
+The door opened. Sniv entered, clipboard clutched to his chest, spectacles perched crookedly on his nose.
 
-Victor's preferred kind of target.
+"Boss! Boss! Sniv has market intelligence! Very important intelligence!"
 
-The chamber door opened. Sniv entered, carrying a leather folder marked "MARKET INTELLIGENCE."
+Victor gestured to the chair across from him. Sniv sat, though his feet didn't reach the floor.
 
-"Boss!" the goblin chirped. "Sniv has completed urban reconnaissance! Very thorough! No fatalities this time!"
+"Report."
 
-"Report," Victor said.
+Sniv consulted his clipboard. He still couldn't read most of it, but he'd memorized the important parts.
 
-Sniv opened the folder, squinting at his own handwriting. "Merchant Guild raised licensing fees to fifteen percent last month. Previous rate was twelve percent. Public is... what's word... disgruntled? Yes, disgruntled!"
+"Merchant Guild raised potion prices. Thirty percent increase. Effective yesterday."
 
-"Exploiting post-war demand," Victor noted. Textbook monopoly behavior. When market conditions improved, monopolies raised prices because customers had no alternative.
+Victor's expression didn't change. "Public response?"
 
-"Also!" Sniv's ears perked up. "Guild Master Lysander made public statement. He said, quote: 'Dungeon merchants are barely legal parasites who contribute nothing to civic order.' End quote."
+"Merchants complaining. Adventurers complaining. Poor people... stopped buying." Sniv's ears flattened. "Sniv remembers when goblins couldn't afford food. Humans now have same problem, but with healing juice."
 
-Victor's expression didn't change. Emotional responses were inefficient. But the strategic calculus shifted immediately.
+"Potions," Victor corrected absently. His mind was already calculating. "What's the stated justification for the increase?"
 
-Lysander had just made this personal.
+"Guild Master Lysander says..." Sniv squinted at his notes. "...'market forces demand price corrections to ensure quality standards.'"
 
-"Asterion's status?" Victor asked.
+Translation: *We have a monopoly, and there's nothing you can do about it.*
 
-"Security force at full strength. Forty-two soldiers. No incidents."
+Victor almost smiled.
 
-"Nova?"
+"Anything else?"
 
-"Dungeon Core reports Floor 2 slime farm operating at ninety-seven percent efficiency."
+Sniv hesitated. "Lysander also said... he said dungeon merchants are 'amateurs playing at business.' He said..." The goblin's voice dropped to a whisper, as if repeating blasphemy. "...'the Chainsaw should stick to killing monsters.'"
 
-Ninety-seven percent. Two thousand slime cores per week. Each core worth eight silver on the open market, three silver to produce.
+Silence.
 
-And the Merchant Guild charged fifteen percent to anyone who wanted to sell them legally.
+Victor stood and walked to the chamber's edge, where the mana-thread map of Oakhaven hung suspended in the air. The Market Quarter glowed with transaction flows. The Merchant Guild's tower sat at the center like a tumor.
 
-Victor stood. "Convene a meeting. Strategy Room. You, Asterion, Marcus. Thirty minutes."
+"Sniv."
 
-Sniv saluted—a gesture he'd learned from observing Victor's military contractors. "Synergy acknowledged, boss!"
+"Yes, Boss!"
 
-As Sniv scurried out, Victor called up ARMI's new feature: [Institutional Analysis].
+"Schedule a meeting with Asterion and Nova. Strategy session. One hour."
 
-The display shifted. Merchant Guild revenue streams appeared—licensing fees, property rentals, "administrative surcharges." Five hundred twenty thousand GP annually. Operating costs: maybe fifty thousand. Profit margin: over nine hundred percent.
+"What should Sniv tell them the meeting is about?"
 
-And the entire structure depended on one legal principle: City Guild Charters granted monopoly licensing authority within municipal boundaries.
+Victor touched the glowing market district. The mana threads pulsed under his fingers.
 
-Victor pulled up the Oakhaven City Charter. Section 47. Merchant Guild Authority. Subsection C.
+"Tell them we're going into the potion business."
 
-*"Guild licensing requirements apply to all commercial establishments within city limits, excluding Crown Territory as defined by the Dungeon Commerce Act of..."*
+Sniv's eyes went wide. "Boss wants to fight the Merchant Guild?"
 
-Crown Territory.
+"No, Sniv." Victor turned from the map. "I'm going to bankrupt them. Then I'm going to buy them. There's a difference."
 
-Victor stopped reading. Pulled up the Dungeon Commerce Act. Skimmed to the relevant passage.
+The goblin's confusion lasted exactly three seconds before transforming into worshipful excitement.
 
-*"Registered dungeons and their entrance facilities shall be classified as Crown Territory for purposes of taxation, regulation, and commercial jurisdiction."*
+"Sniv will prepare the conference room! And the synergy charts! And the paradigm shift documents!"
 
-Interesting.
+He scurried out, still clutching his clipboard.
 
-Very interesting.
+Victor returned to the map. Lysander's tower pulsed with concentrated economic power. Forty years of monopoly, protected by guild law and enforced by bought politicians.
 
-If he placed a shop at the dungeon entrance—technically Crown Territory—Lysander's Guild Charter didn't apply. No licensing fees. No Guild oversight. No fifteen percent extraction.
+Normally, that would be an impenetrable position.
 
-A loophole. Clean. Legal. Devastating.
+But Victor had just spent twenty-three days learning how to break impenetrable positions.
 
-Victor smiled. It was a cold expression, the kind accountants gave when they found a competitor's mistake in a financial audit.
+He pulled up the dungeon's resource ledgers, specifically Floor 2 inventory.
 
----
+> **Floor 2 (Fungal Caverns) - Weekly Output**
+> Slime Cores (Disposed): 200 units
+> Fungal Spores: 1,400 units
+> Moss Samples: 600 units
+> Trap Maintenance Cost: 50 GP
 
-The Strategy Room had been a storage alcove three weeks ago. Now it contained a stone table, four chairs, and a wall-mounted ARMI projection surface.
+Disposed. Two hundred slime cores per week, thrown into the recycling mana flow because they had no use.
 
-Asterion arrived first—the minotaur's hoofbeats always announced his presence. The former gladiator turned head of security stood at eight feet, perpetually exhausted, and scrupulously professional.
+Except slime cores were the base ingredient for every potion the Merchant Guild produced.
 
-"You're expanding," Asterion said. Not a question. A statement of inevitability.
+Victor did the math.
 
-"Yes."
+Guild production cost per health potion: eight silver. Market price: fifty silver. Profit margin: 525%.
 
-"Where?"
+Slime-core production cost: three silver. Market price if he matched quality and undercut by 80%: ten silver. Profit margin: 233%.
 
-"The city."
+More than enough.
 
-Asterion's ears flattened slightly. "The Merchant Guild won't permit unlicensed operations."
+The probability matrix assembled itself in his mind:
 
-"They won't have a choice."
+- Likelihood of Guild price war: 94%  
+- Likelihood of sabotage attempts: 73%  
+- Likelihood of City Council intervention: 45%  
+- Likelihood of violent retaliation: 68%  
+- Likelihood of Victor's victory if he stockpiled inventory first: 89%  
 
-Sniv bounced in, followed by Marcus Thiel—the senior alchemist from Victor's Potion R&D Division. Marcus had worked for Mordecai Groll's Alchemist Guild until Victor absorbed it in Arc 1. Now he ran potion production with the efficiency of someone who'd seen what happened to inefficient managers.
+Acceptable risk.
 
-Victor waited until everyone was seated, then activated the ARMI display.
+He sent a mental pulse to Nova through the dungeon network. The Core's consciousness materialized as a shimmer of light.
 
-The wall came alive with data.
+"You're planning something expensive," Nova said. Not a question.
 
-"Market analysis," Victor began. No preamble. No pleasantries. "The Merchant Guild extracts fifteen percent of Market Quarter revenue—five hundred twenty thousand GP annually. They provide no value. They own the licensing monopoly through City Charter authority."
+"Floor 2 modification. I need forty percent of the Fungal Caverns converted into slime breeding pools. Industrial scale. Output target: two thousand cores per week."
 
-"And you want to break them," Marcus said. He'd been through this before.
+The light flickered—Nova's equivalent of a raised eyebrow.
 
-"No. Breaking them would be inefficient and legally complicated. I want to circumvent them entirely."
+"That's ten times current production. The ecosystem will collapse."
 
-Victor gestured. The display shifted to a map of Oakhaven, zooming to the dungeon entrance.
+"Not if we automate the feeding systems. Fungal matter converts to slime biomass at a two-to-one ratio. We're already producing excess fungus. We're just optimizing resource allocation."
 
-"The dungeon entrance qualifies as Crown Territory under the Dungeon Commerce Act. Commercial operations on Crown Territory are exempt from City Guild licensing requirements."
+"You want to factory-farm slimes."
 
-Sniv's eyes widened. "Boss is making shop at dungeon? Where adventurers come in?"
+"I want to corner the potion market in Oakhaven."
 
-"Precisely. Insolvia Apothecary. Direct-to-consumer potion sales. No Guild fees, no licensing overhead. We undercut market prices by fifteen percent minimum while maintaining superior margins."
+Nova's light pulsed, thoughtful. "The Merchant Guild won't let you."
 
-Marcus leaned forward. "You're using the R&D Division's output?"
+"The Merchant Guild won't have a choice. By the time they react, I'll have four thousand cores stockpiled and contracts with every major buyer in the city."
 
-"Two thousand potions per week initially. I'm authorizing slime farm expansion to double capacity. Construction budget: forty-five thousand GP. Projected first-week revenue: two hundred GP. Scaling to one thousand GP weekly within eight weeks."
+"And when they try to burn down your shop?"
 
-"ROI timeline?" Asterion asked.
+"I'll have Asterion and forty-two professional soldiers guarding it."
 
-"Twelve weeks. Conservative estimate."
+The Core was silent for a long moment.
 
-Victor pulled up the production economics. Slime cores cost three silver to produce. Market price for potions: fifty silver. Victor's target price: ten silver. Profit margin: two hundred thirty-three percent.
+"What do I get out of this?"
 
-Guild margin at current prices: five hundred twenty-five percent. But they paid tribute to the Merchant Guild. Victor didn't.
+Victor smiled. This was why he liked Nova. No moralizing. No questions about ethics. Just clean negotiation.
 
-"The Merchant Guild will challenge this legally," Marcus said. "Lysander has Crown connections."
+"Five percent of potion revenue."
 
-"Which is why we're not just selling potions. We're creating a political constituency."
+"Seven."
 
-Victor changed the display. Demographic breakdown. Forty-five thousand population. Twelve thousand regular potion consumers. Average savings per customer at Victor's prices: forty silver per transaction.
+"Three, plus I fund Floor 6 development next quarter."
 
-"Every adventurer who saves money becomes a voter against Guild regulations. Every merchant who sees a Crown Territory exemption working becomes a pressure point for reform. We're not fighting Lysander politically. We're making it politically toxic for him to fight us."
+"Three-point-five, and you fund Floor 6 *this* quarter."
 
-Sniv practically vibrated with excitement. "This is VERY strategic disruption, boss!"
-
-"Sniv, you'll recruit and train ten goblin shopkeepers. Customer service protocols. No fatalities during transactions."
-
-"Understood! Sniv will implement excellent service paradigm!"
-
-"Asterion, hire additional security. The Guild may attempt sabotage."
-
-"How much sabotage?" Asterion asked.
-
-"Probability sixty-two percent. Budget for twelve guards. Rotational shifts."
-
-"And me?" Marcus asked.
-
-"Production scaling. I need four thousand cores per week by Week 3. Hire two additional alchemists from the R&D pool."
-
-Marcus nodded. He'd learned not to question Victor's projections. They tended to be conservative.
-
-Victor pulled up the final projection.
+"Agreed."
 
 > **[ARMI]**
-> Transaction: [Infrastructure Investment - Insolvia Apothecary]
-> Cost: 30,000 GP (storefront) + 15,000 GP (slime farm expansion)
-> Projected ROI: 280% (12-week window)
+> Transaction: [Partnership Amendment - Dungeon Core]
+> Terms: 3.5% potion revenue + Floor 6 development (Q1)
+> Status: BINDING
+> 
+> Transaction: [Infrastructure Investment - Slime Breeding Facility]
+> Cost: 15,000 GP
+> Projected ROI: 340% (8-week window)
 > Status: APPROVED
 > 
-> New Asset: **Insolvia Apothecary**
-> Location: Dungeon Entrance (Crown Territory)
-> Legal Status: Guild License EXEMPT
-> Operational Status: Construction pending
+> New Asset: **Automated Slime Farm Alpha**
+> Output Capacity: 2,000 cores/week
+> Maintenance Cost: 200 GP/week
 
-"Timeline?" Asterion asked.
+The chamber's mana flow shifted as fifteen thousand gold drained from Victor's liquid reserves. Somewhere on Floor 2, construction began. Walls reforming. Pools excavating themselves. Feeding channels carving through stone.
 
-"Two weeks. Silent construction. Week three, we launch with full inventory and public advertising."
+Nova's light brightened. "You know what's funny?"
 
-"And when Lysander responds?"
+"What?"
 
-"Then we'll see how well thirty-eight years of monopoly behavior prepares someone for actual competition."
+"I spent three hundred years learning how to kill adventurers efficiently. You're teaching me capitalism. I'm not sure which is worse for humanity."
 
-Victor dismissed the projection. "Construction begins tomorrow. Questions?"
+"Capitalism is more efficient."
 
-No one spoke.
+"That's what worries me."
 
-"Dismissed."
+The Core's presence faded. Victor checked the time. Forty-three minutes until the strategy meeting.
+
+He spent them drafting the acquisition plan.
 
 ---
 
-Asterion left first. Marcus followed, already calculating production schedules. Sniv lingered, clutching his folder.
+When Asterion and Sniv entered the conference room, they found Victor surrounded by projected data screens.
 
-"Boss," Sniv said quietly. "Lysander called you... parasite."
+The minotaur sat with his usual stoic calm. Sniv vibrated with excitement, clutching a notebook he'd labeled "POTION PARADIGM SHIFT."
 
-"He did."
+"Gentlemen," Victor began. "Market analysis."
 
-"This makes Sniv angry."
+He gestured. The first screen expanded.
 
-Victor glanced at the goblin. Sniv had been three days from starvation when Victor recruited him. Now he managed a forty-two-person security force and handled complex logistical operations. Loyalty born from competence rewarded was the strongest kind.
+"Current Oakhaven potion market: one thousand gold per week in total sales. The Merchant Guild controls 100% market share. Their profit margin is 525%. They just raised prices by 30%, claiming quality standards."
 
-"Lysander operates from an assumption of permanence," Victor said. "Thirty-eight years without serious competition. He views challenges as temporary annoyances, not existential threats."
+Next screen.
 
-"And boss will show him different?"
+"Our production capacity as of one hour ago: two thousand slime cores per week. Production cost per potion: three silver. If we price at ten silver—80% below Guild rates—our margin is 233%."
 
-"I'll show him the difference between a monopolist who inherited power and an operator who earned it."
+Asterion's eyes narrowed. "The Guild has killed competitors before."
 
-Sniv grinned—a disturbing expression on a goblin. "Sniv looks forward to educational demonstration!"
+"Which is why we're not competing. Phase one: silent production. Two weeks. We stockpile four thousand cores and hire alchemist defectors at triple Guild wages. Phase two: market launch. We open Insolvia Apothecary in the Market Quarter with prices the Guild can't match. Phase three: Guild response. They'll try price war, sabotage, and smear campaigns. We counter with stockpiled inventory and legal contracts with the City Guard—bulk discount, of course."
 
-After Sniv left, Victor returned to the Core Chamber. The ARMI display showed revised financial projections. With the apothecary launch, monthly revenue would increase from sixty thousand GP to approximately one hundred twenty thousand GP. Aggressive scaling could reach three hundred thousand GP monthly by quarter's end.
+Sniv's hand shot up. "What is phase four?"
 
-Still not ten million. But momentum mattered more than current position.
+Victor's smile was thin.
 
-He was about to dismiss the projection when ARMI pulsed an unexpected notification.
+"Phase four: acquisition. The Guild bankrupts itself trying to match our prices. We offer buyout terms. They work for us, or they lose everything."
+
+Asterion leaned back. "You've done this before."
+
+"The Bank of Oakhaven. The Gilded Ledger. The Mercenary Guild. This is the same playbook."
+
+"And if Lysander refuses to sell?"
+
+"Then he loses his tower, his assets, and his reputation. I'm offering him a severance package. Whether he takes it is his choice."
+
+Sniv scribbled frantically. "Boss is doing... hostile takeover! Sniv knows this one!"
+
+"Correct." Victor pulled up the final screen. "Assignments. Sniv, you're recruiting ten goblin shopkeepers. I need customer service training completed in two weeks. Asterion, you're security lead for the apothecary. Prevent sabotage. Rules of engagement: non-lethal unless they escalate to lethal force first."
+
+"Understood."
+
+"Budget allocation: thirty thousand gold for initial operations. Five thousand for store construction. Fifteen thousand for slime farm—already spent. Eight thousand for inventory. Two thousand for hired alchemists."
+
+Victor stood. "Questions?"
+
+Sniv raised his hand again. "When does Sniv tell applicants they're selling slime juice?"
+
+"You don't. You tell them they're providing affordable healthcare to Oakhaven's underserved populations."
+
+The goblin's face scrunched in concentration. Then enlightenment struck. "Ohhh. Slime juice is *affordable healthcare*. Not slime juice."
+
+"Exactly."
+
+Asterion remained still, but his tone carried weight. "The Guild will retaliate violently. You're certain you want this conflict?"
+
+Victor met the minotaur's gaze.
+
+"The Consortium gave me a ten-million-gold target. The dungeon generates 3,300 per week. At that rate, I'd need sixty-three weeks. I don't have sixty-three weeks."
+
+"You don't have a deadline."
+
+"I have a ranking. Top 8%. That means someone out there is faster than me." Victor's voice was flat. Factual. "I will not be outperformed by another Restructurer. If that requires bankrupting guild masters who call me an amateur, then that's not a conflict. It's just resource allocation."
+
+Silence.
+
+Then Asterion stood. "I'll begin security hiring immediately."
+
+"Good."
+
+Sniv clutched his notebook to his chest. "Sniv will make Boss proud! Customer service paradigm will be very synergistic!"
+
+They left.
+
+Victor sat alone in the conference room, surrounded by projections of Oakhaven's economic flows. The Merchant Guild's tower glowed at the center.
+
+Forty years of monopoly.
+
+Eight weeks until acquisition.
+
+He was about to close the projections when ARMI pulsed a new notification.
 
 > **[ARMI - MARKET ALERT]**
 > Surveillance Protocol: ACTIVE
 > 
-> **Detected**: Unusual mana signature in Oakhaven Market Quarter
-> Source: Unknown
-> Pattern: Matches **Restructurer-class** energy
+> **Detected**: Unusual mana signature in Oakhaven Market Quarter  
+> Source: Unknown  
+> Pattern: Matches **Restructurer-class** energy  
 > 
-> **Analysis**: 
-> Probability of second Consortium agent in region: 68%
-> Threat level: MODERATE
+> **Analysis**:  
+> Probability of second Consortium agent in region: 68%  
+> Threat level: MODERATE  
 > 
 > **Recommendation**: Investigate before market entry.
 
-Victor stared at the notification.
+Victor stared at the alert.
 
-Another Restructurer. In his territory.
+Another Restructurer. Here. In *his* city.
 
-The Consortium hadn't mentioned territorial conflicts. Hadn't warned about overlapping assignments. But ARMI's pattern recognition didn't generate false positives.
+The Consortium hadn't mentioned territorial conflicts. Then again, they hadn't mentioned a lot of things.
 
-Someone else was operating in Oakhaven. Someone with Consortium clearance.
+He pulled up the mana signature map. The unknown energy pulsed from somewhere in the Market Quarter—irregular intervals, low intensity, but unmistakable. Same frequency as his own ARMI interface.
 
-Competitor? Observer? Evaluator?
+Probability matrix:
 
-Victor pulled up probability matrices. Ran scenarios. The math suggested:
-- 54% probability: Consortium oversight/audit
-- 28% probability: Competing assignment
-- 18% probability: Recruitment attempt
+- Coincidental proximity: 12%  
+- Intentional competition: 54%  
+- Reconnaissance mission: 34%  
 
-All scenarios required investigation.
+If another agent was targeting the same markets...
+
+Victor closed the projection.
+
+One problem at a time.
+
+First, he'd bankrupt the Merchant Guild.
+
+Then he'd deal with whoever was stupid enough to think they could operate in his territory without permission.
 
 > **[ARMI]**
 > New Quest: **[Market Intelligence]**
@@ -262,26 +323,22 @@ All scenarios required investigation.
 > Penalty: None (optional)
 > Priority: MEDIUM
 
-Victor accepted the quest.
+Victor dismissed the notification and stood.
 
-Tomorrow, construction would begin on the apothecary. Sniv would start training goblins in customer service. Asterion would hire guards. Marcus would scale potion production.
+Two weeks until launch.
 
-And Victor would find whoever thought they could operate in his city without announcement.
+Eight weeks until acquisition.
 
-He closed the notification. Turned off the lights. Left the Core Chamber.
+And somewhere in Oakhaven, another Restructurer was making plans of their own.
 
-Somewhere in the Market Quarter, another Restructurer was making plans.
+He almost looked forward to the introduction.
 
-Victor would ensure those plans didn't interfere with his.
+Competition, after all, was just another market inefficiency waiting to be corrected.
 
-One problem at a time.
+---
 
-First: bankrupt the Merchant Guild's licensing monopoly.
+*In the Market Quarter, a hooded figure examined a potion vial under moonlight. The liquid inside glowed with an unnatural golden shimmer—brighter than any alchemist's work, more stable than any dungeon drop.*
 
-Second: identify the competition.
+*The figure smiled and tucked the vial away.*
 
-A normal evening for a Regional Operator.
-
-Victor Kaine's work was never finished.
-
-But then again, neither was his profit margin.
+*"Let's see how the Chainsaw handles real competition."*

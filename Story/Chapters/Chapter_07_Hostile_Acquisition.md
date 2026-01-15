@@ -220,7 +220,7 @@ Sniv's grin was predatory.
 > Day 2 | Evening
 > Balance: 0 GP
 > Employees: 26 goblins (14 veteran, 12 new)
-> Territory: Floors 3-5 (consolidated)
+> Territory: Floors 1-3 (consolidated)
 > Combat Record: 1 Engagement, 1 Victory
 > Hostile Alpha: TERMINATED
 > Remaining Hostiles: ~11 (scattered, leaderless)
