@@ -340,5 +340,3 @@ Malcom smiled.
 "Let him dig his own grave."
 
 ---
-
-**STATUS**: Floor 5 operational. Dragon boss (Ignatia) hired. Capital reserves critical (2,000 GP). Stress test scheduled. Three days to launch. Margin for error: zero.

@@ -176,5 +176,3 @@ He had a Royal License. And a Divine Death Mark.
 
 **Status**: Still in business.
 
-## Author's Note
-This concludes the "Royal Visit" arc. Victor survives by pitting the State against the Church. The status quo has shifted: The Dungeon is now "Legal" but heavily monitored. The next phase will be about expansion under pressure.

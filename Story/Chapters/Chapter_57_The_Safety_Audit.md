@@ -233,5 +233,3 @@ He looked up, his eyes glowing with the cold purple light of the Dungeon Core.
 > **Win Probability (Lethal Force Authorized)**: 98%.
 > **Authorization**: PENDING...
 
-## Author's Note
-The legal battle ends; the physical battle begins. This chapter transitions from the "Bureaucratic Comedy" to "LitRPG Action." The switch is triggered by Vorne realizing he can't win by rules, so he flips the table. Next chapter: Victor vs. The Crimson Blades. No minions. Just the Boss.

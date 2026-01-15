@@ -434,5 +434,3 @@ He pulled up the employee roster.
 "...then my **employees** will."
 
  ***
-
-**STATUS**: Week 2 Ember Trials viral success (23 parties, 87 spectators, cultural phenomenon status). Guild threats: Alchemist (extortion via potion monopoly), Mercenary (elite difficulty leverage), Merchant (legitimate franchise offer accepted - pilot program approved). Coordinated guild boycott executed—all 23 parties withdrawn via threatening letters. Crisis: 92 paid spectators, zero content. Victor's countermeasure: Employee exhibition matches. Emergency meeting called.

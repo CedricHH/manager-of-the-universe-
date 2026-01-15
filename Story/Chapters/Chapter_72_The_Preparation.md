@@ -588,5 +588,3 @@ They'd find a man who'd already died once for a principle.
 And principles, Victor had learned, were far more dangerous than greed.
 
 ***
-
-**STATUS**: Church audit initiated (2 days early). Aurelia reviewing records. Ember Trials Day 2: 2,450 GP revenue, 1,900 GP profit. Flashback triggered: "Worth It" moment (assassination scene). Victor preparing for confrontation. Compliance perfect, but Aurelia seeking non-regulatory angle.

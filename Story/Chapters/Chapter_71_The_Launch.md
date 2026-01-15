@@ -570,5 +570,3 @@ He glanced at the Ember Trials leaderboard, still glowing on the wall.
 "No one shuts down a brand this profitable."
 
 ***
-
-**STATUS**: Ember Trials Day 1 successful. Revenue: 1,750 GP. Net profit: 1,200 GP. Church of Eternal Light audit scheduled in 3 days. Multiple hostile factions monitoring. Defensive protocols initiated.

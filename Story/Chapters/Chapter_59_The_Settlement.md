@@ -207,5 +207,3 @@ Aurelia didn't move. She stared at Victor.
 
 **Status**: The VIP has arrived. And he brought the Inquisition.
 
-## Author's Note
-The battle is settled, but the war escalates. Vorne was a bureaucrat; Aurelia is a fanatic. The dynamic shifts from "Legal/Corporate" to "Ideological/Religious." Victor can bribe a greedy inspector, but he can't bribe a zealot. Next Arc: The Royal Visit.

@@ -335,5 +335,3 @@ And in a vault beneath the city, Director Malcom closed a ledger and opened a di
 The game had changed.
 
 ---
-
-**STATUS**: Dungeon profitable. Bank war escalating. Mosquito farm operational.

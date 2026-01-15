@@ -219,5 +219,3 @@ The mosquitoes weren't just monitoring the yield. They were *skimming* it. Every
 
 **Status**: The Dungeon is profitable. But the Bank has bugs.
 
-## Author's Note
-The literal interpretation of "Financial Parasite" fits the setting. Victor thought he was clever with the Loot Futures, but the Bank has its own mechanics. This creates a new internal threat to manage alongside the external ones.

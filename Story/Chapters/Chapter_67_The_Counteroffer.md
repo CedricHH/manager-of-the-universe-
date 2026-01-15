@@ -421,5 +421,3 @@ He'd been outplayed.
 Again.
 
 ---
-
-**STATUS**: Three-way bidding war active. Merchant's Guild offers 3.8% APR (best rate). Malcom losing control. Meeting scheduled for 10:00 AM.

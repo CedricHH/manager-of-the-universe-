@@ -435,5 +435,3 @@ She'd ask Victor tomorrow.
 This was the most fun she'd had in decades.
 
 ---
-
-**STATUS**: Floor 5 stress test successful. Crimson Blades impressed. Ember Trials tournament concept developed. Revenue model: 1,500 GP/week projected. Launch scheduled.

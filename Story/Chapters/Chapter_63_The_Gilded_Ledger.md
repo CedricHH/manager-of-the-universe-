@@ -153,5 +153,3 @@ He sealed the letter.
 
 **Status**: Funded. But the walls are closing in.
 
-## Author's Note
-The financial arc begins. Loot Futures are a real-world concept (securitization) applied to fantasy. This binds Victor's success to RNG, adding a new layer of tension. The reveal that the Bank and Church are colluding raises the stakes—he's being squeezed from both sides.

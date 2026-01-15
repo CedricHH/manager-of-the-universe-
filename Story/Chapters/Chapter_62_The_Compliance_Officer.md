@@ -166,5 +166,3 @@ Victor turned to Valerius.
 
 **Status**: The compliance era has begun. And Victor just found a way to bypass the blockade.
 
-## Author's Note
-The introduction of the "Banker" faction marks the shift to Arc 1.4/2 - "Expansion." Victor has conquered the physical threats (Heroes) and the legal threats (Vorne). Now he faces the institutional powers. The Paladin serves as a constant reminder of the stakes—one step wrong, and he's dead.

@@ -345,5 +345,3 @@ Malcom crushed Victor's letter in his fist.
 "Victor Kaine just declared war."
 
 ---
-
-**STATUS**: 15,000 GP loan secured at 3.8% APR via Merchant's Guild partnership. Exclusive transport + defense deal established. Malcom enraged. Floor 5 development approved to begin.

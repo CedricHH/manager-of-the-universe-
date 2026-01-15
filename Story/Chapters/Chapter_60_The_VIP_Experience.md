@@ -247,5 +247,3 @@ Aurelia raised her staff. The tip began to glow with a light that wasn't for sho
 
 **Status**: The Prince is bought. But the Priestess is about to breach.
 
-## Author's Note
-Victor survives the political test only to face the theological one. The dynamic of "Science/Business vs. Faith" is established. The interaction with Aldric reveals the Prince isn't just a fop—he's broke and corruptible, which is a useful flaw.

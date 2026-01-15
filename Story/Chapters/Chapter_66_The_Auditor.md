@@ -341,5 +341,3 @@ Victor waved at one.
 "Tell your boss I'm waiting for his answer."
 
 ---
-
-**STATUS**: Audit survived. Second loan proposal pending. Bank forced to choose: Fund Victor or lose him to rivals.

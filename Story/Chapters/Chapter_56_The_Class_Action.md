@@ -242,5 +242,3 @@ Victor stared at the red text floating in his vision.
 
 "Cancel the goblin coffee break. We have an audit incoming."
 
-## Author's Note
-Victor wins the battle of public opinion but triggers a much more dangerous bureaucratic weapon: The Safety Audit. The Crimson Blades are not just heroes; they are *compliance officers with swords*.

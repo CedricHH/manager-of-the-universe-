@@ -468,5 +468,3 @@ And in that vast, cold intelligence...
 The Consortium had chosen well.
 
 ***
-
-**STATUS**: Church audit survived. Aurelia's character assassination countered via Community Fund (10% revenue to orphanage). Public opinion secured (+40% approval). Flashback complete: "Worth It" moment fully revealed (assassination + Consortium recruitment + full integration). Week 2 Ember Trials: 15 parties registered, 5,200 GP projected. Consortium monitoring performance.
