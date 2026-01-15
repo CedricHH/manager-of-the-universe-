@@ -25,7 +25,7 @@ Victor smiled. It was a cold, sharp smile. "Brilliant. And the entry fee?"
 "Five silver," Victor mused. "That's the price of a good meal in the city. Low enough to be negligible for a veteran, high enough to filter out the riff-raff."
 
 > **[ARMI - STRATEGY UPDATE]**
-> New Protocol: [The Velver Rope]
+> New Protocol: [The Velvet Rope]
 > Effect: Perceived Value +200%. Scarcity Mindset initialized.
 > Status: ACTIVE.
 
@@ -151,7 +151,7 @@ A party rode into the clearing. They didn't look like the Iron Boots. Their armo
 
 There were six of them. At the front rode a man with a jawline so sharp it could cut glass and a crest on his chest depicting a golden lion eating a sun.
 
-"Nobles," Valerius hissed, shrinking behind his desk. "House Sterling. That's... that's Lord Reginald's colors."
+"Nobles," Valerius hissed, shrinking behind his desk. "House Sterling. That's... that's Lord Sterling's colors."
 
 Victor stood up. He smoothed his suit.
 

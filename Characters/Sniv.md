@@ -45,7 +45,12 @@ Er unterschrieb. (Er machte ein X. Er konnte nicht schreiben.)
 
 ### Die Transformation
 
-Unter Victors "Management" entdeckte Sniv, dass er Talente hatte:
+Unter Victors "Management" entdeckte Sniv, dass- [x] Process Chapter 47
+    - [x] Analyze Chapter 47 (Lector)
+    - [x] Implement Fixes for Chapter 47
+    - [x] Sync Chapter 47 (Archivist)
+- [/] Process Chapter 48
+er Talente hatte:
 - Er konnte zählen (selten für Goblins)
 - Er konnte sich Gesichter und Rachegefühle merken
 - Er verstand Hierarchien instinktiv
@@ -117,7 +122,7 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 
 - **Funktion**: Chief Operating Officer, Tagesgeschäft-Manager
 - **Kompetenzen**: HR, Operations, Goblin-Management, Organisation
-- **Verantwortung**: Oakhaven Dungeon Operations während Victors Abwesenheit
+- **Verantwortung**:- **Kapitel 47**: Appointed "Greeter" of the dungeon. Wears a silk handkerchief as a tie. Responsible for handing out waivers and clipboards to adventurers. Developed a "terrifying smile" for customer service.
 
 ---
 
@@ -160,7 +165,9 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 - **Infrastructure (Ch 24)**: Begann mit der Ausbildung des "Reconnaissance Units" (Spy Team).
 - **Employee Orientation (Ch 26)**: Offiziell zum **Chief Operating Officer (COO)** ernannt; unterstützt bei der Vorbereitung der Anstellungsverträge und der Organisation der Mitarbeiter-Orientation.
 - **Dungeon 2.0 (Ch 31)**: Fungierte als Project Manager für die Floor 3 Expansion; meldete Burnout-Risiken bei den Goblins; setzt die neue "Scheduled Maintenance" (Urlaubs-) Regelung um.
-- **The Crystal Archive (Ch 33)**: Erhielt von Victor "Operational Authority" für die Dauer seiner Abwesenheit; unterliegt dem "Management Test" (Equity vs. Severance).
+- **The Crystal Archive (Ch 33)**: Erhielt von Victor "Operational Authority" für die Dauer seiner Abwesenheit;- **Kapitel 46**: Facilitated a "Field Audit" by Senior Appraiser Valerius. Leveraged the transparency of dungeon operations (worker safety, rest periods) to counter regulatory intimidation. Recruited Valerius as an internal lobbyist with a 12% equity incentive to bypass Merchant Guild zoning restrictions.
+- **Kapitel 47**: Implemented the "Velvet Rope" protocol, monetizing dungeon entry via a "Site Preservation Donation" (5 silver/head) and indemnity waivers. Successfully converted Sir Gareth of House Sterling from a hostile intruder to a paying customer through a tactical show of force (Asterion as security).
+ unterliegt dem "Management Test" (Equity vs. Severance).
 - **Preparations (Ch 34)**: Bestätigte seine Loyalität ("Boss want Sniv safe"); verwaltet 26 Goblins und die Floor 3 Mining Operations (70% Kapazität) während Victors Mission; hält an seiner HR-Direktor-Rolle fest.
 
 **Corporate Evolution (Ch 24-34)**

@@ -200,6 +200,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Kapitel 44**: Successfully defended the dungeon against a Black Talon assault using tactical formations (Goblin Shield Wall) and Acid Slimes. Discovered the assault was a diversion for a magical "hack" by Groll. Initiated [Hostile Takeover] counter-hack.
 - **Kapitel 45**: Deployed **[Bureaucratic Overload]** payload to crash Groll's magical servers. Identified an unknown "Consultant" behind the Alchemist Guild's hack. Faced a new threat as the Merchant Guild and Silver Lance arrived to investigate the disturbance.
 - **Kapitel 46**: Facilitated a "Field Audit" by Senior Appraiser Valerius. Leveraged the transparency of dungeon operations (worker safety, rest periods) to counter regulatory intimidation. Recruited Valerius as an internal lobbyist with a 12% equity incentive to bypass Merchant Guild zoning restrictions.
+- **Kapitel 47**: Implemented the "Velvet Rope" protocol, monetizing dungeon entry via a "Site Preservation Donation" (5 silver/head) and indemnity waivers. Successfully converted Sir Gareth of House Sterling from a hostile intruder to a paying customer through a tactical show of force (Asterion as security).
 - Überlebte Mercenary-Angriff (Ch 42-44)
 - Sicherte Royal Charter von Prince Aldric (Ch 60-61)
 - Besiegte The Gilded Ledger (Bank War, Ch 62-68)
