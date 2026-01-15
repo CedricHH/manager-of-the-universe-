@@ -218,7 +218,7 @@ Response came within minutes.
 
 **Victor → Elena**: "I don't fold. I optimize."
 
-**Elena → Victor**: "I'm noticing. See you at Guild headquarters, 10 AM. Bring more documentation. Council will want cost breakdowns proving your margins aresubstantiated."
+**Elena → Victor**: "I'm noticing. See you at Guild headquarters, 10 AM. Bring more documentation. Council will want cost breakdowns proving your margins are substantiated."
 
 Victor pocketed his comm-crystal and turned to Zip.
 

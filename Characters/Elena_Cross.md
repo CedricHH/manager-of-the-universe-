@@ -23,6 +23,7 @@
 ### Arc 1: Oakhaven
 - **Kapitel 38**: Approached Victor at the Silver Standard. Identified him as the one who activated the Consortium waypoint. Proposed a strategic alliance: Victor's dungeon supply vs. the Alchemist Cartel's monopoly. Offered full Guild licensing and protection in exchange for market disruption.
 - Revealed the mystery of a previous Restructurer who vanished 16 years ago.
+- **Kapitel 39**: Remotely communicated with Victor after his market stall was sabotaged by the Alchemist Cartel. Coordinated the Phase 2 (Legal Warfare) strategy; presenting evidence of sabotage to the Guild Council to initiate arbitration.
 
 ---
 
