@@ -84,8 +84,9 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 | **Kira (#418)** | Konsortium-Evaluator | Professionelle Beziehung; bietet BROKEN CROWN an |
 | **Lysander Corvus** | Antagonist (Arc 2) | Gildemeister; ökonomischer Krieg → Verhandlung |
 | **High Priestess Aurelia** | Geschäftspartnerin | 15% Brokerage-Deal (Miracles-Handel) |
-| **Lord Sterling** | Politischer Verbündeter | 20% Revenue Share; gegenseitiger Nutzen |
-| **Executor Veyra** | Konsortium-Enforcer | Audit überlebt; Probation aufgehoben |\r\n| **Elena Chen** | Ehemalige Protégé | Verräterin (Earth-Backstory); nutzte seine Philosophie gegen ihn |
+| **Lady Lyra** | Unwilling Tank / Prisoner | Bitter but compliant; high combat value |
+| **Elena Cross** | Commercial Ally | Senior Inspector (Merchant Guild); mutual benefit against Cartel |
+| **Alchemist Cartel** | Hostile Competitor | Monopolistic extraction group; Target for liquidation |
 
 ---
 
