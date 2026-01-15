@@ -16,11 +16,9 @@
 | **Level** | 12 |
 | **Erstauftritt** | Kapitel 40 |
 
----
-
-## Hintergrund
-
-Ex-Adventurer. Specializes in Truth-Sensing und Environmental Scans. Confirmed Victor's "arson coincidence". Hired with "Equity Deal" (0.5%).
+### Arc 1: Oakhaven
+- **Kapitel 40**: Introduced as Guild security.
+- **Kapitel 43**: Defected to Victor after learning the truth about the Dungeon. Signed a "Critical Infrastructure Defense" contract with triple hazard pay and 0.5% equity. Used "Truth-Sensing" to verify loyalty and noted the high value of a Dungeon stake.
 
 ---
 

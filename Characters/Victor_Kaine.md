@@ -154,8 +154,6 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 **Phase 1: Überleben & Foundation (Ch 1-12)**
 - Erwachte im Dungeon; verhandelte mit Goblins statt zu kämpfen
 - Stellte Sniv als Employee #1 ein; etablierte "Corporate Structure"
-- Eroberte Floors 1-3 mit Fallen und Verträgen
-- Implementierte **Merit Point System** (Gamification für Goblins) (Ch 9)
 - Etablierte das **Board of Directors** (Sniv, Guard-1, Guard-2, Root, Mining-Lead) (Ch 11)
 - Identifizierte Asterions Boredom als Leverage; bot "Employment" statt Tribute (Ch 11)
 - Startete **Operation Market Research**: Sniv zur Oberfläche entsandt (Ch 12)
@@ -196,6 +194,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 
 - **Kapitel 41**: Secured a **Platinum Supply Retainer** (B2B contract) with Vorin Trade Caravans (2,250 GP/Month). Successfully defended market operations against Cartel thugs. Received an invitation to "The Spire" (Alchemist HQ) from Guildmaster Groll.
 - **Kapitel 42**: Entered The Spire for a dinner meeting with Groll. Declined a Director position and a buyout offer. Groll revealed he knows about the Dungeon and threatened to inform the King. Victor declared "Hostile Takeover Protocols" and prioritized dungeon defense expansion.
+- **Kapitel 43**: Retreated to the Dungeon (Insolvia Holdings). Formally recruited Kael and Mira with equity stakes. Activated "Protocol: Fortress" and leveraged Lord Sterling and Elena Cross to protect the perimeter/market value. Prepared for the Black Talon mercenary assault.
 - Überlebte Mercenary-Angriff (Ch 42-44)
 - Sicherte Royal Charter von Prince Aldric (Ch 60-61)
 - Besiegte The Gilded Ledger (Bank War, Ch 62-68)
