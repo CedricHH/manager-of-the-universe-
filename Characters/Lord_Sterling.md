@@ -78,7 +78,7 @@ Maximize extractive Revenue während maintain territorial Authority. Victor = op
 - **Partnership Signed**: 6-month provisional (20% gross, audit rights, quarterly reporting)
 - Permits issued: Legitimate Oakhaven operating Permits
 
-**Kapitel 47-48 - Reconnaissance**: Sent nephew Sir Gareth to evaluate Victor's Operation; Gareth returned with expansion Proposal (vertical monopoly, 10k GP/year projected)
+**Kapitel 47-49 - Reconnaissance & Integration**: Sent nephew Sir Gareth to evaluate Victor's Operation; Gareth returned with a drafted "Vertical Integration Agreement" (35/65 revenue split, vertical monopoly play). Lord Sterling's name standardized as Aldric Sterling III.
 
 ---
 

@@ -202,6 +202,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Kapitel 46**: Facilitated a "Field Audit" by Senior Appraiser Valerius. Leveraged the transparency of dungeon operations (worker safety, rest periods) to counter regulatory intimidation. Recruited Valerius as an internal lobbyist with a 12% equity incentive to bypass Merchant Guild zoning restrictions.
 - **Kapitel 47**: Implemented the "Velvet Rope" protocol, monetizing dungeon entry via a "Site Preservation Donation" (5 silver/head) and indemnity waivers. Successfully converted Sir Gareth of House Sterling from a hostile intruder to a paying customer through a tactical show of force (Asterion as security).
 - **Kapitel 48**: Facilitated a "Platinum Package" experience for Sir Gareth. Negotiated a potential vertical monopoly partnership with House Sterling (10,000 GP/year projected revenue) and transitioned Gareth from an antagonist to a reluctant business envoy.
+- **Kapitel 49**: Finalized the "Sterling Vertical Integration Agreement" (35/65 split). Successfully bribed Gareth with a 5% "finder's fee" to ensure his advocacy. Identified a new regulatory threat from the Adventurer Guild scouts (Groll's legal pivot) and initiated "Regulatory Warfare" protocols.
 - Überlebte Mercenary-Angriff (Ch 42-44)
 - Sicherte Royal Charter von Prince Aldric (Ch 60-61)
 - Besiegte The Gilded Ledger (Bank War, Ch 62-68)
@@ -289,7 +290,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 
 **Kapitel 109 - The Negotiation**
 - Guild Internal Conflict: 4-3 Vote für Verhandlung
-- **Modified Terms Agreed**: 
+- **Modified Terms Agreed**:
   - Fee-Reduktion 24 Monate
   - Lysander = Vice Director, Oakhaven Commerce Authority
   - Vendor Protection Fund (9k GP)
@@ -435,5 +436,4 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 **Letzte Aktualisierung**: Kapitel 116 (Arc 2)
 **Version**: 3.3
 **Wichtigkeit**: HAUPT (Protagonist)
-**Kategorie**: Protagonist
-
+**Kategorie**: Verbündeter (Bribed Intermediary)

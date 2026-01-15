@@ -14,7 +14,7 @@ This man in a suit was offering five times that. For a partnership.
 
 "No." Victor's smile was thin. "Most men don't have something to prove to their uncles."
 
-Gareth's hand tightened on the parchment. The words cut precisely because they were true. Lord Reginald had sent him here to evaluate. To report. Not to *negotiate*.
+Gareth's hand tightened on the parchment. The words cut precisely because they were true. Lord Aldric had sent him here to evaluate. To report. Not to *negotiate*.
 
 But if he returned with mere observations, he was exactly what his uncle thought: a messenger. An errand boy in expensive armor.
 
