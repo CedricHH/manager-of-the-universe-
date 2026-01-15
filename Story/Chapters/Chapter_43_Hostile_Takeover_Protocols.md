@@ -14,7 +14,7 @@ He stopped at a seemingly solid rock face. A heavy vine curtain obscured the ent
 
 "Zip," Victor called out. "Authentication: Epsilon-Nine."
 
-The rock groaned. An illusion shimmering faded, revealing a dark tunnel reinforced with stone brick.
+The rock groaned. The shimmering illusion faded, revealing a dark tunnel reinforced with stone brick.
 
 Zip popped his head out. "Boss! You’re back! Did we sell? Did we get the gold?"
 
@@ -116,7 +116,7 @@ The gold dissolved into light, absorbed instantly by the system.
 
 > **[SYSTEM NOTICE]**
 > Deposit Accepted: 800 GP
-> Mana Converion: COMPLETE
+> Mana Conversion: COMPLETE
 > Construction Queue: Accelerated
 
 "What about manpower?" Kael asked. "Goblins and one minotaur against a mercenary company?"

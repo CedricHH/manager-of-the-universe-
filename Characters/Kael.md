@@ -18,9 +18,9 @@
 
 ---
 
-## Hintergrund
-
-Ex-Adventurer, hired by Guild. Defected to Victor after learning truth (Ch 43). Now commands Goblin Forces with "Hazard Pay + 0.5% Equity".
+### Arc 1: Oakhaven
+- **Kapitel 40**: Introduced as Guild security.
+- **Kapitel 43**: Defected to Victor after learning the truth about the Dungeon. Signed a "Critical Infrastructure Defense" contract with triple hazard pay and 0.5% equity. Noted for "Truth-Sensing" loyalty check. Appointed Field Commander of the Goblin Forces.
 
 ---
 
