@@ -38,7 +38,7 @@ Everyone learned, eventually.
 
 The next morning, Victor called a general meeting.
 
-Twenty-four goblins gathered in the Chamber, arranged in a loose semicircle around the throne. The original fourteen stood at the front, comfortable in their seniority. The probationary twelve clustered at the back, uncertain of their place.
+Twenty-six goblins gathered in the Chamber, arranged in a loose semicircle around the throne. The original fourteen stood at the front, comfortable in their seniority. The probationary twelve clustered at the back, uncertain of their place.
 
 Sniv stood at Victor's right hand, clipboard ready.
 
@@ -188,7 +188,7 @@ The text was faded but legible. ARMI provided translation:
 
 *My party entered this dungeon seeking glory and the bounty posted for the creature below. We were fools. The beast on Floor Four cannot be killed by mortal weapons. We wounded it, yes—but it healed faster than we could strike.*
 
-*Marcus fell first. Then Elena. Then Sven.*
+*Marcellus fell first. Then Eli. Then Sven.*
 
 *I retreated here to bind my wounds, but the blood loss is too great. I will not survive the climb back.*
 

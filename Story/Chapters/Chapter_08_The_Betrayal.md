@@ -34,7 +34,7 @@ Victor closed his eyes.
 
 *Three years ago. Another life.*
 
-The boardroom of Kaine Industries occupied the entire 47th floor of a Manhattan skyscraper. Floor-to-ceiling windows offered a panoramic view of the city—a reminder to everyone present that they stood at the apex of American commerce.
+The boardroom of Mid-West Logistics occupied the entire 47th floor of a Manhattan skyscraper. Floor-to-ceiling windows offered a panoramic view of the city—a reminder to everyone present that they stood at the apex of American commerce.
 
 The afternoon sun caught the crystal decanters on the sideboard, throwing rainbows across Italian marble.
 

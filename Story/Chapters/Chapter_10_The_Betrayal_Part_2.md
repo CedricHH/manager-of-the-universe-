@@ -1,6 +1,6 @@
 # Chapter 10: The Betrayal (Part 2)
 
-The iron ore sat in a pile near Victor's throne, dark and promising.
+The iron ore was staged in a pile near Victor's throne, dark and promising.
 
 Twenty-three pounds of raw material, extracted from the Floor Three vein by goblins who didn't understand what they were mining. They only knew that Boss wanted the dark rocks, and Boss got what Boss wanted.
 
@@ -42,11 +42,11 @@ He sat in the dark, three weeks of beard growth covering a face that the Wall St
 
 The television played on mute. Headlines scrolled across the screen:
 
-**FORMER KAINE INDUSTRIES EXECUTIVE NAMED SOLE DEFENDANT IN CONFLICT MINERALS SCANDAL**
+**FORMER MID-WEST LOGISTICS EXECUTIVE NAMED SOLE DEFENDANT IN CONFLICT MINERALS SCANDAL**
 
 **SEC: VICTOR KAINE "MASTERMIND" BEHIND PROCUREMENT FRAUD**
 
-**CHEN APPOINTED CEO AS KAINE INDUSTRIES STOCK RECOVERS**
+**CHEN APPOINTED CEO AS MID-WEST LOGISTICS STOCK RECOVERS**
 
 Elena's face appeared—polished, professional, standing at a podium with the company logo behind her. She was giving a statement about corporate accountability and moving forward.
 
