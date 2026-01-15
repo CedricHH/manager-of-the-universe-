@@ -199,6 +199,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Kapitel 43**: Retreated to the Dungeon (Insolvia Holdings). Formally recruited Kael and Mira with equity stakes. Activated "Protocol: Fortress" and leveraged Lord Sterling and Elena Cross to protect the perimeter/market value. Prepared for the Black Talon mercenary assault.
 - **Kapitel 44**: Successfully defended the dungeon against a Black Talon assault using tactical formations (Goblin Shield Wall) and Acid Slimes. Discovered the assault was a diversion for a magical "hack" by Groll. Initiated [Hostile Takeover] counter-hack.
 - **Kapitel 45**: Deployed **[Bureaucratic Overload]** payload to crash Groll's magical servers. Identified an unknown "Consultant" behind the Alchemist Guild's hack. Faced a new threat as the Merchant Guild and Silver Lance arrived to investigate the disturbance.
+- **Kapitel 46**: Facilitated a "Field Audit" by Senior Appraiser Valerius. Leveraged the transparency of dungeon operations (worker safety, rest periods) to counter regulatory intimidation. Recruited Valerius as an internal lobbyist with a 12% equity incentive to bypass Merchant Guild zoning restrictions.
 - Überlebte Mercenary-Angriff (Ch 42-44)
 - Sicherte Royal Charter von Prince Aldric (Ch 60-61)
 - Besiegte The Gilded Ledger (Bank War, Ch 62-68)

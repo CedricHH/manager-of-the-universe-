@@ -190,6 +190,11 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 - Demonstrated **[Corporate Shield]** against mercenary mages.
 - Held the line while Victor initiated the counter-hack.
 
+**Kapitel 46 - Due Diligence**
+- Participated in the dungeon tour for the Merchant Guild's audit.
+- Confirmed the success of Victor's management: reported a 12% increase in his "portfolio".
+- Established a professional, articulate presence that unsettled the Guild scribes.
+
 ---
 
 ## Aktueller Status (Stand: Kapitel 109)
