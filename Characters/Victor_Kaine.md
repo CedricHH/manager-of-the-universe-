@@ -115,6 +115,8 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 | **[Institutional Navigation]** | Manipulation bürokratischer Systeme |
 | **[Institutional Analysis]** | Tiefenanalyse organisatorischer Strukturen (Arc 2, Ch 101) |
 | **[Market Penetration Protocol]** | Systematic market disruption and monopoly-breaking (Arc 2, Ch 101) |
+| **[Hostile Takeover]** | Counter-hacking or seizing control of external systems via mana carrier waves (Arc 1, Ch 44) |
+| **[Bureaucratic Overload]** | Overwhelms magical processing units with massive data requests/compliance audits (Arc 1, Ch 45) |
 | **[Asset Liquidation]** | Convert immobilized target directly into gold (Arc 2, Ch 37) |
 
 ---
@@ -195,6 +197,8 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Kapitel 41**: Secured a **Platinum Supply Retainer** (B2B contract) with Vorin Trade Caravans (2,250 GP/Month). Successfully defended market operations against Cartel thugs. Received an invitation to "The Spire" (Alchemist HQ) from Guildmaster Groll.
 - **Kapitel 42**: Entered The Spire for a dinner meeting with Groll. Declined a Director position and a buyout offer. Groll revealed he knows about the Dungeon and threatened to inform the King. Victor declared "Hostile Takeover Protocols" and prioritized dungeon defense expansion.
 - **Kapitel 43**: Retreated to the Dungeon (Insolvia Holdings). Formally recruited Kael and Mira with equity stakes. Activated "Protocol: Fortress" and leveraged Lord Sterling and Elena Cross to protect the perimeter/market value. Prepared for the Black Talon mercenary assault.
+- **Kapitel 44**: Successfully defended the dungeon against a Black Talon assault using tactical formations (Goblin Shield Wall) and Acid Slimes. Discovered the assault was a diversion for a magical "hack" by Groll. Initiated [Hostile Takeover] counter-hack.
+- **Kapitel 45**: Deployed **[Bureaucratic Overload]** payload to crash Groll's magical servers. Identified an unknown "Consultant" behind the Alchemist Guild's hack. Faced a new threat as the Merchant Guild and Silver Lance arrived to investigate the disturbance.
 - Überlebte Mercenary-Angriff (Ch 42-44)
 - Sicherte Royal Charter von Prince Aldric (Ch 60-61)
 - Besiegte The Gilded Ledger (Bank War, Ch 62-68)

@@ -114,7 +114,7 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 | **[Charge]** | Verheerender Sturmangriff (+300% Schaden beim ersten Treffer) |
 | **[Last Stand]** | Unter 10% HP: Schaden verdoppelt, kann nicht betäubt werden |
 | **[Contract Bound]** | Victors Vertrag verhindert Verrat (und bietet Zahnversicherung) |
-| **[Corporate Shield]** | Erstellt Barriere, die Schaden absorbiert durch Gold-Konsum (10 GP/Treffer) |
+| **[Corporate Shield]** | Erstellt Barriere, die Schaden absorbiert durch Gold-Konsum (10 GP/Treffer) (Arc 1, Ch 44) |
 
 ---
 
@@ -184,6 +184,11 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 **Kapitel 108 - The Substitution**
 - Zurückgekehrt rechtzeitig mit Westhold-Versorgung
 - Non-Guild-Suppliers sicherten ongoing Trade
+
+**Kapitel 44 - Liquidation Event**
+- Successfully defended the dungeon against the Black Talons.
+- Demonstrated **[Corporate Shield]** against mercenary mages.
+- Held the line while Victor initiated the counter-hack.
 
 ---
 
