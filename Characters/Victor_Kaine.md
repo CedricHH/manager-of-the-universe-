@@ -18,7 +18,7 @@
 | **Alter** | 42 (zum Zeitpunkt des Todes auf der Erde) |
 | **Position** | Regional Operator (Konsortium), CEO Kaine Consulting |
 | **Erstauftritt** | Kapitel 1 |
-| **Aktueller Status** | Arc 1 abgeschlossen (1.022M GP), Arc 2 aktiv (10M GP Ziel) |
+| **Aktueller Status** | Arc 1 abgeschlossen (1.022M GP), Arc 2 aktiv (10M GP Ziel); Konfrontation mit Groll (Ch 42) |
 | **Location** | Oakhaven (The Silver Standard Inn) |
 
 ---
@@ -194,8 +194,8 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - Reiste nach Oakhaven; verhandelte mit Lord Sterling (20% Revenue Share)
 - **Level Up**: Aktivierte Waypoint → Restructurer Level 2
 
-**Marktkriege & Expansion (Ch 38-75)**
-- Brach Alchemist-Cartel-Monopol mit "Fire Sale"-Taktik (Ch 38-41)
+- **Kapitel 41**: Secured a **Platinum Supply Retainer** (B2B contract) with Vorin Trade Caravans (2,250 GP/Month). Successfully defended market operations against Cartel thugs. Received an invitation to "The Spire" (Alchemist HQ) from Guildmaster Groll.
+- **Kapitel 42**: Entered The Spire for a dinner meeting with Groll. Declined a Director position and a buyout offer. Groll revealed he knows about the Dungeon and threatened to inform the King. Victor declared "Hostile Takeover Protocols" and prioritized dungeon defense expansion.
 - Überlebte Mercenary-Angriff (Ch 42-44)
 - Sicherte Royal Charter von Prince Aldric (Ch 60-61)
 - Besiegte The Gilded Ledger (Bank War, Ch 62-68)

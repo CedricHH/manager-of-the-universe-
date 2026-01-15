@@ -182,7 +182,7 @@ Zip leaned over the counter. "Also, you knocked over a display! That is merchand
 
 Victor turned to the crowd. He raised his voice.
 
-"The Cartel sends fire implies," he said. "They send thugs to steal your gold. I send you affordable healthcare."
+"The Cartel sends fire and fear," he said. "They send thugs to steal your gold. I send you affordable healthcare."
 
 He pointed to the pile of groaning enforcers. "City Guards! Please collect this refuse. I believe they have information about yesterday's arson."
 

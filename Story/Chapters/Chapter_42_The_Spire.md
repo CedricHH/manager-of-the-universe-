@@ -156,7 +156,7 @@ Groll tapped the file.
 
 "We know you didn't buy those potions."
 
-Victor's heart rate didn't spike—his ARMI supressed the physiological response—but his threat assessment warnings turned crimson.
+Victor's heart rate didn't spike—his ARMI suppressed the physiological response—but his threat assessment warnings turned crimson.
 
 "We know about the Dungeon," Groll whispered.
 
@@ -192,7 +192,7 @@ Damning.
 
 Victor closed the file. He looked Groll in the eye.
 
-"You think this is leverage," Victor sked.
+"You think this is leverage," Victor asked.
 
 "It is a death sentence," Groll said around a sip of wine.
 
