@@ -21,7 +21,7 @@
 
 ## Hintergrund
 
-Arrogant Nephew. Failed to conquer dungeon (paid 15 GP fees). Now acts as Intermediary between Victor and Lord Sterling ("Vertical Integration Agreement").
+Arrogant Nephew. Failed to conquer dungeon (paid 10 GP fees for Platinum Package upgrade). Now acts as reluctant envoy/Intermediary between Victor and Lord Sterling for the "Vertical Integration Agreement". (Ch 47-48)
 
 ---
 

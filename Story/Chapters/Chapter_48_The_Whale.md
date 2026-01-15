@@ -37,7 +37,7 @@ He extended a hand toward the dungeon mouth.
 
 Valerius practically vibrated with panic once the Sterling party disappeared into the darkness.
 
-"Do you have any idea what you've done?" The former Guild appraiser's voice cracked. "That's Lord Reginald Sterling's nephew. *The* Lord Sterling. The one who controls half the trade routes in Eastmarch!"
+"Do you have any idea what you've done?" The former Guild appraiser's voice cracked. "That's Lord Aldric Sterling III's nephew. *The* Lord Sterling. The one who controls half the trade routes in Eastmarch!"
 
 Victor was watching the cave entrance, calculating. "I'm aware."
 
