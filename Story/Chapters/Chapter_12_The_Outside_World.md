@@ -191,15 +191,15 @@ He looked at Sniv.
 
 > **[ARMI]**
 > Session: Day 4 Evening | Status: DEFCON 3
-> 
+>
 > **Market Intelligence: [Oakhaven]**
 > Perception: Ruined Temple | Demand: ZERO (Loot deficit)
-> 
+>
 > **Strategic Action: [Operation: The Teaser]**
 > Resource Allocation: 1x Legendary Sword (Bait)
 > Status: IN PROGRESS
 
 ---
 
-**Word Count**: ~1,650
-**Next Chapter**: [The Lure / Setting the Trap]
+**Word Count**: 1,741
+**Next Chapter**: [The Lure]

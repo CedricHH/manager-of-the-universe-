@@ -40,6 +40,7 @@ Drei Tage später wurde er von einem professionellen Attentäter ermordet ("Herz
 ### Rekrutierung durch das Konsortium
 
 Das Galaktische Audit-Konsortium wählte Victor nicht trotz, sondern wegen dieser Anomalie: Er hatte einmal "worth it" über persönlichen Profit gestellt. Die Entität im Void analysierte ihn:
+
 - Rücksichtslosigkeit: 94. Perzentil
 - Effizienz: 98. Perzentil
 - Empathie: 3. Perzentil
@@ -92,14 +93,96 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 
 ## Kampf-Stats & Fähigkeiten
 
-| Stat | Wert | Notizen |
-|------|------|---------|
-| **Level** | 14 | Via Trade, Negotiation, Survival |
+### Dual Level Status
+
+| Typ | Wert | Basis |
+|-----|------|-------|
+| **Universal Level** | 14 | EXP (Kills, Quests) |
+| **Job Level** | 5 | Net Worth (1M+ GP) |
+| **Restructurer Clearance** | 2 | Consortium Authority |
+
+### Base Stats (Level 14, +65 allocated)
+
+| Stat | Wert | Allocation |
+|------|------|------------|
+| **STR** | 8 | Base (0 invested) |
+| **AGI** | 10 | Base (0 invested) |
+| **VIT** | 12 | Base (0 invested) |
+| **INT** | 26 | Primary (+26 invested) |
+| **WIS** | 18 | Secondary (+13 invested) |
+| **CHA** | 28 | Primary (+26 invested) |
+
+### Level History (Key Milestones)
+
+| Event | Level | EXP Gained | Cumulative | Kapitel |
+|-------|-------|------------|------------|---------|
+| System Init | 1 | - | 0 | 1 |
+| Slime Hunt (Party) | 1 | +95 | 95 | 4 |
+| Hostile Tribe Skirmish | 1 | +40 | 135 | 7 |
+| **Alpha Goblin Kill** | **2** | +850 | 985 | 7 |
+| Floor 3 Consolidation | 3 | +300 (Quest) | 1,285 | 7 |
+| First Adventurer Party | 5 | +2,500 (Quest) | 3,785 | ~15 |
+| Silver Lance Survival | 7 | +5,000 (Quest) | 8,785 | ~22 |
+| 100k GP Milestone | 10 | +16,500 | 25,285 | ~85 |
+| Arc 1 Finale (1M GP) | 14 | +75,000 (Quest) | 100,285 | 100 |
+
+### Level Progress Per Chapter
+
+| Ch | Event | EXP Gained | Cumulative | Level |
+|----|-------|------------|------------|-------|
+| 1 | System Init | 0 | 0 | 1 |
+| 2 | No combat | 0 | 0 | 1 |
+| 3 | No combat | 0 | 0 | 1 |
+| 4 | 16 Slimes (Party 25%) | +95 | 95 | 1 |
+| 5 | No combat | 0 | 95 | 1 |
+| 6 | No combat | 0 | 95 | 1 |
+| 7 | 4 Hostiles + Alpha Kill | +890 | 985 | **2** |
+| 8 | No combat (Flashback) | 0 | 985 | 2 |
+| 9 | No combat | 0 | 985 | 2 |
+| 10 | No combat (Flashback) | 0 | 985 | 2 |
+| 11 | No combat (Board Meeting) | 0 | 985 | 2 |
+| 12 | No combat (Sniv Scout) | 0 | 985 | 2 |
+| 13 | No combat (Lure Setup) | 0 | 985 | 2 |
+| 14 | No combat (Customer Service) | 0 | 985 | 2 |
+| 15 | No combat (Silver Lance Arrives) | 0 | 985 | 2 |
+| 16 | No combat (Asterion Negotiation) | 0 | 985 | 2 |
+| 17 | Quest: The Headhunt (Started) | +300 | 1,285 | **3** |
+| 18 | No combat (Aftermath) | 0 | 1,285 | 3 |
+| 19 | No combat (Party Analysis) | 0 | 1,285 | 3 |
+| 20 | No combat (Aftermath Pt3) | 0 | 1,285 | 3 |
+| 21 | No combat (Aggressive Negotiations) | 0 | 1,285 | 3 |
+| 22 | Asterion Fight (Coordination 5%) | +100 | 1,385 | 3 |
+| 23 | Quest: First Customer Milestone | +500 | 1,885 | 3 |
+| 24 | No combat (Infrastructure) | 0 | 1,885 | 3 |
+| 25 | No combat (Core Merger) | 0 | 1,885 | 3 |
+| 26 | No combat (Orientation) | 0 | 1,885 | 3 |
+| 27 | No combat (Core Awakening) | 0 | 1,885 | 3 |
+| 28 | No combat (The Proof) | 0 | 1,885 | 3 |
+| 29 | Quest: Iron Wolves Deal | +400 | 2,285 | **4** |
+| 30 | Quest: Partnership Complete | +500 | 2,785 | 4 |
+| 31 | No combat (Dungeon 2.0) | 0 | 2,785 | 4 |
+| 32 | Discovery: Vault | +200 | 2,985 | 4 |
+| 33 | No combat (Crystal Archive) | 0 | 2,985 | 4 |
+| 34 | No combat (Preparations) | 0 | 2,985 | 4 |
+| 35 | No combat (The Road) | 0 | 2,985 | 4 |
+| 36 | Quest: Sterling Deal | +800 | 3,785 | **5** |
+| 37 | Quest: Waypoint Activation | +500 | 4,285 | 5 |
+| 38 | No combat (The Contact) | 0 | 4,285 | 5 |
+| 39 | No combat (Market Entry) | 0 | 4,285 | 5 |
+| 40 | Quest: Guild Partnership | +600 | 4,885 | 5 |
+| 41 | Quest: First Sale Day | +400 | 5,285 | 5 |
+| 42 | No combat (The Spire) | 0 | 5,285 | 5 |
+| 43 | No combat (Protocols) | 0 | 5,285 | 5 |
+| 44 | Battle: Black Talon (Coord 5%) | +300 | 5,585 | 5 |
+| 45 | Quest: Counter Offer | +200 | 5,785 | **6** |
+| 46 | No combat (Due Diligence) | 0 | 5,785 | 6 |
+| 47 | Quest: Revenue Stream | +500 | 6,285 | 6 |
+| 48 | Quest: The Whale | +800 | 7,085 | 6 |
+| 49 | No combat (The Response) | 0 | 7,085 | 6 |
+| 50 | Quest: Successful Audit | +1,000 | 8,085 | 6 |
+
 | **HP** | 100% | Unterdurchschnittlich für Level |
 | **MP** | 92% | Erhöht durch Exchange-Mastery |
-| **INT** | 26 | Master-Tier strategische Planung |
-| **CHA** | 28 | Institutionelle Verhandlungs-Meisterschaft |
-| **STR/AGI** | Niedrig | Kampf ist nicht seine Stärke |
 | **Nettowert** | ~975.200 GP | Post-Ch 104 (Arc 2 aktiv) |
 
 ### Signature-Fähigkeiten
@@ -154,10 +237,11 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 ### Arc 1: Aufstieg vom Dungeon zum Regional Operator (Kapitel 1-100)
 
 **Phase 1: Überleben & Foundation (Ch 1-12)**
+
 - Erwachte im Dungeon; verhandelte mit Goblins statt zu kämpfen
 - Stellte Sniv als Employee #1 ein; etablierte "Corporate Structure"
-- Etablierte das **Board of Directors** (Sniv, Guard-1, Guard-2, Root, Mining-Lead) (Ch 11)
-- Identifizierte Asterions Boredom als Leverage; bot "Employment" statt Tribute (Ch 11)
+- Etablierte das **Board of Directors** (Sniv, Guard-Lead, Root, Mining-Lead) (Ch 11)
+- Identifiziert als **Leverage**: Asterions Boredom; bot "Entertainment Merger" (Employment) statt Tribute (Ch 11)
 - Startete **Operation Market Research**: Sniv zur Oberfläche entsandt (Ch 12)
 - Implementierte **Teaser Strategy** (Baiting mit Fire-Stick auf Floor 3) (Ch 13)
 - Etablierte das "Haunted House" Prinzip für das Storefront-Design (Floor 1) (Ch 13-14)
@@ -165,16 +249,17 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - Identifizierte die **Silver Lance Guild** und **Captain Thorne** als potentielle Zielkunden/Stakeholder (Ch 14)
 
 **Phase 2: Konsolidierung (Ch 11-25)**
--   Rekrutierte Asterion (Minotaur Boss) via "Performance Review" (Ch 16)
--   Unterschrieb [The Guardian's Pact] mit Asterion; ernannte ihn zum CSO (Ch 16)
--   Startete Mission: "The Headhunt" (Ziel: Level 15+ Party in 30 Tagen) (Ch 17)
--   Wehrte "Silver Lance" Party ab ohne Tötung; etablierte Ruf (Ch 20)
--   **Aggressive Negotiations (Ch 21)**: Verhandelte mit Silver Lance; bot "Option B" an.
--   **The Performance (Ch 22)**: Kämpfte gegen die Silver Lance; besiegte sie; respektierte Alara.
--   **The Invoice (Ch 23)**: Extrahierte Informationen über die Silver Lance Guild und "Iron Vanguard" von Gareth; beförderte Sniv zum HR Director und rekrutierte Zip (Kobold) als Head of R&D.
--   **Infrastructure (Ch 24)**: Formalisierte die Dungeon-Struktur (Floors 1-5); gründete das "Reconnaissance Unit" unter Sniv; entdeckte die versiegelte Core-Kammer mit dem dormanten Dungeon Core (7749).
--   **The Merger (Ch 25)**: Zahlte den Administrative Bond (100 GP) durch Liquidation von Marcus Valorhearts Schwert; wurde offizieller Administrator des Dungeons ("Insolvia Holdings HQ"); detektierte Überwachung durch das Galactic Audit Consortium.
--   **Employee Orientation (Ch 26)**: Formell als **Chief Security Officer (CSO)** angestellt; unterschrieb Vertrag mit Victor; erhielt Benefits (Dental, Respawn Guarantee).
+
+- Rekrutierte Asterion (Minotaur Boss) via "Performance Review" (Ch 16)
+- Unterschrieb [The Guardian's Pact] mit Asterion; ernannte ihn zum CSO (Ch 16)
+- Startete Mission: "The Headhunt" (Ziel: Level 15+ Party in 30 Tagen) (Ch 17)
+- Wehrte "Silver Lance" Party ab ohne Tötung; etablierte Ruf (Ch 20)
+- **Aggressive Negotiations (Ch 21)**: Verhandelte mit Silver Lance; bot "Option B" an.
+- **The Performance (Ch 22)**: Kämpfte gegen die Silver Lance; besiegte sie; respektierte Alara.
+- **The Invoice (Ch 23)**: Extrahierte Informationen über die Silver Lance Guild und "Iron Vanguard" von Gareth; beförderte Sniv zum HR Director und rekrutierte Zip (Kobold) als Head of R&D.
+- **Infrastructure (Ch 24)**: Formalisierte die Dungeon-Struktur (Floors 1-5); gründete das "Reconnaissance Unit" unter Sniv; entdeckte die versiegelte Core-Kammer mit dem dormanten Dungeon Core (7749).
+- **The Merger (Ch 25)**: Zahlte den Administrative Bond (100 GP) durch Liquidation von Marcus Valorhearts Schwert; wurde offizieller Administrator des Dungeons ("Insolvia Holdings HQ"); detektierte Überwachung durch das Galactic Audit Consortium.
+- **Employee Orientation (Ch 26)**: Formell als **Chief Security Officer (CSO)** angestellt; unterschrieb Vertrag mit Victor; erhielt Benefits (Dental, Respawn Guarantee).
 - **The Core Awakening (Ch 27)**: Erweckte den Dungeon Core (Core-7749); analysierte die Misswirtschaft früherer Administratoren (Torin, Elara, Kaelen); handelte eine 50/50 Equity Partnership unter der Bedingung einer 100% Profitsteigerung aus.
 - **The Proof (Ch 28)**: Vorbereitung auf die Demonstration vor dem Core; identifizierte die "Iron Wolves" (B-Rank) als Zielobjekte; entschied sich gegen Tötungen, um ein nachhaltiges Umsatzmodell zu beweisen; Reflektion über die Mid-West Logistics Akquisition und den Verrat auf der Erde.
 - **The Negotiation (Ch 29)**: Verhandelte erfolgreich mit den Iron Wolves über Eintrittsgebühren (5 GP/Kopf) und ein "Premium-Paket" (10 GP Boss-Encounter); generierte 35 GP Umsatz (133% über Baseline); implementierte Tracking-Spores zur Datenanalyse.
@@ -188,6 +273,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **The Waypoint (Ch 37)**: Activated dormant Consortium waypoint in Oakhaven; upgraded to Authorization Level 2; unlocked [Asset Liquidation] and extended ARMI scanning; placed under observer surveillance.
 
 **Phase 3: Das Business Model (Ch 26-37)**
+
 - Partnership mit Dungeon Core ("Nova"); implementierte "Pay-to-Play"-Modell
 - Entdeckte Restructurer #1's Vault: Wahrheit über Konsortiums-Harvest
 - **Strategische Entscheidung**: Plane feindliche Übernahme des Konsortiums
@@ -211,16 +297,19 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - Startete "Ember Trials"-Turnier (Ch 69-75)
 
 **The Selfless Act Flashbacks (Ch 52-55)**
+
 - Vollständige Memory-Integration von Project Cobalt und Tod auf der Erde
 - Realisiert: Er wurde nicht gerettet, er wurde **rekrutiert**
 
 **Franchise & Hostile Takeover (Ch 76-79)**
+
 - Franchise-Deal mit Lady Elara Ravenshield (Rivercrest)
 - Zerstörte absichtlich Rivercrest für 85.000 GP Versicherungsauszahlung
 - Kaufte Schulden von Alchemist Guild und Adventurer Hub
 - **Status**: Oakhaven erobert
 
 **Automation & Aethelgard (Ch 80-85)**
+
 - Beförderte Sniv/Asterion zu Oakhaven-Managern
 - Rekrutiert von Thaddeus Vane für "Project Valoria" im Norden
 - Identifizierte Onyx Syndicate's "Clause 44-B" (Suicide Pact)
@@ -229,6 +318,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - Erhielt "Black Envelope" (Konsortium-Rekrutierungsangebot)
 
 **The Million (Ch 86-100) - ARC 1 FINALE**
+
 - Verhandelte Franchising-Fee von 50% auf 25%
 - **Mission**: 1.000.000 GP in 30 Tagen generieren
 - Entdeckte Galactic Exchange; Arbitrage-Sprint (23 Trades über 21 Tage)
@@ -246,6 +336,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 ### Arc 2: Market Expansion & Guild War (Kapitel 101-109)
 
 **Kapitel 101 - The Expansion Plan (ARC 2 START)**
+
 - Neuer Tier: **REGIONAL OPERATOR** (10M GP Ziel, kein Deadline)
 - Identifizierte Merchant Guild-Lizenz-Monopol (Lysander Corvus)
 - Investierte 45k GP (30k Apotheke + 15k Slime Farm-Expansion)
@@ -253,44 +344,52 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - Detektierte Kira (Restructurer #418) im Market Quarter
 
 **Kapitel 102 - The Recruitment**
+
 - Stellte Marcus Thiel ein (erster Alchemist-Defector, 233% Profit-Margin)
 - Erhielt Kira's Meeting-Request (Broken Barrel Inn)
 
 **Kapitel 103 - The Liaison**
+
 - Traf Kira; erfuhr über Konsortiums tier-structure
 - **BROKEN CROWN-Mission angeboten**: Terra-Solvaris, 5-way Civil War, 57% Death Rate
 - Decision Window: 2 Wochen
 - Warnung: Lysander entdeckt Apotheke in 3 Tagen
 
 **Kapitel 104 - The Harvest**
+
 - Erste Slime Farm-Ernte (2.014 Cores, 101% Yield)
 - **Launch**: Insolvia Apotheke SOLD OUT in 5 Stunden (200 GP Revenue, 18% Market Penetration)
 - Lysander dispatch Chief Inspector Greymark (Surveillance)
 
 **Kapitel 105 - The Documentation**
+
 - Day 2: 1.247 Kunden, 28% Market Penetration
 - Greymark: Zero Violations, 99.7% Purity
 - Lysander-Pivot: Political Warfare (City Council Petition)
 - Emergency Council Hearing in 12 Stunden
 
 **Kapitel 106 - The Council**
+
 - 12-Hour Coalition: 487 Testimonials, 340 Adventurer Demo
 - Emergency Council Hearing: 4-3 VICTORY (Motion FAILED)
 - Lysander-Warning: "Phase 3 in 48h" (Extra-legal Methods)
 
 **Kapitel 107 - The Sabotage**
+
 - Lysander Phase 3: Supply Chain Blacklist (7 Suppliers refuse service)
 - Dual-Solution: (1) Westhold Procurement (Marcus), (2) Dungeon Synthesis (Victor)
 - Synthesis-Breakthrough: 83-93% Efficacy (80% bessere Marge)
 - Guild Assembly: Total Economic Embargo (47-3-2 Vote)
 
 **Kapitel 108 - The Substitution**
+
 - Day 4: Beide Lösungen erfolgreich (Westhold + Dungeon Synthesis)
 - Public Demo: 96% Efficacy = Commercial Standard
 - **Strategic Milestone**: Vertical Integration komplett
 - Negotiation Offer an Lysander via Valerius (15%→5% Fees, 36-month Transition)
 
 **Kapitel 109 - The Negotiation**
+
 - Guild Internal Conflict: 4-3 Vote für Verhandlung
 - **Modified Terms Agreed**:
   - Fee-Reduktion 24 Monate
@@ -302,6 +401,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Critical Decision**: Accept Mission (6 Monate weg, 57% Casualty) vs DEFER
 
 **Kapitel 110 - The Decision** [WRITTEN ✅]
+
 - **Guild Vote APPROVED**: 7-4. Integration successful. Westmarch funding declined.
 - **BROKEN CROWN ACCEPTED**: Signed death-clause contract (Clause 47-Delta - cardiac arrest upon mission failure)
 - **Mission Parameters**: Terra-Solvaris, 16.7M GP recovery, 6 months (Board wants 4), 43% survival, 12% success
@@ -312,6 +412,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Expected Value**: 252 million lives saved if successful
 
 **Kapitel 111 - The Briefing** [WRITTEN ✅]
+
 - **Orbital Platform Sigma**: Dimensional transit to Consortium orbital facility (22k miles above Terra-Insolvia)
 - **Cosmic Scale Revealed**: 47 active missions, 432 Restructurers, 12 star systems - Victor sees Consortium's true infrastructure
 - **Team Dynamics Established**:
@@ -328,6 +429,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **STATUS**: Team functional, insertion imminent, war zone entry confirmed
 
 **Kapitel 112 - Arrival** [WRITTEN ✅]
+
 - **Terra-Solvaris Landing**: Dimensional transit complete (4 minutes). Arrived Solvara ruins (former capital, war zone)
 - **Immediate Environment**: Artillery fire 3mi, civilian bodies uncollected, 98.5% economic collapse (840k GP→12k GP), 800k dead/displaced
 - **Civilian Cost Realized**: Victor sees Expected Value failure in human terms - bodies, destroyed infrastructure, refugee camps burned
@@ -342,6 +444,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **STATUS**: Combat imminent, Revolutionary siege active, 4-month clock: 119 days 23h remaining
 
 **Kapitel 113 - The Siege Protocol** [WRITTEN ✅]
+
 - **First Combat Experience**: Victor proves value through tactical resource management, not fighting
 - **Mage Rotation Optimization**: Changed 60-40 to 70-30 rotation → 40% output increase, 15% casualty reduction
 - **Resh Combat Showcase**: Tier 4 capability demonstrated (12-second captain defeat, anti-magic aura breach assault)
@@ -354,6 +457,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **STATUS**: Day 2, Ironhold damaged but operational, coalition building phase beginning
 
 **Kapitel 114 - The Proposal** [LATEST]
+
 - **Coalition Math Presentation**: Proposed 25% equity stake to Merchant Coalition for military support
 - **Central Bank Vault Access**: Dravik granted personal security clearance (demonstrates high trust)
 - **Asset Revaluation**: ARMI recalculated Bank value: 16.7M GP liquid + **847M GP intangible assets** (land deeds, genealogies, trade treaties)
@@ -366,6 +470,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **New Mission Parameters**: 48 hours to build coalition preventing 30k-troop assault
 
 **Kapitel 115 - The Delegation** [LATEST]
+
 - **Merchant Coalition Negotiation**: Three principals arrived (Lord Cassius Valorian, Lady Thessaly Morthane, Captain Dren Kieran)
 - **Death Mark Leverage**: Revealed Clause 47-Delta glyph to prove Consortium commitment - "aligned incentives" demonstration
 - **Contract Secured**: 4,000 mercenaries + 800 personal guard (Kieran), 25% equity stake (reduced to 15% for Kieran after betrayal)
@@ -379,6 +484,7 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 - **Tactical Challenge**: Defend against 5,000 vanguard with partial coalition before main Revolutionary army arrives
 
 **Kapitel 116 - The Vanguard** [LATEST]
+
 - **Command Friction Problem**: Three coalition armies (Warlords, Valorian mercs, Morthane forces) refusing coordination
 - **Tactical Liaison Solution**: Created new organizational role - provides "actionable intelligence analytics" without commanding
 - Framework: Commanders maintain authority; Victor optimizes decision-making through real-time data (Sera's intelligence)
@@ -412,25 +518,28 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 | **Dravik Relationship** | HIGH RESPECT ("dangerous because you optimize") |
 | **Kieran Status** | Controlled double agent (demonstrated "motivated performance") |
 
-
-
 ---
 
 ## Zitate
 
-### Kapitel 52 (Project Cobalt):
+### Kapitel 52 (Project Cobalt)
+>
 > "Forty-seven faces. I signed the orders. I didn't know. But I signed them."
 
-### Kapitel 55 (The Termination):
+### Kapitel 55 (The Termination)
+>
 > "I'm not a hero. I'm just a man who ran the numbers and didn't like the outcome."
 
-### Kapitel 86 (Black Envelope):
+### Kapitel 86 (Black Envelope)
+>
 > "I wasn't saved. I was recruited."
 
-### Kapitel 100 (Arc 1 Finale):
+### Kapitel 100 (Arc 1 Finale)
+>
 > "One million. Twenty-three days. Not bad for a dead man."
 
-### Kapitel 109 (Negotiation):
+### Kapitel 109 (Negotiation)
+>
 > "Crushing generates inefficiency. Integration generates value."
 
 ---

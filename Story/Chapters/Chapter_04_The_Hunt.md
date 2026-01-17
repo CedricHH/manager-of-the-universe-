@@ -30,6 +30,7 @@ Victor activated Performance Review on the nearest specimen.
 > Type: Ooze (Acidic)
 > Behavior: Passive (attacks only when touched or threatened)
 > Drops:
+>
 > - Slime Jelly (100% drop rate) - Edible with tolerance
 > - Acid Sac (25% drop rate) - Corrosive, valuable
 > Market Value: 2 GP (base), 5 GP (with Acid Sac)
@@ -97,11 +98,13 @@ They anticipated each other's positions. They even developed a crude signaling s
 By the halfway point, they had developed a rhythm. Spot. Surround. Corner. Kill. Collect. The efficiency improved with each cycle, the time between kills shrinking as muscle memory replaced conscious thought.
 
 > **[ARMI - PROGRESS REPORT]**
+> Victor Kaine | Level: 1 | EXP: 95/500
 > Slimes Eliminated: 16
 > Loot Collected:
+>
 > - Slime Jelly x16 (Sufficient for 16 meals)
 > - Acid Sac x3 (Stored for future application)
-> XP Gained (Victor): 15 (Coordination bonus)
+> XP Gained: +95 (80 Party Share + 15 Coordination Bonus)
 > Estimated Market Value: 32 GP (if liquidated)
 > Status: Operational efficiency improving.
 

@@ -211,7 +211,7 @@ They had no idea they were just the marketing budget.
 
 > **[ARMI]**
 > Session: Day 11 Afternoon | Status: INITIAL ENGAGEMENT
-> 
+>
 > **Marketing Event: [First Contact]**
 > Target: Jace (W) & Mira (A) | Status: BAITED
 > Strategy: [Catch and Release] (Rumor propagation)
@@ -219,5 +219,5 @@ They had no idea they were just the marketing budget.
 
 ---
 
-**Word Count**: ~1,710
-**Next Chapter**: [The First Raid / Escalation]
+**Word Count**: 1,606
+**Next Chapter**: [Customer Service]

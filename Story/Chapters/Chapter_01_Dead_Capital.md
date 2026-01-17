@@ -7,9 +7,8 @@ Not his own—at least, he didn't think so. It was in the air. Coppery. Fresh. M
 He opened his eyes.
 
 Stone ceiling. Ancient. The carvings etched into it were deliberate—spirals and angular runes that meant nothing to him but screamed *intentionality*.
- 
- This was not a cave. This was architecture. Someone had built this place, maintained it, kept the torches lit in iron sconces that showed no rust despite what must have been centuries of use.
 
+ This was not a cave. This was architecture. Someone had built this place, maintained it, kept the torches lit in iron sconces that showed no rust despite what must have been centuries of use.
 
 And beside him, close enough to touch, a corpse in golden armor.
 
@@ -87,19 +86,20 @@ The skill activated instantly. Data flooded his vision:
 > Cause of Termination: Overconfidence (Critical Failure)
 > Equipment: Soulbound (cannot be liquidated)
 > Remaining Value:
-> - Soul Data: Archived (inaccessible)
-> - Reputation: Partially transferable
-> - Physical Remains: Salvageable (minimal value)
+>
+> * Soul Data: Archived (inaccessible)
+> * Reputation: Partially transferable
+> * Physical Remains: Salvageable (minimal value)
 > Assessment: WRITE-OFF. Minimal recovery potential.
 
 Victor's gaze drifted to the hero's backpack, lying beside the body. Not soulbound. Not locked. Standard leather construction, though the quality was excellent—hand-stitched, waterproofed, with brass buckles that showed the kind of craftsmanship that cost money on any world.
 
 He crawled over and opened it. His fingers were steady.
- 
+
  *Good. Motor control intact. Cognitive function acceptable. Physical plant is operational.*
 
 The contents were organized with military precision—Marcus had been prepared, if nothing else. Five health potions in padded slots, their liquid glowing faintly red. Travel rations wrapped in oiled cloth: dried meat, hard bread, something that might have been fruit once.
- 
+
  A map marked *Tutorial Dungeon - EASY* with a helpful arrow pointing to *YOU ARE HERE* and a dotted line leading to *DIVINE BLESSING.*
 
 And a letter. Sealed with golden wax bearing the symbol of a radiant sun.
@@ -187,7 +187,7 @@ This wasn't how prey behaved.
 Still terrible. But climbing.
 
 "The one in golden armor killed many of your kind, didn't he?" Victor continued, his voice calm, measured—the tone he used in boardrooms when a hostile takeover was about to turn ugly.
- 
+
  "Heroes always do. They come into your territory, murder your population, take your resources. And when they're done, they call themselves *righteous*."
 
 The goblins hadn't attacked. They were listening.
@@ -252,5 +252,5 @@ Victor allowed himself a small, cold smile.
 
 ---
 
-**Word Count**: ~1,620
+**Word Count**: 1,568
 **Next Chapter**: [First Contract]

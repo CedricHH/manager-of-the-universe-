@@ -255,5 +255,5 @@ That, Victor noted, was progress.
 
 ---
 
-**Word Count**: 1,720
-**Next Chapter**: [Floor Three Takeover]
+**Word Count**: 1,511
+**Next Chapter**: [Hostile Acquisition]

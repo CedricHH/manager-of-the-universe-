@@ -267,5 +267,5 @@ Victor looked at the empty space where the imp had been.
 
 ---
 
-**Word Count**: ~1,680
-**Next Chapter**: [The First Real Test]
+**Word Count**: 1,718
+**Next Chapter**: [The Tribute Question]

@@ -19,6 +19,7 @@ Unlike traditional mana pools, Victor's power source is **currency**.
 ### The Golden Parachute (Passive)
 
 Victor's HP is linked to his bank account:
+
 - Lethal damage → Gold auto-deducted → Body regenerates
 - Rate: **1 HP = 100 GP**
 - He is immortal **as long as he is rich**
@@ -26,11 +27,80 @@ Victor's HP is linked to his bank account:
 
 ---
 
+## Dual Level System
+
+Victor's progression operates on **TWO parallel tracks**:
+
+### Track 1: Universal Level (EXP-Based)
+
+Like all beings in Terra Insolvia, Victor gains EXP from combat kills.
+
+| Source | EXP Formula |
+|--------|-------------|
+| Kill (lower level) | Enemy Level × 10 |
+| Kill (equal level) | Enemy Level × 50 |
+| Kill (higher level) | Enemy Level × 100 + (Level Diff × 50) |
+| Quest Completion | Variable |
+
+**Stat Points**: +5 per Level Up
+
+> **Victor's Default Allocation (INT-focused)**:
+>
+> - INT: +2 (Strategic Planning)
+> - CHA: +2 (Negotiation)
+> - WIS: +1 (Risk Assessment)
+> - STR/AGI/VIT: 0 (Combat irrelevant)
+
+#### EXP Thresholds
+
+| Level | Required EXP | Cumulative |
+|-------|-------------|------------|
+| 1 → 2 | 500 | 500 |
+| 2 → 3 | 750 | 1,250 |
+| 3 → 4 | 1,000 | 2,250 |
+| 4 → 5 | 1,500 | 3,750 |
+| 5 → 6 | 2,000 | 5,750 |
+| 6 → 7 | 3,000 | 8,750 |
+| 7 → 8 | 4,000 | 12,750 |
+| 8 → 9 | 5,000 | 17,750 |
+| 9 → 10 | 7,500 | 25,250 |
+| 10+ | +50% per level | - |
+
+#### Party EXP Distribution
+
+| Role | EXP Share |
+|------|-----------|
+| **Solo Kill** | 100% |
+| **Kill Command** (directed minions) | 50% |
+| **Coordination** (tactical support) | 25% |
+| **Observation** (no participation) | 5% |
+
+### Track 2: Job Level (Asset Manager)
+
+Victor's **class abilities** scale with economic success, not EXP.
+
+| Metric | Job Level |
+|--------|-----------|
+| Net Worth 0-999 GP | Job Lv. 1 |
+| Net Worth 1,000-9,999 GP | Job Lv. 2 |
+| Net Worth 10,000-99,999 GP | Job Lv. 3 |
+| Net Worth 100,000-999,999 GP | Job Lv. 4 |
+| Net Worth 1,000,000+ GP | Job Lv. 5 |
+| Highest Asset Value | +1 per 100k GP |
+
+**Job Level Effects**:
+
+- Skill unlock thresholds
+- Contract binding authority
+- ARMI interface features
+- Consortium clearance access
+
 ## System Interface (UI/UX)
 
 ### Visual Design
 
 Unlike typical blue fantasy screens, ARMI resembles:
+
 - **Bloomberg Terminal** aesthetic
 - **Colors**: Black, Gold, Alert Red
 - **Ticker**: Real-time data scrolling at vision edge (Gold rate, inflation, guild stocks)

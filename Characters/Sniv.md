@@ -46,6 +46,7 @@ Er unterschrieb. (Er machte ein X. Er konnte nicht schreiben.)
 ### Die Transformation
 
 Unter Victors "Management" entdeckte Sniv, dass er Talente hatte:
+
 - Er konnte zählen (selten für Goblins)
 - Er konnte sich Gesichter und Rachegefühle merken
 - Er verstand Hierarchien instinktiv
@@ -139,16 +140,19 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 ### Arc 1: Vom Runt zum Manager (Kapitel 2-80)
 
 **Survival (Ch 2-4)**
+
 - Rekrutiert als "Employee #1"
 - Von Verhungern gerettet
 - Führte erste Goblin-Volkszählung durch
 - Fungal Garden Ernte
 
 **Die erste Beförderung (Ch 8-14)**
+
 - Organisierte erste "Onboarding Census" für wilde Rekruten
 - Befördert zu "Manager" (Ch 8)
 - Physische Evolution beschleunigt durch bessere Ernährung (Ch 9, 18% Fortschritt)
 - Ernennung zum **Chief of Staff** im Board meeting (Ch 11)
+- Akzeptierte die gefährliche Mission: **Operation Market Research** (Sniv zur Oberfläche entsandt, um Abenteurer anzuwerben) (Ch 11)
 - Erfolgreiche erste Oberflächen-Mission nach Oakhaven (Ch 12)
 - Ausführung der Rumor-Expansion-Strategie mittels Pyrit (Ch 13)
 - Übernahme der Rolle als "Scare Actor" und Koordination des Special Effects Teams (Ch 14)
@@ -165,16 +169,19 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 - **Preparations (Ch 34)**: Bestätigte seine Loyalität ("Boss want Sniv safe"); verwaltet 26 Goblins und die Floor 3 Mining Operations (70% Kapazität) während Victors Mission; hält an seiner HR-Direktor-Rolle fest.
 
 **Corporate Evolution (Ch 24-34)**
+
 - Evolvierte zu Hobgoblin (Stage 2)
 - Designiert als **COO**
 - Managed 26 Goblins und tägliche Operationen
 - Demonstrierte umfassende Loyalität während Victors erster Abwesenheit
 
 **The Union Rep (Ch 56-59)**
+
 - Spielte Schlüsselrolle in "Class Action"-Klage-Protest
 - Managed "Project Sparkle"-Cleanup für Royal Visit
 
 **Der Automation Protocol (Ch 80)**
+
 - **MAJOR PROMOTION**: Befördert zu **Regional Executive Manager** von Dungeon Insolvia
 - Erbte das SOP Manual (400 Seiten)
 - Volle Autonomie über Oakhaven Operations
@@ -182,21 +189,26 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 ### Arc 2: Regional Executive (Kapitel 101-109)
 
 **Kapitel 101 - The Expansion Plan**
+
 - Zugewiesen: Trainiere 10 Goblin-Shopkeeper für Insolvia Apotheke
 - Entwickelte "Customer Service Academy"-Curriculum
 
 **Kapitel 102 - The Recruitment**
+
 - Customer Service Academy: 10 Goblins in Training (Graduation in 4 Tagen)
 
 **Kapitel 104 - The Harvest**
+
 - Deployete 10 trainierte Goblin-Shopkeeper für Apotheke-Launch
 - Launch-Success: SOLD OUT in 5 Stunden
 
 **Kapitel 106 - The Council**
+
 - 12-Hour Coalition: Organisierte 487 Adventure-Testimonials
 - Koordinierte Public Demonstration (340 Adventurers)
 
 **Kapitel 109 - The Negotiation**
+
 - **Emotionale Reaktion**: Opposes BROKEN CROWN Mission ("Boss stays!")
 - Zeigt erstmals Besorgnis für Victors Sicherheit
 
@@ -216,19 +228,24 @@ Nie wieder hungern. Nie wieder die Schwächste sein. Victor glücklich machen.
 
 ## Zitate
 
-### Kapitel 2:
+### Kapitel 2
+>
 > "Sniv work for Boss. Boss give food. Sniv happy!"
 
-### Kapitel 24:
+### Kapitel 24
+>
 > "Boss! Boss! New meat—I mean, *candidates* for position!"
 
-### Kapitel 56:
+### Kapitel 56
+>
 > "Sniv has completed performance reviews. Three need terminating. Sniv can do terminating?"
 
-### Kapitel 104:
+### Kapitel 104
+>
 > "Customer service! Smile! No bite customers unless Boss say!"
 
-### Kapitel 109:
+### Kapitel 109
+>
 > "Boss stays! Boss no go dangerous place!"
 
 ---

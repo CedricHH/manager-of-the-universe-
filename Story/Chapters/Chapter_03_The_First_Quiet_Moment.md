@@ -13,7 +13,7 @@ He hadn't noticed until now. Too busy calculating survival probabilities, analyz
 Victor looked around the chamber with new eyes. Not the tactical assessment of a man about to die, but the analytical gaze of someone taking inventory.
 
 Stone walls, ancient and carved with runes that meant nothing to him but suggested intentional design. The liquidated asset (Marcus)—though "corpse" was generous now.
- 
+
 The goblins had been thorough in their "processing." What remained was bones, scattered armor fragments, and stains Victor chose not to examine closely.
 
 A broken throne at one end of the chamber. Dust. Shadows.
@@ -29,7 +29,7 @@ He found a flat stone slab near the wall—probably a ceremonial altar, based on
 On the improvised desk, he arranged what remained of Marcus's supplies:
 
 The glowing sword (still soulbound, still useless, still mocking him with its inaccessible power). The empty backpack. The map marked "Tutorial Dungeon - EASY."
- 
+
 One remaining ration—dried meat and stale bread that represented his entire food security.
 
 Victor sat on the broken throne. The stone was cold. The position was uncomfortable. But for the first time since arriving in this world, he had something that resembled an office.
@@ -46,11 +46,13 @@ With the immediate chaos contained, Victor turned his attention to the interface
 > Level: 1
 >
 > **Vital Statistics**:
+>
 > - HP: 50/50 (Species baseline: Low)
 > - GP: 0 (CRITICAL - No mana reserves)
 > - Stamina: 23/100 (Depleted)
 >
 > **Core Attributes**:
+>
 > - STR: 4 (Can lift briefcase. No more.)
 > - AGI: 5 (Fast enough to dodge responsibility)
 > - INT: 18 (Dangerously high)
@@ -58,9 +60,11 @@ With the immediate chaos contained, Victor turned his attention to the interface
 > - LCK: 50 (Passive: Too Big to Fail)
 >
 > **Active Skills**:
+>
 > - [Performance Review] - Cost: 0 GP - AVAILABLE
 >
 > **Locked Skills** (Require GP Investment):
+>
 > - [Hostile Takeover] - 500 GP (Initial Unlock)
 > - [Aggressive Negotiations] - 300 GP (Initial Unlock)
 > - [Predatory Lending] - 200 GP (Initial Unlock)
@@ -115,7 +119,7 @@ He stood and began pacing. The physical movement helped clear his head. As he wa
 
 **Problem 1: Food**
 Fourteen goblins needed to eat. He had one ration. The health potions were gone—the goblins had consumed them for the sugar content within minutes of the negotiation ending.
- 
+
 At current consumption rates, his workforce would begin starving in approximately four hours.
 
 **Problem 2: Capital**
@@ -174,7 +178,7 @@ Then the small goblin's expression shifted. Something darker entered his gaze.
 "Boss... also... pack getting hungry. Looking at Sniv. Hungry eyes." He touched one of the scratches on his face. "This not from enemy tribe. This from *our* tribe."
 
 Victor checked his internal clock. Eight hours since the contract negotiation. Four hours since he'd sent Sniv on the census mission.
- 
+
 The provisional loyalty he'd purchased with health potions was already fraying.
 
 *Four hours. Maybe less. Before the contract dissolves into cannibalism.*
@@ -199,5 +203,5 @@ He stood. The broken throne creaked behind him. The torchlight cast long shadows
 
 ---
 
-**Word Count**: ~1,720
+**Word Count**: 1,559
 **Next Chapter**: [The Hunt]

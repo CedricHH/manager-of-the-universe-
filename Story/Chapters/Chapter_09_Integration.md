@@ -232,5 +232,5 @@ Victor folded the scroll carefully.
 
 ---
 
-**Word Count**: ~1,720
-**Next Chapter**: [Flashback Continues - The Aftermath]
+**Word Count**: 1,539
+**Next Chapter**: [The Betrayal Part 2]

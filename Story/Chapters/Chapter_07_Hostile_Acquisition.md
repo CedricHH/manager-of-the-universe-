@@ -36,6 +36,7 @@ The goblins nodded rapidly. They had learned what "answers to me personally" mea
 
 > **[ARMI - INVENTORY CHECK]**
 > Weapons Deployed:
+>
 > - Shivs: 3 (Slashing, Lv. 1)
 > - Sharpened Sticks: 8 (Piercing, Lv. 0)
 > - Acid Sacs: 3 (Chemical, EXPERIMENTAL)
@@ -84,6 +85,8 @@ Victor activated **[Performance Review]**.
 > Loyalty: TERRITORIAL (pack-bonded, not individual)
 > Weakness: Unorganized, no tactical training
 > Note: Eliminate Alpha to break pack cohesion.
+
+> Victor Kaine | Level: 1 | EXP: 135/500
 
 *Level 6. Five levels above me. But levels aren't everything.*
 
@@ -161,6 +164,15 @@ The eight defenders scattered in every direction, self-preservation overriding a
 
 Victor stood over the dying Alpha, watching the acid finish its work. The goblin had stopped screaming. The acid had reached his brain.
 
+> **[ARMI - PERFORMANCE BONUS]**
+> Target Terminated: Feral Goblin (Alpha)
+> Target Level: 6 | Victor Level: 1
+> EXP Awarded: +850 (Solo Kill: Level × 100 + Diff × 50)
+> Total EXP: 985/500 (135 + 850)
+> STATUS: **LEVEL UP** (1 → 2)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
+> Note: Universal Level increased. Job Level unchanged (requires GP).
+
 *Force multipliers negate labor-intensive numerical advantages. Efficiency is the ultimate weapon.*
 
 ---
@@ -230,5 +242,5 @@ Sniv's grin was predatory.
 
 ---
 
-**Word Count**: ~1,750
-**Next Chapter**: [Onboarding]
+**Word Count**: 1,581
+**Next Chapter**: [The Betrayal]

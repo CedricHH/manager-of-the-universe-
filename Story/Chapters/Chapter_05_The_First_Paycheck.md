@@ -223,5 +223,5 @@ The rest could wait.
 
 ---
 
-**Word Count**: ~1,780
+**Word Count**: 1,620
 **Next Chapter**: [Departmental Structure]

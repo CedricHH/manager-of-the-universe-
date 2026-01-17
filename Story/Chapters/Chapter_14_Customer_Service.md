@@ -178,12 +178,12 @@ The goblins descended on the abandoned backpacks like locusts.
 
 Victor examined the haul on the stone table of the Boss Chamber.
 
-*   Two bedrolls (flea-ridden and smelling of mildew).
-*   Three days of rations (hardtack that could double as masonry bricks).
-*   A coil of rope (frayed, clearly second-hand).
-*   A small pouch containing 12 copper coins and a single button.
-*   A water skin (leaking).
-*   A leather-bound diary.
+* Two bedrolls (flea-ridden and smelling of mildew).
+* Three days of rations (hardtack that could double as masonry bricks).
+* A coil of rope (frayed, clearly second-hand).
+* A small pouch containing 12 copper coins and a single button.
+* A water skin (leaking).
+* A leather-bound diary.
 
 Victor picked up the diary. It belonged to Jace. The cover was cracked, and the pages were dog-eared.
 
@@ -237,7 +237,7 @@ Victor walked to the edge of the chamber.
 
 > **[ARMI]**
 > Session: Day 12 (Deadline -1) | Status: HIGH TENSION
-> 
+>
 > **Market Impact: [The Word of Mouth]**
 > Target: Jace & Mira | Status: CONVERTED (Messengers)
 > Intel Acquired: [Silver Lance Guild] / [Captain Thorne]
@@ -246,5 +246,5 @@ Victor walked to the edge of the chamber.
 
 ---
 
-**Word Count**: ~1,550
-**Next Chapter**: [The Deadline / The First Real Party]
+**Word Count**: 2,044
+**Next Chapter**: [The Roar]

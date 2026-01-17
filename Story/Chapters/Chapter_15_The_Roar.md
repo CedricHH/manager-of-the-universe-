@@ -334,5 +334,5 @@ The pitch meeting from hell had officially begun.
 
 ***
 
-**Word Count**: ~1,850
-**Next Chapter**: [The Minotaur Question / The Partnership]
+**Word Count**: 2,473
+**Next Chapter**: [The Descent]

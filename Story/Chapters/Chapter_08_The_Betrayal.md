@@ -232,5 +232,5 @@ But if that's what leadership looked like in this world, he could work with it.
 
 ---
 
-**Word Count**: ~1,680
-**Next Chapter**: [Flashback Continues - The Investigation]
+**Word Count**: 1,593
+**Next Chapter**: [Integration]
