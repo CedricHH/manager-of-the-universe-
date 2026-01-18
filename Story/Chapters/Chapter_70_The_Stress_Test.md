@@ -21,6 +21,7 @@ Theron's eye twitched. "You want us to fight a *dragon*?"
 "I want you to *survive* a dragon," Victor corrected. "There's a difference."
 
 The rest of the party exchanged glances:
+
 - **Mira** (healer, nervous energy, clutching her staff)
 - **Kael** (rogue, twin daggers, cocky smirk)
 - **Elena** (mage, already analyzing the dungeon with detection spells)
@@ -56,6 +57,7 @@ Victor took mental notes.
 
 > **[ARMI]**
 > **Stress Test Metrics - Entry Phase**:
+>
 > - Cooling enchantment duration: 20 minutes
 > - Fire resistance potions: 6 (limited resource)
 > - Party composition: Balanced (tank, healer, DPS x3)
@@ -80,6 +82,7 @@ It melted instantly.
 "Good to know," Kael muttered.
 
 They navigated carefully:
+
 - **Bridge crossing**: Theron led, testing weight distribution
 - **Sulfur vents**: Elena detected poison, party detoured
 - **Fire crystals**: Mira wanted to harvest—Victor's projection appeared: "After the fight"
@@ -97,6 +100,7 @@ Victor, watching via scrying orb from his office, updated his analysis:
 
 > **[ARMI]**
 > **Environmental Performance**:
+>
 > - Time to boss: 18 minutes (TARGET: 15-20) ✅
 > - Resource depletion: 40% potions consumed ✅
 > - HP damage (environmental): 15% average ✅
@@ -335,6 +339,7 @@ Victor pulled up his calculations:
 
 > **[ARMI]**
 > **Floor 5 Economics Analysis**:
+>
 > - Entry Fee: 100 GP/party
 > - Average Loot Value: 300 GP
 > - Consumables Required: ~600 GP
@@ -383,6 +388,7 @@ He pulled up a new model.
 > - Spectator tickets: 10 GP/person
 >
 > **Revenue Streams**:
+>
 > 1. Entry fees (10 parties x 100 GP = 1,000 GP/week)
 > 2. Spectator admission (50 people x 10 GP = 500 GP/week)
 > 3. Sponsorships (merchants advertising to adventurers = 300 GP/week)
@@ -391,6 +397,13 @@ He pulled up a new model.
 > **Total Weekly Revenue**: ~2,000 GP
 > **Prize Payout**: -500 GP
 > **Net Weekly Profit**: 1,500 GP (vs 620 GP current model)
+
+> **[ARMI - INNOVATION MILESTONE]**
+> Quest Complete: Stress Test & Tournament Model
+> EXP Awarded: +800 (System Innovation)
+> Total EXP: 17,785/17,750
+> STATUS: **LEVEL UP** (8 → 9)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
 
 The numbers worked.
 

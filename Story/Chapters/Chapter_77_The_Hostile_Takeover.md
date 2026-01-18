@@ -29,7 +29,7 @@ Victor smiled. It wasn't a pleasant expression. It was the smile of a man who ha
 
 "Valen," Victor's voice boomed from the hidden microphones embedded in the gatehouse. "You’re citing the Act of 842. Unfortunately, my legal team—specifically the Merchant Guild’s compliance department—reminds me that the Royal Proclamations of Chapter 75 granted this site 'Experimental Enterprise' status. You have no jurisdiction here."
 
-The Arbitrator hesitated, looking back at Groll. 
+The Arbitrator hesitated, looking back at Groll.
 
 "The Law is whatever the Church says it is!" Groll roared, stepping forward. He didn't care about experimental status. He cared about the fact that Victor’s cheap slime-base potions were going to bankrupt his monopoly in six months. "This isn't a business, it's a plague! Tear it down!"
 
@@ -60,11 +60,11 @@ At the gate, the scene descended into chaos. Groll threw the first vial of viole
 
 Victor’s nose wrinkled as the sharp smell of burnt calcium and expensive stone reached him through the ventilation. He hadn’t just lost a wall; he had lost a Grade-A asset he’d spent three weeks negotiating for. Even as the loss counter ticked upward, he found himself calculating the exact logistics of the replacement shipment.
 
-Victor watched the "Loss Meter" on his screen. Every explosion was a payout. Every broken window was a credit to his account. 
+Victor watched the "Loss Meter" on his screen. Every explosion was a payout. Every broken window was a credit to his account.
 
 "Groll is using Tier 4 alchemical agents," Victor noted, his eyes narrowing. "That’s a violation of the International Trade Agreement on Siege Weaponry. ARMI, record the residue signatures. We’ll sue for the difference later."
 
-Kael’s mercenaries were now swarming the walls. They were professionals, moving with surgical precision. They expected traps—poison needles, pit falls, monsters. 
+Kael’s mercenaries were now swarming the walls. They were professionals, moving with surgical precision. They expected traps—poison needles, pit falls, monsters.
 
 They found none of those. Instead, they found a maze of sliding glass partitions and confusing corridors designed for maximum acoustic resonance.
 
@@ -87,7 +87,7 @@ Asterion’s response was a blur of black iron. He didn't use the edge of his ax
 
 "They won't get that far," Victor said. He stood up, walking over to the main projection. He placed his hand on the glass. "[Efficiency Optimization]... Level 2. Reallocate density from the non-essential outer walls to the primary storage vault. Now."
 
-The site groaned. The very stones of the Rivercrest franchise seemed to flow, thinning the exterior decorative pillars to thicken the walls around the sensitive research equipment. 
+The site groaned. The very stones of the Rivercrest franchise seemed to flow, thinning the exterior decorative pillars to thicken the walls around the sensitive research equipment.
 
 To the attackers, it looked like the building was collapsing. To Victor, it was a data migration.
 
@@ -133,6 +133,13 @@ The cliffhanger hung in the air: the destruction of Victor’s franchise was not
 > **[ARMI]**
 > Balance: 85,000 GP (Projected) | Status: LIQUIDATION COMPLETE
 > Strategic Advantage: TOTAL | Next Target: Guild Treasury
+
+> **[ARMI - TACTICAL VICTORY]**
+> Quest Complete: Hostile Takeover Reversal
+> EXP Awarded: +2,500 (Masterclass Deception)
+> Total EXP: 26,485/25,250
+> STATUS: **LEVEL UP** (9 → 10)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
 
 Victor Kaine closed the dashboard. The room went dark, leaving only the faint, ominous glow of the gold counter in the corner of the screen.
 

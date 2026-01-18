@@ -121,6 +121,7 @@ Stared at the final number.
 > **[Consortium Contract - Final Accounting]**
 >
 > **Revenue Sources:**
+>
 > - Dungeon Operations (Ember Trials, admissions): 42,000 GP
 > - Church Brokerage Commission: 27,000 GP
 > - Arbitrage Sprint (24 trades): 984,000 GP
@@ -184,6 +185,7 @@ Victor opened the contract completion clause.
 He pulled up long-term strategic planning.
 
 **Expansion Targets:**
+
 - Dungeon development (Floors 6-10): 200k GP investment
 - Church brokerage scaling (continental distribution): 500k GP revenue potential
 - Galactic Exchange trading house (permanent infrastructure)
@@ -297,6 +299,7 @@ Nova's light pulsed. "Victor. What's next?"
 Victor opened a new strategic projection.
 
 **Arc 2 Objectives:**
+
 - Dungeon expansion (Floors 6-10, custom mechanics)
 - Church brokerage scaling (regional distribution network)
 - Galactic Exchange trading house (establish permanent operation)
@@ -306,14 +309,23 @@ Victor opened a new strategic projection.
 
 > **[ARMI - Status Summary]**
 > **Arc 1: COMPLETE**
-> 
+>
 > **Victor Kaine:**
+>
 > - Net Worth: 1,022,000 GP
 > - Partnerships: 4 major institutions
 > - Consortium Status: Independent operator (approved)
 > - Level: 11 → 14 (progression via trade mastery, negotiation, survival)
 >
 > **Arc 2 Unlocked:** Expansion Phase
+
+> **[ARMI - ARC COMPLETION MILESTONE]**
+> Quest Complete: The Million (Arc 1 Finale)
+> EXP Awarded: +54,000 (Contract Fulfillment Bonus)
+> Total EXP: 100,485/100,250
+> STATUS: **LEVEL UP** (13 → 14)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
+> **RESTRUCTURER CLEARANCE:** Level 2 Activated
 
 Victor stepped outside the dungeon.
 

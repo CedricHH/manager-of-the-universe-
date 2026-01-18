@@ -92,7 +92,7 @@ Sniv didn't look convinced, but he nodded slowly. "Sniv zig-zags. Sniv is fast s
 
 The waiting was the worst part.
 
-For three days, the dungeon operated in a state of high tension. The mining team continued to stockpile iron (Victor still had no idea how to smelt it, but inventory was inventory). The farming team harvested mushrooms with nervous efficiency, constantly glancing at the ceiling as if expecting the Minotaur to crash through.
+For three days, the dungeon operated in a state of high tension. The mining team continued to stockpile iron (Victor still had no idea how to smelt it, but inventory was inventory). The farming team harvested mushrooms with nervous efficiency, constantly glancing at the floor as if expecting the Minotaur to burst through the stone.
 
 Floor Four remained silent. Asterion was keeping his side of the bargain, for now.
 
@@ -125,7 +125,7 @@ Two days later, the proximity alarm triggered.
 
 Victor stood up. "Showtime."
 
-He moved to the observation alcove on Floor Two, peering down through a ventilation shaft that offered a view of the entrance hall.
+He moved to a concealed observation gallery overlooking the entrance hall, peering down through a narrow viewing slit.
 
 Two figures stood in the sunlight filtering through the cracked ceiling.
 

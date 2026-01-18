@@ -151,8 +151,14 @@ He sealed the letter.
 > **Obligation**: Loot Futures (Tier 1).
 > **New Threat**: The Gilded Ledger (Surveillance).
 
-**Status**: Funded. But the walls are closing in.
+> **[ARMI - FINANCIAL MILESTONE]**
+> Quest Complete: Gilded Ledger Deal
+> EXP Awarded: +1,000 (High-Stakes Negotiation)
+> Total EXP: 13,685/12,750
+> STATUS: **LEVEL UP** (7 → 8)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
 
+**Status**: Funded. But the walls are closing in.
 
 ---
 
