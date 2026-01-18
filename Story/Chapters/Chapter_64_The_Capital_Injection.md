@@ -219,3 +219,8 @@ The mosquitoes weren't just monitoring the yield. They were *skimming* it. Every
 
 **Status**: The Dungeon is profitable. But the Bank has bugs.
 
+
+---
+
+**Word Count**: 1479
+**Next Chapter**: [The Extermination]

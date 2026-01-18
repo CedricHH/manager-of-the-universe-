@@ -237,6 +237,13 @@ Victor signed.
 > Dead-man Switch: Active (72-hour failsafe)
 > Status: BINDING
 
+> **[ARMI - MAJOR MILESTONE]**
+> Quest Complete: First External Partnership
+> EXP Awarded: +800 (S-Rank Negotiation)
+> Total EXP: 3,785/3,750
+> STATUS: **LEVEL UP** (4 → 5)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
+
 Sterling extended his hand.
 
 Victor shook it. Firm grip. Professional courtesy between equals who'd just negotiated mutual advantage.
@@ -284,3 +291,8 @@ Let the expansion begin.
 ---
 
 **END OF CHAPTER 36**
+
+---
+
+**Word Count**: 2034
+**Next Chapter**: [The Waypoint]

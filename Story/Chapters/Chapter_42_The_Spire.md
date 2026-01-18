@@ -267,3 +267,8 @@ Victor's eyes glowed with the reflection of the mana streetlamps.
 ***
 
 **END OF CHAPTER 42**
+
+---
+
+**Word Count**: 1793
+**Next Chapter**: [Hostile Takeover Protocols]

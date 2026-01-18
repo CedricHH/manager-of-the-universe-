@@ -342,3 +342,8 @@ Competition, after all, was just another market inefficiency waiting to be corre
 *The figure smiled and tucked the vial away.*
 
 *"Let's see how the Chainsaw handles real competition."*
+
+---
+
+**Word Count**: 2043
+**Next Chapter**: [The Recruitment]

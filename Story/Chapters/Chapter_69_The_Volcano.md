@@ -340,3 +340,8 @@ Malcom smiled.
 "Let him dig his own grave."
 
 ---
+
+---
+
+**Word Count**: 1616
+**Next Chapter**: [The Stress Test]

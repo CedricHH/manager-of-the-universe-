@@ -172,3 +172,8 @@ There was work to do.
 ---
 
 **END OF CHAPTER 54**
+
+---
+
+**Word Count**: 1502
+**Next Chapter**: [The Selfless Act Part 4]

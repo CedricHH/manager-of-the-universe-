@@ -264,3 +264,8 @@ It was time to **scale up**.
 ---
 
 **Next Chapter:** [The Shell Company]
+
+---
+
+**Word Count**: 1652
+**Next Chapter**: [The Shell Company]

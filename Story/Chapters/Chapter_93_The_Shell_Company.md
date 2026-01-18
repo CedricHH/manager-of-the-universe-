@@ -527,3 +527,8 @@ Victor smiled.
 ---
 
 **Next Chapter:** [The Convergence]
+
+---
+
+**Word Count**: 2344
+**Next Chapter**: [The Convergence]

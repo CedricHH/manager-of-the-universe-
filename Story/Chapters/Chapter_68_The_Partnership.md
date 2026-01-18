@@ -345,3 +345,8 @@ Malcom crushed Victor's letter in his fist.
 "Victor Kaine just declared war."
 
 ---
+
+---
+
+**Word Count**: 1754
+**Next Chapter**: [The Volcano]

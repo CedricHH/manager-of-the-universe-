@@ -588,3 +588,8 @@ They'd find a man who'd already died once for a principle.
 And principles, Victor had learned, were far more dangerous than greed.
 
 ***
+
+---
+
+**Word Count**: 2023
+**Next Chapter**: [The Examination]

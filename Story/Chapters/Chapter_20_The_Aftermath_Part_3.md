@@ -204,3 +204,8 @@ The party froze.
 Gareth blinked. "A... human?"
 
 "I prefer 'Management'," Victor corrected. "And I'm afraid the Minotaur is currently in a meeting. Do you have an appointment?"
+
+---
+
+**Word Count**: 1694
+**Next Chapter**: [Aggressive Negotiations]

@@ -454,3 +454,8 @@ Straightened his coat.
 ---
 
 **Next Chapter:** [The Loophole]
+
+---
+
+**Word Count**: 2089
+**Next Chapter**: [The Loophole]

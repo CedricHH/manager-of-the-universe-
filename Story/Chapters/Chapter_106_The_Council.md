@@ -403,3 +403,8 @@ Because Lysander still had thirty-eight years of connections, institutional know
 And desperate bureaucrats with nothing left to lose were often the most dangerous opponents.
 
 Phase 3 would reveal exactly how far Lysander was willing to go.
+
+---
+
+**Word Count**: 2536
+**Next Chapter**: [The Sabotage]

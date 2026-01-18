@@ -268,3 +268,8 @@ Right up until they realized they'd promoted the wrong manager.
 ---
 
 **END OF CHAPTER 33**
+
+---
+
+**Word Count**: 1667
+**Next Chapter**: [Preparations]

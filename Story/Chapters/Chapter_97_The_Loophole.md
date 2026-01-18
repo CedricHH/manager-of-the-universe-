@@ -398,3 +398,8 @@ Her hand glowed faintly—mana signature scan.
 ---
 
 **Next Chapter:** [The Audit (Consortium)]
+
+---
+
+**Word Count**: 1780
+**Next Chapter**: [The Executor]

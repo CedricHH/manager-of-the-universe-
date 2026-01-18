@@ -238,3 +238,8 @@ Victor smiled. It was the sharpest, coldest, most dangerous smile he had worn si
 
 **END OF CHAPTER 55**
 **[END OF FLASHBACK ARC]**
+
+---
+
+**Word Count**: 1620
+**Next Chapter**: [The Class Action]

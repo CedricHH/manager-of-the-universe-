@@ -186,6 +186,13 @@ Valerius was waiting at the tree line, practically vibrating with anxiety.
 > Potential Reward: Unlimited.  
 > **Victor Kaine's Assessment**: Every regulator is just a stakeholder who hasn't seen the right numbers yet.
 
+> **[ARMI - STRATEGIC MILESTONE]**
+> Quest Complete: Crown Asset Secured
+> EXP Awarded: +700 (High-Risk Acquisition)
+> Total EXP: 8,785/8,750
+> STATUS: **LEVEL UP** (6 → 7)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
+
 He straightened his jacket.
 
 "Let's make sure the Prince likes what he finds."
@@ -193,3 +200,8 @@ He straightened his jacket.
 ---
 
 **END OF CHAPTER 51**
+
+---
+
+**Word Count**: 1603
+**Next Chapter**: [The Selfless Act Part 1]

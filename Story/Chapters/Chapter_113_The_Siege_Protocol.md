@@ -227,3 +227,8 @@ Dravik exhaled slowly. "They're mobilizing everything. Full Revolutionary Army i
 > **[REVOLUTIONARY ULTIMATUM: 72 HOURS]**
 > **[MISSION CLOCK: 118 DAYS, 19 HOURS REMAINING]**
 
+
+---
+
+**Word Count**: 1597
+**Next Chapter**: [The Proposal]

@@ -143,6 +143,14 @@ He picked up one of the copper coins and flipped it. It caught the torchlight, g
 > **Budget**: 3 Copper | 1 Button
 > **Projected Success Rate**: < 1%
 
+> **[ARMI - QUEST ACCEPTED]**
+> Quest: The Guardian's Pact
+> Difficulty: S-Rank (Suicide Mission)
+> EXP Awarded: +300 (Quest Acceptance Bonus)
+> Total EXP: 1,285/1,250
+> STATUS: **LEVEL UP** (2 → 3)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
+
 Victor looked at the holographic display floating in his peripheral vision. The odds were insults. He had built empires on worse odds.
 
 "Sniv," Victor added. "Gather the others. We're having a staff meeting. Agenda item one: how to lie to heroes."
@@ -157,3 +165,8 @@ Step one: Find a hero.
 Step two: Try not to get killed by him.
 
 "Let's get to work," Victor whispered.
+
+---
+
+**Word Count**: 1600
+**Next Chapter**: [The Aftermath]

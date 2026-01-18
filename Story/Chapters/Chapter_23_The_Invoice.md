@@ -195,3 +195,8 @@ And Victor was just getting started.
 > Status: RESTRUCTURING IN PROGRESS
 
 Not bad for a dead man in a borrowed suit.
+
+---
+
+**Word Count**: 1580
+**Next Chapter**: [Infrastructure]

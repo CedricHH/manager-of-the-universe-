@@ -166,3 +166,8 @@ Victor turned to Valerius.
 
 **Status**: The compliance era has begun. And Victor just found a way to bypass the blockade.
 
+
+---
+
+**Word Count**: 1245
+**Next Chapter**: [The Gilded Ledger]

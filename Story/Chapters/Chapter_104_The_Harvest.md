@@ -393,3 +393,8 @@ Victor dismissed the thought.
 First, dominate Oakhaven.
 
 Then decide if he was ready to topple governments.
+
+---
+
+**Word Count**: 2219
+**Next Chapter**: [The Documentation]

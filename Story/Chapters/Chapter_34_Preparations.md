@@ -275,3 +275,8 @@ And then he was going to take it.
 ---
 
 **END OF CHAPTER 34**
+
+---
+
+**Word Count**: 1842
+**Next Chapter**: [The Road]

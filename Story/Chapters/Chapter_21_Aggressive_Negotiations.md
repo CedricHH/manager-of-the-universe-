@@ -186,3 +186,8 @@ The negotiation was over.
 Now came the performance review.
 
 And Victor had a feeling this one would require some creative accounting.
+
+---
+
+**Word Count**: 1943
+**Next Chapter**: [The Performance]

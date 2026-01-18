@@ -388,3 +388,8 @@ But partnerships were blocked. Arbitrage wasn't.
 ---
 
 **Next Chapter:** [The Sprint]
+
+---
+
+**Word Count**: 2025
+**Next Chapter**: [The Sprint]

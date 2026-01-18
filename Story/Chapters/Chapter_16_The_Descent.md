@@ -198,3 +198,8 @@ Victor checked his mental watch.
 > **Relationship Updated: Asterion**
 > **Status:** Hostile -> Neutral/Curious
 > **Zone Status:** Provisional Safety
+
+---
+
+**Word Count**: 1705
+**Next Chapter**: [The Proposal]

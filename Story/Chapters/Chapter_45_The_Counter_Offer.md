@@ -167,6 +167,13 @@ He looked at Nova. The Core chimed—a happy, musical sound like a wind chime. A
 > Nova has rated your IT Support: 5 Stars.
 > Loyalty Increased.
 
+> **[ARMI - COMBAT VICTORY]**
+> Threat Neutralized: Hostile Takeover Attempt
+> EXP Awarded: +500 (Counter-Hack Mastery)
+> Total EXP: 5,785/5,750
+> STATUS: **LEVEL UP** (5 → 6)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
+
 "Everyone," Victor said, straightening his tie. "Status report."
 
 Asterion grunted, checking his axe. "The headache is gone. My strength returns."
@@ -241,3 +248,8 @@ He smiled, but there was no humor in it. It was the smile of a CEO who just real
 ***
 
 **END OF CHAPTER 45**
+
+---
+
+**Word Count**: 1551
+**Next Chapter**: [Due Diligence]

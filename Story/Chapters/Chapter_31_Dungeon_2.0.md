@@ -280,3 +280,8 @@ Quiet. Amused. Very, very old.
 ---
 
 **END OF CHAPTER 31**
+
+---
+
+**Word Count**: 1837
+**Next Chapter**: [The Vault]

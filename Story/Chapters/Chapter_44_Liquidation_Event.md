@@ -256,3 +256,8 @@ He tapped his ARMI interface.
 ***
 
 **END OF CHAPTER 44**
+
+---
+
+**Word Count**: 1529
+**Next Chapter**: [The Counter Offer]

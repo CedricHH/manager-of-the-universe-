@@ -360,3 +360,8 @@ Local war complete. Cosmic war next.
 
 Time to prove a Restructurer could restructure the Restructurers.
 
+
+---
+
+**Word Count**: 2131
+**Next Chapter**: [The Briefing]

@@ -192,3 +192,8 @@ And Victor would learn.
 Behind them, in the arena, Asterion watched. The Minotaur's expression was unreadable.
 
 But Victor thought he saw something that might have been approval.
+
+---
+
+**Word Count**: 1516
+**Next Chapter**: [The Invoice]

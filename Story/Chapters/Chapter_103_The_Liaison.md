@@ -395,3 +395,8 @@ That's how you win impossible negotiations.
 *"Welcome to the deep end, Chainsaw," she murmured.*
 
 *"Let's see if you drown."*
+
+---
+
+**Word Count**: 2247
+**Next Chapter**: [The Harvest]

@@ -247,3 +247,8 @@ Aurelia raised her staff. The tip began to glow with a light that wasn't for sho
 
 **Status**: The Prince is bought. But the Priestess is about to breach.
 
+
+---
+
+**Word Count**: 1711
+**Next Chapter**: [The Divine Audit]

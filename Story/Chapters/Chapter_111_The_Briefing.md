@@ -210,3 +210,8 @@ War waiting.
 > **[SURVIVAL PROBABILITY: 43%]**  
 > **[FOUR-MONTH COUNTDOWN: INITIATED]**
 
+
+---
+
+**Word Count**: 1761
+**Next Chapter**: [Arrival]

@@ -212,3 +212,8 @@ Artillery roared. The siege began.
 > **[FORTRESS DEFENSE: COMMITTED]**  
 > **[4-MONTH COUNTDOWN: 119 DAYS, 23 HOURS REMAINING]**
 
+
+---
+
+**Word Count**: 1716
+**Next Chapter**: [The Siege Protocol]

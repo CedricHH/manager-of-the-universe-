@@ -233,3 +233,8 @@ He looked up, his eyes glowing with the cold purple light of the Dungeon Core.
 > **Win Probability (Lethal Force Authorized)**: 98%.
 > **Authorization**: PENDING...
 
+
+---
+
+**Word Count**: 1783
+**Next Chapter**: [The Boss Fight]

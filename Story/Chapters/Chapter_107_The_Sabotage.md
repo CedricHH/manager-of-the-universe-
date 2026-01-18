@@ -322,3 +322,8 @@ And in eight days, he'd decide if Terra-Solvaris was ready for the same lesson.
 
 > **[BROKEN CROWN DEADLINE: 8 DAYS]**
 
+
+---
+
+**Word Count**: 1952
+**Next Chapter**: [The Substitution]

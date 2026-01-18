@@ -278,3 +278,8 @@ Dravik turned to Victor. "Eighteen hours. Can we prepare?"
 > **[REVOLUTIONARY VANGUARD: 18 HOURS TO CONTACT]**
 > **[COALITION STRENGTH: 5,933 vs 5,000 - MARGINAL ADVANTAGE]**
 > **[MISSION CLOCK: 118 DAYS, 15 HOURS REMAINING]**
+
+---
+
+**Word Count**: 2070
+**Next Chapter**: [The Vanguard]

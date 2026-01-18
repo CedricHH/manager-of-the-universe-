@@ -168,3 +168,8 @@ He smiled. It wasn't a happy smile. It was the smile of a man who had spent his 
 > **Note**: Bureaucracy is just combat with better filing systems.
 
 **END OF CHAPTER 49**
+
+---
+
+**Word Count**: 1523
+**Next Chapter**: [The Audit]

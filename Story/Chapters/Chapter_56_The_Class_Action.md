@@ -242,3 +242,8 @@ Victor stared at the red text floating in his vision.
 
 "Cancel the goblin coffee break. We have an audit incoming."
 
+
+---
+
+**Word Count**: 2094
+**Next Chapter**: [The Safety Audit]

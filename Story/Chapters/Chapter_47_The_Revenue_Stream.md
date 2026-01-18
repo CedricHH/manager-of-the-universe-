@@ -228,3 +228,8 @@ Gareth reached for his coin purse.
 > Harpoon Prepared.
 
 **END OF CHAPTER 47**
+
+---
+
+**Word Count**: 1979
+**Next Chapter**: [The Whale]

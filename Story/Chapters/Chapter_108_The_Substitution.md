@@ -349,3 +349,8 @@ The message was clear: Adapt or dissolve.
 He had forty-eight hours to decide if the Merchant Guild survived as partner or memory.
 
 > **[BROKEN CROWN DEADLINE: 7 DAYS]**
+
+---
+
+**Word Count**: 2059
+**Next Chapter**: [The Negotiation]

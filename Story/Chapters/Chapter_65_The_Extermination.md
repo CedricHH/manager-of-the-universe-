@@ -335,3 +335,8 @@ And in a vault beneath the city, Director Malcom closed a ledger and opened a di
 The game had changed.
 
 ---
+
+---
+
+**Word Count**: 1781
+**Next Chapter**: [The Auditor]

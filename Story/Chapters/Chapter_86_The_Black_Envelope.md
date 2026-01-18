@@ -263,3 +263,8 @@ He underlined the last one.
 "Sniv," he whispered to the empty carriage. "I hope you ironed my best suit. We’re going public."
 
 ***
+
+---
+
+**Word Count**: 1993
+**Next Chapter**: [The Exit Strategy]

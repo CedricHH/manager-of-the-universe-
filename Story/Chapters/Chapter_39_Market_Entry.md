@@ -245,3 +245,8 @@ And he knew exactly how it ended.
 ---
 
 **END OF CHAPTER 39**
+
+---
+
+**Word Count**: 1588
+**Next Chapter**: [Guild Leverage]

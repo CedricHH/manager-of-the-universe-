@@ -468,3 +468,8 @@ And in that vast, cold intelligence...
 The Consortium had chosen well.
 
 ***
+
+---
+
+**Word Count**: 1577
+**Next Chapter**: [The Phenomenon]

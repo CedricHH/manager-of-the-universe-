@@ -169,3 +169,8 @@ Sniv didn't understand. Neither did Victor, entirely.
 But somewhere deep, beneath the restructurer's cold logic, a dead man remembered photographs of children.
 
 And refused to add to the count.
+
+---
+
+**Word Count**: 1665
+**Next Chapter**: [The Negotiation]

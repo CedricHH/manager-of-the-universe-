@@ -355,3 +355,8 @@ Because Lysander had thirty-eight years of institutional relationships.
 But Victor had something Lysander didn't:
 
 The ability to turn twelve hours into a political earthquake.
+
+---
+
+**Word Count**: 2276
+**Next Chapter**: [The Council]

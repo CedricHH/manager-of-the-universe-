@@ -172,3 +172,8 @@ Victor Kaine had done the math before. He'd do it again.
 ---
 
 **END OF CHAPTER 53**
+
+---
+
+**Word Count**: 1501
+**Next Chapter**: [The Selfless Act Part 3]

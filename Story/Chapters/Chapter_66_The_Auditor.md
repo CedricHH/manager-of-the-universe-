@@ -341,3 +341,8 @@ Victor waved at one.
 "Tell your boss I'm waiting for his answer."
 
 ---
+
+---
+
+**Word Count**: 1798
+**Next Chapter**: [The Counteroffer]

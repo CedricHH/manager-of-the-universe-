@@ -421,3 +421,8 @@ He'd been outplayed.
 Again.
 
 ---
+
+---
+
+**Word Count**: 1742
+**Next Chapter**: [The Partnership]

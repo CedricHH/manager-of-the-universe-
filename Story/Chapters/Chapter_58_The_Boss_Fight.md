@@ -343,3 +343,8 @@ He looked at Vorne.
 "And you're signing that document. Now."
 
 ---
+
+---
+
+**Word Count**: 1504
+**Next Chapter**: [The Settlement]

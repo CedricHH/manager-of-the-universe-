@@ -254,3 +254,8 @@ Let the audit begin.
 ---
 
 **END OF CHAPTER 35**
+
+---
+
+**Word Count**: 1759
+**Next Chapter**: [Sterling Manor]

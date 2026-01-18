@@ -198,3 +198,8 @@ Behind Victor, Nova pulsed—a deep, interested blue.
 > **Note**: House Sterling controls territory. Territory is infrastructure. Infrastructure is *everything*.
 
 **END OF CHAPTER 48**
+
+---
+
+**Word Count**: 1701
+**Next Chapter**: [The Response]

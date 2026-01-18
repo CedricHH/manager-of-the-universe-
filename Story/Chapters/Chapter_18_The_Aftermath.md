@@ -216,3 +216,8 @@ They were back.
 And this time, they weren't going to be scared off by a roar.
 
 "Wake the others," Victor said, the ice returning to his voice. "The inspection team is here."
+
+---
+
+**Word Count**: 1583
+**Next Chapter**: [The Aftermath Part 2]

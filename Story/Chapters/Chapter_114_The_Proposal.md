@@ -281,3 +281,8 @@ Victor activated ARMI. Priority one: Merchant Coalition contact protocols.
 > **[REVOLUTIONARY ULTIMATUM: 48 HOURS]**
 > **[COALITION BUILDING: INITIATED]**
 > **[MISSION CLOCK: 118 DAYS, 17 HOURS REMAINING]**
+
+---
+
+**Word Count**: 2156
+**Next Chapter**: [The Delegation]

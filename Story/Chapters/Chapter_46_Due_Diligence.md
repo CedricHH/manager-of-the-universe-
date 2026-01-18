@@ -275,3 +275,8 @@ And slowly, very slowly, he slipped the document into his own robe pocket. Not t
 ***
 
 **END OF CHAPTER 46**
+
+---
+
+**Word Count**: 1918
+**Next Chapter**: [The Revenue Stream]

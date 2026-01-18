@@ -133,3 +133,8 @@ The cliffhanger hung heavy in the smoke-filled air: Victor didn't just want to s
 > Status: 100% COMPLETE | Targets: Church Tithe Streams
 
 Victor closed the book on the day's operations. The light of the world outside was fading, but the blue glow of his dashboard was just getting started. 
+
+---
+
+**Word Count**: 1752
+**Next Chapter**: [The Severance Package]

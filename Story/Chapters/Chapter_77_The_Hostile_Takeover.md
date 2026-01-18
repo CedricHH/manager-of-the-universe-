@@ -137,3 +137,8 @@ The cliffhanger hung in the air: the destruction of Victor’s franchise was not
 Victor Kaine closed the dashboard. The room went dark, leaving only the faint, ominous glow of the gold counter in the corner of the screen.
 
 It was already ticking upward.
+
+---
+
+**Word Count**: 1742
+**Next Chapter**: [Hostile Acquisition]

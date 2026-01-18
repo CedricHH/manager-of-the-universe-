@@ -275,3 +275,8 @@ Force ratio: 9:1. Unsurvivable.
 > **[MAIN REVOLUTIONARY ARMY: 25,000 TROOPS, ETA 36 HOURS]**
 > **[SURVIVAL PROBABILITY: 8% (DECLINING)]**
 > **[MISSION CLOCK: 118 DAYS, 9 HOURS REMAINING]**
+
+---
+
+**Word Count**: 1846
+**Next Chapter**: [TBD]

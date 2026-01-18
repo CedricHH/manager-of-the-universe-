@@ -172,6 +172,18 @@ Fifteen more gold changed hands.
 > Target (50% increase): 22.5 GP
 > Status: TARGET EXCEEDED (133% of baseline)
 
+> **[ARMI - MILESTONE ACHIEVED]**
+> Quest Progress: First Paying Customers
+> EXP Awarded: +400 (Business Milestone)
+> Total EXP: 2,285/2,250
+> STATUS: **LEVEL UP** (3 → 4)
+> Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
+
 Victor allowed himself a small smile.
 
 The proof was accumulating. And the party hadn't even reached the boss room yet.
+
+---
+
+**Word Count**: 1758
+**Next Chapter**: [The Partnership]

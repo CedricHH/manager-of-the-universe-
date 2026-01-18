@@ -314,3 +314,8 @@ And started brokering miracles.
 ---
 
 **Next Chapter:** [The Delivery]
+
+---
+
+**Word Count**: 1592
+**Next Chapter**: [The Delivery]

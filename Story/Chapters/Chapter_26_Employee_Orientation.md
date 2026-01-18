@@ -208,3 +208,8 @@ Victor dismissed the warning with a thought.
 He'd never been cautious when opportunity presented itself.
 
 And the opportunity before him now was worth any risk.
+
+---
+
+**Word Count**: 1924
+**Next Chapter**: [The Core Awakening]

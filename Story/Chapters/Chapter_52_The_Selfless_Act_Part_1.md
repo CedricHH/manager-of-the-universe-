@@ -195,3 +195,8 @@ And this time, when the risk paid off, he intended to be alive to see it.
 ---
 
 **END OF CHAPTER 52**
+
+---
+
+**Word Count**: 1688
+**Next Chapter**: [The Selfless Act Part 2]

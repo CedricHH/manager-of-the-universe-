@@ -308,3 +308,8 @@ And was Victor ready to risk death for advancement?
 The calculations weren't simple anymore.
 
 > **[BROKEN CROWN DEADLINE: 6 DAYS]**
+
+---
+
+**Word Count**: 2013
+**Next Chapter**: [The Decision]

@@ -251,3 +251,8 @@ And Victor intended to win it.
 ---
 
 **END OF CHAPTER 37**
+
+---
+
+**Word Count**: 1585
+**Next Chapter**: [The Contact]

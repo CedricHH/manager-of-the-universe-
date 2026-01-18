@@ -652,3 +652,8 @@ And Victor Kaine—formerly dead corporate analyst—was at the center of it all
 **Arc Complete.**
 
 ***
+
+---
+
+**Word Count**: 1465
+**Next Chapter**: [The Franchise Model]

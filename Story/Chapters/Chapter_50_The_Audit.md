@@ -190,3 +190,8 @@ Sniv's eyes went wide. "We go... UP?"
 > **Victor Kaine's Assessment**: Kings are just customers with bigger budgets.
 
 **END OF CHAPTER 50**
+
+---
+
+**Word Count**: 1524
+**Next Chapter**: [The Crown Asset]

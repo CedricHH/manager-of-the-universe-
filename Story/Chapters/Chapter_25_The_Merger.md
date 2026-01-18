@@ -223,3 +223,8 @@ And somewhere, in the cold mathematics of cosmic bureaucracy, a number was adjus
 **END OF ACT 1.2: THE MINOTAUR QUESTION**
 
 **NEXT: ACT 1.3 - CONSOLIDATION**
+
+---
+
+**Word Count**: 1505
+**Next Chapter**: [Employee Orientation]

@@ -435,3 +435,8 @@ She'd ask Victor tomorrow.
 This was the most fun she'd had in decades.
 
 ---
+
+---
+
+**Word Count**: 1747
+**Next Chapter**: [The Launch]

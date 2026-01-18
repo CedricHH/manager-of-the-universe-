@@ -446,3 +446,8 @@ The goblin appeared. "Yes, Boss?"
 ---
 
 **Next Arc:** [Church Partnership / Consortium Sprint]
+
+---
+
+**Word Count**: 1766
+**Next Chapter**: [The Cathedral]

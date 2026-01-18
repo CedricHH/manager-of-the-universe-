@@ -293,3 +293,8 @@ And he always kept receipts.
 ---
 
 **END OF CHAPTER 40**
+
+---
+
+**Word Count**: 2130
+**Next Chapter**: [Open for Business]

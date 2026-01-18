@@ -570,3 +570,8 @@ He glanced at the Ember Trials leaderboard, still glowing on the wall.
 "No one shuts down a brand this profitable."
 
 ***
+
+---
+
+**Word Count**: 1896
+**Next Chapter**: [The Preparation]

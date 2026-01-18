@@ -317,3 +317,8 @@ Victor leaned back.
 ---
 
 **Next Chapter:** [The Endgame]
+
+---
+
+**Word Count**: 1523
+**Next Chapter**: [The Million]

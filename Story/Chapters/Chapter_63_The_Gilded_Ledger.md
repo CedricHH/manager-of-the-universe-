@@ -153,3 +153,8 @@ He sealed the letter.
 
 **Status**: Funded. But the walls are closing in.
 
+
+---
+
+**Word Count**: 1137
+**Next Chapter**: [The Capital Injection]

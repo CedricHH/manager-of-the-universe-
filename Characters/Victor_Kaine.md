@@ -180,6 +180,31 @@ Victor erwachte im Dungeon—nicht gerettet, sondern **rekrutiert**.
 | 48 | Quest: The Whale | +800 | 7,085 | 6 |
 | 49 | No combat (The Response) | 0 | 7,085 | 6 |
 | 50 | Quest: Successful Audit | +1,000 | 8,085 | 6 |
+| 51 | Quest: Crown Asset | +700 | 8,785 | **7** |
+| 52-55 | Memory Integration Arc | 0 | 8,785 | 7 |
+| 56 | Quest: Class Action Victory | +1,500 | 10,285 | 7 |
+| 57 | No combat (Safety Audit) | 0 | 10,285 | 7 |
+| 58 | Boss Fight: Asterion Exhibition | +1,200 | 11,485 | 7 |
+| 59 | Quest: Settlement | +600 | 12,085 | 7 |
+| 60 | No combat (VIP Experience) | 0 | 12,085 | 7 |
+| 61 | Quest: Divine Audit Complete | +600 | 12,685 | 7 |
+| 62 | No combat (Compliance Officer) | 0 | 12,685 | 7 |
+| 63 | Quest: Gilded Ledger | +1,000 | 13,685 | **8** |
+| 64 | Quest: Capital Injection | +800 | 14,485 | 8 |
+| 65-67 | Bank Crisis Arc | +1,500 | 15,985 | 8 |
+| 68 | Quest: Partnership Deal | +1,000 | 16,985 | 8 |
+| 69 | No combat (Volcano) | 0 | 16,985 | 8 |
+| 70 | Quest: Stress Test | +800 | 17,785 | **9** |
+| 71 | Quest: Tournament Launch | +1,500 | 19,285 | 9 |
+| 72-73 | Assassination Attempt  | +2,000 | 21,285 | 9 |
+| 74-75 | Exhibition Success | +1,500 | 22,785 | 9 |
+| 76 | Quest: Franchise Model | +1,200 | 23,985 | 9 |
+| 77-79 | Hostile Takeover Arc | +2,500 | 26,485 | **10** |
+| 80-85 | Imperial Expansion | +5,000 | 31,485 | 10 |
+| 86-89 | Exit Strategy Arc | +3,000 | 34,485 | 10 |
+| 90-95 | Arc Finale Prep | +4,000 | 38,485 | 10 |
+| 96-99 | Church Conflict | +8,000 | 46,485 | **11-13** |
+| 100 | Quest: The Million (Arc Complete) | +54,000 | 100,485 | **14** |
 
 | **HP** | 100% | Unterdurchschnittlich für Level |
 | **MP** | 92% | Erhöht durch Exchange-Mastery |

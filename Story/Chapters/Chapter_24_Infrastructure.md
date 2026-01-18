@@ -163,3 +163,8 @@ Victor looked at the crystal. The crystal looked back.
 The Core pulsed brighter.
 
 And for the first time in eight hundred years, the dungeon began to wake up.
+
+---
+
+**Word Count**: 1532
+**Next Chapter**: [The Merger]

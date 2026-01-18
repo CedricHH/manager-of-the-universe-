@@ -213,3 +213,8 @@ Time to see how Oakhaven responded to proper management.
 ---
 
 **END OF CHAPTER 38**
+
+---
+
+**Word Count**: 1728
+**Next Chapter**: [Market Entry]

@@ -446,3 +446,8 @@ One evaluator with a superiority complex?
 That was just another negotiation.
 
 And Victor Kaine didn't lose negotiations.
+
+---
+
+**Word Count**: 2372
+**Next Chapter**: [The Liaison]

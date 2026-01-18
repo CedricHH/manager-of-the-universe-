@@ -195,3 +195,8 @@ Victor stepped into the shadows.
 > **[ARMI]**
 > **Status:** Combat Mode Engaged.
 > **Objective:** Survive.
+
+---
+
+**Word Count**: 1575
+**Next Chapter**: [The Aftermath Part 3]

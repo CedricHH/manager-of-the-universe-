@@ -340,3 +340,8 @@ This was just the beginning.
 ---
 
 **Next Arc:** The Expansion (Chapters 101+)
+
+---
+
+**Word Count**: 1509
+**Next Chapter**: [The Expansion Plan]

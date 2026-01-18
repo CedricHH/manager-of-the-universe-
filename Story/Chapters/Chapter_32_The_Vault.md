@@ -287,3 +287,8 @@ Victor's smile was cold and sharp.
 ---
 
 **END OF CHAPTER 32**
+
+---
+
+**Word Count**: 1841
+**Next Chapter**: [The Crystal Archive]

@@ -207,3 +207,8 @@ Aurelia didn't move. She stared at Victor.
 
 **Status**: The VIP has arrived. And he brought the Inquisition.
 
+
+---
+
+**Word Count**: 1527
+**Next Chapter**: [The VIP Experience]

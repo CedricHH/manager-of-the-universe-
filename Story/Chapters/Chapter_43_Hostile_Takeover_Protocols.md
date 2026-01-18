@@ -212,3 +212,8 @@ The lights in the dungeon flickered from soft blue to combat red.
 ***
 
 **END OF CHAPTER 43**
+
+---
+
+**Word Count**: 1541
+**Next Chapter**: [Liquidation Event]

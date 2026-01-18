@@ -434,3 +434,8 @@ He pulled up the employee roster.
 "...then my **employees** will."
 
  ***
+
+---
+
+**Word Count**: 1431
+**Next Chapter**: [The Exhibition]

@@ -259,3 +259,8 @@ Victor adjusted his cuffs.
 ***
 
 **END OF CHAPTER 41**
+
+---
+
+**Word Count**: 1799
+**Next Chapter**: [The Spire]

@@ -176,3 +176,8 @@ He had a Royal License. And a Divine Death Mark.
 
 **Status**: Still in business.
 
+
+---
+
+**Word Count**: 1317
+**Next Chapter**: [The Compliance Officer]
