@@ -14,11 +14,11 @@ Sniv, who was currently organizing a pile of rocks near the entrance (part of th
 
 "Go ahead, Sniv. Tell me the bad news."
 
-"Goblins ready. Twenty-six. Sharp sticks. Four iron swords. One shield." Sniv held up his fingers, counting through them. "Food... okay for two days. Gold... three coins from scared humans yesterday."
+"Goblins ready. Twenty-six. Sharp sticks. Four iron swords. One shield." Sniv held up his fingers, counting through them. "Food... okay for two days. Copper... twelve coins from scared humans yesterday."
 
-"Net worth: Fifty gold pieces, maybe," Victor sighed. "And that's if we liquidate everything, including the furniture."
+"Net worth: Five gold pieces, maybe," Victor sighed. "And that's if we liquidate everything, including the furniture."
 
-It wasn't enough. Asterion didn't want fifty gold. He wanted *tribute*. He wanted something that proved this Dungeon Core was worth keeping active.
+It wasn't enough. Asterion didn't want five gold. He wanted *tribute*. He wanted something that proved this Dungeon Core was worth keeping active.
 
 Victor looked at the entrance. The trap was set. The bait—Marcus’s glowing sword—was polished and pulsating with magical allure on Floor Three. The actors (goblins) were in position. The lighting was perfect.
 
@@ -237,7 +237,7 @@ The Silver Lance party froze. Their professional veneer cracked instantly.
 
 "Above us," Kaelie whispered. She was pale. "Way above us. That's... that's a Boss. A real Boss."
 
-Technically, Asterion was a Floor Boss, but to a Level 12 party, the distinction was academic.
+Technically, Asterion was a Dungeon Boss, but to a Level 12 party, the distinction was academic.
 
 **"I SMELL..."**
 
@@ -294,7 +294,7 @@ Asterion looked up. The giant bull-man narrowed his eyes.
 
 Victor dropped from the vent, landing in a crouch (a devastatingly poor imitation of Labor-15's earlier move). He stood up, dusted off his knees, and walked toward the Minotaur.
 
-He was unarmed. He was Level 1. He was a human in a world of monsters.
+He was unarmed. He was Level 2. He was a human in a world of monsters.
 
 But he was the Manager.
 
@@ -326,11 +326,11 @@ Asterion stared at him. For a long, agonizing minute, the monster didn't move. T
 
 He leaned down, his face inches from Victor's.
 
-**"Talk, Manager. Talk fast. Because right now, you look very... tender."**
+**"Talk, Manager. But not here. My floor. My rules. If you want a deal, you must descend."**
 
-Victor swallowed hard.
+Victor swallowed hard. He watched as the massive Minotaur turned and vanished back into the dark stairwell leading to the depths.
 
-The pitch meeting from hell had officially begun.
+The pitch meeting from hell had officially begun. Victor just had to walk into the fire.
 
 ***
 

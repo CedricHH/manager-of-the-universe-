@@ -94,38 +94,6 @@ The Iron Wolves spent fifteen gold on premium items. The staff went to Mira. A s
 
 ---
 
-*The choice came on a Tuesday.*
-
-*Victor sat in his apartment with everything spread before him. Evidence. Names. Dates. Board meeting recordings his private investigator had obtained through methods Victor didn't ask about.*
-
-*Enough to destroy them. The executives who had blamed him. The directors who had covered up. The shareholders who had looked away.*
-
-*He could sell this information. Blackmail them. Walk away with enough money to rebuild his career, his reputation, his life.*
-
-*Or...*
-
-*Victor compiled everything onto a single USB drive.*
-
-*Then he made copies. Sent them to three different journalists at three different outlets. The families' lawyers. A regulatory contact in Geneva who owed him a favor and hated corporate corruption more than he valued self-preservation.*
-
-*Anonymous. Untraceable. No profit for Victor Kaine.*
-
-*As he finished, his phone buzzed. Unknown number.*
-
-*"You could have sold this. Why didn't you?"*
-
-*Victor stared at the message. He didn't know the answer. Not really. The man who had built a career on cold calculation couldn't explain why he'd just thrown away millions in potential leverage.*
-
-*He typed back: "Ask me when I figure it out."*
-
-*The reply came immediately: "I will. -S"*
-
-*Sarah. She'd been watching. She'd sent the original email that started everything.*
-
-*Victor deleted the conversation. Copied the backup files to a secure server. And waited for the inevitable.*
-
----
-
 The Iron Wolves departed through the main entrance.
 
 Mira paused at the threshold. Turned back toward the dungeon interior.
@@ -173,6 +141,7 @@ A long pause. Ancient calculations running through even more ancient systems.
 > Administrator: Victor Kaine (Majority Shareholder)
 > Operating Partner: Core-7749
 > New Functions Unlocked:
+>
 > - Advanced Monster Spawning (Tier 2)
 > - Defensive Architecture Modification
 > - Revenue Tracking Dashboard
@@ -202,8 +171,8 @@ In the walls themselves, the sound of clockwork—or something like it—began t
 Nova’s consciousness expanded, no longer a tired ghost in a decaying shell, but a living operating system.
 
 > **[CORE-NOVA]**
-> DIAGNOSTICS COMPLETE. 
-> SYSTEM INTEGRITY: 100%. 
+> DIAGNOSTICS COMPLETE.
+> SYSTEM INTEGRITY: 100%.
 > REVENUE STREAMS: ESTABLISHED.
 > PHASE 3 OBJECTIVE: MARKET SATURATION.
 
@@ -212,8 +181,8 @@ Victor watched the data-streams flood his ARMI interface. It was more than he’
 "Market saturation is the goal," Victor agreed, his eyes reflecting the Core's light. "But first, we need to address our supply chain. We need a forge. We need an alchemist. And we need a recruitment strategy for the local goblins that doesn't involve hitting them with clubs."
 
 > **[CORE-NOVA]**
-> AGREED. 
-> DEVELOPING HR PROTOCOLS. 
+> AGREED.
+> DEVELOPING HR PROTOCOLS.
 > SYNERGY ATTAINED.
 
 The partnership was official.
@@ -226,5 +195,5 @@ And somewhere in the cosmic ledgers of the Galactic Audit Consortium, an entry w
 
 ---
 
-**Word Count**: 1803
+**Word Count**: 1581
 **Next Chapter**: [Dungeon 2.0]

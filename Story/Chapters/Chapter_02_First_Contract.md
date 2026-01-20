@@ -72,7 +72,7 @@ This was worth more than a week of hunting. This was the kind of treasure that p
 
 And the human had just... given it away?
 
-"That's your signing bonus," Victor said. "There are four more. You want them? Then we talk. Kill me, and you split one potion fourteen ways. Work for me, and I'll show you where to find more."
+"That's your signing bonus," Victor said. "There are three more. You want them? Then we talk. Kill me, and you split one potion fourteen ways. Work for me, and I'll show you where to find more."
 
 The mathematics were simple enough for even goblin minds. One potion divided by fourteen was almost nothing. Employment with a creature who handed out treasures was... interesting.
 
@@ -104,6 +104,7 @@ The leader snarled. This was betrayal. This was weakness. This was—
 > HP: 8/12 (Malnutrition penalty)
 > Status: 72 hours from starvation
 > Skills:
+>
 > - Counting (Basic): Can track numbers up to 20
 > - Servility (Advanced): +50% compliance rate with authority figures
 > - Survival Instinct (Extreme): Will prioritize own survival over pack loyalty
@@ -135,7 +136,7 @@ After a long moment, he lowered his weapon. The others followed.
 
 Victor nodded. "Standard probationary period. Acceptable."
 
-He reached into the bag and pulled out the remaining four health potions, setting them on a flat stone with deliberate slow movements. "Distributed as per our agreement. Performance-based incentives will follow."
+He reached into the bag and pulled out three health potions, setting them on a flat stone with deliberate slow movements. "Distributed as per our agreement. Performance-based incentives will follow. The final one stays with management—for now."
 
 The goblins stared at the glowing glass, their primitive hierarchy momentarily shattered by the sudden influx of wealth. For them, this wasn't just medicine; it was capital. Victor watched the shift in their eyes, calculating the exact amount of gratitude needed to prevent a knife in the back.
 

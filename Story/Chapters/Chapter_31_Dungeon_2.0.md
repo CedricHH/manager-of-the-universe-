@@ -142,7 +142,8 @@ Sniv stared.
 
 "Boss... give goblins... vacation?"
 
-"I'm giving them *scheduled maintenance*." Victor returned to his desk. "Machines break if you run them constantly. So do employees. A goblin at sixty percent efficiency because he's exhausted is worse than a goblin at full capacity five days out of six. It's not kindness, Sniv. It's logistics."
+"I'm giving them *scheduled maintenance*." Victor returned to his desk. "Machines break if you run them constantly. So do employees. A goblin at sixty percent efficiency because he's exhausted is worse than a goblin at full capacity six days out of sev0
+en. It's not kindness, Sniv. It's logistics."
 
 The goblin's eyes shimmered—something Victor chose not to examine too closely.
 

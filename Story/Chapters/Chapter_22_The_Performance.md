@@ -92,7 +92,7 @@ Alara was already moving, golden light gathering for another smite. But Asterion
 
 He charged.
 
-Not Alara—Gareth. The tank tried to intercept, tried to body-block, tried to be the wall he was supposed to be. Asterion hit him like a corporation hitting a small business. Gareth went down, his sword clattering away across the sand.
+"Not Alara!" Gareth, the tank, tried to intercept, tried to body-block, tried to be the wall he was supposed to be. Asterion hit him like a corporation hitting a small business. Gareth went down, his sword clattering away across the sand.
 
 Now Alara was exposed. No tank. No support. Just a paladin, a downed rogue, an exhausted mage, and a Berserker who was only now staggering back to his feet.
 
@@ -122,9 +122,9 @@ But he wasn't going to let them all die, either.
 
 Dead adventurers were just corpses. Corpses had limited utility. But *survivors*—survivors who had witnessed a Level 20 boss fight and lived to tell the tale—survivors were *marketing*.
 
-Victor's mind raced through the possibilities. If the Silver Lance died here, no one would know. The dungeon would remain obscure, unmarked, just another death trap in a world full of them. 
+Victor's mind raced through the possibilities. If the Silver Lance died here, no one would know. The dungeon would remain obscure, unmarked, just another death trap in a world full of them.
 
-But if they *survived*—if they limped back to the Guild with stories of horror and near-death at the hands of a Level 20 boss—that was advertising. 
+But if they *survived*—if they limped back to the Guild with stories of horror and near-death at the hands of a Level 20 boss—that was advertising.
 
 Free advertising. The kind money couldn't buy.
 
@@ -172,7 +172,7 @@ Forty-seven seconds passed.
 
 "Fine," Gareth said. "Give her the potion. Then we talk."
 
-Victor smiled. It wasn't a pleasant expression on goblin features.
+Victor smiled. It wasn't a pleasant expression.
 
 "I believe we have a deal."
 
@@ -182,16 +182,6 @@ Victor smiled. It wasn't a pleasant expression on goblin features.
 > Return: Strategic Intelligence (Adventurer's Guild)
 > Profit Margin: UNDEFINED (Pending Intel Quality)
 > Status: PROCESSING
-
-He tossed the potion to Finn. The rogue caught it, popped the cork, and poured it down Lysa's throat with hands that shook only slightly.
-
-Color returned to her cheeks. The blood-foam stopped. She would live.
-
-And Victor would learn.
-
-Behind them, in the arena, Asterion watched. The Minotaur's expression was unreadable.
-
-But Victor thought he saw something that might have been approval.
 
 ---
 

@@ -2,9 +2,9 @@
 
 "You'd let her die?"
 
-Gareth's voice was raw with fury and fear—a volatile combination that Victor recognized from a thousand emergency board meetings. The tank's hand trembled on his broken sword, and Victor could see the calculation happening behind his eyes: kill the goblin now, or save the teammate dying in Finn's arms.
+Gareth's voice was raw with fury and fear—a volatile combination that Victor recognized from a thousand emergency board meetings. The tank's hand trembled on his broken sword, and Victor could see the calculation happening behind his eyes: kill the human now, or save the teammate dying in Finn's arms.
 
-Victor didn't move. Didn't flinch. He held the healing potion in his clawed fingers like a banker holding a mortgage deed.
+Victor didn't move. Didn't flinch. He held the healing potion in his fingers like a banker holding a mortgage deed.
 
 "I'd prefer she lives," Victor said, his voice perfectly level. "Living customers provide repeat business. But I have costs to consider."
 
@@ -48,7 +48,7 @@ A broken party. A defeated expedition.
 
 Gareth stopped at the archway. He turned, and the look in his eyes promised violence.
 
-"This isn't over, goblin," he said. "The Guild will hear about this. About you. About your pet Minotaur. They'll send someone who can actually kill you."
+"This isn't over, manager," he said. "The Guild will hear about this. About you. About your pet Minotaur. They'll send someone who can actually kill you."
 
 Victor's smile was thin, sharp, utterly without warmth.
 
@@ -89,10 +89,6 @@ A sound emerged from Asterion's chest—a deep, grinding rumble that Victor need
 > Status: Provisional Fulfillment (1/1 Tribute Delivered)
 > Asterion Disposition: NEUTRAL → FAVORABLE
 > Note: Full contract completion requires ongoing tribute delivery.
-
-"Favorable," Asterion repeated, tasting the word. "Strange to be judged by a number."
-
-"Everything is a number," Victor said. "That's the first lesson of management."
 
 ---
 
@@ -188,6 +184,7 @@ And Victor was just getting started.
 
 > **[ARMI]**
 > Organizational Update:
+>
 > - Workforce: 26 Goblins (Labor/Security)
 > - General: Asterion (Boss Monster)
 > - R&D Head: Zip (Trap Specialist)

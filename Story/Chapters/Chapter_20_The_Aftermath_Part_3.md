@@ -23,7 +23,7 @@ She scanned the corridor, her eyes glowing with a detection skill.
 
 "Or it's toying with us," said Kaelie, the Mage. She ignited a fireball in her palm, illuminating the gloom. "I don't like it. Traps usually try to kill you. These are just trying to... annoy us."
 
-Victor leaned back on his throne, watching the chaos unfold through the scrying crystal. Every stumble, every curse, every wasted healing spell was a small victory.
+Victor leaned back on his throne, watching the chaos unfold through the scrying crystal Asterion had tossed him earlier. Every stumble, every curse, every wasted healing spell was a small victory.
 "Annoyance causes mistakes," he whispered to himself, the old mantra. "Mistakes cause opportunities."
 
 But would it be enough?
@@ -72,7 +72,6 @@ And Asterion had specifically asked for a *fight*. Not a slaughter.
 
 Victor closed his eyes, the weight of the decision pressing down on him.
 The final fragment of the memory was waiting. The last file on the drive. The one he had been avoiding for months.
-
 
 ***
 
@@ -158,7 +157,6 @@ Then, a voice. Not a human voice. A frequency. Something that bypassed his ears 
 > **CALCULATING...**
 > **DEPLOYING TO PRIORITY SECTOR: TERRA-INSOLVIA.**
 > **OBJECTIVE: FIX THE SYSTEM.**
-
 
 ***
 

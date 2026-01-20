@@ -16,7 +16,7 @@ Six weapons. Zero cover. Eighteen feet of exposed corridor. One human in a torn 
 
 Victor's internal calculator ran the numbers with cold precision. Combat survival probability: 0%. Negotiation survival probability: 47%. Those were workable odds.
 
-"I'm going to raise my hands now," Victor announced, doing exactly that. His clawed fingers spread wide, showing empty palms. "This is not a threat display. This is basic customer service."
+"I'm going to raise my hands now," Victor announced, doing exactly that. His fingers spread wide, showing empty palms. "This is not a threat display. This is basic customer service."
 
 "Customer service?" Alara's voice was sharp, suspicious. Her detection skills were probably screaming at her across multiple threat categories. He was a monster. His mana signature was corrupted dungeon-born essence. Every instinct she had spent fifteen levels developing said 'kill on sight.'
 
@@ -68,8 +68,7 @@ He let that sink in.
 
 "Fourteen percent is not zero," Gareth said. His voice was steady, but Victor caught the slight elevation in pitch. Stress response.
 
-"Fourteen percent assumes the boss fights fairly." Victor's lipless mouth curved into something that might have been a smile. Might have been a threat display. Hard to tell with his facial structure.
- "Asterion does not fight fairly. He fights efficiently. There's a significant difference."
+"Fourteen percent assumes the boss fights fairly." Victor's mouth curved into something that might have been a smile. "Asterion does not fight fairly. He fights efficiently. There's a significant difference."
 
 "So what?" Bron slammed his hammer against his palm, the impact echoing off stone walls. "We fight monster, monster dies. Simple. That's what we do."
 
@@ -86,7 +85,7 @@ He took a step forward. Just one. Measured. Non-threatening. But pointedly close
 > Note: Neither option is favorable. Both options serve operator interests.
 > Tip: Present with confidence. Hesitation reduces efficacy by 34%.
 
-"Option A," Victor said, raising one clawed finger. "You fight me. Twenty-six goblins under my command. A maze of traps I personally designed. Acid pits. Sleep darts. That very amusing mud trap on Floor Three—you met Finn's dignity, I believe. You win—of course you win, you're overleveled for this floor—but you arrive at the boss room exhausted. Spell slots depleted. Potions consumed. Health at sixty percent. Most importantly, Alara will have burned through her cleansing abilities dealing with my poison array. Survival probability against Asterion drops to eight percent."
+"Option A," Victor said, raising one finger. "You fight me. Twenty-six goblins under my command. A maze of traps I personally designed. Acid pits. Sleep darts. That very amusing mud trap on Floor Three—you met Finn's dignity, I believe. You win—of course you win, you're overleveled for this floor—but you arrive at the boss room exhausted. Spell slots depleted. Potions consumed. Health at sixty percent. Most importantly, Alara will have burned through her cleansing abilities dealing with my poison array. Survival probability against Asterion drops to eight percent."
 
 He raised a second finger.
 

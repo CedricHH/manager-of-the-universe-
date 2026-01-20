@@ -118,9 +118,9 @@ Sniv blinked. "Liquid?"
 
 "Money, Sniv. Gold. Shinies. What do we have?"
 
-Sniv rummaged in a pouch at his belt and produced three copper coins and a button. "Goblins found these in old pit. Shiny."
+Sniv rummaged in a pouch at his belt and produced twelve copper coins and a button. "Goblins found these in old pit. Shiny."
 
-Victor stared at the pitiful pile. Three copper. Approximately zero purchasing power.
+Victor stared at the pitiful pile. Twelve copper. Approximately zero purchasing power.
 
 "We have thirty days," Victor said, mostly to himself. He looked at the map he had scratched into the dirt floor earlier. It showed the dungeon's location relative to the forest and the road. The road led to Oakhaven, the nearest hub of civilization.
 

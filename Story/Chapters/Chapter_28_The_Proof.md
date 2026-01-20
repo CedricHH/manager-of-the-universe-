@@ -25,6 +25,7 @@ Victor filed that away. Employee satisfaction metrics were always useful.
 He turned his attention to the approaching party, pulling up more detailed analysis through his connection with the Core.
 
 > **[ARMI - PARTY ANALYSIS: Iron Wolves (B-Rank)]**
+>
 > - Gareth (Leader): Swordsman, Level 14. Aggressive combat style. Arrogance metrics: High.
 > - Mira (Support): Mage, Level 13. Cautious, analytical. Threat assessment: Highest.
 > - Bron (Tank): Defender, Level 15. Professional, minimal engagement. Reliable.
@@ -43,74 +44,6 @@ Sniv nodded, understanding the gravity even if he didn't understand the mathemat
 Then Victor's eyes caught something in the display. Mira the Mage, studying the corridor before advancing. The way she analyzed the environment. The caution. The intelligence.
 
 *She reminds you of someone.*
-
-The thought came unbidden, unlocking something Victor had kept buried for months.
-
----
-
-*Six months after the betrayal.*
-
-*Victor's apartment was expensive. Luxury fixtures, floor-to-ceiling windows, a wine collection worth more than most people's annual salary. Penthouse living for a man who had clawed his way up from nothing—first in his family to graduate college, first to make partner, first to sit on an executive board.*
-
-*Now he sat in darkness with empty whiskey bottles scattered across the coffee table like casualties of a particularly brutal merger.*
-
-*He read articles on his tablet. The scandal that had destroyed him, packaged neatly for public consumption.*
-
-*"Victor Kaine acted alone in the supply chain irregularities. The board had no knowledge of his actions."*
-
-*The comments under each article were worse. People who had never met him, calling him monster. Calling him criminal. Calling for his imprisonment, his ruination, his death.*
-
-*And the board—the same executives who had approved every decision, who had signed every document, who had celebrated every efficiency gain—were quoted expressing their "deep shock and disappointment."*
-
-*Lies. All of it lies. But Victor was too tired to care. Too hollow to fight. He had been the scapegoat, and scapegoats didn't get redemption arcs.*
-
-*Until the email.*
-
-*Anonymous sender. Subject line: "You probably already know this."*
-
-*He almost deleted it. Assumed it was hate mail, more abuse from strangers who had decided he was evil. But something about the phrasing—clinical, detached, almost professional—made him pause.*
-
-*He opened it.*
-
-*Photographs. High resolution, timestamped, geotagged. A mine in eastern Congo. Workers—if you could call children as young as eight "workers"—covered in dust and sweat. Tunnels that looked like they could collapse at any moment. Armed guards standing watch.*
-
-*Invoices. Shipping manifests. Chain of custody documentation that led directly to factories in China, then to assembly plants in Southeast Asia, then to his company's supply network.*
-
-*The materials. The "Conflict-Free" minerals his efficiency protocols had processed millions of. The rare earth elements that made the company's flagship products possible.*
-
-*They weren't conflict-free. They never had been.*
-
-*Victor scrolled through the evidence, his stomach churning. Forty-seven children had died in that mine over a three-year period. Tunnel collapses. Toxic exposure. "Accidents" that were really just inevitabilities when you forced small bodies into spaces designed for tools.*
-
-*His optimizations had increased quotas. His pressure for better margins had pushed suppliers to cut labor costs—which meant cutting labor safety. His spreadsheets had treated "Rare Earth Metals: Input Cost" as a number to be minimized, never asking what that minimization cost in human terms.*
-
-*Victor stared at the screen.*
-
-*For the first time in his career, he asked the question he'd always avoided:*
-
-*"Where did the numbers come from?"*
-
-He had asked the question aloud, his voice echoing in the empty penthouse. It was a question that didn't have an answer in a spreadsheet. It was a question that required looking at the blood on the hands that typed the data.
-
-That night, he hadn't slept. He had watched the sun rise over Lake Michigan, the water a cold, indifferent grey. He had realized that he was a cog in a machine that was designed to swallow lives and spit out percentage points. And he’d realized that no one cared. Not the shareholders, not the board, not the customers. As long as the products worked and the dividends arrived, the cost of the "inputs" remained invisible.
-
-Victor had tried to leak the documents. He’d sent them to three major news outlets. He’d waited for the explosion, the justice, the reckoning.
-
-It never came.
-
-Two days later, his security clearance was revoked. A week later, he was out. The company’s legal department had buried the stories before they could hit the wire, citing "trade secrets" and "unsubstantiated claims by a disgruntled former executive."
-
-He’d been erased. Not because he was wrong, but because he was inconvenient. He was a bug in the code of global capital, and the system had automatically patched itself by removing him.
-
-The silence that followed was the heaviest thing Victor had ever known. It wasn't just the lack of noise; it was the total absence of purpose. He was a manager with no one to manage. A restructurer with nothing to build. A man whose entire identity was built on efficiency, who had become a waste of space.
-
-When the Consortium reached out, he hadn't even hesitated. He didn't care who they were or what they wanted. He just wanted to be part of a system again. Any system.
-
-Even one that calculated the value of souls.
-
----
-
-Victor blinked.
 
 The Core's display showed the Iron Wolves advancing through Floor 1. Twelve minutes had become eight. He'd lost time—lost in memories he'd thought he'd buried along with his old life.
 
@@ -172,5 +105,5 @@ And refused to add to the count.
 
 ---
 
-**Word Count**: 1665
+**Word Count**: 901
 **Next Chapter**: [The Negotiation]

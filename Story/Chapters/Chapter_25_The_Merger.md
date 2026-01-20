@@ -7,7 +7,7 @@ Not physically—the chamber remained exactly as it was, cold stone and floating
 > **[ARMI - DUNGEON MANAGEMENT CONSOLE]**
 > Syncing with Core-7749...
 > Status: INACTIVE (No Administrator Registered)
-> Mana Pool: 47/1000 (Critical Low)
+> Mana Pool: 34/1000 (Critical Low)
 > Functions: LOCKED (Awaiting Authorization)
 
 The crystal pulsed, and words appeared in Victor's consciousness—not sound, not text, but pure meaning transmitted directly into his thoughts.
@@ -31,7 +31,7 @@ A pause. The crystal dimmed slightly, processing.
 A list materialized in Victor's mind, crisp and bureaucratic. He recognized the format—it was almost exactly how ARMI structured its own requirements.
 
 > **Requirement 1**: Control of 50%+ of Dungeon Territory
-> Status: VERIFIED (Floors 1-3 controlled, Floor 4 allied, Floor 5 claimed)
+> Status: VERIFIED (Floors 1-3 controlled, Floor 4 allied)
 >
 > **Requirement 2**: Alliance with Primary Guardian
 > Status: VERIFIED (Asterion - Contract Active)
@@ -115,9 +115,19 @@ But Zip didn't fail.
 
 Forty-eight hours later, Zip presented his results.
 
-"Seventy-five GP worth!" The Kobold was practically vibrating with pride. "Mana dust, high quality! Rune fragments, yes yes! Some—" He held up a small vial of glowing blue liquid. "—pure essence. Very rare. Very valuable."
+"Done! Finished!" The Kobold was practically vibrating with pride. "Mana dust, high quality! Rune fragments, yes yes! And this—" He held up a small vial of glowing blue liquid. "—pure essence. Very rare. Very powerful."
 
-Victor added the numbers. Thirty-seven existing plus seventy-five new. One hundred and twelve gold pieces, total.
+Victor looked at the pile of shimmering dust and the glowing vial. A translucent blue window flickered into existence over the table, ARMI automatically cataloging the assets.
+
+> **[ASSET EVALUATION]**
+>
+> - High-Grade Mana Dust (x3): 45 GP
+> - Rune Fragments (Soul-Bound): 10 GP
+> - Heroic Essence (Vial): 20 GP
+>
+> **TOTAL LIQUIDATION VALUE: 75 GP**
+
+Victor did the math. Thirty-seven existing plus seventy-five new. One hundred and twelve gold pieces, total.
 
 Enough.
 
@@ -125,13 +135,13 @@ He returned to the Core chamber alone.
 
 The crystal pulsed as he approached, recognizing his presence. The connection they'd established still hummed in the back of his mind—a data stream waiting for input.
 
-"I have the capital," Victor announced. "One hundred gold pieces, ready for deposit."
+"I have the capital," Victor announced. "One hundred gold pieces worth, ready for deposit."
 
 **QUERY: CONFIRM ADMINISTRATIVE BOND PAYMENT?**
 
 "Confirmed."
 
-Victor fed the gold into the crystal. Not physically—the coins didn't move—but through ARMI, through the connection, the value transferred. The mana pool indicator ticked upward: 47... 92... 147.
+Victor fed the assets into the crystal. Not physically—he didn't toss the coins or the vials—but through ARMI, the value was stripped from the material. On the table, the mana dust and essence dissolved into light, and his coin pouch felt suddenly lighter. The Mana Pool indicator ticked upward: 47... 92... 147.
 
 The crystal blazed.
 
@@ -153,12 +163,14 @@ Victor considered for a moment. Then smiled.
 > STATUS: ACTIVE
 >
 > FUNCTIONS UNLOCKED:
+>
 > - Basic Monster Spawning (Tier 1)
 > - Trap Automation (Manual → Autonomous)
 > - Perimeter Alert System (Intrusion Detection)
 > - Floor Mapping (Administrator View)
 >
 > FUNCTIONS LOCKED (Insufficient Mana):
+>
 > - Advanced Spawning (Tier 2+)
 > - Core Expansion
 > - External Territory Claims
@@ -204,7 +216,7 @@ Victor's lips curled into a smile that didn't reach his eyes.
 
 "Let them watch," he said quietly. "Let them observe. Let them see what happens when you deploy a restructurer to a broken system."
 
-He turned to face the Core fully, and in its crystalline surface he saw his own reflection—a small, green figure in a tattered suit, standing in the heart of something ancient and powerful. Not a hero. Not a champion. Not a destined savior.
+He turned to face the Core fully, and in its crystalline surface he saw his own reflection—a tired man in a tattered suit, standing in the heart of something ancient and powerful. Not a hero. Not a champion. Not a destined savior.
 
 Just a manager. With a plan. And the ruthlessness to execute it.
 

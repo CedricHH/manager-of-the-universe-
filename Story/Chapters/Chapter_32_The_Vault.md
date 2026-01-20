@@ -4,59 +4,48 @@ Victor stared into the darkness beyond the seal.
 
 The voice had come from there. Quiet, amused, old enough to make the dungeon itself feel like a child's playhouse.
 
-Zip cowered behind Victor's leg. Nova's presence thrummed through the dungeon infrastructure—calculating, analyzing, finding nothing.
+Zip cowered behind Victor's leg, his kobold instincts screaming to retreat. Nova's presence thrummed through the dungeon infrastructure—calculating, analyzing, finding nothing.
 
 > **[ARMI - ANALYSIS]**
-> Seal Composition: Unknown Material (Pre-Consortium Era)
-> Estimated Age: 2,000+ years
-> Magical Signature: Non-Standard (Incompatible with Current Systems)
-> Warning: Contents Unknown. Risk Assessment: INSUFFICIENT DATA.
+> Seal Status: BREACHED
+> Spectral Signature: DETECTED (Pre-Consortium Origin)
+> Warning: Non-Standard Magical Interface. Risk Assessment: CRITICAL.
 
-Victor pulled up the mental ledger. Resource allocation problem.
+Victor didn't pull back. He watched the white light fade from the runes, replaced by the heavy, dry chill of a space that hadn't breathed in centuries.
 
-Option A: Leave it sealed. Unknown threat, unknown reward. Conservative play.
+"Finally," the voice repeated, echoing up the narrow stone passage. "I was beginning to think the Consortium had forgotten how to hire competent talent. Or perhaps they've just run out of candidates."
 
-Option B: Open it. Potential asset acquisition. High risk, potentially higher return.
+Victor processed the statement. *Consortium. Talent. Candidates.*
 
-He'd never built a career on Option A.
+The same corporate nomenclature he'd been using since he woke up in this world.
 
-"Nova," he said aloud. "What do you know about this structure?"
+"Nova," Victor said, his voice level despite the adrenaline. "What do you know about this chamber?"
 
-The Core's voice crackled through the stone, carrying something Victor had never heard from it before: uncertainty.
+The Core's response crackled through the stone, carrying a rare note of genuine static.
 
 > **[NOVA]**
 > NOTHING.
 > THIS STRUCTURE PREDATES MY CREATION BY 1,700 YEARS.
 > ARCHITECTURAL ANALYSIS SUGGESTS... I WAS BUILT ON TOP OF IT.
-> PRIOR ADMINISTRATORS NEVER DOCUMENTED ITS EXISTENCE.
+> ERROR: DATA CORRUPTION DETECTED IN FOUNDATIONAL LOGS.
 
-Victor processed this. A dungeon core that didn't know what lay beneath its own foundation. Either deliberate concealment or catastrophic information loss.
+Victor's eyes narrowed. A dungeon core with a redacted memory. A "business partner" with a blind spot.
 
-Neither option was comforting.
+Neither was comforting.
 
-"How much to open it?" Victor asked.
+"Boss-Boss..." Zip whispered. "Maybe we come back later? With more goblins? And maybe a bigger axe for Krog?"
 
-> **[ARMI - SEAL BREACH PROTOCOL]**
-> Mana Cost: 10 GP
-> Process: Channel energy into seal mechanism
-> Success Rate: 87%
-> Failure Consequence: Seal reinforces; permanent lockout
+"The ROI on waiting is negative," Victor said. "We have an open door and a potentially high-value asset inside. Every minute we wait is a minute the market can shift."
 
-Ten gold. Expensive, but manageable. 40 GP reserve minus 10 left 30—tight but sustainable.
+He stepped forward, crossing the threshold of the seal.
 
-Victor placed his palm against the cold stone.
+"Asterion—you're with me. Zip, stay close. If something goes wrong, run. I'm not paying for your replacement if you get liquidated by an ancient ghost."
 
-"Deduct ten GP. Execute breach."
+The Minotaur materialized from the shadows, his massive axe resting across his shoulders. "Understood. Though I suspect if the voice in there wanted us dead, we wouldn't have made it through the door."
 
-The dungeon shuddered.
+"Logic," Victor noted. "I like it."
 
-Light erupted from the runes—white, blinding, ancient. Victor's ARMI interface flooded with warnings, data streams he couldn't parse fast enough. The seal didn't crack—it *dissolved*, stone turning to fine ash that drifted to the floor like snow.
-
-A passage opened into perfect darkness.
-
-Victor didn't move. Waiting. Calculating.
-
-No immediate attack. No magical backlash. Just cold air rushing out—not the damp chill of dungeon depths, but something older. Drier. Like opening a tomb that had been sealed before kingdoms fell.
+They descended.
 
 "Boss-Boss..." Zip whispered. "Maybe we come back later? With more goblins?"
 

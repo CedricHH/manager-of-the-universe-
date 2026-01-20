@@ -185,7 +185,7 @@ Sniv looked heartbroken. "But... Boss. Safe dungeon is... is bad dungeon! Core w
 Victor stood up. He walked over to the goblin and placed a hand on his shoulder.
 "Dead adventurers don't talk, Sniv. They don't go back to town and tell their friends about the crazy dungeon with the mud pits and the flying logs. They just rot."
 
-"We need stories," Victor lied. "We need rumors. injured adventurers are better marketing than dead ones."
+"We need stories," Victor lied. "We need rumors. Injured adventurers are better marketing than dead ones."
 
 It was a lie. A beautiful, corporate lie.
 The math worked. It made sense. It justified the decision.

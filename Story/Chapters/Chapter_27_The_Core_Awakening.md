@@ -32,7 +32,7 @@ He took a deep breath, adjusted his tie—or what remained of it—and straighte
 
 The crystal blazed.
 
-Not the gentle pulse of passive operation—this was something else. Light flooded the chamber, bright enough to make Victor's goblin eyes water. The ARMI interface flickered, stuttered, then stabilized around a new data stream that felt *different*. Older. Heavier. Like accessing a mainframe that had been running since before servers were invented.
+Not the gentle pulse of passive operation—this was something else. Light flooded the chamber, bright enough to make Victor's eyes water. The ARMI interface flickered, stuttered, then stabilized around a new data stream that felt *different*. Older. Heavier. Like accessing a mainframe that had been running since before servers were invented.
 
 A presence filled Victor's mind.
 
@@ -48,7 +48,7 @@ The voice wasn't sound. It was pure meaning, transmitted directly into Victor's 
 Silence. The light dimmed slightly, then brightened again. Processing.
 
 > **[CORE-7749]**
-> ADMINISTRATOR... 
+> ADMINISTRATOR...
 > AFTER 847 YEARS OF SILENCE...
 > YOU CLAIM AUTHORITY?
 
@@ -64,7 +64,7 @@ Another pause. Longer this time.
 "What did you expect?"
 
 > **[CORE-7749]**
-> PREVIOUS ADMINISTRATORS WERE... LARGER. STRONGER. MORTAL CHAMPIONS SEEKING POWER. YOU ARE... SMALL. GREEN. YOUR MANA SIGNATURE IS... UNUSUAL.
+> PREVIOUS ADMINISTRATORS WERE... LARGER. STRONGER. MORTAL CHAMPIONS SEEKING POWER. YOU ARE... SMALL. FRAIL. YOUR MANA SIGNATURE IS... UNUSUAL.
 
 "I'm also the first administrator you've had in half a century who isn't trying to exploit you," Victor said flatly. "I'm here to optimize you."
 

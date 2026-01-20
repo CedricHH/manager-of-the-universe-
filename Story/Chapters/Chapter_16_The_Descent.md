@@ -2,7 +2,7 @@
 
 The stairs to the fourth floor were not designed for humans. They were designed for things that dragged their weight—broad, shallow steps of rough-hewn stone that spiraled down into the dark.
 
-Victor descended alone.
+Victor descended alone, honoring the summons Asterion had barked before vanishing back into the depths.
 
 Each footfall echoed in the silence, a sharp *clack* of boot against rock that announced his presence to anything waiting in the shadows. The air grew heavier with every turn of the spiral, thickening with the copper tang of old blood and the dry, dusty scent of pulverized bone. It was hot, too. Not the pleasant warmth of a hearth, but the suffocating, stagnant heat of a deep earth oven.
 
@@ -13,9 +13,9 @@ To an observer, he would look defenseless. A fool walking into a lion’s den wi
 But Victor was not unarmed. He carried the most dangerous weapon in the universe: A mental spreadsheet.
 
 *Current Assets:*
-*- Goblin workforce (Labor/Cannon fodder): 43 units*
+*- Goblin workforce (Labor/Cannon fodder): 26 units*
 *- Silver Lance (Elite Mercenaries): Temporarily routed*
-*- Capital Reserves: 0.03 GP (Liquid)*
+*- Capital Reserves: 0.12 GP (Liquid)*
 *- Influence: Rising*
 
 *Current Liabilities:*
@@ -65,11 +65,11 @@ The Minotaur snorted, a sound like a steam engine releasing pressure. He slowly 
 
 He picked up the axe. The movement was casual, practiced.
 
-"You came," Asterion said. His voice was a deep rumble that Victor felt in his chest rather than heard. "Alone. Unarmed."
+"Punctual," Asterion said. His voice was a deep rumble that Victor felt in his chest rather than heard. "And still unarmed."
 
 The Minotaur took a step forward, the axe blade scraping sparks against the stone.
 
-"Either you are a god," Asterion rumbled, "or you are the most stupid creature to ever enter my domain."
+"Most would have taken the chance to run while I was between floors," Asterion rumbled. "Either you are a god, or you are the most stupid creature to ever enter my domain."
 
 Victor didn't flinch. He didn't even blink. He looked the monster in the eye and activated his skill.
 
@@ -85,6 +85,7 @@ A transparent blue grid overlaid his vision, scanning the massive creature befor
 > **Skills:** [Seismic Slam], [Gore], [Labyrinth Call]
 > **Contract Status:** Bound (247 Years)
 > **Psych Profile:**
+>
 > - Boredom: Critical (98%)
 > - Depression: High
 > - Motivation: 0%
@@ -194,10 +195,18 @@ Victor checked his mental watch.
 
 "Deal."
 
+Asterion grunted, then reached into a pile of discarded gear near his throne. He tossed something small and heavy toward Victor.
+
+Victor caught it. It was a sphere of smoked quartz, pulsating with a faint, rhythmic light—a scrying crystal, clearly looted from an overconfident mage who had underestimated the Minotaur's speed.
+
+"Watch the show, Manager," Asterion rumbled, retreating into the deeper shadows of the room. "If they don't scream as loud as you promised... my axe is still sharp."
+
+Victor looked at the crystal, then back at the darkening chamber. "They'll scream, Asterion. I've already billed them for the vocal cords."
+
 > **[ARMI]**
-> **Relationship Updated: Asterion**
-> **Status:** Hostile -> Neutral/Curious
-> **Zone Status:** Provisional Safety
+> **Item Acquired**: Scrying Crystal (Damaged)
+> **Function**: Short-distance visual monitoring (Floor 1-3)
+> **Source**: Initial Capital Investment (Gift)
 
 ---
 

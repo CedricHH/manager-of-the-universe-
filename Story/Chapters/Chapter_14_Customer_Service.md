@@ -1,16 +1,12 @@
 # Chapter 14: Customer Service
 
-The two adventurers—if one could strain the definition of the word—stood at the entrance of the dungeon, staring up at the skull Victor had so carefully placed on the spike.
+The two adventurers—if one could strain the definition of the word—were already moving past the threshold of the dungeon, eyes fixed on the darkness ahead.
 
-"Told you," the boy whispered. His voice cracked. "It's real."
+"Told you," the boy whispered, his voice cracking. "It's real."
 
-He was young, barely old enough to shave, dressed in mismatched leather armor that had clearly been scavenged from different sources. A short sword hung at his hip, the leather grip worn smooth. Behind him stood a girl, equally young, holding a bow with hands that trembled visibly.
+He was young, barely old enough to shave, dressed in mismatched leather armor. A short sword hung at his hip. Behind him stood a girl, equally young, holding a bow with hands that trembled visibly. They had already navigated the entrance hall, their boots crunching on the carefully arranged bone-rubble.
 
-"It looks... empty," the girl said. "Jace, maybe we should go back. Miller said there were lights."
-
-"Miller said there was *treasure*," Jace corrected, though he didn't move past the threshold. "And if we find it, we don't have to join the Guard. We can be real adventurers. Like the Silver Lance."
-
-Victor watched from the ventilation shaft on Floor Two.
+Victor watched from the concealed observation gallery overlooking the entrance hall.
 
 "Silver Lance," he muttered. "Noted."
 
@@ -46,33 +42,9 @@ One of the recruits grinned, revealing a mouthful of jagged teeth. He ran the gl
 
 The goblins scattered into the shadows, merging with the darkness of Floor Two. Victor settled back to watch. The curtain was rising.
 
----
+They had reached the top of the stairs leading to Floor Two.
 
-Tom and Jerry—as Victor had mentally dubbed them—stepped into the entrance hall.
-
-The air was cool, smelling of damp stone and ancient dust. Sunlight filtered through the cracks in the ceiling, illuminating the path Victor had cleared through the rubble. Dust motes danced in the beams, creating a cathedral-like atmosphere that was entirely accidental but highly effective.
-
-"See?" Jace said, pointing to the floor. "Tracks. Small ones. Dozens of them."
-
-"Goblins," the girl whispered. She drew an arrow, her knuckles white on the bowstring. Her eyes darted to every shadow, every corner. "Jace, look at the walls. Scratches. Old ones."
-
-They moved forward, stepping over the piles of bones Victor had arranged. The girl flinched when her boot crunched on a ribcage. The sound echoed in the silent hall like a gunshot.
-
-"Just bones, Mira," Jace said, though his own hand was white-knuckled on his sword hilt. "Old ones. Probably from the Silver Dawn raid fifty years ago. Look, there's no meat on them. Nothing has eaten here in decades."
-
-"That doesn't make me feel better," Mira hissed. "Hungry monsters are worse."
-
-They reached the pressure plate trap. Jace paused, spotting the faint scratch marks Victor had left.
-
-"Hold up." He knelt, examining the floor. He ran a finger along the stone, feeling the groove. "Trap. See the discoloration? And the dust pattern?"
-
-"You found it!" Mira sounded genuinely impressed. "You actually found it."
-
-"Amateur work," Jace said, puffing out his chest. A grin broke through his fear. "Goblins are stupid. They don't know how to hide mechanisms. Step around it. Left side. Follow my boots exactly."
-
-*Good,* Victor thought. *Confidence is building. Feel smart. Feel capable. Now for the bait.*
-
-They reached the top of the stairs leading to Floor Two. The darkness below was absolute—except for a faint, rhythmic orange pulse coming from deep within the earth.
+The darkness below was absolute—except for a faint, rhythmic orange pulse coming from deep within the earth.
 
 The reflection of the Hero's sword on the copper walls. It throbbed like a heartbeat, warm and inviting against the cold blue of the dungeon stone.
 
@@ -86,7 +58,7 @@ Greed replaced fear. It was a beautiful transaction to witness. Victor saw the c
 
 "What about the goblins?"
 
-"We handled the trap, didn't we? We can handle a few runts."
+"We handled the entry, didn't we? We can handle a few runts."
 
 They descended.
 

@@ -72,7 +72,6 @@ He wasn't a hero. Heroes were irrational variables who messed up projections. He
 And this system... this system was broken.
 It was producing misery at an unacceptable rate. And for the first time in his life, Victor couldn't optimize his way out of the moral equation.
 
-
 His phone buzzed. It was the last bit of battery he had.
 Unknown number.
 
@@ -173,7 +172,6 @@ This wasn't a scouting run. This was an eviction notice. They had come to clear 
 > **Objective:** Clear and Conquer.
 > **Projected Outcome (Direct Combat):** Total Defeat.
 > **Projected Outcome (Guerrilla Harassment):** Uncertain.
-
 
 Victor looked at Sniv. The goblin was trembling. He could smell the adventurers—the scent of steel and soap.
 

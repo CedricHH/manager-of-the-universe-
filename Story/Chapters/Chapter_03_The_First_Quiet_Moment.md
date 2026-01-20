@@ -77,7 +77,7 @@ Victor stared at the numbers. Fifty HP in a world where a basic goblin could pro
 
 The realization settled into his mind with the weight of a quarterly loss report. Every skill locked behind capital he didn't have. Every ability worthless without resources to fuel it.
 
-And he'd just given away five health potions—two hundred fifty GP equivalent—to buy the temporary loyalty of creatures who would eat him the moment they got hungry enough.
+And he'd just given away four health potions—two hundred GP equivalent—to buy the temporary loyalty of creatures who would eat him the moment they got hungry enough. He had kept the fifth, a strategic reserve he didn't intend to touch unless the ROI was undeniable.
 
 *Stupid. Desperate. Necessary.*
 

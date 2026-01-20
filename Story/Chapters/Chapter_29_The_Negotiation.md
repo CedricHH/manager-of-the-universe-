@@ -4,7 +4,7 @@ The trap corridor was silent.
 
 Silent, until a goblin stepped out of the shadows holding a clipboard.
 
-"Welcome to Insolvia Holdings," Sniv announced, his broken Common somehow sounding almost professional. "Entry fee: 5 GP per person. Please sign waiver before proceeding."
+"Welcome to Insolvia Holdings," Sniv announced, his broken Commonlanguage somehow sounding almost professional. "Entry fee: 5 GP per person. Please sign waiver before proceeding."
 
 The Iron Wolves froze.
 
@@ -104,7 +104,7 @@ Three to one. The gold changed hands.
 
 *When the "legal patch" finally arrived—in the form of a non-disclosure agreement with a seven-figure payout and a permanent ban from the industry—Victor hadn't even read the terms. He’d just signed. He wanted to be done with a world that was so beautifully polished and so foundationally rotten.*
 
-*But the Consortium... they didn't offer a payout. They offered a reset. They offered him a place where he could build a system from the ground up. A place where he could finally, for the first time in his life, be the one who decided where the numbers came from.*
+*But here... he wasn't offered a payout. He was offered a place where he could build a system from the ground up. A place where he could finally, for the first time in his life, be the one who decided where the numbers came from.*
 
 ---
 
@@ -185,5 +185,5 @@ The proof was accumulating. And the party hadn't even reached the boss room yet.
 
 ---
 
-**Word Count**: 1758
+**Word Count**: 1753
 **Next Chapter**: [The Partnership]

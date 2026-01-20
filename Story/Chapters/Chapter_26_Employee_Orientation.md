@@ -9,7 +9,9 @@ And yet.
 > **[ARMI - ORGANIZATIONAL ALERT]**
 > Warning: Organizational Structure Unstable
 > Current Assets:
+>
 > - 26 Employees (Goblins: 25, Kobold: 1)
+> - 12 Contractors (Dungeon Rats) - STATUS: ACTIVE (Paid in Jelly)
 > - 1 Allied Entity (Asterion) - STATUS: NOT CONTRACTED
 > - 1 Infrastructure (Dungeon Core-7749) - STATUS: PASSIVE MODE
 > Recommendation: Formalize command hierarchy. Unstable alliances create liability.
@@ -30,7 +32,7 @@ Sniv's face scrunched in confusion. "H... R?"
 
 "Human Resources. Or in this case, Monster Resources. Just tell him I want to discuss his future with the organization."
 
-As Sniv scrambled away, Victor turned back to the stack of parchment on his desk. He reached for his quill, then paused, looking at the tattered sleeve of his suit. This world had magic, gods, and chosen heroes, but it lacked the most fundamental tool of civilization: the enforceable employment contract.
+As Sniv scrambled away, Victor turned back to the loose pages he had torn from Jace's diary, arranged carefully on the flat stone slab that served as his desk. He reached for the quill he'd found in the bag, then paused, looking at the tattered sleeve of his suit. This world had magic, gods, and chosen heroes, but it lacked the most fundamental tool of civilization: the enforceable employment contract.
 
 "You're making a mistake, Victor," a voice whispered from the corner of his mind. It wasn't the ARMI system; it was the echo of his old mentor at Vanguard Consulting. *Never give them a reason to think they're irreplaceable. The moment they have a contract, they have leverage.*
 
@@ -38,9 +40,9 @@ Victor smiled at the memory of that cold, grey office. "Leverage is a two-way st
 
 He began to write, the nib scratching rhythmically against the rough paper.
 
-When Sniv returned, he found Victor carefully dripping red wax onto the bottom of the parchment.
+When Sniv returned, he found Victor carefully dripping wax onto the bottom of the paper.
 
-"Boss make fancy patterns?" Sniv asked, peering over the edge of the desk.
+"Boss make fancy patterns?" Sniv asked, peering over the edge of the stone slab.
 
 "I am creating a physical manifestation of mutual obligation," Victor replied. "Sniv, do you know why most dungeons fail?"
 
@@ -48,7 +50,7 @@ When Sniv returned, he found Victor carefully dripping red wax onto the bottom o
 
 "No. They fail because of high turnover and poor internal communication. A monster who thinks they are just a 'spawn' works with the enthusiasm of a minimum-wage dishwasher. A monster who thinks they are a 'Chief Security Officer' with a vested interest in the facility's success? That's a different animal entirely."
 
-Victor pressed his signet ring into the wax. The ring was a cheap copper thing he'd scavenged from a dead merchant's bag, but in this light, it looked like a symbol of sovereign authority.
+Victor pressed a ring into the wax. It was a cheap copper trinket he'd scavenged from Jace's backpack, but in this light, it looked like a symbol of sovereign authority.
 
 "Look at this list," Victor said, gesturing to the line items. "Medical, dental, vision, life insurance. Do we have a dentist?"
 
@@ -66,11 +68,11 @@ Asterion arrived twenty minutes later.
 
 The Minotaur had to duck through the chamber entrance, his horns scraping the ancient stone. In the confined space of the Core Chamber, he seemed even larger than Victor remembered—eight feet of muscle, horn, and barely-contained violence.
 
-"You summoned me, Manager." Asterion's voice rumbled like distant thunder. His eyes—ancient, wary—fixed on Victor with an intensity that made the goblin's survival instincts scream warnings.
+"You summoned me, Manager." Asterion's voice rumbled like distant thunder. He tested the word as if it were foreign; in two centuries, he had never been called to a meeting. His eyes—ancient, wary—fixed on Victor with an intensity that made the man's survival instincts scream warnings.
 
 Victor ignored them. Survival instincts were for people who didn't have leverage.
 
-"I did." He held up a document—actual parchment, carefully prepared by Sniv's surprisingly neat handwriting. "Your current status in this organization is 'allied entity.' That's a temporary classification. Unstable. Subject to renegotiation at any time."
+"I did." He held up a document—a page from the diary, covered in Victor's own sharp, angular handwriting. "Your current status in this organization is 'allied entity.' That's a temporary classification. Unstable. Subject to renegotiation at any time."
 
 Asterion's eyes narrowed. "You wish to... renegotiate?"
 
@@ -84,7 +86,7 @@ Victor pointed to the relevant sections. "Position: Chief Security Officer. You 
 
 "I already do this."
 
-"You do it as a favor. This makes it official." Victor tapped the compensation section. "Base salary: ten gold pieces per week. Paid directly from dungeon revenue. Additionally—" He highlighted the benefits package. "—dental coverage. Your tusks are chipped; we'll get those repaired. Vision coverage, if you need reading assistance. And most importantly: respawn guarantee."
+"You do it as a favor. This makes it official." Victor tapped the compensation section. "Base salary: ten gold pieces per month. Paid directly from dungeon revenue. Additionally—" He highlighted the benefits package. "—dental coverage. Your tusks are chipped; we'll get those repaired. Vision coverage, if you need reading assistance. And most importantly: respawn guarantee."
 
 Asterion's head tilted. "Respawn guarantee?"
 
@@ -112,13 +114,13 @@ Asterion picked up the quill that Sniv had provided. For a moment, he simply hel
 
 Then he signed.
 
-The parchment glowed briefly as the binding took effect. Victor felt the connection through his ARMI interface—a new thread of loyalty, formalized and unbreakable.
+The paper glowed briefly as the binding took effect. Victor felt the connection through his ARMI interface—a new thread of loyalty, formalized and unbreakable.
 
 > **[ARMI - CONTRACT BINDING]**
 > New Employee Registered: Asterion
 > Position: Chief Security Officer (CSO)
 > Loyalty Classification: CONTRACTUAL (Binding)
-> Compensation: 10 GP/week + Benefits Package
+> Compensation: 10 GP/month + Benefits Package
 > Status: ACTIVE
 
 "Welcome to the team," Victor said. "Your first task: report for orientation."
@@ -133,7 +135,7 @@ The goblin reappeared, carrying a large piece of slate with chalk markings. Vict
 
 The full staff assembled in what Victor had designated the "conference chamber"—a wide section of Floor Three that could accommodate Asterion's bulk without cramping.
 
-Twenty-six goblins. One Kobold. One Minotaur. One goblin-shaped restructurer. All staring at a crude but legible organizational chart.
+Twenty-six goblins. One Kobold. One Minotaur. Twelve giant rats lurking near the walls. One human manager. All staring at a crude but legible organizational chart.
 
 "This," Victor announced, "is who we are now."
 
@@ -147,7 +149,9 @@ DUNGEON CORE-7749 (Infrastructure)
 │       └── [5 Guard Goblins]
 │
 ├── SNIV (COO) - Operations Division
-│   └── [15 Worker Goblins]
+│   ├── [15 Worker Goblins]
+│   ├── [3 Recon Unit (Spies)]
+│   └── [12 Rat Contractors]
 │
 └── ZIP (CTO) - R&D Division
     └── [Workshop - Solo]
@@ -183,13 +187,13 @@ Asterion crossed his massive arms. "And the 'dental' repair? When does that begi
 
 "As soon as we secure a qualified provider," Victor replied without missing a beat. "In the meantime, consider your current tusks as 'legacy hardware' scheduled for a future upgrade cycle."
 
-The Minotaur nodded once, seemingly satisfied by the jargon. 
+The Minotaur nodded once, seemingly satisfied by the jargon.
 
 "This is Phase 1," Victor continued. "Clear lines of authority. Defined responsibilities. Everyone knows their role, everyone knows their chain of command. If you perform well, there will be opportunities for advancement. If you do not..." He let the silence hang for a moment, pregnant with corporate dread. "...there will be performance reviews."
 
 Goblins who didn't know what a performance review was still shivered. The tone alone was enough.
 
-Victor looked at the ceiling, toward where he knew the Dungeon Core waited in its chamber.
+Victor looked at the walls, toward where he knew the Dungeon Core waited in its chamber.
 
 "The Core is currently in passive mode," he said. "It processes mana, maintains the dungeon structure, handles basic functions. But it doesn't *think*. Doesn't optimize. Doesn't strategize. It's been running on legacy systems for eight centuries."
 

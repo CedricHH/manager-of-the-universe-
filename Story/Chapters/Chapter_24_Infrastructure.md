@@ -16,12 +16,13 @@ Floor Three was the industrial heart. The iron vein they'd discovered was produc
 
 Floor Four remained Asterion's domain. Victor had learned not to micromanage the Minotaur. The arena was maintained, the traps were functional, and Asterion was content to wait for worthy opponents. Their arrangement was proving surprisingly durable.
 
-And Floor Five—the deepest level they'd charted—was Victor's headquarters. The old throne room had been converted into a proper command center, complete with the scrying crystal, a crude map of the dungeon layout, and something that Sniv insisted was a "desk" despite resembling a pile of debris with pretensions.
+And the Command Deck—built into the high arches of Floor Three's former throne room—was Victor's headquarters. The space had been converted into a proper command center, complete with the scrying crystal, a crude map of the dungeon layout, and something that Sniv insisted was a "desk" despite resembling a pile of debris with pretensions.
 
 It wasn't much. But it was *organized*.
 
 > **[ARMI]**
 > Weekly Operations Report:
+>
 > - Revenue: 22 GP (Adventurer drops, trade goods)
 > - Expenses: 16 GP (Materials, food, maintenance)
 > - Net Profit: +6 GP
@@ -49,6 +50,7 @@ Victor pulled up his internal roster, reviewing his assets with the detachment o
 
 > **[ARMI]**
 > Personnel Review:
+>
 > - Sniv (HR Director): Evolution 42%. Requires additional XP.
 > - Krog (Security Lead): Strong, loyal, limited intelligence.
 > - Zip (R&D Head): High value. Fragile. Protected status.
