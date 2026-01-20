@@ -203,12 +203,25 @@ Twelve goblins emerged from hiding. Not the fighters—those had fled too far, t
 > New Employees: 12 (Probationary Status)
 > Previous Employees: 14
 > Total Workforce: 26
-> Resource Access: +1 Mushroom Patch, +1 Water Source
+> Resource Access: +1 Mushroom Patch, +1 Water Source, +1 Copper Deposit (Small)
 > Note: Recommend integration protocol. New hires require orientation.
 
 Victor looked at his new employees. Half-starved. Traumatized. Waiting to see if they would be killed or fed.
 
-The same choice he had faced on Day One.
+He picked up a loose chunk of copper ore near the wall.
+
+"Nova," he muttered. "Liquidate."
+
+The ore vanished in a flash of digitized light.
+
+> **[ARMI - ASSET LIQUIDATION]**
+> Item: Raw Copper Ore (0.5 kg)
+> Market Value: 2 GP
+> Liquidation Offer: 0.8 GP (40% of Market Value)
+> Transaction: COMPLETE
+> Balance: 0.8 GP
+
+*Daylight robbery,* Victor thought. *Sixty percent loss for instant processing. I'll need a better supply chain, but it's good to know the option exists.*
 
 "Sniv," he called.
 

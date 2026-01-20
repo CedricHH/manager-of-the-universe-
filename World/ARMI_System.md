@@ -210,6 +210,15 @@ Unlike typical blue fantasy screens, ARMI resembles:
 | War/Crisis | Inflation (+50-200% cost) |
 | Depression | Deflation (-20% cost, but no one has money) |
 
+### Instant Liquidation (Resource Conversion)
+
+Victor can sell raw materials directly to the System/Consortium via ARMI.
+
+- **Constraints**: Raw materials only (Ore, Mana Crystals, Monster Parts). No finished goods.
+- **Exchange Rate**: **60-70% of Market Value**.
+- **Purpose**: Emergency liquidity provider.
+- **Strategic Impact**: Incentivizes Victor to establish external trade routes (Guilds, Cities) to capture the remaining 30-40% value margin.
+
 ### The Inner Conflict
 
 Victor faces a constant dilemma:

@@ -128,15 +128,7 @@ Victor considered. "Health potions—minor grade. Stamina tonics. Antidotes. Sta
 
 Victor almost smiled. "You're coming with me. Small. Quiet. Good at urban navigation."
 
-Zip's tail went rigid. "Zip go? Outside dungeon? To *city*?"
-
-"Yes."
-
-"With Boss?"
-
-"Yes."
-
-"Zip... Zip can talk?"
+Zip's tail went rigid. "Zip... Zip can talk?"
 
 "Minimally. You're my assistant. Kobold labor is common in merchant operations. No one will question it as long as you don't set anything on fire or steal anything shiny."
 
@@ -160,7 +152,18 @@ Inventory check.
 
 Victor laid out his supplies on the desk with the precision of a man who'd optimized too many business trips:
 
-- **50 Gold Pieces** (operating cash, carefully skimmed from dungeon revenue)
+- **50 Gold Pieces** (operating cash)
+
+He'd hated generating it. A thousand pounds of raw iron ore from Floor 3, liquidated instantly through Nova's interface.
+
+> **[ARMI - BULK LIQUIDATION]**
+> Item: Iron Ore (Refined Grade C)
+> Market Value: 140 GP
+> Liquidation Offer: 50 GP (35% of Market Value)
+> Status: ACCEPTED
+
+"Sixty-five percent loss," Victor muttered, touching the coins. "The Consortium charges extortionate convenience fees. This is why we need Oakhaven. I'm tired of selling my assets for pennies on the dollar because I don't have a distribution network."
+
 - **12 "Potion" Vials** (legitimately sourced dungeon consumables with Zip's forged labels)
 - **R#1's Journal** (hidden in a locked case, for reference)
 - **The Black Card** (most important item, concealed in an inner pocket)

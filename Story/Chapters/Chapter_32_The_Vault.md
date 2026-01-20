@@ -158,7 +158,7 @@ Victor pocketed the journal. "Perhaps. But that's a problem for later. Right now
 
 Asterion rumbled. "You just learned your employers are cosmic parasites, and you're... looting?"
 
-"I learned my employers are cosmic parasites on *Earth*," Victor corrected. "This is just confirmation that incompetent management is a universal constant. Now—help me inventory."
+"I learned my employers are cosmic parasites back on *Earth*," Victor corrected. "This is just confirmation that incompetent management is a universal constant. Now—help me inventory."
 
 Professionalism. Cold calculation. The tools that had carried him through boardroom massacres and midnight firings. Compartmentalize the horror. Focus on the ROI.
 
@@ -176,7 +176,7 @@ The inventory took twenty minutes.
 
 2. **Crystal Archive** - Pulsing with stored data. ARMI couldn't interface directly, but Nova confirmed it was a Consortium-era information storage device. Contents: Unknown. Value: Potentially priceless.
 
-3. **Restructurer's Journal** - Extended beyond the book Victor held. Shelves of notes, maps, research. Restructurer #1 had spent decades here. This was their life's work.
+3. **Restructurer's Journal** - Extended beyond the book Victor held. Shelves of notes, maps, research. Restructurer #1 had spent decades here. This was his life's work.
 
 4. **Three Sealed Containers** - Metallic, inscribed with warning runes. ARMI flagged them as "High Risk Storage—Contents Volatile or Valuable."
 
