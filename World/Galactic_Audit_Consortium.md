@@ -26,19 +26,27 @@ The **Galactic Audit Consortium** is the entity responsible for the distribution
 "Efficiency is the only virtue. Profit is the only metric."
 (Deduced from ARMI's behavior)
 
-## The Harvest (Ch 32 Discovery)
+## The Harvest (Ch 32/33 Discovery)
 
-Das Konsortium betrachtet Welten nicht als zu rettende Orte, sondern als **Experimente** und **Nutztierhaltung** ("Preparing the crop").
+The Consortium views worlds not as places to be saved, but as **experiments** and **livestock** ("Preparing the crop").
 
-- **Phase 1: Seeding**: Welten werden mit Magie, Monstern und Systemen "besät".
-- **Phase 2: Development**: Überwachung durch Restructurer/Administratoren, um den Wert der Welt (Mana, Seelen, Ressourcen) zu maximieren.
-- **Phase 3: Harvest**: Sobald die Welt eine kritische Wert-Grenze erreicht, wird sie vom Konsortium "geerntet" (Liquidation der Welt-Ressourcen/Seelen).
+- **Phase 1: Seeding**: Worlds are "seeded" with magic, monsters, and systems.
+- **Phase 2: Development**: Monitored by Restructurers to maximize value (Mana, Souls, Resources).
+- **Phase 3: Harvest**: Once a "critical value" threshold is met, the Consortium "harvests" the world (liquidation of all resources and souls).
+
+**Timeline (Terra-Insolvia)**:
+
+- **Final Processing** was originally scheduled for **500 years after R#1's arrival** (approx. 1,500 years ago).
+- **The Delay**: Restructurer #1 thwarted the harvest by hiding processing codes and refusing orders.
+- **Current Status**: Victor has been sent to "finish the job" (re-initiate harvest).
 
 **Restructurer #1**:
-- Der erste Administrator von Terra-Insolvia.
-- Versuchte die Wahrheit über das Harvest-Modell aufzudecken und den Planeten zu schützen.
-- Endete isoliert und ohne Support im Vault (Floor 3); starb nach Jahrzehnten der Einsamkeit.
-- Hinterließ ein Journal und das "Priority Asset Transfer Notice" Siegel.
+
+- The first administrator assigned to Terra-Insolvia.
+- Discovered the true nature of "Restructuring" as strip-mining.
+- Built the Vault on Floor 3 to hide information and sabotage the harvest.
+- Died in isolation after the Consortium terminated their ARMI support.
+- Left the **Black Card** as leverage for their successor.
 
 ---
 
@@ -111,4 +119,3 @@ Victor identified massive price disparities:
 
 **Version**: 2.0
 **Last Updated**: 2026-01-05 (Chapter 89)
-

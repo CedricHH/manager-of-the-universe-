@@ -2,7 +2,7 @@
 
 The crystal archive sat on Victor's desk like a monument to better management.
 
-Hexagonal. Transparent. Pulsing with faint blue light that suggested operational status—dormant but functional, waiting for authentication. The kind of hardware Victor would have killed for in his Earth career. No corrupted files. No cloud dependencies. Just pure, crystallized data storage that had survived two millennia without IT support.
+Hexagonal. Transparent. It was the same object that had spoken to him in the Vault—the voice that had sounded so 'amused' and ancient. Back in the light of his office, it sat in a state of standby, pulsing with the faint blue light he'd identified as its 'proximity teaser' mode. It was a marketing gimmick for the ages: an ancient data storage unit programmed to sound cryptic to anyone who stumbled upon it.
 
 He touched it.
 
@@ -15,7 +15,7 @@ Light erupted from its facets, projecting into the air above his desk. Not crude
 > Consortium Protocols: 12 documents
 > World Assessment: Terra-Insolvia (Complete)
 > [ENCRYPTED]: 3 files (Access Denied)
-> Status: ACTIVE
+> Status: ACTIVE (Authentication Required for Full Playback)
 
 Nova's voice crackled through the office chamber, carrying something that might have been envy.
 
@@ -109,7 +109,7 @@ And it had killed him.
 
 Victor felt... nothing. No rage. No grief. Just cold assessment.
 
-#1 had made a critical strategic error: assuming the Consortium valued anything except profit. Assuming refusal was an option. Assuming heroism mattered.
+# 1 had made a critical strategic error: assuming the Consortium valued anything except profit. Assuming refusal was an option. Assuming heroism mattered.
 
 All it had earned him was a slow death in the dark.
 
@@ -177,6 +177,7 @@ Victor processed this.
 The card was bait. A carrot dangled by management. "Here's your promotion—just come to the office to collect it."
 
 And once he claimed it, the Consortium would know:
+
 - His location
 - His progress
 - That he'd found the vault

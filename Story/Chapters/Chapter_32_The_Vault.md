@@ -83,7 +83,15 @@ Pedestals lined the walls. Seven of them. Most empty, dust-covered. Three held o
 - A crystalline archive, pulsing faintly with stored data
 - A skeletal figure in the center, slumped against the far wall
 
-Victor approached the skeleton slowly.
+Victor approached the skeleton slowly, but his attention was fixed on the crystal. It pulsed with a dull, rhythmic blue light—a modulation that matched the cadence of the voice he’d heard in the passage perfectly.
+
+The voice hadn't been magic. It had been playback.
+
+"Greeting confirmed," the crystal hummed, the sound vibrating through the air exactly like the 'amused' tone from the hallway. "Unauthorized asset detected. Initiate proximity teaser protocol."
+
+The voice died out as Victor stepped within reach. Now, close up, the crystal was silent, its light fading to a standby flicker.
+
+Victor looked at the skeletal figure.
 
 The bones were old—centuries, maybe millennia. The armor they wore had degraded to fragments, but the design was clear: functional, militaristic, built for someone who expected combat.
 
