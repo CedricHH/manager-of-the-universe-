@@ -244,6 +244,12 @@ Victor signed.
 > STATUS: **LEVEL UP** (4 → 5)
 > Stat Points Allocated: +5 (INT+2, CHA+2, WIS+1)
 
+> **[CURRENT STATUS]**
+> Level: 5 (Universal) | Job Level: 1 (Asset Manager)
+> STR: 8 | AGI: 10 | VIT: 12
+> INT: 18 | WIS: 14 | CHA: 18
+> Balance: 40 GP
+
 Sterling extended his hand.
 
 Victor shook it. Firm grip. Professional courtesy between equals who'd just negotiated mutual advantage.

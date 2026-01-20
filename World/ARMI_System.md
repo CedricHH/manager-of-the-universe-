@@ -136,7 +136,7 @@ Unlike typical blue fantasy screens, ARMI resembles:
 | Skill | Business Concept | Magical Effect | Cost |
 |-------|------------------|----------------|------|
 | **Hostile Takeover** | Acquire company against will | Mind control targets <20% HP | 500 GP + 10/day |
-| **Aggressive Negotiations** | Hard bargaining | Psychic attack → [Depression] + [Paralysis] | 50 GP/sec |
+| **Aggressive Negotiations** | Hard bargaining | Psychic attack → [Depression] + [Paralysis] | 50 GP/minute |
 | **Liquidate** | Asset liquidation | Convert immobile target to Gold (no loot) | 0 GP (generates) |
 | **Market Correction** | Bear market | Gravity AoE (grounds flyers) | 1,000 GP |
 | **Severance Package** | Termination bonus | Explosive envelope detonation | Variable |
