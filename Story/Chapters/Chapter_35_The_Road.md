@@ -2,7 +2,7 @@
 
 The ancient road to Oakhaven was a monument to deferred maintenance.
 
-Victor walked at a steady pace optimized for distance, not speed. Business travel efficiency calibrated over two decades of conference circuits and airport terminals. The road beneath his boots was packed dirt with occasional cobblestones where someone had once cared about infrastructure. 
+Victor walked at a steady pace optimized for distance, not speed. Business travel efficiency calibrated over two decades of conference circuits and airport terminals. The road beneath his boots was packed dirt with occasional cobblestones where someone had once cared about infrastructure.
 
 Those cobblestones were now cracked. Overgrown. Evidence of a civilization that had peaked and coasted on momentum.
 
@@ -177,9 +177,10 @@ The first man drew his blade halfway. "Come quietly, or we take you by force. Lo
 
 Victor ran the numbers.
 
-Two opponents, Level 9-10. He was Level 1. Zip was useless in combat. [Aggressive Negotiations] cost 50 GP per second of active use. He had 40 GP total.
+Two opponents, Level 9-10. He was Level 4. Zip was useless in combat. [Aggressive Negotiations] cost 50 GP per minute of active use. He had 40 GP total.
 
 Options:
+
 1. **Fight** - 98% chance of loss, 40 GP cost, high injury probability
 2. **Negotiate from weakness** - Low success probability without leverage
 3. **Surrender** - Gather intelligence, worst-case scenario

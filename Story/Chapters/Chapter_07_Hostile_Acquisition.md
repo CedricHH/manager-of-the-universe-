@@ -243,7 +243,7 @@ Sniv's grin was predatory.
 
 > **[ARMI - SESSION SUMMARY]**
 > Day 2 | Evening
-> Balance: 0 GP
+> Balance: 0.8 GP
 > Employees: 26 goblins (14 veteran, 12 new)
 > Territory: Floors 1-3 (consolidated)
 > Combat Record: 1 Engagement, 1 Victory
