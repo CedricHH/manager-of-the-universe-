@@ -108,7 +108,7 @@ He looked at Nova.
 > Mode Switching: Enterprise -> Defense
 > Restrictions: LIFTED
 > Lethality Protocols: ACTIVE
-> Budget Available: 850 GP (Liquid)
+> Budget Available: 600 GP (Liquid)
 
 "Nova," Victor commanded. "Unlock the Tier 2 Trap menu. I want the 'Acid Pit' upgrade for the slime floor. And the 'Crushing Walls' for the corridor."
 
@@ -119,7 +119,7 @@ He looked at Nova.
 The gold dissolved into light, absorbed instantly by the system.
 
 > **[SYSTEM NOTICE]**
-> Deposit Accepted: 800 GP
+> Deposit Accepted: 550 GP
 > Mana Conversion: COMPLETE
 > Construction Queue: Accelerated
 

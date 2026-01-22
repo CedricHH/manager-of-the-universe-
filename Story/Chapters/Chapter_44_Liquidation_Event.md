@@ -105,7 +105,7 @@ Clay pots shattered on the floor in front of the goblin line. Oil—slippery, vi
 
 The charging mercenaries hit the slick surface. Momentum turned into comedy. Feet went out from under them. Heavy armor slammed into stone. The charge disintegrated into a pile of sliding, flailing bodies.
 
-The goblin line held. It wasn't just a wall; it was a grinder. Spears darted out from the gaps between the tower shields—jab, retract, jab, retract. Ruthless efficiency drilled into them by Kael over sleepless nights.
+The goblin line held. It wasn't just a wall; it was a grinder. Spears darted out from the gaps between the tower shields—jab, retract, jab, retract. Ruthless efficiency drilled into them by Kael.
 
 There was no bloodlust in their eyes, only the terrifying focus of employees fearing a bad performance review.
 
@@ -132,7 +132,7 @@ He didn't roar. He didn't stomp. He wore a custom-forged breastplate and carried
 
 "You are trespassing," Asterion said, his voice like grinding tectonic plates. "On private property."
 
-Voros hesitated. A Minotaur Lord. That was a Raid Boss.
+Voros hesitated. A Minotaur Lord. That was a Dungeon Boss.
 
 "Target the beast!" Voros screamed. "Focus fire!"
 
@@ -151,7 +151,7 @@ A barrier of pure, geometric light appeared in front of him. Not magic. *Skill*.
 
 The fireballs splashed harmlessly against the golden hexagon.
 
-"You have no budget," Asterion rumbled.
+"That's all?" Asterion rumbled.
 
 He charged.
 
