@@ -112,56 +112,6 @@ One of the previously silent Councilors—older man, silver beard—spoke for th
 
 Victor felt something tighten in his chest.
 
-*The whole house burns down.*
-
----
-
-**[FLASHBACK - EARTH, 6 MONTHS POST-BETRAYAL]**
-
-Victor sat in a luxury apartment that no longer felt like home.
-
-Laptop open. The hard drive icon glowing on the screen: **PROJECT_COBALT_EVIDENCE.zip**
-
-Nine months of compiled documentation. Every email. Every invoice. Every meeting note proving the board knew about the conflict minerals, knew about the forced labor, knew about the unsafe working conditions.
-
-47 dead. 12 children.
-
-Victor could delete it. Walk away. The board members had already moved on to new executive positions at different companies. The media cycle had shifted. Victor's name was toxic in corporate circles, but he was safe. Forgotten.
-
-He refreshed his news feed.
-
-Top article: **"Families of Cobalt Mine Victims Seek Justice - Lawsuit Stalled by Missing Evidence"**
-
-His phone buzzed. Sarah. The colleague who'd begged him not to cut those 200 jobs. The one who'd tried to make him see the human cost.
-
-"Victor. I know you have it. The server backups. You always kept copies."
-
-Victor stared at the screen.
-
-Calculation: Releasing this evidence destroyed his last chance at redemption in corporate circles. Keeping it safe preserved potential future employment. Someone might hire him in five years if he stayed quiet.
-
-But 47 people were dead. 12 of them children who'd been working in that mine because their families needed the income his "Supply Chain Optimization Directive" had made necessary.
-
-The equation was simple. But the variables weren't numbers anymore.
-
-"Send me the lawyers' contact info," Victor said quietly. "I'll deliver it myself."
-
-Two weeks later, he walked into the company headquarters. Not to confront anyone. To retrieve the physical server backups—the only copies that couldn't be deleted remotely.
-
-He made it to the server room. He copied the data.
-
-Sarah was waiting outside in her car.
-
-Victor handed her the drive through the rain. "Everything. Unredacted."
-
-The man in the black SUV found him thirty seconds later.
-
-*Worth it.*
-
----
-
-**[PRESENT - GUILD COUNCIL CHAMBER]**
-
 Victor blinked. Refocused.
 
 The Council was watching him.
@@ -296,5 +246,5 @@ And he always kept receipts.
 
 ---
 
-**Word Count**: 2130
+**Word Count**: 1805
 **Next Chapter**: [Open for Business]

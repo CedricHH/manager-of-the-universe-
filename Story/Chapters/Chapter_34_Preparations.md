@@ -122,9 +122,16 @@ The kobold appeared instantly, oversized goggles perched on his scaly head. "Bos
 
 Zip's eyes lit up with the manic enthusiasm of an engineer given creative freedom. "Zip make labels! Best labels! Very official! What potions Boss want?"
 
-Victor considered. "Health potions—minor grade. Stamina tonics. Antidotes. Standard adventurer consumables. Use dungeon-sourced ingredients for legitimacy. Slime extract, mushroom concentrates, purified water from Floor 2 springs."
+Victor considered. "Health potions—minor grade. Stamina tonics. Antidotes. Standard adventurer consumables. Nova, do we have the manufacturing protocols ready?"
 
-"Zip start now!" The kobold bounced excitedly. "Zip make merchant very convincing! Oakhaven people believe all lies—I mean, *truths*!"
+> **[NOVA]**
+> SYNTHESIS SUBROUTINES ACTIVE.
+> RESOURCE CONVERSION RATIOS OPTIMIZED.
+> BATCH PRODUCTION REQUIRES 14 MINUTES PER UNIT.
+
+"Good. Automated implementation is mandatory. Use dungeon-sourced ingredients: Slime extract, mushroom concentrates, purified water from Floor 2 springs. We bypass the alchemist middlemen by making the dungeon itself the manufacturer."
+
+"Zip start now!" The kobold bounced excitedly. "Zip make labels! Best labels! Very official! Boss make magic juice! Zip make it look legal!"
 
 Victor almost smiled. "You're coming with me. Small. Quiet. Good at urban navigation."
 

@@ -12,7 +12,9 @@
 Dungeons in Terra-Insolvia are not natural formations. They are **living economic entities** through which the "Loosh Harvest" is conducted.
 
 #### The Loosh Harvest
+
 **Concept:**
+
 - **Loosh**: Metaphysical energy derived from sentient suffering (fear, pain, despair).
 - **The Harvest**: Higher beings "farm" this energy, treating dungeons as agricultural plots and adventurers as the crop to be harvested.
 
@@ -79,6 +81,7 @@ Instead of spawning monsters to die:
 - Monsters become **employees** (e.g., Rats contracted for non-aggression via food bribes - Ch 5)
 - **Non-Aggression Pacts**: Established with Alpha Rat (Floor 2). Cost: 1 Slime Jelly/day. ROI: Safe passage for foraging teams.
 - **Slime Jelly**: Edible food resource secured via "Funnel Tech" (Ch 5).
+- **Automated Production (Dungeon Synthesis)**: The Dungeon Core (Nova) utilizes dungeon resources (Slime cores, Fungal extracts, Spring water) to synthesize consumables directly, bypassing external alchemists for early-stage market entry (Ch 34, 39).
 - Adventurers become **customers** (pay to leave alive)
 - Death becomes **optional revenue**, not primary income
 

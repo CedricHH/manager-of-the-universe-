@@ -256,7 +256,7 @@ Victor pulled out his communication crystal.
 
 "To the office. I need to authorize some budget increases for the Defense Department."
 
-"Asterion is going to be pleased," Kael muttered.
+"Defense Department?" Kael muttered. "You're a merchant, Victor. Not a General."
 
 "Asterion is going to be busy," Victor corrected. "Groll just declared war. And I intend to show him the difference between a Guild..."
 

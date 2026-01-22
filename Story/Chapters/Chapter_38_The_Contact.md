@@ -202,8 +202,6 @@ Somewhere in Oakhaven, the Alchemist Cartel continued their monopoly, unaware th
 
 And somewhere—possibly nowhere, possibly watching—a previous Restructurer's fate waited to be uncovered.
 
-Victor paid for breakfast and headed toward the Merchant Guild headquarters to formalize his provisional membership.
-
 Ninety days until Consortium audit.  
 Two weeks until Elena needed documentation.  
 Sixteen years since the last Restructurer vanished.

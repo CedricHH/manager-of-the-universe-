@@ -7,7 +7,7 @@ Victor crossed the city threshold and immediately catalogued the differences fro
 Someone had invested in infrastructure optimization.
 
 > **[ARMI - CITY ASSESSMENT: OAKHAVEN]**
-> Population: 12,000+ (estimated)
+> Population: 32,000+ (estimated)
 > Economic Classification: Regional Trade Hub
 > Infrastructure Quality: 73% (Above Average)
 > Market Activity: High (multiple guild halls detected)

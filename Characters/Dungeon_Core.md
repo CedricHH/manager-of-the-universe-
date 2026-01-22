@@ -34,6 +34,7 @@ Der Core ist der CEO. Nur sind die meisten Cores schlecht darin, CEOs zu sein.
 ### Core-7749's Problem
 
 Dieser spezielle Core wurde als "Tutorial Dungeon" designiert—niedrigste Stufe. Sein Zweck:
+
 - Trainiere Newbie-Abenteurer
 - Biete minimale Herausforderung
 - Sterbe wiederholt gegen Helden
@@ -47,6 +48,7 @@ Er wusste, dass er erbärmlich war. Er wusste, dass andere Cores Imperien regier
 ### Victors Angebot
 
 Statt den Core zu zerstören (Standard-Abenteurer-Verhalten), schlug Victor eine Fusion vor:
+
 - Core-7749 wird Tochterunternehmen von "Victor Kaine Enterprises"
 - Victor bietet Management-Expertise
 - Profite geteilt 80/20 (zugunsten Victors, natürlich)
@@ -58,6 +60,7 @@ Der Core, der nie IRGENDWELCHE Profite erhalten hatte, akzeptierte sofort.
 Nach 847 Jahren Dormanz wurde Core-7749 von Victor "erweckt"—Status wechselte von **Passive** zu **Active**.
 
 Der Core demonstrierte:
+
 - Ressentiment gegenüber vorherigen Administratoren
 - Interesse an Victors "Business Model"
 - Kenntnis des **Galaktischen Audit-Konsortiums**
@@ -115,8 +118,7 @@ Wachsen. Nicht mehr "Tutorial Dungeon" sein. Victor glücklich machen = mehr Res
 | **Trap Automation** | 340% Effizienz-Steigerung unter Victor |
 | **Mining Operations** | Ressourcen-Extraktion (mana crystals, ore) |
 | **Defensive Grid** | Advanced Defensive Architecture |
-| **Revenue Dashboard** | Echtzeit-Finanz-Tracking |
-| **Infrastructure Upgrades** | Eigenständige Expansion-Planung |
+| **Dungeon Synthesis** | Autonomous processing of raw materials into consumables (Ch 108) |
 | **Telepathic Link** | Administrator-Kommunikation (Victor) |
 
 ### Einschränkungen
@@ -141,38 +143,45 @@ Wachsen. Nicht mehr "Tutorial Dungeon" sein. Victor glücklich machen = mehr Res
 ### Arc 1: Von Tutorial Dungeon zu Operating Partner (Kapitel 26-100)
 
 **Kapitel 24 - Entdeckung**
+
 - In dornantem Zustand (3% Mana) auf Floor 5 entdeckt.
 - Versiegelte Kammer von Minenteam durchbrochen.
 - Victor etabliert ersten Kontakt (non-active).
 - **The Merger (Ch 25)**: Erhielt 100 GP Administrative Bond; Victor Kaine als Administrator registriert; Dungeon in "Insolvia Holdings HQ" umbenannt; Basisfunktionen (Monster Spawning, Trap Automation) freigeschaltet.
 
 **Kapitel 26 - Identifikation**
+
 - Status: "Legacy Infrastructure" in Passive Mode
 - Victor plant "Awakening"
 
 **Kapitel 27 - Die Erweckung**
+
 - Status wechselt von **Passive** zu **Active** nach 847 Jahren.
 - Demonstriert Ressentiment gegen vorherige Admins (Torin the Brave, Elara of the High Sun, Merchant Prince Kaelen).
 - Victor bietet "Equity Partnership" an: 50/50 Profitanteil, wenn Victor den Profit um 100% steigern kann.
 
 **Kapitel 29 - Revenue Test**
+
 - Victor generiert 35 GP von den Iron Wolves (Eintrittsgebühr + Boss-Premium).
 - Die Baseline von 15 GP wird um 133% überschritten.
 - Equity-Bedingung erfüllt und überschritten.
 
 **Kapitel 30 - Nova wird geboren**
+
 - Wählt Namen: **Nova**.
 - Erreicht 233% Profit-Steigerung durch Victor's Modell.
 - Geht formelle 50/50 Partnerschaft (Operating Partner) mit Victor ein.
 - Unlocked Tier 2 Spawning und administrative Autonomie.
 
 **Kapitel 31 - Infrastructure Support**
+
 - Bietet Upgrade-Optionen an (Trap Automation, Spawner, Mining Expansion).
 - Verarbeitet 70 GP Investition; schließt Floor 3 Renovierung in <48h ab.
 - Detektiert unbekannte "Pre-Dungeon" Struktur (800+ Jahre alt) auf Floor 3.
 - Cash Position: 40 GP nach 70 GP Investment.
 
 **Kapitel 32 - Vault Uncertainty**
+
 - Enthüllt: Vault predates Nova's Erschaffung um 1.700 Jahre.
 - Nova bestätigt "Gedächtnislücken" aufgrund von Consortium-Wartungsprotokollen.
 - Realisierung der Rolle als "Consortium Creation" im Harvest-Modell.
@@ -187,30 +196,36 @@ Wachsen. Nicht mehr "Tutorial Dungeon" sein. Victor glücklich machen = mehr Res
 - Memory Gaps: Prior admins dokumentierten Vault nie
 
 **Kapitel 51 - War Room Support**
+
 - Core Chamber → Strategic Command Center
 - Intelligence Analysis: Crown Prince Aldric-Profil
 - Intercepted: Lord Sterling 300% Communication Increase
 
 **Kapitel 80 - Automation Protocol**
+
 - Sniv & Asterion befördert zu Regional Managers
 - Nova maintained operations während Victors Aethelgard-Deployment
 
 ### Arc 2: Expansion & Slime Farm (Kapitel 101-109)
 
 **Kapitel 101 - The Expansion Plan**
+
 - Investition: 15k GP Slime Farm Expansion (4.000 cores/week Kapazität)
 - Negotiation: Nova fordert 2.5% Storefront Revenue + Floor 6 Priority
 
 **Kapitel 104 - The Harvest**
+
 - Erste Slime Farm Harvest: 2.014 Cores (101% Yield, perfect quality)
 - Insolvia Apotheke Launch: SOLD OUT in 5 Stunden
 
 **Kapitel 107 - The Sabotage**
+
 - Dungeon Synthesis R&D: 15 Experimente
 - Breakthrough: 83-93% Efficacy (dungeon-based reagents)
 - Production Cost: 2 GP/unit vs 10 GP commercial (80% Margin)
 
 **Kapitel 108 - The Substitution**
+
 - Dungeon Synthesis operational: 100 Potions (96% efficacy)
 - **Strategic Milestone**: Vertical Integration = Guild-middlemen irrelevant
 
@@ -232,27 +247,32 @@ Wachsen. Nicht mehr "Tutorial Dungeon" sein. Victor glücklich machen = mehr Res
 ## Post-Acquisition Changes
 
 Unter Victors Management:
+
 - Monster-Placement optimiert
 - Trap-Effizienz +340%
 - Adventurer Conversion Rate: 12% → 67% (conversion = death)
 - Neuer Revenue Stream: Entrance Fees für diejenigen, die lebend rauswollen
 - **Slime Farm**: 4.000 cores/week Produktion
-- **Dungeon Synthesis**: Eigenständige Reagenzien-Produktion
+- **Dungeon Synthesis**: Eigenständige Reagenzien- und Trank-Produktion (Skalierbare Fertigung basierend auf Victor's Protokollen)
 
 ---
 
 ## Zitate
 
-### Kapitel 27:
+### Kapitel 27
+>
 > "I HAVE EXISTED FOR 312 YEARS AS A 'TUTORIAL DUNGEON.' NO ADMINISTRATOR OFFERED PARTNERSHIP. YOU ARE THE FIRST."
 
-### Kapitel 30:
+### Kapitel 30
+>
 > "I CHOOSE THE NAME: NOVA. IT MEANS 'NEW.' I AM NO LONGER CORE-7749."
 
-### Kapitel 32:
+### Kapitel 32
+>
 > "PERHAPS I WAS DESIGNED NOT TO KNOW THIS. CONSORTIUM MAINTENANCE PROTOCOLS INCLUDE 'SELECTIVE DELETIONS.'"
 
-### Kapitel 51:
+### Kapitel 51
+>
 > "CROWN PRINCE ALDRIC. KEY VULNERABILITY: BELIEVES THE SYSTEM WORKS."
 
 ---
