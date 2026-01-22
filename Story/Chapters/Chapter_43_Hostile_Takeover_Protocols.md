@@ -12,15 +12,19 @@ They reached the forest edge by midnight. The carriage—hired under a shell com
 
 He stopped at a seemingly solid rock face. A heavy vine curtain obscured the entrance.
 
-"Zip," Victor called out. "Authentication: Epsilon-Nine."
+"Sniv," Victor called out. "Authentication: Epsilon-Nine."
 
 The rock groaned. The shimmering illusion faded, revealing a dark tunnel reinforced with stone brick.
 
-Zip popped his head out. "Boss! You’re back! Did we sell? Did we get the gold?"
+Sniv's scarred face appeared from the shadows, spear in hand. Relief flooded his features when he recognized Victor. "Boss! You return! Zip sent word—gold secured. Inventory processed."
 
-"We got the gold," Victor said. "And we got a war. Assemble the board. Core Room. Ten minutes."
+"Good," Victor said. "Where is Zip now?"
 
-Zip’s eyes went wide. "Processing!" He vanished into the dark.
+"Running final transport. Hired cart, shell company, untraceable. Should arrive within the hour with the liquid reserves."
+
+Victor nodded. Zip had learned well. "Assemble the board. Core Room. Ten minutes. We have a situation."
+
+Sniv's eyes went wide. "Processing!" He vanished into the dark.
 
 Victor stepped inside. Kael and Mira hesitated.
 
