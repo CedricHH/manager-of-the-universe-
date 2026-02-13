@@ -21,14 +21,15 @@
 ## Kapitel-Geschichte
 
 ### Arc 1: Oakhaven
+
 - **Kapitel 38**: Approached Victor at the Silver Standard. Identified him as the one who activated the Consortium waypoint. Proposed a strategic alliance: Victor's dungeon supply vs. the Alchemist Cartel's monopoly. Offered full Guild licensing and protection in exchange for market disruption.
 - Revealed the mystery of a previous Restructurer who vanished 16 years ago.
 - **Kapitel 39**: Remotely communicated with Victor after his market stall was sabotaged by the Alchemist Cartel. Coordinated the Phase 2 (Legal Warfare) strategy; presenting evidence of sabotage to the Guild Council to initiate arbitration.
 - **Kapitel 40**: Facilitated Victor's negotiation with the Merchant Guild Council. Witnessed him securing a 12% commission deal and institutional protection.
+- **Kapitel 45**: Entsandte Scouts (Goldene Waage Insignien), um den magischen Angriff auf den Dungeon zu untersuchen. Dokumentierten den "Burnout" der Mana-Spikes.
 
 ---
 
 **Version**: 2.1  
 **Wichtigkeit**: MID-TIER  
 **Kategorie**: Verbündeter (Institutional)
-

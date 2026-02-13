@@ -28,11 +28,13 @@ Early Party. First encountered Dungeon in Ch 15 but fled from Asterion's Roar.
 ## Kapitel-Geschichte
 
 ### Chapter 15 - The Roar
+
 - Entered dungeon seeking the "Glow-stick Sword"
 - Identified sword as Soulbound (useless)
 - Fled when Asterion roared
 
 ### Chapter 18-20 - The Raid (Reinforced)
+
 - Returned with 2 reinforcements (Alara, Bron)
 - Full 6-person raid party
 - Encountered Victor's non-lethal trap modifications:
@@ -52,9 +54,14 @@ Early Party. First encountered Dungeon in Ch 15 but fled from Asterion's Roar.
   - Gareth discloses location of Adventurer's Guild (Oakhaven) and info on "Iron Vanguard" and "Aldric the Unbowed".
   - Party retreats to Floor 1 and exits the dungeon.
 
+### Chapter 45 - The Counter-Offer
+
+- Scouts beobachteten den "Hostile Takeover" Versuch am Dungeon-Eingang.
+- Nahmen Notizen; griffen nicht ein.
+- **Status Update**: Beobachten die Situation genau.
+
 ---
 
 **Version**: 1.1  
 **Wichtigkeit**: EPISODISCH  
 **Kategorie**: Neutral
-
