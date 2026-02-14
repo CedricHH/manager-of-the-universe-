@@ -33,6 +33,7 @@
 ### Economic Model
 
 Dungeons must generate "profit" (dead adventurers = soul energy) to pay "rent" (existence tax) to the universe. Most dungeons are **inefficient**:
+
 - Monsters placed randomly, not strategically
 - Traps too obvious
 - Boss fights predictable
@@ -88,6 +89,17 @@ Victor works FOR them... but plans to take them over from within.
 | **Goal** | Hostile takeover of Terra-Insolvia |
 | **Victor's Strategy** | Sell weapons to BOTH sides (prolong war = maximize profit) |
 
+### 5. House Sterling (The Whale)
+
+**Role**: High-Value Client / Strategic Partner
+
+| Aspect | Description |
+|--------|-------------|
+| **Structure** | Old Money / Aristocracy |
+| **Business Model** | Rent-seeking, feudal dues, "Honor" |
+| **Victor's Strategy** | Vertical Integration; "Velvet Rope" marketing to extract maximum value |
+| **Key Member** | Sir Gareth (The mark turned partner) |
+
 ---
 
 ## Geography
@@ -132,6 +144,7 @@ See [ARMI_System.md](file:///g:/Meine%20Ablage/EBOOKS/Der%20Manager%20des%20Univ
 | Plague | Potion monopoly opportunity |
 | **Liquidity Event** | Sudden asset devaluation; triggers margin calls | ← NEW (Ch 83) |
 | **Clause 44-B** | Strategic Asset Denial; scorched-earth protocol linked to mana-stabilizers | ← NEW (Ch 84) |
+| **Dungeon Tourism** | Monetizing the "safe" dungeon experience via waivers and entry fees ("Velvet Rope") | ← NEW (Ch 47) |
 
 ---
 

@@ -129,7 +129,7 @@ Victor sat on a stump, watching the coins pile up in Valerius's box. It wasn't a
 
 "We need a concession stand," Victor noted. "Healing potions. Bandages. Snacks. If they're waiting in line, we should be monetizing their boredom."
 
-"I can brew weak health potions," Mera offered from where she was cleaning her daggers. "Diluted slime essence and herbs. Taste like gym socks, but they stop bleeding."
+"I can brew weak health potions," Mira offered from where she was cleaning her daggers. "Diluted slime essence and herbs. Taste like gym socks, but they stop bleeding."
 
 "Perfect. Label them 'Insolvia Vitality Draughts'. Charge double the market rate. Convenience fee."
 
