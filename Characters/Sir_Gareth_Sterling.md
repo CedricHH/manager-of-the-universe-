@@ -23,6 +23,9 @@
 
 Arrogant Nephew. Failed to conquer dungeon (paid 10 GP fees for Platinum Package upgrade). Now acts as reluctant envoy/Intermediary between Victor and Lord Sterling for the "Vertical Integration Agreement". (Ch 47-48)
 
+- **Scene**: "The Whale" (Ch 48). Humiliated by Sniv ("Ticket Check"), intimidated by Asterion ("5 Gold Premium Access").
+- **Outcome**: Carrying the vertical monopoly proposal to Lord Sterling.
+
 ---
 
 **Version**: 1.0  

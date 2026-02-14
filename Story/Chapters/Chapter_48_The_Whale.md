@@ -33,7 +33,7 @@ He extended a hand toward the dungeon mouth.
 
 "Welcome to Insolvia, Sir Gareth. Your adventure awaits."
 
-**
+***
 
 Valerius practically vibrated with panic once the Sterling party disappeared into the darkness.
 
@@ -53,12 +53,12 @@ Valerius opened his mouth. Closed it. Then understanding dawned across his featu
 
 "Or evaluating his investment." Victor clasped his hands behind his back. "Either way, the nephew is a messenger. And messengers are opportunities."
 
-> **[ARMI - ANALYSIS]**  
+> ***[ARMI - ANALYSIS]***  
 > Cross-referencing: Sterling House Assets, Dungeon Holdings, Known Objectives.  
 > Probability Assessment: 78% - Reconnaissance Mission.  
 > Target: Dungeon Core (Nova), Current Administrator (Victor).  
 > Secondary Target: Partnership Expansion Potential.  
-> **Recommendation**: Extract intelligence. Monetize relationship.
+> ***Recommendation***: Extract intelligence. Monetize relationship.
 
 Victor's eyes narrowed. "The Core. Sterling knows about Nova. He wants to know if she's worth more than a footnote in his ledgers."
 
@@ -70,7 +70,7 @@ The former appraiser swallowed hard. "What do we do?"
 
 Victor was already walking toward the cave, his suit jacket catching the afternoon light. "We give him exactly what he came for. The full tour. And by the time he leaves, he'll be carrying an offer his uncle can't refuse."
 
-**
+****
 
 Sniv was having the time of his life.
 
@@ -134,7 +134,7 @@ Gareth threw the coins at Asterion's feet. The minotaur nodded and stepped aside
 
 "The Manager is expecting you."
 
-**
+***
 
 Victor was already in the Core Chamber when they arrived.
 
