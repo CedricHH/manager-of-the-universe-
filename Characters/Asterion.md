@@ -32,6 +32,7 @@ Asterion wurde vom Dungeon Core erschaffen, um die Boss-Kammer zu bewachen. 247 
 Er tötete 1.847 Abenteurer. Er starb 12 Mal (Respawn jedes Mal—Dungeon-Mechanik). Er verließ nie den Boss-Raum. Er hinterfragte nie seinen Zweck.
 
 Er erhielt:
+
 - Keine Bezahlung
 - Keine Urlaubstage
 - Keine Performance Reviews
@@ -44,6 +45,7 @@ Er war Mobiliar. Tödliches Mobiliar, aber Mobiliar.
 Victors [Aggressive Negotiations] besiegte Asterion nicht durch Schmerz. Es besiegte ihn durch *Analyse*.
 
 Victor zeigte auf:
+
 - 247 Jahre Dienst, null Beförderung
 - Kein Rentenplan
 - Keine Benefits
@@ -142,6 +144,7 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 ### Arc 1: Der Boss wird Employee (Kapitel 5-80)
 
 **Rekrutierung & Negotiation (Ch 10-17)**
+
 - Forderte Tribute via Imp-Messenger (Ch 10)
 - Identifiziert als "bored Boss" (Existential Ennui) via Performance Review (Ch 11)
 - Akzeptierte Sir Kael's Schwert als "Down Payment" für Partnerschaft (Ch 12)
@@ -152,47 +155,58 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 - **The Performance (Ch 22)**: Kämpfte gegen die Silver Lance (Alara, Gareth, Bron, Finn, Lysa, Kaelie); besiegte sie fast vollständig; respektierte Alaras paladinisches Können.
 
 **Formelle Anstellung (Ch 26)**
+
 - Unterschrieb Vertrag als **Chief Security Officer (CSO)**
 - 10 GP Signing Bonus
 
 **The Vault (Ch 32)**
+
 - Schützte Victor während der Entdeckung der Konsortiums-Wahrheit
 
 **Der erste Test (Ch 34)**
+
 - Managed Security während Victors Abwesenheit
 - Bewahrte nicht-tödliche Protokolle
 
 **Der Automation Protocol (Ch 80)**
+
 - **PROMOTION**: Formell befördert zu **Chief Security Officer (CSO)** für gesamte Oakhaven Region
 - Mandat: Verantwortlich für Training der nächsten Generation Boss-Klasse-Entitäten
 
 ### Arc 2: Regional Security Chief (Kapitel 101-109)
 
 **Kapitel 101 - The Expansion Plan**
+
 - Zugewiesen: Hire 12 Guards für Insolvia Apotheke
 
 **Kapitel 102 - The Recruitment**
+
 - Security Audit: 12 Guards hired, Apotheke 90% fortifiziert
 
 **Kapitel 106 - The Council**
+
 - Koordinierte 200+ Adventurer Public Demonstration (Market Quarter)
 
 **Kapitel 107 - The Sabotage**
+
 - Marcus + Asterion: Westhold-Expedition (140 miles, 4-Tage-Rundreise)
 - Emergency Procurement: 2.500 GP (7-Tage-Versorgung)
 
 **Kapitel 108 - The Substitution**
+
 - Zurückgekehrt rechtzeitig mit Westhold-Versorgung
 - Non-Guild-Suppliers sicherten ongoing Trade
 
 **Kapitel 44 - Liquidation Event**
+
 - Successfully defended the dungeon against the Black Talons.
 - Demonstrated **[Corporate Shield]** against mercenary mages.
 - Held the line while Victor initiated the counter-hack.
 
 **Kapitel 46 - Due Diligence**
+
 - Participated in the dungeon tour for the Merchant Guild's audit.
-- Confirmed the success of Victor's management: reported a 12% increase in his "portfolio".
+- Confirmed the success of Victor's management: reported a 12% increase in his "hoard-share".
 - Established a professional, articulate presence that unsettled the Guild scribes.
 
 ---
@@ -211,16 +225,20 @@ Zweck finden. Struktur haben. Die 1.847 Toten... verarbeiten? Victor kümmert si
 
 ## Zitate
 
-### Kapitel 16:
+### Kapitel 16
+>
 > "In 247 years, no adventurer asked my name. You are the first to offer a contract instead of a sword. This is... novel."
 
-### Kapitel 22:
+### Kapitel 22
+>
 > "I have reviewed the proposal. The terms are... acceptable."
 
-### Kapitel 26:
+### Kapitel 26
+>
 > "The small green one calls this 'synergy.' I do not understand the word, but I understand we are stronger together."
 
-### Kapitel 80:
+### Kapitel 80
+>
 > "You wish me to... not kill the intruders? This is inefficient. But the contract specifies non-lethal options. I will comply."
 
 ---

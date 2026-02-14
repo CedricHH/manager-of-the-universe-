@@ -1,12 +1,10 @@
 # Chapter 46: Due Diligence
 
-The morning sun filtered through the canopy, dappling the forest floor in gold and green. It was a picturesque scene. Birds were singing. The wind was rustling the leaves.
+Three men in dark green robes were setting up a disciplined field camp at the edge of the clearing. A scribe sat at a portable map-table, organizing scrolls with military precision.
 
-And three men in dark green robes were setting up a mahogany desk at the edge of the clearing.
+"Is that..." Kael squinted from the cave entrance, his hand resting on the hilt of his sword. "Is that a table?"
 
-"Is that..." Kael squinted from the cave entrance, his hand resting on the hilt of his sword. "Is that a desk?"
-
-"It is," Victor said. He adjusted his cufflink. "Oak. Claw-foot legs. Probably weighs two hundred pounds. They carried it all the way from the main road."
+"It is," Victor said. He adjusted his cufflink. "Standard issue Guild field office. Portable, efficient. They probably set it up in ten minutes."
 
 "Why?"
 
@@ -18,7 +16,7 @@ Sniv peeked out from behind Victor's leg. "Boss? Should Sniv get the acid? Or th
 
 Victor stepped out into the sunlight.
 
-The three men—scouts from the Merchant Guild—didn't look up. Two of them were arranging stacks of parchment with geometrical precision. The third, a thin man with a sharp nose and a monocle that looked like it was surgically attached, was sharpening a quill with a small silver knife.
+The three men—scouts from the Merchant Guild—didn't look up. Two of them were arranging stacks of parchment with geometrical precision. The third, a thin man with a sharp nose and a monocle that seemed glued to his eye, was sharpening a quill with a small silver knife.
 
 Victor walked across the clearing. He stopped exactly three feet from the desk—close enough to be dominant, far enough to respect personal space boundaries.
 
@@ -108,7 +106,7 @@ The minotaur was sitting on a stone crate, carefully polishing the edge of his m
 
 "It ensures alignment of interests. He doesn't just guard the dungeon; he owns a piece of the success. He has a vested interest in stopping looters."
 
-Asterion nodded gravely. "My portfolio is up twelve percent this quarter."
+Asterion nodded gravely. "My hoard-share is up twelve percent this quarter."
 
 Valerius dropped his quill.
 
@@ -122,7 +120,7 @@ One of the assistants picked it up. "Sir? Are you alright?"
 
 By the time they returned to the surface, Valerius looked exhausted. He had filled fifteen pages of parchment.
 
-He sat back down at his mahogany desk in the sunlight. Victor stood opposite him.
+He sat back down at his map-table in the sunlight. Victor stood opposite him.
 
 "Well?" Victor asked.
 
