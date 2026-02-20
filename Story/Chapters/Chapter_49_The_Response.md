@@ -39,7 +39,7 @@ More than his personal allowance. More than his tournament winnings.
 
 "I'm aligning our interests." Victor leaned back. "When you present this proposal to Lord Sterling, you'll advocate for it. Not because I bribed you—because you'll *believe* in it. And you'll believe in it because you'll personally benefit from its success. That's not corruption, Sir Gareth. That's good business."
 
-**
+***
 
 The terms took an hour to finalize.
 
@@ -89,7 +89,7 @@ The minotaur materialized from the shadows. He'd been there the whole time, Gare
 
 "This way," Asterion rumbled.
 
-**
+***
 
 The moment Gareth's party disappeared up the stairs, Nova's crystal flared.
 

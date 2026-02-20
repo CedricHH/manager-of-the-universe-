@@ -186,7 +186,7 @@ Sniv's eyes went wide. "We go... UP?"
 > **Act 1.2: External Threats — COMPLETE.**  
 > Strategic Position: Dungeon Secured. Sterling Partnership Pending. Guild Hostile.  
 > **Act 1.3: Defense & Growth — INITIATED.**  
-> Next Target: Crown Prince Aldric of Valdris.  
+> Next Target: Crown Prince Aldric of Valdris II.  
 > **Victor Kaine's Assessment**: Kings are just customers with bigger budgets.
 
 **END OF CHAPTER 50**

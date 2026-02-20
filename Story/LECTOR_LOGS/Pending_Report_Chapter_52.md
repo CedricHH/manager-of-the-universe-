@@ -1,4 +1,4 @@
-# Lector Analysis: Chapter 51
+# Lector Analysis: Chapter 52
 
 ## Quick Score
 
@@ -8,7 +8,7 @@
 | Pacing | 8/10 |
 | Voice | 10/10 |
 | Cliffhanger | 8/10 |
-| Word Count | 10/10 (1603 words) |
+| Word Count | 10/10 (1688 words) |
 
 ## Issues
 

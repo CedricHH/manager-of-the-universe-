@@ -13,7 +13,7 @@ They assumed wrong.
 Nova pulsed. The crystalline light shifted, reforming into a portrait — a young man with sharp features and idealistic eyes. The kind of eyes that hadn't yet learned that idealism was just naivety with better marketing.
 
 > **[ARMI - TARGET ANALYSIS]**  
-> Subject: Crown Prince Aldric Valdris II  
+> Subject: Crown Prince Aldric Valdris II.  
 > Age: 27 | Position: Heir Apparent, Kingdom of Valdris  
 > **Threat Level**: Low (direct) | High (institutional)  
 > **Opportunity Assessment**: Significant  
