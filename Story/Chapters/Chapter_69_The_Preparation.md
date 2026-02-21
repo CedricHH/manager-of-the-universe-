@@ -1,4 +1,4 @@
-# Chapter 72: The Preparation
+# Chapter 69: The Preparation
 
 Two days until the Church audit.
 

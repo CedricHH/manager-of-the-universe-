@@ -1,4 +1,4 @@
-# Chapter 57: The Safety Audit
+# Chapter 54: The Safety Audit
 
 At dawn, the Crimson Blades arrived.
 
@@ -232,7 +232,6 @@ He looked up, his eyes glowing with the cold purple light of the Dungeon Core.
 > **Win Probability (Standard)**: 12%.
 > **Win Probability (Lethal Force Authorized)**: 98%.
 > **Authorization**: PENDING...
-
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 84: The Spire Garden Ambush
+# Chapter 81: The Spire Garden Ambush
 
 The High Auditor’s Spire Gardens were a masterclass in unallocated overhead. Floating obsidian platforms, suspended by high-grade mana-conduits, drifted lazily through an atmosphere saturated with the scent of jasmine and ozone. Bioluminescent flora mirrored the heartbeat of the capital, pulsing with a soft, rhythmic light.
 

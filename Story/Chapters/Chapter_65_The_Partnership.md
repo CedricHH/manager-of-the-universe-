@@ -1,4 +1,4 @@
-# Chapter 68: The Partnership
+# Chapter 65: The Partnership
 
 The Merchant's Guild Hall didn't look like a bank.
 

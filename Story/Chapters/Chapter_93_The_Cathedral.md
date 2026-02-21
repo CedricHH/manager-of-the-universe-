@@ -1,4 +1,4 @@
-# Chapter 96: The Cathedral
+# Chapter 93: The Cathedral
 
 Debt.
 

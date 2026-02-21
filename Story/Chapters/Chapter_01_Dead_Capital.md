@@ -1,4 +1,4 @@
-# Chapter 1: Dead Capital
+# Chapter 01: Dead Capital
 
 The first thing Victor Kaine noticed was the taste of blood.
 

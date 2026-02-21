@@ -1,4 +1,4 @@
-# Chapter 99: The Sprint
+# Chapter 96: The Sprint
 
 Ten days later.
 

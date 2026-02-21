@@ -1,4 +1,4 @@
-ï»¿# Chapter 102: The Recruitment
+# Chapter 99: The Recruitment
 
 Three days after the expansion plan.
 
@@ -25,7 +25,7 @@ Victor stopped across the street, pretending to examine a fruit vendor's apples.
 
 Through the shop window, he saw her.
 
-Young woman. Mid-twenties. Traveling merchant's clothesâ€”practical leather, no ornamentation. She moved through the ingredient displays with surgical precision. Not browsing. Analyzing.
+Young woman. Mid-twenties. Traveling merchant's clothes—practical leather, no ornamentation. She moved through the ingredient displays with surgical precision. Not browsing. Analyzing.
 
 She picked up a slime core sample from the discount bin.
 
@@ -64,7 +64,7 @@ Behind him, in the alley's shadows, a woman watched him leave.
 
 "Smart," she murmured. "He doesn't chase bait."
 
-She pulled out a small crystalâ€”an ARMI interface, different model than Victor'sâ€”and typed a note.
+She pulled out a small crystal—an ARMI interface, different model than Victor's—and typed a note.
 
 > Subject assessment: Tactical discipline exceeds file projection. Proceeding to Phase 2.
 
@@ -76,7 +76,7 @@ Across the table: Marcus Thiel.
 
 Age thirty-four. Former Merchant Guild journeyman. Twelve years of experience, according to the application Sniv had somehow acquired through channels Victor didn't ask about.
 
-Marcus looked nervous. Not terrifiedâ€”Victor had seen terrified. This was the controlled anxiety of a man who knew he was gambling his career.
+Marcus looked nervous. Not terrified—Victor had seen terrified. This was the controlled anxiety of a man who knew he was gambling his career.
 
 "Mr. Thiel," Victor began. "You've worked for the Merchant Guild for how long?"
 
@@ -86,7 +86,7 @@ Marcus looked nervous. Not terrifiedâ€”Victor had seen terrified. This was the c
 
 "Fifty gold per month. Plus lodging in the Guild dormitory."
 
-Victor pulled up an ARMI projection between themâ€”a hovering display of numbers that made Marcus's eyes widen.
+Victor pulled up an ARMI projection between them—a hovering display of numbers that made Marcus's eyes widen.
 
 > **Comparative Analysis: Alchemist Compensation**
 > 
@@ -124,7 +124,7 @@ Silence.
 
 "I don't make jokes about acquisitions."
 
-Another projection appearedâ€”this one showing production costs.
+Another projection appeared—this one showing production costs.
 
 > **Potion Economics**
 > 
@@ -147,7 +147,7 @@ Marcus's eyes tracked the numbers. Victor could see the moment comprehension hit
 
 "What if..." Marcus hesitated. "What if Lysander retaliates? Violently?"
 
-Victor gestured to Asterion. The minotaur stoodâ€”all eight feet and four hundred pounds of muscle.
+Victor gestured to Asterion. The minotaur stood—all eight feet and four hundred pounds of muscle.
 
 "This is Asterion, head of security. He has twelve additional guards stationed at the apothecary location. The slime farm is inside the dungeon, protected by five floors of defensive infrastructure. And I have forty-two professional soldiers on retainer."
 
@@ -186,7 +186,7 @@ The goblin consulted his list. "Sniv has three candidates! Very qualified! None 
 
 "Excellent. Asterion, security update?"
 
-The minotaur produced a rolled parchmentâ€”a floor plan of the apothecary site.
+The minotaur produced a rolled parchment—a floor plan of the apothecary site.
 
 "Construction is on schedule. Walls reinforced. Anti-scrying wards installed. I've hired twelve guards. Three per eight-hour shift."
 
@@ -237,7 +237,7 @@ Ten goblins sat in makeshift chairs, facing a chalkboard where Sniv had drawn he
 
 Victor watched from the elevated walkway, arms crossed.
 
-"Module One!" Sniv announced, tapping the chalkboard with his pointer stick. "Greet the assetâ€”I mean, **customer**!"
+"Module One!" Sniv announced, tapping the chalkboard with his pointer stick. "Greet the asset—I mean, **customer**!"
 
 The goblins recited in unison: "WELCOME TO BOSS'S HEALING JUICE PLACE!"
 
@@ -289,7 +289,7 @@ The future Insolvia Apothecary sat in a prime location: corner of Market Row and
 
 Asterion was already there, reviewing security installations with the lead contractor.
 
-Victor joined him inside. The walls were reinforced stone, two feet thick. The windows had iron shutters. The back roomâ€”where potions would be storedâ€”had a vault door salvaged from a defunct bank.
+Victor joined him inside. The walls were reinforced stone, two feet thick. The windows had iron shutters. The back room—where potions would be stored—had a vault door salvaged from a defunct bank.
 
 "Overkill?" Victor asked.
 
@@ -349,7 +349,7 @@ The day's work played out in mental ledgers:
 
 Acceptable progress.
 
-He was reviewing projected expenses when ARMI pulsed an alert. Not a standard notificationâ€”this one carried Consortium encryption protocols.
+He was reviewing projected expenses when ARMI pulsed an alert. Not a standard notification—this one carried Consortium encryption protocols.
 
 > **[ARMI - PRIORITY MESSAGE]**
 > Source: UNKNOWN RESTRUCTURER
@@ -373,7 +373,7 @@ He was reviewing projected expenses when ARMI pulsed an alert. Not a standard no
 
 Victor read the message three times.
 
-She knew his Restructurer ID numberâ€”that required Consortium-level clearance.
+She knew his Restructurer ID number—that required Consortium-level clearance.
 
 Her designation was "Liaison," not "Operator." Oversight, not acquisition.
 
@@ -427,7 +427,7 @@ A final ARMI notification pulsed:
 
 > **[ARMI - QUEST UPDATE]**
 > Quest: [Market Intelligence]
-> Status: PROGRESSING â†’ CRITICAL PHASE
+> Status: PROGRESSING ? CRITICAL PHASE
 > New Objective: Survive meeting with Restructurer #418 (Kira)
 > Reward: Intelligence on Consortium operations + Potential alliance
 > Risk Level: MODERATE-HIGH

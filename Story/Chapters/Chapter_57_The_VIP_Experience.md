@@ -1,4 +1,4 @@
-# Chapter 60: The VIP Experience
+# Chapter 57: The VIP Experience
 
 "This place reeks of death," High Priestess Aurelia said, her voice echoing in the polished lobby.
 

@@ -1,4 +1,4 @@
-# Chapter 70: The Stress Test
+# Chapter 67: The Stress Test
 
 The Crimson Blades arrived at exactly 9:00 AM.
 

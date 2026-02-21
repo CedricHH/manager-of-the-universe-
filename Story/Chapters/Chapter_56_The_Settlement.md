@@ -1,4 +1,4 @@
-# Chapter 59: The Settlement
+# Chapter 56: The Settlement
 
 The silence in the lobby was absolute, broken only by the rhythmic *drip-drip-drip* of a Healing Potion leaking from a smashed crate.
 

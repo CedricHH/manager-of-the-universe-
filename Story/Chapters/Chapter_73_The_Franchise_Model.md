@@ -1,4 +1,4 @@
-# Chapter 76: The Franchise Model
+# Chapter 73: The Franchise Model
 
 Three days post-exhibition.
 

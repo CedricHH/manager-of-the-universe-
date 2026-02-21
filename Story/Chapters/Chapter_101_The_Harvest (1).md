@@ -1,8 +1,8 @@
-ï»¿# Chapter 104: The Harvest
+# Chapter 101: The Harvest
 
 Dawn. Floor 2. The Fungal Caverns.
 
-The Automated Slime Farm Alpha sprawled across what had been moss-covered stone two days ago. Twenty breeding pools, each the size of a wagon, carved into the cavern floor. Mana-fed channels connected them in a lattice pattern. Automated extractorsâ€”crystalline mechanisms Victor had purchased from the Merchant Guildâ€”hung above each pool like mechanical spiders.
+The Automated Slime Farm Alpha sprawled across what had been moss-covered stone two days ago. Twenty breeding pools, each the size of a wagon, carved into the cavern floor. Mana-fed channels connected them in a lattice pattern. Automated extractors—crystalline mechanisms Victor had purchased from the Merchant Guild—hung above each pool like mechanical spiders.
 
 Victor stood at the observation platform, watching the first harvest.
 
@@ -33,7 +33,7 @@ The cores traveled along conveyor mechanisms to a central processing station whe
 
 Victor picked up a health core from the sorting bin. Green. Translucent. Pulsing with condensed mana.
 
-Perfect quality. Better than dungeon dropsâ€”those varied wildly depending on slime age and stress levels. These were cultivated under controlled conditions. Standardized.
+Perfect quality. Better than dungeon drops—those varied wildly depending on slime age and stress levels. These were cultivated under controlled conditions. Standardized.
 
 The Guild couldn't match this.
 
@@ -49,11 +49,11 @@ Marcus blinked. "Sir?"
 
 "Kira was right. Lysander will notice your absence in three days. We're not giving him time to prepare defenses." Victor turned to face the alchemist. "We open tomorrow."
 
-"Tomorrow?" Marcus's voice cracked. "The shop isn't finished! We don't haveâ€”"
+"Tomorrow?" Marcus's voice cracked. "The shop isn't finished! We don't have—"
 
 "The shop is ninety percent complete. That's enough. We launch with what we have."
 
-"Butâ€”"
+"But—"
 
 "Marcus." Victor's tone didn't rise. Didn't need to. "Lysander is reactive or proactive. If we wait, he fortifies his position. If we strike first, he scrambles to respond. Scrambling enemies make mistakes. We open at dawn."
 
@@ -103,7 +103,7 @@ Understanding dawned on Marcus's face. "Artificial scarcity as marketing."
 
 "Exactly. Day two onwards, we maintain steady supply. But day one? We make noise. We force every adventurer in Oakhaven to talk about the apothecary that sold out in hours."
 
-Victor pulled up an ARMI projectionâ€”timeline flowchart, hovering between them.
+Victor pulled up an ARMI projection—timeline flowchart, hovering between them.
 
 > **[ARMI - REVISED TIMELINE]**
 > **Launch**: TOMORROW, dawn  
@@ -207,7 +207,7 @@ One of the goblins practiced his greeting: "WELCOME TO BOSS'S HEALING JUICE EMPO
 
 Sniv sighed. "Close enough."
 
-Three of Asterion's guards patrolled the perimeter. The apothecary itself was a corner buildingâ€”stone walls, reinforced door, iron shutters on the windows. The main floor had a sales counter, display shelves, and a back room for inventory storage.
+Three of Asterion's guards patrolled the perimeter. The apothecary itself was a corner building—stone walls, reinforced door, iron shutters on the windows. The main floor had a sales counter, display shelves, and a back room for inventory storage.
 
 Simple. Professional. Defensible.
 
@@ -258,19 +258,19 @@ He read it twice. Removed nothing. Added nothing.
 
 Perfect.
 
-The letter would arrive at Guild headquarters at dawnâ€”same time the apothecary opened. Lysander would read it while Victor's shop was already selling potions.
+The letter would arrive at Guild headquarters at dawn—same time the apothecary opened. Lysander would read it while Victor's shop was already selling potions.
 
 Controlled timing. Maximum psychological impact.
 
 Victor sealed the letter and summoned a courier. "Deliver this to the Merchant Guild tower at first light."
 
-The courierâ€”a young runner from the Merchant Guild's messaging serviceâ€”nodded and left.
+The courier—a young runner from the Merchant Guild's messaging service—nodded and left.
 
 Victor leaned back in his chair.
 
 Lysander would interpret the letter as an insult. Good. Angry opponents made tactical errors.
 
-He'd either ignore Victor (unlikelyâ€”market share loss would be immediate) or retaliate quickly (likelyâ€”pride and forty-two years of monopoly don't yield easily).
+He'd either ignore Victor (unlikely—market share loss would be immediate) or retaliate quickly (likely—pride and forty-two years of monopoly don't yield easily).
 
 Either way, Victor controlled the timing.
 
@@ -380,7 +380,7 @@ Adventurers. Merchants. Common laborers who couldn't normally afford Guild price
 
 Sniv bounced on his heels. "Boss! Boss! SO MANY CUSTOMERS! This is VERY good for quarterly revenue projections!"
 
-Asterion surveyed the crowd with professional suspicion. "This is a crowd control nightmare. If they rush the doorâ€”"
+Asterion surveyed the crowd with professional suspicion. "This is a crowd control nightmare. If they rush the door—"
 
 "They won't," Victor said. "Sniv, open the doors. Four customers at a time. Keep the line orderly."
 

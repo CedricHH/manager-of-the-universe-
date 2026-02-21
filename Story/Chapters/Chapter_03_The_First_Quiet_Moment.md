@@ -1,4 +1,4 @@
-# Chapter 3: The First Quiet Moment
+# Chapter 03: The First Quiet Moment
 
 The crisis passed. The goblins dispersed.
 

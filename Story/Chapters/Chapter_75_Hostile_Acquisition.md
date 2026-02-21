@@ -1,4 +1,4 @@
-# Chapter 78: Hostile Acquisition
+# Chapter 75: Hostile Acquisition
 
 The silence in the administrative office of Dungeon Insolvia was surgical. It was the kind of silence that usually preceded a massive layoffs or a merger announcement. Victor Kaine sat behind his obsidian desk, the pale blue glow of the ARMI interface reflecting off his iris.
 

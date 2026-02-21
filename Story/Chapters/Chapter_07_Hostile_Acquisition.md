@@ -1,4 +1,4 @@
-# Chapter 7: Hostile Acquisition
+# Chapter 07: Hostile Acquisition
 
 The map looked like something a child would make. Crude lines scratched in charcoal on stone. Symbols that meant nothing to anyone but Victor.
 

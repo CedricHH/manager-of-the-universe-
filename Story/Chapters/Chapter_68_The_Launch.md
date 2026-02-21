@@ -1,4 +1,4 @@
-# Chapter 71: The Launch
+# Chapter 68: The Launch
 
 The first Ember Trials poster went up in Oakhaven's Adventurer District at dawn.
 

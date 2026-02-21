@@ -1,4 +1,4 @@
-# Chapter 6: Departmental Structure
+# Chapter 06: Departmental Structure
 
 Smell of Blood.
 

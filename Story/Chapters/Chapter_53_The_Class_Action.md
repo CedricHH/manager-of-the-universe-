@@ -1,4 +1,4 @@
-# Chapter 56: The Class Action
+# Chapter 53: The Class Action
 
 The morning audit was going exceptionally well, which was usually a sign that something terrible was about to happen.
 
@@ -241,7 +241,6 @@ Victor stared at the red text floating in his vision.
 "Boss?"
 
 "Cancel the goblin coffee break. We have an audit incoming."
-
 
 ---
 

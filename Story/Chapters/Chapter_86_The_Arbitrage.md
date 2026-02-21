@@ -1,4 +1,4 @@
-# Chapter 89: The Arbitrage
+# Chapter 86: The Arbitrage
 
 The Gilded Caravan smelled like old magic and questionable decisions.
 

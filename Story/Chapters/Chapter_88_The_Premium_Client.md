@@ -1,4 +1,4 @@
-# Chapter 91: The Premium Client
+# Chapter 88: The Premium Client
 
 Desperate people paid premium prices.
 

@@ -1,4 +1,4 @@
-# Chapter 64: The Capital Injection
+# Chapter 61: The Capital Injection
 
 The entrance to the Fourth Floor was a solid slab of obsidian, unmarked except for a single, glowing keyhole.
 

@@ -1,4 +1,4 @@
-# Chapter 65: The Extermination
+# Chapter 62: The Extermination
 
 The problem with embedded surveillance is that it only works if the target doesn't notice.
 

@@ -1,4 +1,4 @@
-# Chapter 77: The Hostile Takeover
+# Chapter 74: The Hostile Takeover
 
 The dashboard in Victor’s administrative office hummed with the soft, blue glow of a hundred data points. Across the primary projection, the Rivercrest pilot site was a flurry of activity—most of it unauthorized.
 

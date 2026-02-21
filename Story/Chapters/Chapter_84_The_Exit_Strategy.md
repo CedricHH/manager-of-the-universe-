@@ -1,4 +1,4 @@
-# Chapter 87: The Exit Strategy
+# Chapter 84: The Exit Strategy
 
 The carriage was a marvel of Imperial engineering, which meant it was over-designed, overpriced, and smelled faintly of lavender and tax revenue. The velvet seats were plush enough to swallow a goblin whole, and the suspension utilized gravity-dampening runes that cost more than the average peasant earned in a lifetime.
 

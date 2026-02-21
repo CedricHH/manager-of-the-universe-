@@ -1,4 +1,4 @@
-# Chapter 79: The Severance Package
+# Chapter 76: The Severance Package
 
 The Grand Hall of the Oakhaven Adventurer Hub usually smelled of wet leather, cheap ale, and the desperate, metallic tang of unearned glory. Today, it smelled of floor wax and silence.
 

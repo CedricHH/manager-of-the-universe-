@@ -1,4 +1,4 @@
-ï»¿# Chapter 103: The Liaison
+# Chapter 100: The Liaison
 
 Noon. Broken Barrel Inn.
 
@@ -6,7 +6,7 @@ Victor arrived fifteen minutes early.
 
 Tactical advantage: observe the terrain, identify exits, assess threats before the primary contact.
 
-The inn occupied a corner of the Adventurer's Districtâ€”three stories of weathered wood and iron-bound doors. Popular with mid-tier dungeon runners who'd survived long enough to develop opinions about ale quality.
+The inn occupied a corner of the Adventurer's District—three stories of weathered wood and iron-bound doors. Popular with mid-tier dungeon runners who'd survived long enough to develop opinions about ale quality.
 
 Victor entered.
 
@@ -26,17 +26,17 @@ He activated [Performance Review].
 
 The unknown sat in the corner booth.
 
-Back to the wall. Clear sightlines to both exits. Hands visible on the tableâ€”no concealed weapons in immediate reach, but that didn't mean unarmed.
+Back to the wall. Clear sightlines to both exits. Hands visible on the table—no concealed weapons in immediate reach, but that didn't mean unarmed.
 
 **Kira.**
 
 She'd arrived before him.
 
-Victor dismissed the ARMI interface and crossed the room. No hesitation. Showing weakness to a Consortium evaluator would be fatalâ€”professionally, possibly literally.
+Victor dismissed the ARMI interface and crossed the room. No hesitation. Showing weakness to a Consortium evaluator would be fatal—professionally, possibly literally.
 
 She watched him approach. Same calm assessment he'd use on a negotiation opponent.
 
-Mid-twenties. Practical leather armor, well-maintained but not ornate. No visible weapons. ARMI interface visible as a faint crystal pendant around her neckâ€”different model than his. Higher clearance, probably.
+Mid-twenties. Practical leather armor, well-maintained but not ornate. No visible weapons. ARMI interface visible as a faint crystal pendant around her neck—different model than his. Higher clearance, probably.
 
 Her posture wasn't defensive. Wasn't aggressive. Just... neutral. Professional. The stance of someone evaluating a resource.
 
@@ -52,7 +52,7 @@ Victor sat.
 
 "Neither do I. Which is why I'm here."
 
-Kira smiledâ€”brief, professional. "Good. We understand each other."
+Kira smiled—brief, professional. "Good. We understand each other."
 
 The innkeeper approached, a broad-shouldered woman with scar tissue on her knuckles. "What'll it be?"
 
@@ -68,7 +68,7 @@ The innkeeper left. Kira leaned forward, elbows on the table.
 
 "Restructurers."
 
-"Correct. But not the same kind." She tapped her crystal pendant. "I'm here to determine if Victor Kaineâ€”Restructurer number REDACTED, formerly 'The Chainsaw'â€”is an asset worth investing in, or a liability that needs corrective action."
+"Correct. But not the same kind." She tapped her crystal pendant. "I'm here to determine if Victor Kaine—Restructurer number REDACTED, formerly 'The Chainsaw'—is an asset worth investing in, or a liability that needs corrective action."
 
 Victor kept his expression neutral. "Define 'corrective action.'"
 
@@ -80,7 +80,7 @@ Victor kept his expression neutral. "Define 'corrective action.'"
 
 **Yet.**
 
-Victor ran probabilities. She was being transparentâ€”unusual for Consortium oversight. Most evaluators hid their power until they needed to use it. Kira was showing hers upfront.
+Victor ran probabilities. She was being transparent—unusual for Consortium oversight. Most evaluators hid their power until they needed to use it. Kira was showing hers upfront.
 
 Intimidation tactic, or professional courtesy?
 
@@ -114,7 +114,7 @@ The innkeeper returned with water. Kira waited until they were alone again befor
 
 "The Galactic Audit Consortium operates in tiers. You've seen the first two."
 
-She traced a diagram on the table with her fingerâ€”invisible, but Victor followed the pattern.
+She traced a diagram on the table with her finger—invisible, but Victor followed the pattern.
 
 "**Tier One: Recruitment.** That's where you were during Arc 1. Goal: one million gold in thirty days. Seventy-three percent failure rate. Failures are liquidated or reassigned to manual labor worlds."
 
@@ -134,7 +134,7 @@ The Consortium wasn't interested in participation trophies.
 
 Victor leaned back. "You're Tier Three. You're here to see if I should be Tier Three."
 
-"Partially correct. I'm here to see if you should be *fast-tracked*." Kira's expression shiftedâ€”still professional, but with an edge of something else. Urgency? "The Consortium has a problem."
+"Partially correct. I'm here to see if you should be *fast-tracked*." Kira's expression shifted—still professional, but with an edge of something else. Urgency? "The Consortium has a problem."
 
 "What kind of problem?"
 
@@ -148,11 +148,11 @@ Victor said nothing. She knew everything. Every loophole he'd exploited. Every r
 
 "So what's the problem you need someone like me for?"
 
-Kira reached into her coat and pulled out a small data crystalâ€”dark blue, encoded with Consortium encryption patterns.
+Kira reached into her coat and pulled out a small data crystal—dark blue, encoded with Consortium encryption patterns.
 
 She slid it across the table.
 
-"There's a world. Tier Four operation. The Consortium invested heavilyâ€”infrastructure, government loans, resource extraction contracts. It's failing. Standard Restructurers can't fix it because the problem isn't economic. It's political. Institutional. The kind of mess that requires someone who can weaponize bureaucracy."
+"There's a world. Tier Four operation. The Consortium invested heavily—infrastructure, government loans, resource extraction contracts. It's failing. Standard Restructurers can't fix it because the problem isn't economic. It's political. Institutional. The kind of mess that requires someone who can weaponize bureaucracy."
 
 Victor picked up the crystal. Examined it under the light. Genuine Consortium encoding.
 
@@ -160,7 +160,7 @@ Victor picked up the crystal. Examined it under the light. Genuine Consortium en
 
 "And if I refuse?"
 
-"You continue your ten-million-gold grind. Alone. No support. No Consortium resources beyond basic ARMI access. You either succeed in five yearsâ€”maybeâ€”and get promoted, or you fail and get reassigned."
+"You continue your ten-million-gold grind. Alone. No support. No Consortium resources beyond basic ARMI access. You either succeed in five years—maybe—and get promoted, or you fail and get reassigned."
 
 "And if I accept?"
 
@@ -178,7 +178,7 @@ Kira didn't blink. "The mission planet is a deathtrap. Seven previous Restructur
 
 Silence.
 
-The inn's background noiseâ€”laughter, clinking mugs, a bard tuning a luteâ€”felt distant.
+The inn's background noise—laughter, clinking mugs, a bard tuning a lute—felt distant.
 
 "And you're offering this to me," Victor said slowly, "because...?"
 
@@ -278,7 +278,7 @@ Victor stared at the prompt.
 
 A five-way civil war. Nation-state economics. Political assassination.
 
-Twelve million gold at stakeâ€”more than his current ten-million-gold target.
+Twelve million gold at stake—more than his current ten-million-gold target.
 
 Four Restructurers dead. Three psychologically broken.
 
@@ -363,7 +363,7 @@ And when the Guild Master tried to retaliate?
 
 Victor would bury him.
 
-Thenâ€”and only thenâ€”would he open Kira's file and decide if he wanted to bury kingdoms.
+Then—and only then—would he open Kira's file and decide if he wanted to bury kingdoms.
 
 One problem at a time.
 
@@ -373,7 +373,7 @@ That's how you win impossible negotiations.
 
 *Somewhere in the Market Quarter, Kira sat in a rented room above a bakery.*
 
-*She reviewed her own ARMI interfaceâ€”a private log the Consortium would never see.*
+*She reviewed her own ARMI interface—a private log the Consortium would never see.*
 
 > **Personal Assessment: Victor Kaine**
 > 

@@ -1,4 +1,4 @@
-# Chapter 67: The Counteroffer
+# Chapter 64: The Counteroffer
 
 Forty-eight hours.
 

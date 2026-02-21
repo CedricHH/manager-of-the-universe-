@@ -1,4 +1,4 @@
-# Chapter 63: The Gilded Ledger
+# Chapter 60: The Gilded Ledger
 
 The Bank of Oakhaven didn't look like a place where money was stored. It looked like a place where money was worshipped.
 

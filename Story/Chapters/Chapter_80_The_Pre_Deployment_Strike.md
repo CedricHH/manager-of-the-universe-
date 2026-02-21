@@ -1,4 +1,4 @@
-# Chapter 83: The Pre-Deployment Strike
+# Chapter 80: The Pre-Deployment Strike
 
 The aural environment of the Bureau of Imperial Audit at night was a symphony of scratching quills and the low, electrical hum of data-crystals. In Victor’s office, the air tasted like cold copper and the strong, bitter tonic that Silas had been brewing in a corner.
 

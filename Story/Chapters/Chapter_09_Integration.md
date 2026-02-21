@@ -1,4 +1,4 @@
-# Chapter 9: Integration
+# Chapter 09: Integration
 
 The new goblins ate last.
 

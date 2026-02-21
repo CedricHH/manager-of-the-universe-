@@ -1,4 +1,4 @@
-# Chapter 5: The First Paycheck
+# Chapter 05: The First Paycheck
 
 The Alpha Rat finished its second helping of slime jelly and regarded Victor with eyes that held no hostility—only calculation.
 

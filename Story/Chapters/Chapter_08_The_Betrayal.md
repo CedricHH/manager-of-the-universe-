@@ -1,4 +1,4 @@
-# Chapter 8: The Betrayal
+# Chapter 08: The Betrayal
 
 Sniv was learning to count.
 

@@ -1,4 +1,4 @@
-# Chapter 58: The Boss Fight
+# Chapter 55: The Boss Fight
 
 > **[ARMI]**
 > Combat Assessment: 1 vs 4.
@@ -341,8 +341,6 @@ Four hours to convert a warzone into a VIP lounge.
 He looked at Vorne.
 
 "And you're signing that document. Now."
-
----
 
 ---
 

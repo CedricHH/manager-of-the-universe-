@@ -1,4 +1,4 @@
-# Chapter 86: The Black Envelope
+# Chapter 83: The Black Envelope
 
 The dust from the implosion of the Spire Garden mines did not settle like normal dust. It hung in the air, glittering with the suspended particulate of vaporized mana stones, casting a prism of golden light over the ruin.
 

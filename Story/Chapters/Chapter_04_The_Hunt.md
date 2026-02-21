@@ -1,4 +1,4 @@
-# Chapter 4: The Hunt
+# Chapter 04: The Hunt
 
 Victor calculated the rate of decay in the air; it was a leading indicator of untapped market potential on Floor Two.
 

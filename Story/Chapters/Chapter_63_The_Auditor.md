@@ -1,4 +1,4 @@
-# Chapter 66: The Auditor
+# Chapter 63: The Auditor
 
 The letter arrived via registered magical courier—the expensive kind that required a signature in blood.
 

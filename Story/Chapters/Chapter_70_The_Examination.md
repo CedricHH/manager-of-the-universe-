@@ -1,4 +1,4 @@
-# Chapter 73: The Examination
+# Chapter 70: The Examination
 
 Dawn.
 

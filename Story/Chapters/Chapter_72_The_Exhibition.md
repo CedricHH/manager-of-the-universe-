@@ -1,4 +1,4 @@
-# Chapter 75: The Exhibition
+# Chapter 72: The Exhibition
 
 8:00 AM.
 

@@ -1,4 +1,4 @@
-# Chapter 98: The Executor
+# Chapter 95: The Executor
 
 Executor Veyra stood in the Core Chamber.
 

@@ -1,4 +1,4 @@
-# Chapter 69: The Volcano
+# Chapter 66: The Volcano
 
 The morning after the Merchant's Guild deal, Victor stood before the sealed gateway to Floor 5.
 

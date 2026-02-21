@@ -1,4 +1,4 @@
-# Chapter 81: The Imperial Onboarding
+# Chapter 78: The Imperial Onboarding
 
 The interior of the obsidian carriage didn't feel like a vehicle. To Victor Kaine, it felt like a premiere-class lounge on a trans-Atlantic flight, minus the crying infants and the stale peanuts.
 

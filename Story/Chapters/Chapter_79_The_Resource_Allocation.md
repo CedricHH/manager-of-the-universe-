@@ -1,4 +1,4 @@
-# Chapter 82: The Resource Allocation
+# Chapter 79: The Resource Allocation
 
 The office on the third tier of the Bureau of Imperial Audit was a masterpiece of clinical minimalism. It wasn't designed to be comfortable; it was designed to be transparent. 
 

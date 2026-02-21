@@ -1,4 +1,4 @@
-# Chapter 74: The Phenomenon
+# Chapter 71: The Phenomenon
 
 Week 2 of the Ember Trials.
 

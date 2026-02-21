@@ -1,4 +1,4 @@
-# Chapter 2: The First Contract
+# Chapter 02: The First Contract
 
 The goblins froze.
 

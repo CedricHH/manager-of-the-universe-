@@ -1,4 +1,4 @@
-# Chapter 61: The Divine Audit
+# Chapter 58: The Divine Audit
 
 The door to the Core Room didn't open. It didn't shatter. It simply ceased to exist.
 

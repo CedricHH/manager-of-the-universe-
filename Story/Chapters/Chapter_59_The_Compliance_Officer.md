@@ -1,4 +1,4 @@
-# Chapter 62: The Compliance Officer
+# Chapter 59: The Compliance Officer
 
 The morning sun hit the entrance of Insolvia Holdings, illuminating the fresh coat of paint, the polite signage ("Please Wipe Your Boots"), and the seven-foot-tall heavily armored zealot blocking the driveway.
 

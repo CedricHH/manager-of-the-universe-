@@ -1,4 +1,4 @@
-# Chapter 90: The Liquidation
+# Chapter 87: The Liquidation
 
 The crossbow bolt was aimed at Barnaby's chest, but Victor was analyzing the bandit leader's boots.
 

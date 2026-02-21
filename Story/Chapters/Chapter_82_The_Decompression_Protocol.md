@@ -1,4 +1,4 @@
-# Chapter 85: The Decompression Protocol
+# Chapter 82: The Decompression Protocol
 
 The bio-luminescent flora of the Spire Gardens turned a violent, warning shade of crimson. The ground beneath the floating obsidian platforms shuddered, sending ripples through the mana-fountains and causing expensive wine to spill onto even more expensive silk.
 

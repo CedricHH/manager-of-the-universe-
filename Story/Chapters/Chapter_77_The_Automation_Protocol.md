@@ -1,4 +1,4 @@
-# Chapter 80: The Automation Protocol
+# Chapter 77: The Automation Protocol
 
 The mahogany desk in the administrative office of Dungeon Insolvia was perfectly clear. No stray scrolls, no half-finished ledgers, and certainly no sentimental trinkets. Victor Kaine liked it that way. A clean desk was the mark of a system that functioned without the need for manual interference.
 

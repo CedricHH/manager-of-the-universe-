@@ -1,4 +1,4 @@
-ï»¿# Chapter 101: The Expansion Plan
+# Chapter 98: The Expansion Plan
 
 Six hours after achieving the million.
 
@@ -135,7 +135,7 @@ He sent a mental pulse to Nova through the dungeon network. The Core's conscious
 
 "Floor 2 modification. I need forty percent of the Fungal Caverns converted into slime breeding pools. Industrial scale. Output target: two thousand cores per week."
 
-The light flickeredâ€”Nova's equivalent of a raised eyebrow.
+The light flickered—Nova's equivalent of a raised eyebrow.
 
 "That's ten times current production. The ecosystem will collapse."
 
@@ -213,11 +213,11 @@ He gestured. The first screen expanded.
 
 Next screen.
 
-"Our production capacity as of one hour ago: two thousand slime cores per week. Production cost per potion: three silver. If we price at ten silverâ€”80% below Guild ratesâ€”our margin is 233%."
+"Our production capacity as of one hour ago: two thousand slime cores per week. Production cost per potion: three silver. If we price at ten silver—80% below Guild rates—our margin is 233%."
 
 Asterion's eyes narrowed. "The Guild has killed competitors before."
 
-"Which is why we're not competing. Phase one: silent production. Two weeks. We stockpile four thousand cores and hire alchemist defectors at triple Guild wages. Phase two: market launch. We open Insolvia Apothecary in the Market Quarter with prices the Guild can't match. Phase three: Guild response. They'll try price war, sabotage, and smear campaigns. We counter with stockpiled inventory and legal contracts with the City Guardâ€”bulk discount, of course."
+"Which is why we're not competing. Phase one: silent production. Two weeks. We stockpile four thousand cores and hire alchemist defectors at triple Guild wages. Phase two: market launch. We open Insolvia Apothecary in the Market Quarter with prices the Guild can't match. Phase three: Guild response. They'll try price war, sabotage, and smear campaigns. We counter with stockpiled inventory and legal contracts with the City Guard—bulk discount, of course."
 
 Sniv's hand shot up. "What is phase four?"
 
@@ -239,7 +239,7 @@ Sniv scribbled frantically. "Boss is doing... hostile takeover! Sniv knows this 
 
 "Understood."
 
-"Budget allocation: thirty thousand gold for initial operations. Five thousand for store construction. Fifteen thousand for slime farmâ€”already spent. Eight thousand for inventory. Two thousand for hired alchemists."
+"Budget allocation: thirty thousand gold for initial operations. Five thousand for store construction. Fifteen thousand for slime farm—already spent. Eight thousand for inventory. Two thousand for hired alchemists."
 
 Victor stood. "Questions?"
 
@@ -298,7 +298,7 @@ Another Restructurer. Here. In *his* city.
 
 The Consortium hadn't mentioned territorial conflicts. Then again, they hadn't mentioned a lot of things.
 
-He pulled up the mana signature map. The unknown energy pulsed from somewhere in the Market Quarterâ€”irregular intervals, low intensity, but unmistakable. Same frequency as his own ARMI interface.
+He pulled up the mana signature map. The unknown energy pulsed from somewhere in the Market Quarter—irregular intervals, low intensity, but unmistakable. Same frequency as his own ARMI interface.
 
 Probability matrix:
 
@@ -337,7 +337,7 @@ Competition, after all, was just another market inefficiency waiting to be corre
 
 ---
 
-*In the Market Quarter, a hooded figure examined a potion vial under moonlight. The liquid inside glowed with an unnatural golden shimmerâ€”brighter than any alchemist's work, more stable than any dungeon drop.*
+*In the Market Quarter, a hooded figure examined a potion vial under moonlight. The liquid inside glowed with an unnatural golden shimmer—brighter than any alchemist's work, more stable than any dungeon drop.*
 
 *The figure smiled and tucked the vial away.*
 
