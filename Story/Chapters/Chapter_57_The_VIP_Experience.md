@@ -14,7 +14,7 @@ Prince Aldric, on the other hand, was delighted. He took a goblet, sniffed it, a
 
 "Cryo-Slime extract," Victor lied. (It was just ice, but royals loved exotic adjectives). "Sustainable and zero-carbon footprint."
 
-"Fascinating." Aldric walked over to the reception desk, where Sniv was standing on a crate, sweating through his maid outfit. The goblin curstyed so hard he nearly tipped over.
+"Fascinating." Aldric walked over to the reception desk, where Sniv was standing on a crate, sweating through his maid outfit. The goblin **curtsied** so hard he nearly tipped over.
 
 "Greetings, Your High-ness!" Sniv squeaked. "Welcome to Insolvia! Please do not kill us!"
 
@@ -85,7 +85,7 @@ Kael stepped out from the opposite gate. He wasn't wearing his usual grim mercen
 
 "Hup!" Kael shouted.
 
- The wolves didn't attack. They *circled*.
+The wolves didn't attack. They *circled*.
 
 At Kael’s signal, the wolves leaped—not at him, but *over* him. They performed a synchronized figure-eight weave.
 
@@ -194,7 +194,7 @@ He turned to Victor.
 
 Victor pulled a notepad from his pocket.
 
-"I can generate 5,000 gold pieces a month in net revenue. Tax-free. Unregulated. Potions. Loot. XP farming fees."
+"I can generate 5,000 gold pieces a month in net revenue. Off your official ledger—unregulated by the Guild. Potions. Loot. XP farming fees."
 
 Aldric whistled. "5,000. That would pay for a new regiment."
 
@@ -214,7 +214,7 @@ Aldric smiled. It wasn't a nice smile. It was the smile of a desperate landlord 
 
 They turned back to the group.
 
-Victor felt a wave of relief. He had bought the Prince. He had won.
+Victor ran a quick internal audit. Threat: neutralized. Revenue: secured. Operational independence: preserved. Net outcome: positive.
 
 But as they approached the lobby, the air grew cold again.
 
@@ -237,7 +237,7 @@ She pointed her staff directly at the heavy iron door that led to the Heart of t
 > **Exposure Probability**: 99%.
 > **Action Required**: IMMEDIATE INTERVENTION.
 
-Victor froze. The Prince's Charter couldn't save him from this. If she found Nova, she would call down an orbital strike.
+Victor's ARMI feed stopped refreshing. The Prince's Charter couldn't save him from this. If she found Nova, she would call down an orbital strike. He had approximately two seconds to manufacture a plausible lie.
 
 "That," Victor interrupted loudly, stepping between her and the door. "That is the... Executive Washroom. Very private."
 
@@ -246,7 +246,6 @@ Aurelia raised her staff. The tip began to glow with a light that wasn't for sho
 "Move," she commanded.
 
 **Status**: The Prince is bought. But the Priestess is about to breach.
-
 
 ---
 

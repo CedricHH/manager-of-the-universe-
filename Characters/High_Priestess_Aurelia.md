@@ -115,6 +115,17 @@ Church Miracle Supply sichern, Archbishop-Leverage eliminieren, political Surviv
 - Did not smile. Did not look bored. Looked at Victor like a *stain on a white tablecloth.*
 - **NOTE**: This is her pre-partnership antagonist phase (Ch 56). Partnership evolves later (Ch 91-97).
 
+**Kapitel 57 - The Arena & World Core Detection**:
+
+- Challenged Victor in the Arena by summoning a **Level 35 Sun-Construct** without warning — caught him off-guard
+- Victor countered with "Disco Protocol" (prismatic slime gel scattering the holy light into a harmless rainbow display)
+- Sun-Construct slipped on slime; Aurelia's dignity evaporated publicly in front of Prince Aldric
+- Quoted: "You mock the power of the Sun." / Victor: "I demonstrated versatility."
+- Later: Used a **golden compass** to divine-scan the dungeon — detected something through Victor's shielding
+- Identified a **World Core** behind the iron door (Nova's chamber): "There is something ancient down there. Something forbidden."
+- ARMI Alert: **Exposure Probability 99%** — was raising a Bunker-Buster spell when Victor intervened
+- **Status**: Chapter ends with staff raised, about to breach the World Core chamber — cliffhanger
+
 **Kapitel 91-95 - Coalition Crisis**: Church Paladins detained Victor für "unauthorized Miracle Trading"; Aurelia sah Opportunity; Partnership Negotiations began
 
 **Kapitel 96 - The Cathedral**:

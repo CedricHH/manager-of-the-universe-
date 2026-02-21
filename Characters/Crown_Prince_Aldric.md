@@ -1,9 +1,9 @@
 # Crown Prince Aldric Valdris II
 
-> **Rolle**: Future Strategic Asset / Partner  
+> **Rolle**: Strategic Business Partner / Royal Patron  
 > **Klasse/Spezies**: Human (Heir Apparent, Level 27)  
 > **Archetyp**: Der Idealistische Reformer  
-> **Status**: Aktiv (Arrived at Insolvia Holdings, Ch 56)
+> **Status**: Aktiv (Royal Charter granted to Insolvia Holdings, Ch 57)
 
 ---
 
@@ -15,7 +15,7 @@
 | **Titel** | Crown Prince of Valdris, Head of Eastern Revenue Commission |
 | **Level** | 27 |
 | **Erstauftritt** | Kapitel 51 (Indirekt/Messenger), Kapitel 56 (Erste physische Erscheinung) |
-| **Aktueller Status** | At Insolvia Holdings; VIP inspection underway |
+| **Aktueller Status** | Royal Charter issued; 15% consulting fee active |
 
 ---
 
@@ -28,6 +28,7 @@
 - **Gerechtigkeitsinn**: Hasst Korruption (was ihn anfällig für Victors "transparente" Korruption macht).
 - **Charming & Practiced**: His smile and demeanor are polished — but soft. Has clearly never faced real hardship.
 - **Curious rather than hostile**: Initial reaction to Insolvia was *boredom* turning to interest — not immediate aggression.
+- **Hidden Calculating Intelligence**: Behind the charming façade is a shrewd operator. He led with the kingdom's debt immediately and negotiated Victor up to 20% before accepting 15% + enchanted armor. Victor was surprised. Not soft at all.
 
 ---
 
@@ -35,7 +36,7 @@
 
 | Character | Beziehung | Status |
 |-----------|-----------|--------|
-| **Victor Kaine** | VIP Inspection Target → Potential Asset | First meeting (Ch 56); charmed by Victor's poise |
+| **Victor Kaine** | Business Partner / Patron | deal struck Ch 57: 15% consulting fee + Royal Charter |
 | **King Aldric IV** | Vater | Respektvoll; sucht Anerkennung |
 | **Lord Sterling** | Lehnsherr | Skeptisch gegenüber Sterlings Ambitionen |
 | **High Priestess Aurelia** | Travelling Companion | She serves as his theological advisor / inquisitor |
@@ -46,7 +47,9 @@
 
 - **Kapitel 51**: Erteilte Marschbefehl zur Inspektion von Insolvia Holdings; Timeline auf 72 Stunden verkürzt. Wird von Victor als "Lösung für das Schuldenproblem der Krone" anvisiert.
 
-- **Kapitel 56 - First Physical Appearance**: Arrived at Insolvia Holdings in white-and-gold royal carriage (Crest: Lion holding Sun, Kingdom of Valdris). Physical description: young (~20), golden hair, face of someone who has never known hardship. First words: "Smaller than the reports said." Referred to Victor as "the Manager" and noted he'd heard "fascinating things." Said advisors called Victor a threat to economic stability — Victor reframed as disruption vs. missed opportunity. Aldric was charmed and laughed. **Crucially**: He brought High Priestess Aurelia as his theological auditor — and she is the real threat.
+- **Kapitel 56 - First Physical Appearance**: Arrived at Insolvia Holdings in white-and-gold royal carriage. Physical description: young (~20), golden hair. First words: "Smaller than the reports said." Charmed by Victor's framing of disruption.
+
+- **Kapitel 57 - The Deal**: Separated Victor from the group for a private conversation. Led with: "My father is broke." Revealed the Kingdom is asset-rich, cash-poor (wars, Church tithes, Guild monopoly fees). Counter-proposed 20% consulting fee (Victor held at 15% + enchanted armor). **DEAL STRUCK**: 15% "Consulting Fee" direct deposit to Aldric, discretionary — in exchange for a **Royal Charter granting Insolvia 'Provisional Status'** that overrides the Guild's injunction. Promised to manage Aurelia.
 
 ---
 
