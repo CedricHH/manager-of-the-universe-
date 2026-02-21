@@ -1,32 +1,40 @@
 # Chapter 60: The Gilded Ledger
 
-The Bank of Oakhaven didn't look like a place where money was stored. It looked like a place where money was worshipped.
+The Merchant's Ball was not a party. It was a battlefield where the weapons were silk, scandal, and compound interest.
 
-The Gilded Ledger was a massive structure of white marble and brass, dominating the Merchant Quarter. It had no windows, only a skylight that focused beams of sunlight onto the tellers' cages. The silence inside was heavy, smelling of ink, parchment, and the dry, metallic scent of gold dust.
+Held in the Grand Atrium of the Guildhall, the event was a mandatory social audit for anyone who mattered in Oakhaven. Crystal chandeliers dripped with actual liquid light. High-tier bards played string quartets that subtly cast [Aura of Compliance] over the crowd.
 
-Valerius adjusted his tie nervously as they walked across the polished floor. His footsteps echoed like gunshots.
+Victor adjusted his cuffs, ignoring the enchanted music. He stood by a table carved from a single block of enchanted ice, watching the elite of the Kingdom mingle.
 
-"Boss," Valerius whispered. "Be careful. They own the King. They own half the Guild. If we default on a handshake here, they don't send collectors. They send erasure mages."
+> **[ARMI - MARKET CAP SCAN]**
+> **Total Entities**: 412
+> **Estimated Net Worth (Room)**: 84.5 Million GP
+> **Primary Demographic**: Monopolists, Aristocrats, Bank Directors.
+> **Survival Requirement**: Do not blink.
 
-"Relax, Valerius," Victor said, admiring the ceiling fresco which depicted a golden dragon eating a poor peasant. "We aren't here to beg. We're here to negotiate."
+Valerius stood next to him, clutching his ledger like a shield. The accountant looked like he was about to vomit from sheer financial intimidation.
+
+"Boss," Valerius whispered, his eyes darting toward a group of men in velvet coats trimmed with gold coins. "Those are the Senior Partners of the Gilded Ledger. We shouldn't be here. They own the King. They own half the Guild. If we default on a handshake with them, they don't send collectors. They send erasure mages."
+
+"Relax, Valerius," Victor said, admiring a baroness who was wearing a literal minor dungeon core as a necklace. "We aren't here to beg. We were invited. We're here to negotiate."
 
 Victor carried a black briefcase. Inside was a single sheet of paper: The ARMI yield projection.
 
-They approached the central desk. An obsidian golem sat behind it.
+A servant in a featureless white mask approached them. He didn't carry a drink tray. He carried a silver salver with a single black envelope.
 
-"Appointment?" the golem rumbled.
+"Mr. Kaine," the servant said, his voice magically muffled. "Director Malcom will see you now. The Alabaster Booth."
 
-"Victor Kaine," Victor said. "For Director Malcom."
-
-The golem didn't check a list. It just nodded. "The Director is expecting you. Penthouse Level."
+Victor took the envelope, tapped the terrified Valerius on the shoulder, and followed the servant up a spiraling glass staircase, leaving the loud music of the ballroom behind.
 
 ***
 
-**The Director's Office**
+**The VIP Balcony**
+
+The Alabaster Booth was a soundproofed glass box suspended directly above the ballroom. It offered a perfect, predatory view of the dancers below.
 
 Director Malcom was a High Elf. This meant he looked roughly thirty years old, but his eyes held the crushing boredom of someone who had watched empires rise and fall and found their fiscal policies lacking.
 
-He sat behind a desk made of Weirwood—priceless, imperishable—and watched Victor enter.
+He sat behind a semi-circular desk made of Weirwood—priceless, imperishable—and watched Victor enter.
 
 "Mr. Kaine," Malcom said. His voice was smooth, like liquid mercury. "The Dungeon Manager. The man who blackmailed an Inspector and bribed a Prince in the same week. Your credit score is... volatile."
 
@@ -78,17 +86,25 @@ Malcom paused. His elven eyes narrowed.
 
 "I am securitizing the *probability*," Victor corrected. "We know the drop rates. We know the market value of a +1 Fire Sword. You get the upside. If we drop a Legendary Item? You get 20%. If we drop trash? You take the hit. High risk. Infinite reward."
 
-Malcom picked up the paper. He began to calculate. High Elves were faster than computers.
+Malcom picked up the paper. He began to calculate. His eyes moved rapidly over the columns.
+
+*Biological processing power matching a silicon mainframe,* Victor thought admiringly.
 
 "If your drop rates are accurate," Malcom murmured, "the ROI could exceed 25% annually."
 
 "30%," Victor pushed. "If we hit the motherlode on Floor 6."
 
-"But the risk," Malcom said. "You have a Paladin at your door. Traffic is down."
+"But the risk," Malcom said, tapping his quill against the desk. "You have a Paladin of the Eternal Light stationed at your front door. Our analysts show your daily foot traffic dropped by sixty percent this morning. The criminal element—your highest lifetime-value customers—have fled. How do you generate Loot Futures with an empty dungeon?"
 
-"Traffic is recovering," Victor countered. "We rebranded the Paladin as a 'Security Feature.' We are attracting a higher class of clientele. Wealthy sinners who want to grind XP under the watchful eye of the Church. The 'Penance Market' is untapped, Director."
+Victor didn't blink. He had prepared for this exact stress-test.
 
-Malcom looked at Victor. Really looked at him.
+"Traffic is recovering," Victor countered smoothly. "We implemented an immediate pivot. We rebranded the Paladin from a 'Quarantine Officer' to a 'Premium Security Feature.' We are aggressively targeting a completely new demographic: wealthy sinners. Nobles, merchants, politicians. People who want to grind XP for vanity, but are terrified of getting PKed by rogue assassins in Unsanctioned Zones."
+
+Malcom stopped tapping the quill.
+
+"We sell them the 'Penance Experience'," Victor continued, his [Sales Voice] perfectly calibrated for a board room. "They get to fight curated, managed monsters. They get a discount on entry fees if they interact with the Paladin on the way in. It's safe, it's trendy, and most importantly, it monetizes the Church's blockade. The 'Guilt Market' is entirely untapped, Director. And we have a monopoly on it."
+
+Malcom looked at Victor. Really looked at him. The Elf's ancient eyes stripped away the suit and the tie, searching for the monster underneath.
 
 "You are a strange creature, Mr. Kaine. You speak of souls and swords as if they are merely... assets."
 
@@ -106,11 +122,11 @@ Malcom opened a drawer and pulled out a heavy sack. It clinked with the sound of
 
 ***
 
-**The Exit**
+**The Ballroom Floor**
 
-Valerius held the sack of platinum like it was a baby. "Ten thousand gold, Boss! We're rich! We can build the new trap room! We can give Sniv a raise!"
+Valerius held the heavy sack of platinum like it was a baby. "Ten thousand gold, Boss! We're rich! We can build the new trap room! We can give Sniv a raise!"
 
-They walked out into the sunlight. The Paladin, Sir Roland, was still standing there, staring at nothing.
+They walked back down the glass staircase, merging back into the loud, fragrant crush of the dancing nobility.
 
 Victor didn't celebrate. He felt a weight on his shoulders that had nothing to do with the money.
 
@@ -120,17 +136,17 @@ Victor didn't celebrate. He felt a weight on his shoulders that had nothing to d
 
 "We invited the sharks into the pool," Victor said. "The Bank doesn't just want money. They want data. Malcom will be analyzing every drop, every kill. If we miss our targets... they won't just foreclose. They'll liquidate."
 
-He glanced back at the Gilded Ledger.
+He glanced back up at the ceiling.
 
-In the penthouse window, Director Malcom was watching them.
+High above the crowd, in the soundproofed Alabaster Booth, Director Malcom was watching them.
 
 ***
 
-**The Director's Office - Moments Later**
+**The VIP Balcony - Moments Later**
 
-Malcom watched Victor disappear into the crowd.
+Malcom watched Victor disappear into the shifting sea of dancers below.
 
-He opened a secret compartment in his desk. He pulled out another file. It was stamped with the Sun-Seal of the Church.
+He didn't return to the party. He opened a secret compartment built into the Weirwood desk. He pulled out another file. It was stamped with the Sun-Seal of the Church.
 
 **Report: High Priestess Aurelia.**
 **Subject: Insolvia Holdings.**
@@ -162,5 +178,5 @@ He sealed the letter.
 
 ---
 
-**Word Count**: 1137
+**Word Count**: 1502
 **Next Chapter**: [The Capital Injection]

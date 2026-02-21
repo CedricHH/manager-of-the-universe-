@@ -137,6 +137,12 @@ Church Miracle Supply sichern, Archbishop-Leverage eliminieren, political Surviv
 - **Result**: A Paladin of the Eternal Light will now be stationed permanently outside the dungeon to audit "corruption."
 - Warned Victor that Aldric's protection is mortal and she will be waiting for him to slip.
 
+**Kapitel 60 - The Secret Audit**:
+
+- Revealed she is using Director Malcom of the Gilded Ledger Bank as a financial intelligence asset against Victor.
+- Authorized the Bank to "tether" Victor financially to monitor "corruption" without breaching the Crown's charter.
+- Strategy: Bankrupt Victor through debt liquidation before she has to physically burn him.
+
 **Kapitel 91-95 - Coalition Crisis**: Church Paladins detained Victor für "unauthorized Miracle Trading"; Aurelia sah Opportunity; Partnership Negotiations began
 
 **Kapitel 96 - The Cathedral**:

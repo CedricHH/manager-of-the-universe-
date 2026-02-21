@@ -180,5 +180,5 @@ Victor turned to Valerius.
 
 ---
 
-**Word Count**: 1245
+**Word Count**: 1575
 **Next Chapter**: [The Gilded Ledger]
