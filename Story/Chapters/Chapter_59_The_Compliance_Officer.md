@@ -50,7 +50,7 @@ Victor stood by the reception desk, watching the visitor counter.
 
 "Scarecrow works on crows," Sniv pointed out helpfully. "Adventurers are like crows. Shiny things! Caw caw!"
 
-Victor looked at the goblin. Sniv was wearing a laminated badge that said **LICENSED COMPLIANCE ASSISTANT**. He looked very proud.
+Victor looked at the goblin. Sniv was wearing a laminated badge that said **LICENSED COMPLIANCE ASSISTANT**, which Victor had printed that morning for exactly three copper pieces to annoy the Paladin. Sniv looked very proud of it.
 
 "You're right, Sniv," Victor said. "They are attracted to shiny things. And they are afraid of the dark. So..."
 
@@ -107,11 +107,23 @@ Slowly, the trickle started. It wasn't the usual flood, but it was business.
 
 "Revenue is at 60% of normal," Valerius reported. "Better than zero. But we lost the 'High Rollers'."
 
-"The Necromancers?" Victor asked.
+"The Necromancers?" Victor asked, pulling up a secondary spreadsheet on his HUD.
 
 "And the Warlocks. The Assassins. Anyone with a bounty or a dark pact won't come within a mile of Roland. That's our premium clientele."
 
-Victor sighed. "The Paladin is a filter. He filters out the darkness. Which is ironic, because that's usually where the money is."
+Victor sighed, rubbing his temples. "The Paladin is a filter. He filters out the darkness. Which is ironic, because that's usually where the high-margin revenue is."
+
+"Boss, the margins are already razor-thin," Valerius pointed out, tapping a stack of ledgers that reached his chin. "You played a brilliant game securing the Royal Charter, but let’s look at your cap table. Fifty percent of gross base revenue goes straight into the Core to keep Nova satisfied. Of the remaining fifty... fifteen percent goes to Prince Aldric. Twelve percent comes to me as your licensed lobbyist. Five percent is Gareth's finder's fee. And thirty-five percent of all Sterling-related vertical integration bypasses our liquid cash flow entirely."
+
+> **[ARMI - FINANCIAL OVERVIEW]**
+> **Gross Daily Revenue (Projected)**: 166 GP
+> **Total External Obligations**: 67% (Post-Core Split)
+> **Net Operating Margin**: 8.2%
+> **Status**: DANGEROUSLY LEVERAGED.
+
+"I am aware of my liabilities, Valerius," Victor said precisely. "I traded equity for existence. I would rather own eight percent of a functional monopoly than one hundred percent of a smoldering crater."
+
+"Yes, but you need *volume* to survive on eight percent," Valerius stressed. "If revenue drops forty percent because Sir Glow-A-Lot is standing on our porch, our burn rate exceeds our income in eleven days."
 
 "We need a new demographic," Valerius said. "Or we need to get rid of him."
 
@@ -135,20 +147,20 @@ A man in a sharp grey suit walked in. He didn't look like an adventurer. He didn
 
 Valerius gasped. "The Bank?"
 
-"We received notice of your recent... liquidity event," the banker said, glancing at the Settlement Agreement pinned to the wall. "And your Royal Charter. The Bank is always interested in emerging markets."
+"We received notice of your recent... liquidity event," the banker said, glancing at the Settlement Agreement pinned to the wall with practiced disdain. "And, more importantly, your Royal Charter. The Bank is always interested in emerging markets, provided they have sovereign backing."
 
-He placed a heavy, cream-colored envelope on the desk.
+He placed a heavy, cream-colored envelope on the desk. The wax seal depicted a golden scale.
 
-"A Line of Credit," the banker said. "And an invitation to the Merchant's Ball. If you are truly 'legal', Mr. Kaine, it is time you stopped playing with swords and started playing with debt."
+"A Line of Credit," the banker said. His voice was as smooth and soulless as polished marble. "Thirty thousand gold pieces, pre-approved. And an invitation to the Merchant's Ball. If you are truly 'legal', Mr. Kaine, it is time you stopped playing with swords and scrounging for entry fees. It is time you started playing with debt."
 
-Victor looked at the letter. It felt heavier than a sword.
+Victor looked at the letter. It felt heavier than a broadsword. He analyzed the banker—the bespoke tailoring, the complete lack of combat calluses, the absolute confidence.
 
 The Church wanted to audit him. The Kingdom wanted to tax him.
-But the Bank? The Bank wanted to *leverage* him.
+But the Bank? The Bank wanted to *leverage* him. They had looked at his impossibly tight margins and seen a desperate man they could quietly chain to an interest rate.
 
-Victor smiled. It was the smile of a shark entering a school of tuna.
+Victor smiled. It was the smile of a shark entering a school of tuna. He loved debt. Debt was just leverage wearing a tailored suit.
 
-"Tell your masters," Victor said, "that I am very interested in discussing... ROI."
+"Tell your masters," Victor said, his voice dropping into its most lethal corporate cadence, "that I am very interested in evaluating their terms. But tell them I don't negotiate with couriers. If they want my paper, the Directors can meet me at the Ball."
 
 The banker nodded and left.
 
@@ -165,7 +177,6 @@ Victor turned to Valerius.
 "Roland can watch the door all he wants," Victor whispered. "Money doesn't use the front door."
 
 **Status**: The compliance era has begun. And Victor just found a way to bypass the blockade.
-
 
 ---
 
