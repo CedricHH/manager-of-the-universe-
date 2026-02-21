@@ -104,14 +104,27 @@ Church Miracle Supply sichern, Archbishop-Leverage eliminieren, political Surviv
 
 ## Kapitel-Geschichte (Kompakt)
 
+**Kapitel 56 - First Appearance at Insolvia (Antagonist Phase)**:
+
+- Accompanied Prince Aldric as theological auditor / inquisitor
+- Wore white-and-gold robes of the High Priestess; staff topped with sun-crystal radiating holy light
+- Physical: ~30 years old, cold blue eyes described as "hard chips of ice"
+- Immediately sensed necromancy and greed in the dungeon; shadows recoiled from her holy aura
+- ARMI Scan: **Threat Level EXTREME** — Affiliation: Church of Eternal Light — **Objective: PURGE**
+- Victor's internal read: "The Prince is the guest. The Priestess is the audit."
+- Did not smile. Did not look bored. Looked at Victor like a *stain on a white tablecloth.*
+- **NOTE**: This is her pre-partnership antagonist phase (Ch 56). Partnership evolves later (Ch 91-97).
+
 **Kapitel 91-95 - Coalition Crisis**: Church Paladins detained Victor für "unauthorized Miracle Trading"; Aurelia sah Opportunity; Partnership Negotiations began
 
-**Kapitel 96 - The Cathedral**: 
+**Kapitel 96 - The Cathedral**:
+
 - Initial Proposal: 50/50 Partnership (Victor supplies, Church distributes)
 - Victor delivers Miracles wholesale, Church resells at Markup
 - Revenue Split 50/50 (90k GP/month to Victor)
 
 **Kapitel 97 - The Restructure**:
+
 - **Problem**: G.A.C. flagged 50/50 als "dependency relationship" Violation
 - **Solution**: Brokerage Model (15% Commission)
   - Victor facilitates Vendor Introductions
@@ -127,11 +140,13 @@ Church Miracle Supply sichern, Archbishop-Leverage eliminieren, political Surviv
 ## Partnership Value (Aktuell)
 
 **For Victor**:
+
 - Steady Revenue Stream (27k GP/month)
 - Institutional Legitimacy (Church Backing)
 - Protection von Church Persecution (Partner vs. Heretic)
 
 **For Aurelia**:
+
 - Reliable Miracle Supply (solves 65% Success Rate Crisis)
 - Political Survival (Archbishop kann't exploit Miracle Shortage)
 - Revenue Generation (Miracle Markup after Commission)
@@ -151,7 +166,8 @@ Church Miracle Supply sichern, Archbishop-Leverage eliminieren, political Surviv
 
 ## Zitate
 
-### Kapitel 96:
+### Kapitel 96
+>
 > "And if I refuse? If I declare you heretic and seize your assets?"
 
 > "Fifteen percent commission. Church requires premium facilitation services."

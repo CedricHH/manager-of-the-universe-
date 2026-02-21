@@ -10,14 +10,14 @@ Across from him, the "Safety Inspection Team" was currently indisposed.
 
 Kaelen, the proud leader, was bound in shadow-chains that pulsed with a dull purple light. His plate armor was dented in the shape of a Minotaur's fist.
 Vara, the mage, was silenced by a gag made of sticky slime.
-Bruk the Barbarian was unconscious, sleeping peacefully after Asterion had introduced him to the concept of 'concussive force.'
+Bruk the Barbarian was unconscious, face planted against the stone after Asterion had administered a very thorough concussion.
 Torque the Rogue was glued to the wall by a Spider-Silk Trap.
 
 Inspector Vorne stood in the center of the carnage. He was unbound, unhurt, and trembling with a rage that was almost impressive in its intensity.
 
 "This is treason," Vorne hissed. "You attacked Royal Officers. You assaulted a Crown Inspector. I will have you executed, Kaine. I will have this entire hill leveled."
 
-Victor didn't look up from his clipboard. "Correction. You initiated a 'Code Red Liquidation' without a warrant. My security team merely neutralized a hostile threat in self-defense. Clause 44 of the Kingdom Self-Defense Act: 'A property owner may use reasonable force to repel armed intruders.'"
+Victor didn't look up from his clipboard. "Correction. You initiated a 'Code Red Liquidation' without a warrant. My security team neutralized a hostile threat under Clause 44 of the Kingdom Self-Defense Act. That clause, incidentally, was upheld in seventeen consecutive rulings. I'm fond of precedent."
 
 "Reasonable?" Vorne gestured to Kaelen, who groaned as the shadow-chains tightened. "You broke his ribs!"
 
@@ -49,9 +49,9 @@ He pulled a second document from his jacket pocket. It was crisp, clean, and alr
 
 "Terms," Victor said.
 
-1. "The events of today were a 'High-Intensity Stress Test Simulation.' All injuries were part of the exercise."
-2. "The Adventurer Guild issues a 'Certificate of Compliance' regarding Insolvia's safety standards, valid for six months."
-3. "You pay the 750 gold invoice for the... 'Simulation Setup Costs'."
+> **ITEM 1.** The events of today were a *'High-Intensity Stress Test Simulation.'* All injuries were part of the exercise.
+> **ITEM 2.** The Adventurer Guild issues a *'Certificate of Compliance'* regarding Insolvia's safety standards, valid for six months.
+> **ITEM 3.** You pay the 750 gold invoice for the *'Simulation Setup Costs.'*
 
 Vorne stared at the paper. "This is blackmail."
 
@@ -105,7 +105,14 @@ Hundreds of goblins, kobolds, and slimes poked their heads out of tunnels.
 
 "Flowers!" Sniv saluted. "On it!"
 
-The dungeon exploded into activity. It was chaotic, frantic, and beautiful.
+The dungeon exploded into activity. It was chaotic, frantic, and—by any operational metric—impressive.
+
+> **[ARMI]**
+> **Project Sparkle: INITIATED**
+> **T-Minus**: 3h 00m to VIP Arrival
+> **Active Units**: 47 Sanitation Slimes, 12 Kobold Masons, 3 Enchantment Crews
+> **Estimated Completion**: T-Minus 0h 30m
+> **Status**: ON SCHEDULE
 
 Victor watched as a team of slimes dissolved a pile of broken masonry.
 He watched as kobolds used earth magic to fuse the cracked floor tiles.
@@ -164,7 +171,7 @@ Aldric smiled. It was a charming, practiced smile. "And you must be the Manager.
 
 "Do you?" Aldric stepped closer. "My advisors tell me you are a threat to the economic stability of the realm. A rogue element."
 
-"Innovation often looks like a threat to the established order," Victor parried.
+"Disruption is the cost of undervaluing market potential," Victor parried. "You can tax it, or you can miss it entirely."
 
 Aldric laughed. "True. Very true."
 
@@ -206,7 +213,6 @@ Aurelia didn't move. She stared at Victor.
 "We shall see," she said.
 
 **Status**: The VIP has arrived. And he brought the Inquisition.
-
 
 ---
 
