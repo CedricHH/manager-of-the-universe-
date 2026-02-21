@@ -7,7 +7,7 @@ The next moment, there was a rectangle of blinding white light, and the door was
 
 High Priestess Aurelia lowered her staff. The tip was smoking, smelling of ozone and ozone-burned iron.
 
-"Behold," she whispered, her voice carrying over the ringing in Victor's ears. "The heart of the cancer."
+"Behold," she whispered, her voice carrying over the ringing in Victor's ears. "The root of the infection."
 
 She stepped through the smoking frame.
 
@@ -86,7 +86,7 @@ The Prince sighed. He stepped forward, placing himself between Aurelia and Victo
 
 Aurelia’s eyes widened. "Your Highness? You defend *this*? It is a World Core! It consumes reality to grow! It is the enemy of the Gods!"
 
-"It is a Royal Asset," Aldric corrected coldly. "Mr. Kaine and I have just concluded a verbal contract. This facility operates under a Provisional Charter of the Crown."
+"It is a Royal Asset," Aldric corrected coldly. "Mr. Kaine and I have just agreed to a binding Revenue-Sharing Charter. This facility operates under the direct financial protection of the Crown."
 
 "A Charter cannot supersede the Faith!" Aurelia screamed. The sun-fire flared, hot enough to singe the ends of Victor's hair. "This is Treason against the Light!"
 
@@ -103,19 +103,46 @@ Victor waited to be vaporized.
 Then, with a scream of frustration, Aurelia slammed her staff into the stone floor.
 *CRACK.*
 
-The sun-fire dissipated in a wave of heat that blew Victor's tie over his shoulder.
-The floor beneath her staff fractured, a spiderweb of cracks spreading toward the pit.
+The sun-fire dissipated in a wave of concussive heat that blew Victor's tie over his shoulder and sent Aldric stumbling back a step.
+The floor beneath her staff fractured, a spiderweb of cracks spreading toward the pit. The sheer kinetic force of the canceled spell made the air taste like burnt copper.
 
-"You have doomed us," Aurelia whispered. "You have sold the kingdom for gold."
+The Royal Guards didn't just shift this time—three swords cleared their scabbards with a coordinated *shing*. They formed a protective triangle around the Prince, leveling their blades at the High Priestess.
 
-"We call it 'Economic Stimulus'," Aldric said, smoothing his hair. "Now, shall we return to the surface? All this holiness is making me thirsty."
+Victor watched the political fracture in real-time. Church versus State, happening in his basement.
+
+> **[ARMI - PSYCHOLOGICAL PROFILE]**
+> **Target**: High Priestess Aurelia
+> **Mana Reserves**: 88% (Spiking)
+> **Stress Level**: Critical.
+> **Current Dilemma**: Heresy vs. Treason.
+> **Note**: Subject has chosen political survival over immediate theological mandate.
+
+"You have doomed us," Aurelia whispered, her knuckles white on her staff. She glared at Aldric with a mix of pity and absolute disgust. "You have sold the kingdom for gold."
+
+"We call it 'Economic Stimulus'," Aldric said, smoothing his hair though his breathing was noticeably faster. He waved the guards down. "Sheathy your weapons, boys. The Priestess was just testing the structural integrity of the... asset. Weren't you, Aurelia?"
+
+Aurelia didn't answer. She turned her back on the Core and marched toward the missing door frame.
+
+"Now," Aldric said, his voice regaining its casual lilt, "shall we return to the surface? All this holiness is making me incredibly thirsty."
 
 ***
 
-**The Departure**
+**The Walk Back**
 
-Ten minutes later, the Royal Carriage was ready to depart.
-The lobby had been mostly restored, though the smell of ozone lingered.
+They didn't speak on the way up.
+
+It was a long ascent through the management corridors. The silence was thick, heavy, and extremely dangerous.
+Victor walked slightly behind the Prince, keeping his ARMI interface active. He was running fifty different projections, and forty-two of them ended with the Church of Eternal Light declaring a holy crusade against Oakhaven by next Tuesday.
+
+As they passed through Floor 1, the goblin crews and slime-herders stopped working. They felt it. The sheer, suffocating pressure of Aurelia's restrained fury.
+
+Sniv, who had been organizing a pile of iron ore, took one look at the High Priestess's face and actively dove into a wooden crate, pulling the lid shut over his head.
+
+Asterion stood by the lobby doors. The Minotaur didn't move, but his hand rested casually on the haft of his Nether-Axe. He gave Victor a questioning look—*Do we fight?*
+
+Victor shook his head firmly. *No.*
+
+They reached the lobby. Outside, the Royal Carriage was waiting, exactly as they had left it. The Footmen scrambled to open the doors.
 
 Aldric leaned out of the carriage window. He held a scroll—the hastily drafted Charter, signed in Victor's office.
 
@@ -153,7 +180,7 @@ She didn't finish the sentence. She didn't have to.
 
 She turned and began the long walk down the mountain path, alone.
 
-Victor watched her go. His hands were shaking. Just a little.
+Victor watched her go. Adrenaline flooded his system, an inefficient biological response to surviving a zero-percent probability event. He forced his breathing to slow, deliberately suppressing the micro-tremor in his hands.
 
 "Boss?" Sniv tugged at his pants. "The Scary Lady marked our door. Is that bad?"
 
@@ -175,7 +202,6 @@ He had a Royal License. And a Divine Death Mark.
 > **Current Threats**: Church of Eternal Light (Active), Kingdom Debt (Looming).
 
 **Status**: Still in business.
-
 
 ---
 

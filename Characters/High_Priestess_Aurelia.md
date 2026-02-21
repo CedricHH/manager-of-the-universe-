@@ -126,6 +126,17 @@ Church Miracle Supply sichern, Archbishop-Leverage eliminieren, political Surviv
 - ARMI Alert: **Exposure Probability 99%** — was raising a Bunker-Buster spell when Victor intervened
 - **Status**: Chapter ends with staff raised, about to breach the World Core chamber — cliffhanger
 
+**Kapitel 58 - The Core Standoff & The Mark**:
+
+- Breached the Core Room and verified Nova was an unshackled **World Core**.
+- Prepared a Level 9 [Solar Flare] to destroy it, citing the "First Edict" and calling it a parasite/cancer.
+- Was forced to stand down when Prince Aldric intervened out of financial greed, ordering Royal Guards to draw weapons on her.
+- Chose political survival over her theological mandate (ARMI noted her mana was at 88% and spiking, but she backed down).
+- Burned the floor with her canceled spell in frustration.
+- Left Insolvia but placed a permanent **[MARK OF THE WATCHER]** sigil above the entrance.
+- **Result**: A Paladin of the Eternal Light will now be stationed permanently outside the dungeon to audit "corruption."
+- Warned Victor that Aldric's protection is mortal and she will be waiting for him to slip.
+
 **Kapitel 91-95 - Coalition Crisis**: Church Paladins detained Victor für "unauthorized Miracle Trading"; Aurelia sah Opportunity; Partnership Negotiations began
 
 **Kapitel 96 - The Cathedral**:

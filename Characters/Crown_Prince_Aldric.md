@@ -51,6 +51,8 @@
 
 - **Kapitel 57 - The Deal**: Separated Victor from the group for a private conversation. Led with: "My father is broke." Revealed the Kingdom is asset-rich, cash-poor (wars, Church tithes, Guild monopoly fees). Counter-proposed 20% consulting fee (Victor held at 15% + enchanted armor). **DEAL STRUCK**: 15% "Consulting Fee" direct deposit to Aldric, discretionary — in exchange for a **Royal Charter granting Insolvia 'Provisional Status'** that overrides the Guild's injunction. Promised to manage Aurelia.
 
+- **Kapitel 58 - The Divine Audit**: Stuck to his deal when Aurelia discovered the World Core. Despite the theological horror of a World Core, Aldric protected it specifically because Victor framed it as the "engine" generating his 5,000 GP/month. Ordered his Royal Guards to draw swords on the High Priestess to protect the asset. Left with the signed Charter, warning Victor: "My protection is expensive."
+
 ---
 
 **Version**: 1.0  
