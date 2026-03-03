@@ -23,19 +23,20 @@ from ebooklib import epub
 # ============================================================================
 
 DEFAULT_CONFIG = {
-    'base_path': r"g:\Meine Ablage\EBOOKS\Eigenes Buch",
-    'input_file': "Resonanz_Der_naechste_Zyklus_Manuskript1-14.md",
-    'cover_file': "Cover.png",
-    'output_file': "Resonanz_Der_naechste_Zyklus.epub",
-    'teaser_file': "Story/Prequel/Teaser.md",  # Relative to base_path
+    'base_path': r"G:\Meine Ablage\EBOOKS\Der Manager des Universums",
+    'input_file': "Manager_of_Universe_Arc1_Manuscript.md",
+    'cover_file': "Concept/Cover_V3_Final.png",
+    'output_file': "Manager_of_Universe_Arc1.epub",
+    'teaser_file': "Story/Teaser.md",  # Relative to base_path
     
     # Book Metadata
-    'book_title': 'RESONANZ: Der nächste Zyklus',
-    'book_author': 'Dr. Cedric Hawk Hinrichs',
-    'book_author_address': 'Scharpenmoor 16\n22848 Norderstedt',
-    'book_language': 'de',
-    'book_id': 'id-resonanz-001',
+    'book_title': 'The Manager of the Universe: Arc 1',
+    'book_author': 'First Spring',
+    'book_author_address': '',  # Can be left empty
+    'book_language': 'en',
+    'book_id': 'id-manager-universe-arc1',
 }
+
 
 # ============================================================================
 # FUNCTIONS
@@ -99,43 +100,44 @@ def convert_to_epub(config):
     content = re.sub(r'\\newpage', '', content)
     content = re.sub(r'<div.*?></div>', '', content)
 
-    # 4. Split into chapters
-    parts = re.split(r'\n(?=# Kapitel)', content)
+    # 4. Split into chapters - Updated to recognize "# Chapter" pattern
+    parts = re.split(r'\n(?=# Chapter \d+)', content)
 
     chapters = []
     
     # Process Preamble (Title page)
     preamble = parts[0]
     if preamble.strip():
-        c0 = epub.EpubHtml(title='Titel', file_name='title.xhtml', lang='de')
+        c0 = epub.EpubHtml(title='Title Page', file_name='title.xhtml', lang='en')
         c0.content = markdown.markdown(preamble)
         book.add_item(c0)
         chapters.append(c0)
 
-    # Add Klappentext (Teaser) Page - visible in the book
-    klappentext_html = book_description.replace('\n\n', '</p><p>').replace('\n', '<br/>')
-    klappentext_content = f"""
-    <h1>Klappentext</h1>
-    <p><em>{klappentext_html}</em></p>
+    # Add Description Page - visible in the book
+    description_html = book_description.replace('\n\n', '</p><p>').replace('\n', '<br/>')
+    description_content = f"""
+    <h1>Description</h1>
+    <p><em>{description_html}</em></p>
     """
-    c_klappen = epub.EpubHtml(title='Klappentext', file_name='klappentext.xhtml', lang='de')
-    c_klappen.content = klappentext_content
-    book.add_item(c_klappen)
-    chapters.append(c_klappen)
+    c_desc = epub.EpubHtml(title='Description', file_name='description.xhtml', lang='en')
+    c_desc.content = description_content
+    book.add_item(c_desc)
+    chapters.append(c_desc)
 
-    # Add Impressum Page
-    address_html = config['book_author_address'].replace('\n', '<br/>')
-    impressum_content = f"""
-    <h1>Impressum</h1>
-    <p><strong>Autor:</strong><br/>
-    {config['book_author']}<br/>
-    {address_html}</p>
-    <p>Manuskript - Stand: 01.01.2026</p>
-    """
-    c_impr = epub.EpubHtml(title='Impressum', file_name='impressum.xhtml', lang='de')
-    c_impr.content = impressum_content
-    book.add_item(c_impr)
-    chapters.append(c_impr)
+    # Add Impressum Page (if author address is provided)
+    if config['book_author_address']:
+        address_html = config['book_author_address'].replace('\n', '<br/>')
+        impressum_content = f"""
+        <h1>Credits</h1>
+        <p><strong>Author:</strong><br/>
+        {config['book_author']}<br/>
+        {address_html}</p>
+        <p>Manuscript - Version: {datetime.now().strftime('%Y-%m-%d')}</p>
+        """
+        c_impr = epub.EpubHtml(title='Credits', file_name='credits.xhtml', lang='en')
+        c_impr.content = impressum_content
+        book.add_item(c_impr)
+        chapters.append(c_impr)
 
     # Process Chapters
     for i, part in enumerate(parts[1:], 1):
@@ -145,12 +147,13 @@ def convert_to_epub(config):
         lines = part.strip().split('\n')
         title_line = lines[0].replace('#', '').strip()
         
-        c = epub.EpubHtml(title=title_line, file_name=f'chap_{i}.xhtml', lang='de')
+        c = epub.EpubHtml(title=title_line, file_name=f'chap_{i:03d}.xhtml', lang='en')
         html_content = markdown.markdown(part)
         c.content = html_content
         
         book.add_item(c)
         chapters.append(c)
+        print(f"Added chapter: {title_line}")
 
     # 5. Table of Contents
     book.toc = tuple(chapters)

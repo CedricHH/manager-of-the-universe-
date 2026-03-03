@@ -1,30 +1,37 @@
 import os
-from datetime import datetime
 import re
+from datetime import datetime
+import glob
 
 # Configuration
-base_path = r"g:\Meine Ablage\EBOOKS\Eigenes Buch\Story\Chapters"
-output_path = r"g:\Meine Ablage\EBOOKS\Eigenes Buch\Resonanz_Der_naechste_Zyklus_Manuskript.md"
+base_path = r"G:\Meine Ablage\EBOOKS\Der Manager des Universums\Story\Chapters"
+output_path = r"G:\Meine Ablage\EBOOKS\Der Manager des Universums\Manager_of_Universe_Arc1_Manuscript.md"
 
-book_title = "RESONANZ"
-subtitle = "Der nächste Zyklus"
+book_title = "THE MANAGER OF THE UNIVERSE"
+subtitle = "Arc 1: Dead Capital"
 
-chapter_files = [
-    "Kapitel_01_Volkov.md",
-    "Kapitel_02_Die_scheiternde_Klimakonferenz.md",
-    "Kapitel_03_Chen.md",
-    "Kapitel_04_Kaia.md",
-    "Kapitel_05_Amara.md",
-    "Kapitel_06_Nyx.md",
-    "Kapitel_07_Tanaka.md",
-    "Kapitel_08_Der_Weg_durch_die_Wueste.md",
-    "Kapitel_09_Yara.md",
-    "Kapitel_10_Mandla.md",
-    "Kapitel_11_Rebecca.md",
-    "Kapitel_12_Mei.md",
-    "Kapitel_13_Weber.md",
-    "Kapitel_14_Lucas.md"
-]
+# Auto-discover chapters 1-100
+def get_chapter_files():
+    """Automatically find all Chapter_XX_*.md files for chapters 1-100"""
+    all_files = glob.glob(os.path.join(base_path, "Chapter_*.md"))
+    chapter_pattern = re.compile(r'Chapter_(\d+)_.*\.md')
+    
+    chapters = []
+    for filepath in all_files:
+        filename = os.path.basename(filepath)
+        match = chapter_pattern.match(filename)
+        if match:
+            chapter_num = int(match.group(1))
+            if 1 <= chapter_num <= 100:  # Only include chapters 1-100
+                chapters.append((chapter_num, filename))
+    
+    # Sort by chapter number
+    chapters.sort(key=lambda x: x[0])
+    return [filename for _, filename in chapters]
+
+chapter_files = get_chapter_files()
+print(f"Found {len(chapter_files)} chapters to include in manuscript")
+
 
 def clean_chapter_content(content):
     lines = content.splitlines()

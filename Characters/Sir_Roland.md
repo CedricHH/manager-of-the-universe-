@@ -20,7 +20,7 @@
 
 ## Hintergrund
 
-Stationed by Aurelia to watch Dungeon. "Aura of Truth" blocks criminals. Victor rebranded him as "Security Feature". Inspects equipment ("Gravity Shoot").
+Stationed by Aurelia to watch Dungeon. "Aura of Truth" blocks criminals. Victor rebranded him as "Security Feature". Inspects equipment ("Gravity Chute").
 
 ---
 

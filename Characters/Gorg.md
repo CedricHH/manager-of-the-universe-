@@ -15,7 +15,7 @@
 | **Spezies** | Giant Ape (15 Feet) |
 | **Position** | Floor 4 Boss |
 | **Bezahlung** | Unlimited Bananas + 10% Kill Bonus + Dental |
-| **Erstauftritt** | Kapitel 64 |
+| **Erstauftritt** | Kapitel 61 |
 
 ---
 

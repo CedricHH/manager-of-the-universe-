@@ -57,7 +57,7 @@ The dungeon fades.
 
 ### Beat 3: FLASHBACK - The Boardroom (3 Years Ago)
 
-**Setting**: Kaine Industries, 47th Floor.
+**Setting**: Mid-West Logistics, 47th Floor.
 Glass walls. Manhattan skyline.
 Victor sits at the head of the table.
 

@@ -57,7 +57,14 @@
 
 - **The Sin**: Victor struggles, fails, or relies on luck.
 - **The Standard**: Victor outsmarts opponents, exploits systems, demonstrates superiority.
-- **Test**: Did Victor DO something clever in this chapter?
+
+> **Test**: Did Victor DO something clever in this chapter?
+
+### 7. Grounded World Reaction (The Straight Man Rule)
+
+- **The Sin**: The world bends to fit the joke (e.g., goblins using calculators, knights making pop-culture references).
+- **The Standard**: The world reacts with confusion, fear, or anger to Victor's corporate methods. If you removed Victor, would this scene still work as a serious fantasy scene? (It MUST).
+- **Test**: Does the antagonist treat Victor as a terrifying madman/genius, or as a comedian? They should be terrified.
 
 ---
 
@@ -108,6 +115,8 @@ If ANY of these appear, the chapter requires revision:
 
 - [ ] No cliffhanger at the end
 - [ ] Victor acts heroically or emotionally
+- [ ] The world breaks character (High Fantasy becomes parody without Victor's input)
+
 - [ ] No ARMI system messages
 - [ ] First paragraph is boring/descriptive
 - [ ] Chapter exceeds 1,800 words (too long for mobile)

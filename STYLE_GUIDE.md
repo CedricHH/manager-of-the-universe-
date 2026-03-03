@@ -77,7 +77,7 @@ Bitter, sarcastic, trapped.
 | Character | Worldview | Sees Victor As |
 |-----------|-----------|----------------|
 | **Victor** | Everything is a transaction | The only sane person |
-| **Sniv** | Survival through service; the strong rule | A god who feeds him |
+| **Sniv** | Survival through service; the strong rule | An unconventional master who feeds him |
 | **Asterion** | Existence needs purpose; order brings peace | A strange master, but one who explains "why" |
 | **Lyra** | Justice exists; institutions fail it | A monster—but an honest one |
 | **Elara** | Loyalty is a liability, integrity is an asset | A calculated risk |
@@ -97,6 +97,15 @@ When Victor sees it: *undervalued real estate*.
 > Victor: "That's what I said."
 > Asterion: "...They were adventurers. They chose this."
 > Sniv: "Sniv processed the corpses efficiently! Praise for Sniv?"
+
+### The Law of Grounded Fantasy (MANDATORY)
+
+The world (NPCs, politics, magic system) must take itself SERIOUSLY. The absurdity comes ONLY from Victor's reinterpretation.
+
+- **DO**: Have the Merchant Guild behave like a ruthless medieval monopoly.
+- **DON'T**: Have the Guild Master use modern terms like "Q4 projections" or wear a tie.
+- **DO**: Have Victor *call* it "Q4 projections" in his head.
+- **The Joke**: The world is a gritty fantasy novel. Victor is the only one reading it as a corporate spreadsheet.
 
 ## 4. System Messages (ARMI)
 

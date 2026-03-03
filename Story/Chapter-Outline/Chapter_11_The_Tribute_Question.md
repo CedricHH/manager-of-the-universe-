@@ -9,6 +9,7 @@
 ## Previously
 
 Chapter 10 ended with:
+
 - Asterion's imp demanding "Tribute" (Food, Wealth, or Souls)
 - 3-day deadline
 - Victor realizing Asterion is treating him like a subordinate
@@ -26,6 +27,7 @@ He explains the situation.
 ### Beat 2: Options Analysis
 
 Victor lists the options:
+
 1. **Pay** (Food/Gold): Lose resources, appear weak
 2. **Fight** (Souls): Die (Asterion is Lv 25)
 3. **Flee** (Abandon dungeon): Start over with nothing
@@ -43,6 +45,7 @@ Victor shakes his head.
 
 Victor sends scouts (the sneakiest goblins) to observe Floor 4.
 They report:
+
 - Asterion paces his chamber alone
 - He talks to himself
 - He seems... bored
@@ -98,6 +101,12 @@ That means Victor stops hiding.
 
 Sniv's eyes go wide.
 > "The... outside?"
+
+---
+
+## Deviations
+
+- **Board Composition**: Actual board consists of Sniv + 3 leads (Food, Guard, Labor) to align with Chapter 6 departmental structure, rather than 4 leads plus Sniv.
 
 ---
 

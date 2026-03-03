@@ -24,6 +24,7 @@ Behind the door lay a void. A massive, empty cavern waiting for a biome.
 
 > **[ARMI]**
 > **Available Biomes**:
+>
 > 1. **The Fungal Depths** (Low Cost, Poison Damage).
 > 2. **The Lava Pits** (High Cost, High Lethality).
 > 3. **The Crystal Caverns** (Medium Cost, Magic Focus).
@@ -124,7 +125,7 @@ Roland stood up slowly. "I will allow it. But I am logging a citation for 'Reckl
 
 "Fair," Victor accepted. "Now, can we let the customers in?"
 
-Victor installed the "Gravity Shoots" (basically polished stone slides). Adventurers could now bypass Floors 1-3 and slide directly to the Jungle.
+Victor installed the "Gravity Chutes" (basically polished stone slides). Adventurers could now bypass Floors 1-3 and slide directly to the Jungle.
 
 "Who wants to slide to the Jungle?" Victor announced to the crowd. "Express lane to High-Level Loot! No waiting!"
 
@@ -209,7 +210,7 @@ The Bank hadn't just given him money. They had embedded a tracking spell. A *liv
 
 "A financial parasite," Victor realized. "Literally."
 
-The mosquitoes weren't just monitoring the yield. They were *skimming* it. Every bit of mana they ate was a fraction of a percent of interest, being physically extracted from the dungeon's ecosystem.
+The mosquitoes weren't just monitoring the yield. They were *skimming* it. Every bit of mana they ate was a fraction of a percent of interest, being physically extracted from the dungeon's ecosystem. The Bank's auditors weren't men in suits; they were autonomous biological collection agents, engineered to bleed his profit margins dry without ever needing to file a proper audit report.
 
 "Valerius," Victor said sharply. "Get the fly swatter."
 
@@ -218,7 +219,6 @@ The mosquitoes weren't just monitoring the yield. They were *skimming* it. Every
 "The *enchanted* one."
 
 **Status**: The Dungeon is profitable. But the Bank has bugs.
-
 
 ---
 
