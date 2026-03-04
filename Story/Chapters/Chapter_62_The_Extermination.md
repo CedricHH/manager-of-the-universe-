@@ -150,6 +150,7 @@ Thirty minutes later, Sir Roland stood in the workshop, reading the document Vic
 **Statute**: Magical Pest Control Act of 1447, Section 12
 
 **Relief Requested**:
+
 - Authorization to relocate invasive magical species to designated containment zone
 - Waiver of liability for any "incidental disruption" to third-party monitoring systems
 - 72-hour compliance window per standard procedure
@@ -247,6 +248,7 @@ Your complaint has been reviewed.
 The "Financial Monitoring Sprites" were installed per standard operating procedure. However, we acknowledge certain... *territorial compliance issues*.
 
 Proposal accepted:
+
 - 80% sprite recall (effective immediately)
 - Remaining sprites: monitoring only, no extraction
 - First quarter compound interest: **waived** (500 GP credit applied)
@@ -293,7 +295,10 @@ The mosquito inside shimmered. And in its abdomen, beneath the self-destruct cor
 
 A tiny, crystallized mana fragment.
 
-Worth approximately 5 GP.
+> **[ARMI]**
+> **Item**: Golden Mosquito Core
+> **Type**: Mana Battery / Regulators
+> **Estimated Market Value**: 5 GP
 
 Victor did the math.
 

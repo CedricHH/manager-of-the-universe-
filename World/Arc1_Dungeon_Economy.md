@@ -82,6 +82,7 @@ Instead of spawning monsters to die:
 - **Non-Aggression Pacts**: Established with Alpha Rat (Floor 2). Cost: 1 Slime Jelly/day. ROI: Safe passage for foraging teams.
 - **Slime Jelly**: Edible food resource secured via "Funnel Tech" (Ch 5).
 - **Automated Production (Dungeon Synthesis)**: The Dungeon Core (Nova) utilizes dungeon resources (Slime cores, Fungal extracts, Spring water) to synthesize consumables directly, bypassing external alchemists for early-stage market entry (Ch 34, 39).
+- **Asset Cultivation**: Captured Bank surveillance sprites (Golden Mosquitoes) repurposed into farmed mana batteries worth 5 GP each (Ch 62).
 - Adventurers become **customers** (pay to leave alive)
 - Death becomes **optional revenue**, not primary income
 
